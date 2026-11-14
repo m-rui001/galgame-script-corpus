@@ -7116,7 +7116,7 @@ Shimei: "Let's get down to business."
 *Even by evening, I still haven't made much progress on the papers.*
 Shimei: "Ugh, I'm exhausted..."
 *The office built into the dorm, fully equipped with food, clothing, and shelter, must have been made for this exact situation.*
-*The whole setup screams "don't sleep⁠—get back to work".*
+*The whole setup screams "don't sleep—get back to work".*
 Sakura: "Why don't you go ahead and take a break for today?"
 Shimei: "Even if you say that... This will only get bigger tomorrow."
 Sakura: "It will. You really get it."
@@ -8344,7 +8344,7 @@ Sakura: "...Lost?"
 Kagetora: "Shimei got me in a similar fashion before."
 Kagetora: "Sakura, you gave the same answer as him."
 Sakura: "I did...?"
-Kagetora: "The balance of power, the Toyama's position, the Ooka name⁠—need be of little concern to you."
+Kagetora: "The balance of power, the Toyama's position, the Ooka name—need be of little concern to you."
 Kagetora: "You shall choose your path from here on out without asking me. Okay?"
 Sakura: "...Yes!"
 Saito: "And the opening of Nakamachi is a lie, so don't worry about it."
@@ -15906,7 +15906,6 @@ Shimei: "Is... this true...?"
 Yamanami: "What? I already told you..."
 *　*
 *　*
-*　*
 Yamanami: "...No way."
 *The incident in the paper...*
 *Is not the murder from last night.*
@@ -15921,7 +15920,6 @@ Shimei: "..."
 Yamanami: "...This has to be some..."
 *...To be executed.*
 Yamanami: "...Mistake..."
-*　*
 *　*
 *　*
 Suzu: "Shimei, Ayaka. What's wrong?"
@@ -15947,7 +15945,6 @@ Shimei: "And if you go back..."
 *...She'll be arrested.*
 Yamanami: "You two... Stay here..."
 Shimei: "Yamanami-san...!"
-*...*
 *...*
 *...*
 Suzu: "Hey, Ayaka. Where are you going?"
@@ -16534,13 +16531,10 @@ Suzu: "...I... Ayaka, Shi...mei..."
 Suzu: "......I love you soooo much..."
 *　*
 *　*
-*　*
 Yamanami: "Suzu...-chan...?"
 *　*
 *　*
-*　*
 Yamanami: "Hey... Suzu-chan..."
-*　*
 *　*
 *　*
 *She looks like she's sleeping.*

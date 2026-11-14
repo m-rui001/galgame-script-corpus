@@ -1,4 +1,4 @@
-﻿chapter5_0|苔の花
+chapter5_0|苔の花
 narrator:部屋に戻ってかやりの制服のタイを留めてやる。
 (scene change)
 narrator:最後に帽子もかぶせてやる。

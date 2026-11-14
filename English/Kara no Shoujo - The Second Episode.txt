@@ -22177,9 +22177,6 @@ Yu: "It'll be cold again tonight, so make sure your room's warm enough."
 *Is there a possibility that these two were mixed up somehow...?*
 *Translation Missing*
 *Translation Missing*
-*Translation Missing*
-*Translation Missing*
-*Translation Missing*
 
 ====================05c_1229_04end.txt====================
 *...I'm in a deep sleep.*
@@ -28465,7 +28462,6 @@ Reiji: "I apologize. Anyway... You have a good evening."
 *Drops of blood fall to the floor.*
 *When I see them... I come back to myself.*
 *I fly out of the shop, running.*
-*No.*
 *No.*
 *No.*
 *I didn't mean for this to happen.*

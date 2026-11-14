@@ -23,7 +23,6 @@
 *──Run.*
 *Run.*
 *Run.*
-*Run.*
 *The thing behind me. It's an infinite darkness, something which shouldn't be possible.*
 *If the darkness catches me, it'll kill me. "That" is waiting to kill me.*
 *No one can go against "that" or its fangs. Not as it both lies in wait and chases you from the darkness.*
@@ -1993,7 +1992,6 @@ Mary: "Ha! Haa! Ha......! Haaa......!"
 *──Run.*
 *Run.*
 *Run.*
-*Run.*
 *The thing behind me. It's an infinite darkness, something which shouldn't be possible.*
 *If the darkness catches me, it'll kill me. "That" is waiting to kill me.*
 *No one can go against "that" or its fangs. Not as it both lies in wait and chases you from the darkness.*
@@ -3881,7 +3879,6 @@ Mary: "That's four......"
 *──Run.*
 *Run.*
 *Run.*
-*Run.*
 *It closes in on me. I can tell it's trying to catch up to me, to tear apart my windpipe with those sharp fangs.*
 *As if I would let it. I run.*
 *Then I noticed. My legs were much shorter than they should have been. Yes, that's right, I've gone back to being a young boy.*
@@ -5625,7 +5622,6 @@ Angie: "Eh? You're going alone? "
 *She ran through the alley──*
 *Running.*
 *Running.*
-*Running.*
 *──It's here. It's here. It's here! ──By now I can feel it so much it hurts.*
 *──Another monster, just like "that" and its two bodies. ──I can tell it's behind me.*
 *She was lucky no one else was in the alley. If she'd been in the Square Mile, there could have been orphans like Keynes and Henri still running around.*
@@ -6808,7 +6804,6 @@ Mary: "I'll be fine. Don't worry, Viola."
 *She ran through the alley──*
 *Running.*
 *Running.*
-*Running.*
 *And then──*
 “......i......”
 “......it...hu......”
@@ -7641,7 +7636,6 @@ Mary: "That's four......
 *However, there's nobody here besides me.*
 *I'm running. I'm searching for that irreplaceable person, and at the same time running away from what's approaching me.*
 *──Run.*
-*Run.*
 *Run.*
 *Run.*
 *That which approaches from somewhere. The fearsome darkness trying to suck me up.*
@@ -10451,7 +10445,6 @@ Bram: "......my «Metacreature» has already changed. It can't be stopped now."
 *She ran through the alley──*
 *Running.*
 *Running.*
-*Running.*
 *──It's here. It's here. It's here! ──I can tell it's the same presence as last night.*
 *──Another monster, just like "that" and its four bodies. ──I can tell it's behind me.*
 *She made sure there was no one in the alley. Not a single street child. There was no one here.*
@@ -12512,7 +12505,6 @@ Jane: "......does the kitty need some discipline? She seems like quite the tombo
 *──Run.*
 *Run.*
 *Run.*
-*Run.*
 *It closes in on me. I can tell it's trying to catch up to me, to make my heart sink between its four slimy limbs.*
 *I continue running through the darkness. While shaking from the unceasing pain of being torn apart. Why? Why? Why?*
 *I should have sunk all my fear to the bottom of my heart. It aches. It hurts. It hurts. It hurts.*
@@ -14109,7 +14101,6 @@ Elly: "Come back soon. Please......"
 Mary: "Yes, I promise."
 *She kissed Elly's small forehead. Mary opened the door──*
 *And ran along the shore──*
-*She ran.*
 *She ran.*
 *She ran.*
 *──It's here. It's here. It's here! ──It's the same presence as before.*
@@ -18914,7 +18905,6 @@ Mary: "I know you can hear me, M......!"
 *There was no answer. There was no answer. There was just one thing she could hear.*
 *Tick-tock.*
 *Tick-tock.*
-*Tick-tock.*
 *Something she couldn't hear before running. It reached her ears now.*
 *It was a machine going tick-tock. Like the second hand of a clock.*
 *──Suddenly, I notice. ──The Engine Phone in my pocket.*
@@ -18924,7 +18914,6 @@ Mary: "I know you can hear me, M......!"
 *──I look at the same four gauges as usual. ──They're moving. ──Again, numbers.*
 *──They were different from usual. ──Only one of them was moving.*
 *──Only one of the gauges. ──And it's making a faint sound.*
-*Tick-tock.*
 *Tick-tock.*
 *Tick-tock.*
 *──One something. ──Is it a sound, a voice, a scream, or a shout?*
@@ -18958,7 +18947,6 @@ Mary: "I'll be right there."
 *Mary looked at her Engine Phone. Without stopping.*
 *Tick-tock.*
 *Tick-tock.*
-*Tick-tock.*
 *The number fell each time she took a step, telling her she was heading in the right direction.*
 *She ran. She could run.*
 *At some point the things in her right eye's vision changed. There was──*
@@ -18981,27 +18969,20 @@ Mary: "......only...twenty more......"
 Mary: "......twelve......"
 *Tick-tock.*
 *Tick-tock.*
-*Tick-tock.*
 *She still couldn't hear it. No sounds. No voices. No shouts. No screams.*
 Mary: "......nine......"
-*Tick-tock.*
 *Tick-tock.*
 *Tick-tock.*
 *She still couldn't hear it. No sounds. No voices. No shouts. No screams.*
 Mary: "......six......"
 *Tick-tock.*
 *Tick-tock.*
-*Tick-tock.*
 *She still couldn't hear it. No sounds. No voices. No shouts. No screams.*
 Mary: "......three......"
 *Tick-tock.*
 *Tick-tock.*
-*Tick-tock.*
 *She still couldn't hear it. No sounds. No voices. No shouts. No screams.*
 Mary: "......zero."
-*Tick-tock.*
-*Tick-tock.*
-*Tick-tock.*
 *Tick-tock.*
 *Tick-tock.*
 *Tick-*
@@ -19146,7 +19127,6 @@ Moran: "......from...that...throne......"
 “......silence.”
 *She ran.*
 *She ran.*
-*She ran.*
 *Mary ran alone. Through the darkness.*
 *She had no sense of time. Of course she didn't. Time didn't exist here.*
 *Now that her Engine Phone gauge had stopped moving, the only sounds were those Mary herself produced. Sounds of rustling clothes. Sounds of breathing.*
@@ -19157,11 +19137,9 @@ Moran: "......from...that...throne......"
 *──Everyone has been locked up in Sharnoth. ──How does that make you feel?*
 *She ran.*
 *She ran.*
-*She ran.*
 *She continued running through the endless black spiral. Within the black where she couldn't distinguish up from down. She desperately continued in the direction she believed was forwards.*
 *The golden eye──*
 *Right now, Mary couldn't close her own right eye. But it told her where to go. Where the path was.*
-*Forwards.*
 *Forwards.*
 *Forwards.*
 *──A black castle. ──She said you're in there.*
@@ -19194,7 +19172,6 @@ Mary: "......this...voice......"
 “It's meaningless.”
 *A voice.*
 *A voice.*
-*A voice.*
 Mary: "......Professor...Čapek......"
 *A person who should have disappeared. A person who should have talked with Charlie. There was no one here, and yet, why?*
 “You should give up.”
@@ -19202,7 +19179,6 @@ Mary: "......Professor...Čapek......"
 *A voice echoed inside her head. From a different direction.*
 Mary: "......who is it...this time......?"
 “Struggling will change nothing.”
-*A voice.*
 *A voice.*
 *A voice.*
 Mary: "......Mr...Churchill......?"
@@ -19215,7 +19191,6 @@ Mary: "......it's you......"
 “This is the end.”
 *A voice.*
 *A voice.*
-*A voice.*
 Mary: "......Mr...Bram......"
 *A person who'd wished for something. A person who gave birth to a monster of stone as he yearned for the golden eye. There was no one here, and yet, why?*
 “I've given up.”
@@ -19224,7 +19199,6 @@ Mary: "......Mr...Bram......"
 *Of course she'd wanted to hear this voice again. She had wanted to.*
 Mary: "......Jane......"
 “And you......”
-*A voice.*
 *A voice.*
 *A voice.*
 Mary: "......I......"

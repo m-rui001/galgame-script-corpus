@@ -1,4 +1,4 @@
-﻿Sophitia: "Why, good afternoon. Or perhaps, good evening?"
+Sophitia: "Why, good afternoon. Or perhaps, good evening?"
 Sophitia: "I suppose it's Kakeru's World's Eye being imperfect that's to blame. It's quite hard trying to find you. I'm glad that I was able to safely open a connection again."
 Sophitia: "Just a moment ago—well, it might not be a moment ago to you, but... Oh well, the minor details aren't really important."
 Sophitia: "I know I said our conversation was over, but before you leap headlong into meddling with fate, there is something that I need to confirm with you."
@@ -8553,7 +8553,7 @@ Noa: "..."
 *That's what she said.*
 *So, don't tell me she's... It can't be!*
 Iris: "Hehe. I presume you've figured it out? Yes, that's right."
-Iris: "Consider me grateful. Thank you, Kakeru." 
+Iris: "Consider me grateful. Thank you, Kakeru."
 Iris: "For teaching me about the existence of Overlord, that is."
 Iris: "I thought that the magic to control destiny was but a mere fairytale. It was so preposterous that I had no desire to research it, but if it actually did exist, then that's a different story."
 Iris: "Artifacts are manmade. Overlord is no exception."
@@ -8681,7 +8681,6 @@ Sora: "Hey, Kakeru! I'm back with the goods."
 Sora: "Here's the bandage."
 Kakeru: "Oh, than—"
 ================================================================================
-Kakeru: "..."
 Kakeru: "..."
 Kakeru: "..."
 Satsuki: "Hey, I'm coming in, okay?"

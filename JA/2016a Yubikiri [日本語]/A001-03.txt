@@ -1,4 +1,4 @@
-﻿chapter3_2|やくそく
+chapter3_2|やくそく
 heroine:「……やっぱりもうちょっといたい」
 (scene change)
 narrator:すずかは家を出てすぐの共有廊下で座り込んでしまった。

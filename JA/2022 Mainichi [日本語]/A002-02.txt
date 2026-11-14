@@ -1,4 +1,4 @@
-﻿chapter5_0|この夜は誰のもの
+chapter5_0|この夜は誰のもの
 narrator:結局布団では寝られないまま数日経つ。
 (scene change)
 narrator:週末をまたいだ。土日はかざりもみはとも来なかった。

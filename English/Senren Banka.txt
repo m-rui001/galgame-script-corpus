@@ -1,4 +1,4 @@
-﻿====================001・アーサー王ver1.07.ks.json====================
+====================001・アーサー王ver1.07.ks.json====================
 *Sir.*
 Masaomi: ......
 *Sir?*
@@ -77,7 +77,7 @@ Mom: Well, he wants people to help him out again.
 Masaomi: Oh, have fun, then. Bring me back some souvenirs or something.
 Mom: I can't believe my son has turned into such a layabout. You're making me cry.
 Masaomi: Why do I have to go? Aren't you the one who goes every time Grandpa asks for help, Mom?
-Mom: I'm busy this year. 
+Mom: I'm busy this year.
 Mom: I've already made plans to go to Europe with your dad for a week.
 Mom: Besides, it's been a while since you've visited your grandpa. It's high time for you to go and see him again.
 Masaomi: ......
@@ -189,7 +189,7 @@ Murasame: If you mean Yasuharu, he has already begun work.
 Masaomi: This early?
 Murasame: Shinto priests must rise early. There are rituals to be held and prayers to be made, and the shrine must be cleaned before visitors arrive.
 Masaomi: Should I go help?
-Murasame: If you went now, he would simply tell you you're not needed. 
+Murasame: If you went now, he would simply tell you you're not needed.
 *I don't know the first thing about caring for a shrine, anyway. I'd probably just get in the way.*
 Masaomi: ......
 *I don't feel like going back to my room, but there's nothing to do here either.*
@@ -1437,7 +1437,7 @@ Masaomi: So moving here might be inconvenient at first, but it's for my own good
 Masaomi: But if I'm going to stay here, I don't want to be a shameless leech.
 Yoshino: What do you mean by that?
 Masaomi: I can't just push all the dangerous work onto you and then watch from the sidelines, waiting for you to take care of the cursed spirits for me.
-Masaomi: For better or worse, we'll be living together from now on. I'd feel guilty every time I saw your face if I did that. 
+Masaomi: For better or worse, we'll be living together from now on. I'd feel guilty every time I saw your face if I did that.
 Yoshino: ......
 Masaomi: So I'm going to help. No, please let me help.
 *I'm not so shameless that I'd just sit here and let other people wipe my ass for me.*
@@ -1978,7 +1978,7 @@ Masaomi: Can't say I've patted enough heads to be sure... but I guess so?
 *I can talk to girls just fine, of course, but physical contact is another story.*
 Masaomi: ......
 *Man, just thinking about it is making me self-conscious.*
-Murasame: I know I am the one who asked, but this is somewhat embarrassing. 
+Murasame: I know I am the one who asked, but this is somewhat embarrassing.
 Masaomi: Should I stop, then?
 Murasame: Keep going a bit more... please?
 Masaomi: If that's what you want, sure.
@@ -2051,7 +2051,7 @@ Genjuurou: I doubt she will... I've heard youngsters these days leave jobs quick
 Genjuurou: Besides, isn't "ghosting" your employer popular with the youth these days? I don't want my inn to become haunted.
 Masaomi: That's really not what that means.
 *Where the hell does he learn this stuff?*
-Masaomi: People who don't take their work seriously aren't the kinds of people who'd apply for a tough job like this. 
+Masaomi: People who don't take their work seriously aren't the kinds of people who'd apply for a tough job like this.
 Masaomi: Besides, you said one of your acquaintances recommended her, right?
 Genjuurou: You're right, but I'm still worried.
 Genjuurou: She's a very young girl, about your age. In fact, she'll be transferring to Ugaya Academy as well.
@@ -2413,7 +2413,7 @@ Masaomi: ...?
 *Sighing, Rentarou turns to Lena-san.*
 *The moment they notice his gaze, the other girls glare at him.*
 Noriko: Eww, Kurama-kun's looking this way.
-Narumo: He's probably got his eye on Lena-chan. Watch out. Kurama-kun's a real philanderer. 
+Narumo: He's probably got his eye on Lena-chan. Watch out. Kurama-kun's a real philanderer.
 Lena: What's a philanderer?
 Narumo: Huh? Oh, uhh... How do I explain this...
 Noriko: It means a guy who changes girlfriends at the drop of a hat, or two-times his partner.
@@ -2702,7 +2702,7 @@ Genjuurou: Then be careful not to get injured.
 Genjuurou: We'll need to start over from the beginning if you end up taking an extended break due to this.
 Masaomi: Oh, god. Anything but that!
 Genjuurou: Don't panic, and don't fret. Just do what you've been doing during training.
-Genjuurou: But also, do not under any circumstances attempt something you haven't been able to do in training. 
+Genjuurou: But also, do not under any circumstances attempt something you haven't been able to do in training.
 Genjuurou: Remember, this isn't kendo, and this is no practice match you're going to.
 Masaomi: I know.
 Genjuurou: Good.
@@ -2832,7 +2832,7 @@ Mako: If there's nothing else, I shall be taking my leave as well, Yoshino-sama.
 Yoshino: How very suspicious.
 Mako: Excuse me?
 Yoshino: There's something fishy going on for sure.
-Yoshino: You've been way too accepting of his strange actions, Mako. Not to mention that suggestive conversation you had earlier. 
+Yoshino: You've been way too accepting of his strange actions, Mako. Not to mention that suggestive conversation you had earlier.
 Yoshino: It's like you two were talking in vague terms just to keep something secret from me.
 Mako: Ahah... I knew it. You really are jealous. You're burning to know what's going on, aren't you?
 Yoshino: I already told you that's not true! Really, it's not... But I am curious.
@@ -2981,7 +2981,7 @@ Masaomi: So I'd like it if we could get along better. I'm not saying we should b
 Yoshino: Am I... not acting like a friend now?
 Masaomi: Friends don't normally prostrate themselves before each other over petty stuff like this.
 Masaomi: Actually, they don't prostrate themselves before each other at all.
-Masaomi: So, can we just drop the formalities and stop tiptoeing around each other? 
+Masaomi: So, can we just drop the formalities and stop tiptoeing around each other?
 Masaomi: Let's be friends and look for a way to break this curse together.
 *I'd like it if we could be more casual around each other.*
 *Like that time we cooked together.*
@@ -3112,7 +3112,7 @@ Masaomi: I get it. I really do. But I'll be in trouble if I don't go.
 Yoshino: I'll be in trouble if you do!
 *Holding it in after it's been building up all night is impossible.*
 *But I have nowhere else to go. I'm definitely not doing it outside!*
-Masaomi: I'm practically... Ah, ah, ah... Nnngh... 
+Masaomi: I'm practically... Ah, ah, ah... Nnngh...
 Yoshino: Please just wait a little longer.
 Masaomi: How much... longer...
 Yoshino: Thirty minutes or so?
@@ -3246,7 +3246,7 @@ Mizuha: Relaxing, you say...
 Mako: I felt nothing at all.
 Mako: But the feeling you got seems somewhat similar to Arichi-san's, Yoshino-sama.
 Masaomi: Yeah, I wouldn't go so far as to call it a compulsion. It's a subtle feeling.
-Yoshino: Same for me. The emotions it brings forth are so vague they're hard to describe. 
+Yoshino: Same for me. The emotions it brings forth are so vague they're hard to describe.
 Mizuha: At any rate, you don't mind if I hang on to this, do you?
 Masaomi: Of course not. That's why we brought it here.
 Mizuha: But keep in mind, I don't think I'll be able to give you any answers anytime soon.
@@ -3955,7 +3955,7 @@ Masaomi: You've got the afternoon off.
 Lena: ...? That's news to me.
 Lena: Though, now that you mention it... I wasn't given any tasks to do once I finished sweeping the entrance.
 Motoko: Liechtenauer-san, have you finished cleaning?
-Lena: Manager! Aye, I has't just finished mine task.  
+Lena: Manager! Aye, I has't just finished mine task.
 Motoko: ...You're speaking in antiquated language again.
 Lena: Oh... I'm sorry.
 Motoko: I'll have to give you another Japanese lesson later.
@@ -5509,7 +5509,7 @@ Masaomi: You know, like go shopping in the city or something.
 Yoshino: I can do all of my shopping here, though.
 Masaomi: I mean, it doesn't have to be shopping.
 Masaomi: Anything's fine, but I think if you can find something to look forward to, you'll be able to be as happy about the curse being lifted as everyone else.
-Masaomi: And I'm sure Yasuharu-san and Hitachi-san would enjoy seeing you exercise your freedom now that you're no longer tied down by the curse. 
+Masaomi: And I'm sure Yasuharu-san and Hitachi-san would enjoy seeing you exercise your freedom now that you're no longer tied down by the curse.
 Yoshino: But I can't even sort out my feelings. How am I going to think about the future?
 Masaomi: Maybe you can't move on because you're worried you got left behind? That's just my guess.
 Yoshino: Now that you mention it, you might be right.
@@ -7630,7 +7630,7 @@ Yasuharu: Yoshino has always been a levelheaded girl. Ever since she was young, 
 *I remember Yasuharu-san saying that before.*
 *But it's not just that Tomotake-san understood her situation. She understood it too well.*
 *Yasuharu-san knew that as well, but he was helpless to do anything about it. I can't imagine how painful that must have been.*
-Yoshino: I meant what I told Mother. Naturally, I didn't resent her for giving birth to me, nor was I all that sad about my fate. 
+Yoshino: I meant what I told Mother. Naturally, I didn't resent her for giving birth to me, nor was I all that sad about my fate.
 Yoshino: But it's because I meant it that I was so frustrated. I hated that I couldn't convey my feelings to her.
 Yoshino: So I started to think... if I managed to break the curse, maybe then my feelings would reach Mother.
 Yoshino: I resolved to break the curse to put Mother at ease, but... that only made her apologize to me more.
@@ -9142,7 +9142,7 @@ Masaomi: Not at all, but...
 *Well, I'm pretty fond of lovey-dovey things like this.*
 *I'd probably hesitate more if we were in public, but there's no need to hold back while on some deserted mountain.*
 Masaomi: Alright then... A-Aaah...
-Masaomi: Omnom... Mmm, tasty! I see today's omelet is a little on the sweet side. 
+Masaomi: Omnom... Mmm, tasty! I see today's omelet is a little on the sweet side.
 Yoshino: Yeah. I thought we were going to spend more time walking around town, so I made it sweeter to help give us an energy boost.
 Yoshino: I didn't make them sweet on mistake this time. Is the taste alright for you?
 Masaomi: Yeah, a little sweetness is no big deal.
@@ -12249,7 +12249,7 @@ Mako: I'm referring to why you're walking around at night. That's not exactly no
 Masaomi: Yeah, I guess that's true.
 Mako: You're welcome to talk to me about it if you'd like.
 Masaomi: ......
-Masaomi: Are you only letting me walk you home because you're worried about me? 
+Masaomi: Are you only letting me walk you home because you're worried about me?
 Mako: Nothing as dramatic as that. I'm just trying to make conversation.
 Mako: Or would you rather I dropped the subject?
 *Hitachi-san carefully studies my expression after asking this. *
@@ -12263,7 +12263,7 @@ Masaomi: Do you remember what we talked about then?
 Mako: You mean what we'd do if we manage to break the curse?
 Masaomi: I just didn't think I'd have to come up with an answer so soon.
 Mako: I didn't think that would come so quickly, either.
-Masaomi: It hasn't fully hit me yet. It feels like this situation has been suddenly thrust on me. 
+Masaomi: It hasn't fully hit me yet. It feels like this situation has been suddenly thrust on me.
 Masaomi: I don't really know how to feel about it...
 Mako: You said you wouldn't mind living here, though, didn't you?
 Mako: As I recall, you said something impure about how you preferred the countryside because of the cute girls you've met, like Yoshino-sama and myself.
@@ -12440,7 +12440,7 @@ Murasame: It is nothing like that.
 Murasame: I do not think it is, at least. But I do wonder...
 Masaomi: Okay, now you're really making me nervous with all this vagueness.
 Murasame: Then I shall be frank. Though, I should start by saying I am merely the caretaker of Murasamemaru...
-Murasame: My knowledge of the curse is regrettably no greater than that of Komakawa's. 
+Murasame: My knowledge of the curse is regrettably no greater than that of Komakawa's.
 Masaomi: So you've said before.
 Murasame: I cannot begin to predict what might happen in such an unprecedented situation.
 Masaomi: In other words, you still have some concerns.
@@ -12510,7 +12510,7 @@ Yoshino: *glare*
 Yasuharu: What?
 Yoshino: You're the one who forced our engagement on us.
 Yasuharu: Yes, that's true, but the situation has since changed.
-Yasuharu: Yoshino, your disposition has changed just as I had hoped. And then there's the curse... 
+Yasuharu: Yoshino, your disposition has changed just as I had hoped. And then there's the curse...
 Masaomi: ......
 Yasuharu: Which is why I won't get involved. You two need to discuss it between yourselves and come to a decision on your own.
 Yasuharu: And with that, I will leave you two young people to talk, since I need to get back to the shrine.
@@ -12605,7 +12605,7 @@ Yasuharu: Good, and I will take care of things here.
 Yasuharu: You just focus on enjoying your time as a student, Masaomi-kun.
 Masaomi: Thank you, for everything.
 Hinami: The two rival imperial lineages tried to settle the matter of the succession through the Bunpo Compromise of 1317, but the negotiations were difficult.
-Hinami: Ultimately, neither party was able to reach a clear settlement on the matter, and the hostilities continued. 
+Hinami: Ultimately, neither party was able to reach a clear settlement on the matter, and the hostilities continued.
 Masaomi: ......
 Hinami: The following year, Emperor Hanazono abdicated the throne, and Emperor Go-Daigo, who traced his lineage to Emperor Kameyama, succeeded him.
 Hinami: But we will end things there for today and go into his reign more next time.
@@ -12682,7 +12682,7 @@ Masaomi: S-Sure...
 Masaomi: Like this?
 Yoshino: Yes, I believe this is right.
 *What the heck is all this about, even?*
-Yoshino: Hmm... It feels kind of embarrassing and awkward. 
+Yoshino: Hmm... It feels kind of embarrassing and awkward.
 Masaomi: ...Can I stop now?
 Yoshino: Yes. Next, I want you to pin me against the wall.
 Masaomi: Excuse me!? Against the wall?
@@ -12844,7 +12844,7 @@ Mako: Even as a girl, I can tell that Yoshino-sama is beautiful, and you are a h
 Mako: Do you not find Yoshino-sama attractive? Oh... Do you have more sophisticated tastes, like lolicon, perhaps?
 Masaomi: No way! Don't even suggest that. I happen to like girls my own age.
 Masaomi: Besides, that kind of thing is NOT "sophisticated"!
-Masaomi: Man, it's been one thing after another today... 
+Masaomi: Man, it's been one thing after another today...
 Mako: Oh... My apologies. I was just somewhat curious.
 Mako: Neither you nor Yoshino-sama dislike each other, so is this truly alright?
 Mako: I'm concerned that you both may have made a mistake and let your happiness slip away.
@@ -13015,7 +13015,7 @@ Mako: He said I was cute... and charming...
 *People close to me have said that before.*
 *But those were special moments, like the first time I put on my school uniform.*
 *This, however, was no such time. Yet Arichi-san still said I was cute...*
-Mako: Men often praise women that way in shoujo manga, though. 
+Mako: Men often praise women that way in shoujo manga, though.
 *Right, which means it's not that special.*
 *I'm just not used to dealing with men.*
 Mako: It was certainly different from a "tha-bump" moment.
@@ -13149,9 +13149,9 @@ Mako: Then please let us end the conversation there. The more I think about this
 Mako: Are you sure you are not trying to toy with me, telling me things like this?
 Masaomi: I might've been a little too persistent. I'm sorry if so.
 Masaomi: But I wanted you to know that I wasn't just saying that for the hell of it.
-Masaomi: If you really want to experience love, I don't think you need to be so afraid. 
+Masaomi: If you really want to experience love, I don't think you need to be so afraid.
 Mako: Thank you for that. I appreciate you taking my silliness seriously.
-Mako: But I do not believe love is for me. 
+Mako: But I do not believe love is for me.
 Masaomi: What...? Why do you say that?
 Mako: It's as your friends said. Looking after Yoshino-sama is my main priority.
 Masaomi: The curse is gone, though. You ought to be able to find some time for yourself now, right?
@@ -13221,7 +13221,7 @@ Masaomi: Maybe she's still cleaning the bathroom?
 Murasame: Master! She's not here, either! You may enter.
 *With Murasame-chan giving me the all-clear, I took a step inside.*
 Murasame: Judging by the state of things, it appears she has not cleaned it yet. Perhaps she is not coming today?
-Masaomi: That's odd... This would be the first time she's stayed home since I got here. 
+Masaomi: That's odd... This would be the first time she's stayed home since I got here.
 Murasame: It would be her first time being late, even.
 Masaomi: Hitachi-san is usually pretty diligent.
 Murasame: The Hitachi family has done nothing but diligently serve the Tomotake family for generations.
@@ -13236,7 +13236,7 @@ Murasame: Most are unaware of the legend's details.
 Murasame: In all honesty, there have been times when they have suffered hardship.
 Murasame: That is all in the past, however. Due to their dedication to the Tomotake family, those details became taboo and faded from the town's memory.
 Masaomi: I see...
-Masaomi: So, is that also the reason why Hitachi-san can see you too? 
+Masaomi: So, is that also the reason why Hitachi-san can see you too?
 Murasame: Possibly. It has not been limited to Mako. Previous generations of the Hitachi family could see me as well.
 Murasame: Let us drop the subject, Master. There is nothing more to discuss.
 Masaomi: Yeah, you're right. Sorry for asking such weird questions.
@@ -13555,7 +13555,7 @@ Masaomi: But the person who can use the power of the medium is dead, right? How 
 Murasame: That is likely because the curse has rebounded.
 Murasame: The grudge that was sealed in the medium is a grudge with its head cut off. It was controlled with magic.
 Murasame: However, if there is no one to control it, the grudge will attack those connected by blood―the members of the Hitachi family.
-Masaomi: Even though Hitachi-san herself isn't the one who laid the curse? 
+Masaomi: Even though Hitachi-san herself isn't the one who laid the curse?
 Murasame: That is just how curses are.
 Mako: That's it... That's why it was saying things like, "Found you," and, "This is the right blood."
 Masaomi: Can we get rid of the curse using Murasamemaru?
@@ -13584,7 +13584,7 @@ Mizuha: No, I doubt the beast's objective would be to get revenge on the Hitachi
 Mako: Huh!?
 Murasame: What?
 Masaomi: Excuse me, but what exactly do you mean?
-Masaomi: It seems to me that this would conflict with what Murasame-chan told us. 
+Masaomi: It seems to me that this would conflict with what Murasame-chan told us.
 Mizuha: What has she said?
 Masaomi: That the curse has come home to roost...
 Mizuha: I see. She is certainly right about that.
@@ -13633,7 +13633,7 @@ Mako: I feel like I sensed that intention from it.
 Murasame: The beast said it... wanted to fall in love?
 Mako: Oh, no. I was the one who actually said that.
 Mako: But I heard the "I want to experience love and to fall in love" part in my own head too, like it was repeating my own words.
-Mako: Aahhh! I cannot believe I had to openly admit something so embarrassing... This is too much. 
+Mako: Aahhh! I cannot believe I had to openly admit something so embarrassing... This is too much.
 Yoshino: ...Mako, do you have someone you're interested in?
 Mako: N-Not exactly! I don't have anyone specific in mind. It's just...
 Mako: When you decided that you wanted to learn how to do things for yourself, Yoshino-sama, I thought about what goal I could strive for too. And, when I did...
@@ -13657,7 +13657,7 @@ Murasame: In that case, perhaps the beast was reacting to the desire to fall in 
 Murasame: If the beast already loved someone, it is rather odd that it responded to Mako's wish to fall in love.
 Masaomi: Makes sense...
 Murasame: I cannot be sure until we gather more information, but I believe the beast wishes to know what love is.
-Murasame: And, unfortunately, Mako appeared with her wish to fall in love. 
+Murasame: And, unfortunately, Mako appeared with her wish to fall in love.
 Masaomi: Which means this curse's goal is to learn about love?
 Murasame: I would say it is more like she is possessed than cursed.
 Murasame: Most normal possessions do not turn out like this, but this beast is far too powerful.
@@ -13820,7 +13820,7 @@ Masaomi: You think it's trying to conserve its strength?
 Murasame: Additionally, if it occurred any more frequently than that, then you would not be able to fall in love.
 Mako: It wouldn't do anything that would hinder its own desires, right?
 Murasame: This is all merely conjecture, however.
-Murasame: Just to be sure, I shall go and monitor the medium. Perhaps it will display some kind of reaction. 
+Murasame: Just to be sure, I shall go and monitor the medium. Perhaps it will display some kind of reaction.
 Mako: I appreciate your help.
 *She certainly can't stay inside the whole time.*
 *Especially since she needs to interact with other people if she wants to resolve this matter.*
@@ -14071,7 +14071,7 @@ Mako: It will, indeed.
 Lena: Will it be like this forever now?
 Mako: No, we don't think so. I know this will sound rather unbelievable, but...
 Mako: It might be possible to resolve this if I fall in love.
-Lena: Love? By love, you mean... Liebe? Amor? 
+Lena: Love? By love, you mean... Liebe? Amor?
 Mako: It does not matter how you call it.
 Lena: Ooh, so like a miracle caused by a prince's kiss! A miracle of love!
 Mako: Not exactly...
@@ -14155,7 +14155,7 @@ Masaomi: Did the medium do anything?
 Murasame: I was monitoring it in the shrine hall during that time.
 Murasame: Unfortunately, though, there was no reaction from it.
 Mako: I see...
-Murasame: It seems at present that the key to breaking the curse is love. 
+Murasame: It seems at present that the key to breaking the curse is love.
 Masaomi: Speaking of which, we got an idea from Lena-san. Do you think a pretend date would work?
 Murasame: Hrm... I think it is worth a shot.
 Murasame: As long as Mako's feelings of enjoyment are conveyed, a pretend date could work. I do not expect much, but the idea is probably worth a shot.
@@ -17697,7 +17697,7 @@ Genjuurou: Please forgive me.
 *Even though he can't see her, he's prostrating himself in Murasame-chan's presence.*
 *I guess when all is said and done, she's the one who did the most to save Hoori.*
 Murasame: No need to apologize, Genjuurou.
-Murasame: Raise your head. 
+Murasame: Raise your head.
 Mako: Genjuurou-san, Murasame-sama is saying it's fine for you to raise your head.
 Genjuurou: Understood.
 *Grandpa straightens his back and relaxes.*
@@ -18046,7 +18046,7 @@ Yasuharu: I have a meeting in town myself.
 Yasuharu: Watch the house for me, Masaomi-kun.
 Masaomi: Sure. Have a safe trip.
 Murasame: Rest easy. With Master and me here, there is nothing to fear.
-Murasame: We'll chase off any threat that appears. Even a bear. 
+Murasame: We'll chase off any threat that appears. Even a bear.
 *A bear?*
 *I'm pretty sure that's beyond my ability to handle.*
 Yasuharu: Bye, then.
@@ -18058,7 +18058,7 @@ Murasame: Hoori's government has religious roots, so I imagine the head priest h
 Murasame: And from what I have heard, the meetings usually revolve around the city's economic policy.
 Masaomi: Economics, huh...
 Murasame: Unlike other towns, Hoori possesses a great deal of autonomy.
-Murasame: But that also means it needs to provide for itself and cannot rely on the federal government for assistance. 
+Murasame: But that also means it needs to provide for itself and cannot rely on the federal government for assistance.
 Masaomi: I see. Guess this place is special in more ways than one.
 *To keep the curse from spreading, Hoori had no choice but to isolate itself to some extent.*
 *As a result, though, it has developed a unique culture.*
@@ -18236,7 +18236,7 @@ Masaomi: I'm not Tomotake-san's fiance anymore, so you don't have to worry.
 Yasuharu: Hmm, but... Oh, I know.
 Yasuharu: What do you think of getting engaged to Yoshino a second time?
 *As her dad, shouldn't you put some more thought into it before making these kinds of suggestions?*
-Masaomi: No, no! I couldn't! 
+Masaomi: No, no! I couldn't!
 Masaomi: I'm sure Tomotake-san wouldn't like it, either.
 *I wave my hand dismissively.*
 Yasuharu: I doubt that's the case.
@@ -18247,7 +18247,7 @@ Masaomi: O-Okay...
 *If Tomotake-san were here...*
 Yoshino: H-How could you decide something so important without consulting me!?
 Yoshino: Sit over there, you two.
-Yoshino: Not like that. Straighten your backs. 
+Yoshino: Not like that. Straighten your backs.
 *...She'd lecture us like that.*
 *And sitting on the ground here doesn't sound very pleasant.*
 Murasame: Hey, Master! What are you spacing out for?
@@ -18350,7 +18350,7 @@ Yoshino: F-Father, what are you saying!?
 Yasuharu: Well, you're always looking out for Masaomi-kun, Yoshino.
 Yasuharu: So I thought maybe you liked him.
 Yoshino: Th-There's more than one way of liking someone!
-Yoshino: I see Arichi-san as more of a friend than anything. 
+Yoshino: I see Arichi-san as more of a friend than anything.
 Yoshino: We're comrades who've been through a lot together.
 Mako: I know what you mean. We've fought our way through the jaws of death many times together.
 Mako: I like Arichi-san too.
@@ -20081,7 +20081,7 @@ Murasame: They have their work waiting for them, so they left.
 Murasame: More importantly, please give my dehydrated master some tea, Lena.
 Lena: Roger!
 Lena: Masaomi, Rentarou, Koharu, you should rehydrate yourselves.
-Rentarou: Oooh! Lena-chan's hand-brewed tea! 
+Rentarou: Oooh! Lena-chan's hand-brewed tea!
 Koharu: *gulp* Haah, it's so calming~
 *Rentarou and Koharu revive after drinking Lena-san's tea.*
 *They look like they're at peace with the world.*
@@ -21278,7 +21278,7 @@ Masaomi: The bath is more than warm enough without me.
 Murasame: Hmph! Don't think you can escape from me so easily!
 Murasame: Hurry up and get ready!
 *Murasame-chan opens my drawer and starts pulling out underwear.*
-Masaomi: Hey! Stop that, you pervert! 
+Masaomi: Hey! Stop that, you pervert!
 Murasame: Stop fussing over every little thing! Will these black boxers do?
 *Murasame-chan casually grabs a pair of underwear.*
 *I never realized my girlfriend was this manly.*
@@ -21957,7 +21957,7 @@ Murasame: Yoshino, Mako, be careful on your way home.
 Yoshino: We will. Goodbye.
 *Tomotake-san bows again before leaving the cafe with Hitachi-san in tow.*
 Murasame: Master, I did not expect Yoshino to offer a suggestion like that.
-Masaomi: That's just how worried she is about Hoori. 
+Masaomi: That's just how worried she is about Hoori.
 Koharu: She's already busy as it is. We can't ask her to do any more.
 Roka: Yeah. The same goes for Hitachi-san.
 Murasame: Indeed. Those of us remaining should take up the bulk of the work.
@@ -22165,7 +22165,7 @@ Masaomi: Right.
 Masaomi: So unless I improve my skills, I won't be able to enshrine Murasamemaru.
 Masaomi: Which is why I'm gonna start training with Grandpa again.
 Rentarou: Hmm, so you're doing this for Murasame-sama?
-Rentarou: I guess it can't be helped, then. 
+Rentarou: I guess it can't be helped, then.
 *Rentarou throws up his hands and shakes his head.*
 Rentarou: Anyway, if it's for your girlfriend, you better work hard.
 Rentarou: I'll be cheering you on from the sidelines.
@@ -22812,7 +22812,7 @@ Masaomi: They're just exaggerating.
 *Besides...*
 *The real reason I'm doing this is so Murasame-chan can find happiness as a human.*
 Masaomi: I'm just doing this because I want to.
-Masaomi: No one forced me to do anything, so you don't have to apologize. 
+Masaomi: No one forced me to do anything, so you don't have to apologize.
 Roka: ......
 Roka: Huh...
 Masaomi: What's the huh for?
@@ -23076,13 +23076,13 @@ Masaomi: Phew...
 Murasame: I have been waiting for you, Master.
 *I find my futon already laid out with Murasame-chan sitting next to it.*
 Masaomi: Did you lay out my futon for me?
-Murasame: Indeed I did. I wanted to do something for my poor, exhausted master. 
+Murasame: Indeed I did. I wanted to do something for my poor, exhausted master.
 Masaomi: Says the girl who was beating me up before dinner.
 Murasame: I-I realize I may have made a misunderstanding.
 Murasame: But that was simply my way of expressing my love, so pay it no mind.
 *Murasame-chan averts her gaze.*
 *I guess she does feel bad about it.*
-Murasame: Besides, as an apology I shall give you a massage. 
+Murasame: Besides, as an apology I shall give you a massage.
 Murasame: Lie down, Master.
 *She pats the futon.*
 Masaomi: Huh? But aren't you tired too, Murasame-chan?
@@ -24481,7 +24481,7 @@ Lena: He said he heard them all from his grandma.
 Masaomi: Huh...
 *Didn't Lena-san say her grandpa's grandpa was the one who came to Japan? I guess that means she's talking about his wife.*
 *I dunno what it is, but something about the way she's telling her story feels off.*
-Lena: My family took good care of the fragment because they thought it was a gift from the trolls. 
+Lena: My family took good care of the fragment because they thought it was a gift from the trolls.
 Lena: After all, trolls are fey creatures that are meant to bring good luck!
 Masaomi: Huh, really?
 *They sound totally different from the cursed spirits.*
@@ -24604,7 +24604,7 @@ Masaomi: What if that ringing was a voice? A voice calling out to her?
 Yoshino: No way! Are you saying the fragments are calling to Lena-san!?
 Masaomi: It's just a hypothesis. I don't have anything to back it up.
 Mako: Everyone, that's enough speculating.
-Mako: There's movement up ahead. 
+Mako: There's movement up ahead.
 *Lena-san's come to a stop.*
 *Is there a fragment where she's standing?*
 *I lean forward to get a closer look, but...*
@@ -26313,7 +26313,7 @@ Masaomi: In that case, you should have said something sooner!
 Murasame: Had I butt into that previous conversation, it would have only served to cause further confusion.
 Murasame: There was of course the option of waking you before you arrived here, but I wanted to see if I could glean any new information from your sleepwalking.
 Murasame: Besides, it's possible it would not have been enough to wake you.
-Murasame: And if the situation had turned dangerous, I could've used my powers to force you back to consciousness. 
+Murasame: And if the situation had turned dangerous, I could've used my powers to force you back to consciousness.
 Masaomi: I see. So basically, I was a convenient guinea pig.
 Murasame: My apologies, Master.
 Murasame: In truth, it was a bit of a gamble. But I believed we needed any information we could get.
@@ -26631,7 +26631,7 @@ Mako: Of course. Today's topic is something Inotani-san specifically requested, 
 *This time "Japanese words you put 'O' before" is written in big letters. *
 Masaomi: ...O?
 Mako: You know how you can put "O" before a lot of Japanese when you're trying to speak politely, right?
-Koharu: Oh, you mean like okashi, omanju, and osatou? Snacks, manju, and sugar, but polite. 
+Koharu: Oh, you mean like okashi, omanju, and osatou? Snacks, manju, and sugar, but polite.
 Rentarou: I see you picked only treats to use as examples...
 Koharu: Th-They're just the first thing that came to mind!
 Lena: Now, now, you two. Anyway, nothing gets by the manager, huh? This is something that's been confusing me for a while.
@@ -26703,7 +26703,7 @@ Masaomi: What happened to teaching Lena-san about which words use O?
 Masaomi: We're pretty much just shopping.
 *Well, I enjoy hanging out with her, so I can't really complain.*
 *Oh, here we are. Lena-san seems to have picked out everything she needs and is at the register now.*
-Lena: Oh, thanks for the offer, but I won't be needing your mother. 
+Lena: Oh, thanks for the offer, but I won't be needing your mother.
 Cashier: ...As you wish.
 *%123;OH GOD, WHY!?*
 Lena: O-Oh... I've said that every time. How come none of the cashiers have corrected me?
@@ -27385,7 +27385,7 @@ Mizuha: Though, I heard when the scroll was taken out of its box for this pictur
 Mizuha: Incidentally, even the original copy of this photograph is a valuable historical relic.
 Mizuha: The one I'm showing you now is a printout of a scanned copy on my computer.
 Masaomi: So what you're saying is that this scroll is ridiculously old? That doesn't make any sense, though!
-Masaomi: I mean, look at this girl! Her hair... 
+Masaomi: I mean, look at this girl! Her hair...
 Lena: It's blonde.
 *Were there any blonde people in Japan centuries ago?*
 *I sure as hell haven't read about any in our history books!*
@@ -27478,7 +27478,7 @@ Lena: They said that families should stick together.
 *Whenever Lena-san talked about her family before, she never mentioned her mom and dad.*
 *I always thought that was strange.*
 *Does this mean Lena-san really does want to go home? For reasons I can't explain, I find the thought a little scary.*
-Mizuha: I realize this is a personal question, but can you tell us more about your parents, Liechtenauer-san? 
+Mizuha: I realize this is a personal question, but can you tell us more about your parents, Liechtenauer-san?
 Lena: My family is spread all over the place.
 Lena: Both of my parents work away from home, and they keep getting promoted and transferred to different places.
 Lena: I'm sure part of the reason they left was that I was attached enough to Grandpa that they felt safe leaving me with him, but...
@@ -27762,7 +27762,7 @@ Yoshino: Umm, I really think you should rethink your decision!
 Masaomi: We've done this joke already, so it won't even be funny. You'll be throwing your life away for nothing!
 Rentarou: Ahaha, you can't stop me! Hell, the more you try, the more I wanna eat one of those things.
 Koharu: Who cares if Ren-nii dies? I say let him do what he wants.
-Rentarou: Oh, shut up! Alright, let's give this a shot... Hm? 
+Rentarou: Oh, shut up! Alright, let's give this a shot... Hm?
 Rentarou: Oh, come on, this isn't that bad. You guys exaggerate too much.
 *Everyone worriedly watches Rentarou chew.*
 Koharu: Oh, really?
@@ -28090,7 +28090,7 @@ Masaomi: Yeah, basically. You guys in?
 Koharu: There's no way I'd turn down an invitation from you, Onii-chan! I don't have work tomorrow either, so I'll definitely be there.
 Rentarou: I'm coming too, of course.
 Masaomi: Thanks! I'll see you two at Shinatsu Manor tomorrow, then.
-Masaomi: By the way, what are you doing here, Rentarou? 
+Masaomi: By the way, what are you doing here, Rentarou?
 Rentarou: Just thought I'd see how well my sister's holding up at work.
 Koharu: Liar.
 Koharu: I bet you were just lonely because both Onii-chan and the girls haven't been giving you any attention recently.
@@ -28773,7 +28773,7 @@ Masaomi: Huh.
 *When I heard Lena-san was feeling homesick, I was worried she might go back home.*
 *Part of the reason I suggested this sleepover was because I wanted to stop her from doing that.*
 Lena: Which is why Grandpa, Dad, Mom, and I...
-Lena: We're all connected by the same sky and the same stars, no matter where we are. 
+Lena: We're all connected by the same sky and the same stars, no matter where we are.
 Masaomi: Lena-san...
 Lena: It's true Japan and Scandinavia are pretty far from each other, and the stars aren't all in the same places, but...
 Lena: There are plenty of stars here that I still recognize.
@@ -29585,7 +29585,7 @@ Lena: I don't mind, but why not meet up in my room?
 Masaomi: Well, I've been thinking...
 Masaomi: Since this is a date and all, why not try something we don't normally do?
 Lena: Sure, but what're you thinking of?
-Lena: Take thaaaat! 
+Lena: Take thaaaat!
 Masaomi: Whoa!
 *Lena fires off a heavy smash.*
 *I barely even manage to graze the white ping-pong ball with my paddle.*
@@ -32553,7 +32553,7 @@ Masaomi: Thanks, Lena-san.
 Lena: Next, I'll show you the baths and where you can find the cleaning supplies.
 Masaomi: No need for that. I know my way around the place already.
 Lena: Very well, then.
-Masaomi: Besides, I don't want to keep you. You probably need to get back to work. 
+Masaomi: Besides, I don't want to keep you. You probably need to get back to work.
 Lena: Yes, that's true. Well then, if you'll excuse me. If you need anything, please don't hesitate to ask.
 Masaomi: Thanks, Lena-san.
 *After flashing me a bright smile, she exits the room...*
@@ -32616,7 +32616,7 @@ Koharu: I'm on my way back from running an errand.
 Koharu: It's unusual to bump into you around here.
 Masaomi: Actually, I just moved out of the Tomotake house today.
 Koharu: What? You mean... you're going back home?
-Masaomi: Oh, no, not back home. 
+Masaomi: Oh, no, not back home.
 Masaomi: I'm just moving into Grandpa's inn instead.
 Koharu: Huh? Really?
 Koharu: But wait... As the one who pulled out Murasamemaru, weren't you, um... engaged to the Shrine Princess?
@@ -33296,7 +33296,7 @@ Rentarou: Hey man. I heard from Koharu you've started a part-time job here.
 Masaomi: I'm just here as a regular customer today, though.
 Rentarou: Boooring. I came hoping to throw you off your game.
 Koharu: I already told you he didn't have a shift today.
-Koharu: And no throwing off anyone's game. They have a business to run here. 
+Koharu: And no throwing off anyone's game. They have a business to run here.
 Roka: Huh? Is that Rentarou and Koharu-chan?
 Koharu: Sorry, Onee-chan. I don't want to get in your way, but I was just worried my brother might do something stupid.
 Roka: It's fine! Sit down and relax.
@@ -34201,7 +34201,7 @@ Masaomi: But aren't rice crackers a lot of work to make? Is he gonna be okay wit
 Roka: Yeah, they are. Plus, I selected my coffee blend to match with sweets.
 Roka: Rice crackers don't really go with our cafe's vibe. Although I suppose we could push them as a PR stunt.
 Roka: Maybe we could bake them out front to grab people's attention, kinda like a live cooking show.
-Masaomi: But won't that damage your image as a specialist Japanese sweets cafe? 
+Masaomi: But won't that damage your image as a specialist Japanese sweets cafe?
 Roka: Yeah, that's the problem.
 Roka's Dad: I never said we HAVE to sell them.
 Roka: Dad...
@@ -34512,7 +34512,7 @@ Masaomi: Uh, sure. See you later...
 Masaomi: Do you think she got the wrong idea about us?
 Koharu: D-Does it really matter? And... m-maybe it's not wrong...
 Masaomi: ...Huh?
-Koharu: ~~~! N-Never mind! 
+Koharu: ~~~! N-Never mind!
 Koharu: W-We need to get going, Onii-chan, or we'll be late!
 Masaomi: R-Right...
 Koharu: Heh, hehe♪
@@ -34709,7 +34709,7 @@ Masaomi: (Now she's pushing up even harder against me!?)
 Roka: That's basically how you do it. Then you change the angle slightly depending on which string you want to strike.
 Masaomi: (Th-The angle's changing too!?)
 Roka: Okay? The basics are pretty simple, right?
-Roka: Although, once you actually start trying to play a piece, it soon gets a lot harder. 
+Roka: Although, once you actually start trying to play a piece, it soon gets a lot harder.
 Masaomi: ......
 Roka: ...? Ma-bou? Hey, are you listening?
 Masaomi: Sorry. I didn't hear a word.
@@ -34972,7 +34972,7 @@ Roka: Yes, I shall gladly partake.
 *While trying to figure out what's going on with her, I set about pouring boiling water into a cup and preparing the tea.*
 *When it's done, I set it down in front of her.*
 Masaomi: Here you go. Though, I'm sure it's not really up to the standards of a cafe manager.
-Roka: Please, do not worry yourself. 
+Roka: Please, do not worry yourself.
 Masaomi: ...Anyway, I'm gonna get ready, so could you just wait here?
 Roka: Yes, I understand.
 Roka: I-I'm here...
@@ -35016,7 +35016,7 @@ Masaomi: What does it taste like?
 Roka: Is it matcha? It melts in my mouth, but the taste is still strong. It's really good.
 Masaomi: Try this one too.
 Roka: This brown one? Omm... Is this coffee flavor?
-Masaomi: Yep. They're both made with ingredients used at Tagoriya. 
+Masaomi: Yep. They're both made with ingredients used at Tagoriya.
 Roka: Hmm. It's like something between shaved ice and sorbet. And the flavor lingers... It's tasty.
 Masaomi: It's a French dessert called "granita," similar to sorbet.
 Masaomi: It's starting to get hot, so I thought it could be perfect for the season. And it wouldn't be any extra work for your dad.
@@ -35240,7 +35240,7 @@ Rentarou: I bet you're both worried about whether you should hold hands, link ar
 Masaomi: Well...
 Koharu: ......
 *He's... not wrong.*
-Rentarou: Since you're cousins, you already know one another as family, so it's probably even more difficult shifting to a romantic relationship. 
+Rentarou: Since you're cousins, you already know one another as family, so it's probably even more difficult shifting to a romantic relationship.
 Rentarou: Ya know, most couples would probably hold hands on their way to school.
 Koharu: ......
 Masaomi: D-Do you wanna hold hands?

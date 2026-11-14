@@ -8455,7 +8455,6 @@ Mei: "That is exceedingly thoughtful of you, thank you. "
 Mei: "Today I’m feeling more in my element. "
 Mei: "..."
 Mei: "..."
-Mei: "..."
 You: "Miss Mei? Are you ready? "
 Mei: "!!!"
 Mei: "Yes... I... "
@@ -10677,7 +10676,7 @@ Sombra: "Yes. You."
 Sombra: "WHAT THE FUCK?! THIS IS PRIVATE PROPERTY!"
 Sombra: "I mean, flee or get fucked. "
 You: "So if I stay..."
-downscale: 
+downscale:
 *bg sombra_route_a_b_x_d_a_icewitch*
 0.15
 *bg sombra_route_a_b_x_d_b_icewitch*
@@ -10994,7 +10993,6 @@ You: "I think I can forget my manners this one time. I really don’t want to fe
 You: "No, I’m not going to risk my neck or potentially my life, starting that conversation face to face. I’d rather call."
 You: "So, time to go on the offensive."
 You: "Now it’s my turn to get someone sweating uncontrollably!"
-You: "..."
 You: "..."
 You: "..."
 You: "And... she’s not picking up. How anticlimactic."

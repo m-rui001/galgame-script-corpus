@@ -1,0 +1,14 @@
+path,reason,chars,sha1,clean_chars,clean_ratio
+JA/Minikui Mojika no Ko [日本語]/b1053h.txt,garbage,4092,2410b89a76f9df8d016f8bfde438360805184e53,4047,0.995
+JA/Minikui Mojika no Ko [日本語]/d3082h_02.txt,garbage,2605,f95aa51bf6e41363b766f6895b0c7486f9600668,2593,1.0
+JA/Minikui Mojika no Ko [日本語]/e4102h_02.txt,garbage,2015,a8cfee0ba5e7708a099f969a952732f679b8dc98,2002,1.0
+JA/Minikui Mojika no Ko [日本語]/f5070.txt,garbage,1788,fdb2f8e9c4cbd581d5b2d53cb1780caa5e1b70c3,1786,0.999
+JA/Minikui Mojika no Ko [日本語]/f5100h_01.txt,garbage,1736,2c4b4b0fe039ec295b17c75fff737a6610d3b5a3,1730,0.999
+Zh/雨恋 [中文].txt,garbage,77157,660e991bd0142df1e2fffff27557b6408166a9ae,71081,0.963
+Zh/Kao no nai Tsuki [中文]/D0808_01.txt,garbage,7980,a4089a47dcc939dadf7b99453e31dd6cd160883a,3264,0.438
+Zh/Kao no nai Tsuki [中文]/S31_02.txt,replacement_chars,15070,afce614ac530bb6d2b98998e5a34b209ac8d1e5a,13659,0.906
+Zh/サナララ [中文].txt,engine_script,363838,33fe76cbf05b7057afab584b654046faf1b36a73,362337,0.995
+Zh/書淫、或いは失われた夢の物語。_中文剧本(NScripter全文) [中文].txt,engine_script,508256,2b354cca4560ee9971b3f8829af67fc9ecadc008,265893,0.521
+Zh/水蓮と紫苑 [中文].txt,engine_script,421978,17496e78232341f07f7a091f5daf19566097ed5b,285503,0.677
+Zh/OrenoSugataga [中文]/14_01.txt,engine_script,18034,534c263b266ce81ff8fae68c897a8b5c4ef8f9c6,8801,0.488
+Zh/OrenoSugataga [中文]/16_01.txt,engine_script,21868,9646be4fa422681429983058f0d5096358f2835b,13180,0.603

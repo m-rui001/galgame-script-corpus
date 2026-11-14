@@ -1,4 +1,4 @@
-﻿chapter20_0|思い出のあとさき
+chapter20_0|思い出のあとさき
 protagonist:「パンケーキ、おいしかったね」
 (scene change)
 heroine:「うん……」

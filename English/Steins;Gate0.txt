@@ -96,16 +96,6 @@ Rintaro: “...”
 *I decided to forget everything.*
 *Ever since that day, I stopped going to the Future Gadget Lab.*
 
-
-
-
-
-
-
-
-
-
-
 ==========SG0_00_02.scx.txt==========
 *UPX, the new symbol of Akihabara, was located right in front of the station.*
 *In the hall on the 4th floor, preparations had been going on all morning for the ATF-Akihabara Techno Forum-convention.*
@@ -600,16 +590,6 @@ Maho: “This would mean the creation of artificial intelligence, in the true se
 *The whole hall got very quiet.*
 *And it was sheer chaos for a while after that, as everyone tried to debate their own personal theories with Dr. Leskinen at once.*
 
-
-
-
-
-
-
-
-
-
-
 ==========SG0_00_03.scx.txt==========
 *It was thanks to Izaki that I was able to get into the reception held after the ATF was over.*
 *They told me there was a dress code, so I went all the way back to my parents’ house to get a suit to change into.*
@@ -805,16 +785,6 @@ Rintaro: “...her?”
 Maho: “Yeah.”
 Maho: “Kurisu Makise’s memories are stored in Amadeus. They’re eight months old, though.”
 
-
-
-
-
-
-
-
-
-
-
 ==========SG0_00_04.scx.txt==========
 *–Several days passed after the ATF party.*
 *Ten minutes from Ikebukuro, via the express train...*
@@ -970,16 +940,6 @@ Amadeus: “Uh, who is this?”
 *She was right there.*
 Amadeus Kurisu: “Nice to meet you, Rintaro Okabe. I’m Kurisu Makise.”
 Amadeus Kurisu: “I look forward to working with you.”
-
-
-
-
-
-
-
-
-
-
 
 ==========SG0_01_01.scx.txt==========
 Psychologist: “All right, Mr.Okabe. Try to relax.”
@@ -1605,16 +1565,6 @@ Rintaro: “Oh, I’m coming!”
 *But even so, in my mind I was already...*
 *...starting to think about what I would talk about with Kurisu.*
 
-
-
-
-
-
-
-
-
-
-
 ==========SG0_01_02.scx.txt==========
 *Maho Hiyajo was remembering.*
 *She was remembering the last night she’d spoken to Kurisu Makise in person.*
@@ -1819,16 +1769,6 @@ Maho: “...”
 Maho: “Maybe it’s because I’m in Japan...”
 *It’d been a week since she’d arrived. The first thing she’d planned to do was offer flowers.*
 *But she still couldn’t bring herself to visit the Akihabara Radio Building, the place where Kurisu had died.*
-
-
-
-
-
-
-
-
-
-
 
 ==========SG0_01_03.scx.txt==========
 *The sun was setting earlier, now that December had arrived.*
@@ -2128,16 +2068,6 @@ Kaede: “Anyway, it’s just your imagination. There’s no way something that 
 Fubuki: “Sorry... for being weird.”
 *But...*
 *That night, she had the nightmares again.*
-
-
-
-
-
-
-
-
-
-
 
 ==========SG0_01_04.scx.txt==========
 Suzuha: “...”
@@ -2506,16 +2436,6 @@ Yuki: “I see Okabe’s with you.”
 Itaru: “Oh, Okarin! It’s been forever, man!”
 Rintaro: “Oh, yeah. It has.”
 *When she heard his voice, Suzuha ground her teeth a little.*
-
-
-
-
-
-
-
-
-
-
 
 ==========SG0_01_05.scx.txt==========
 Amadeus Kurisu: “Interesting.”
@@ -2935,16 +2855,6 @@ Haruyama: “So even if we do see some cases in Japan, it’s not a matter for s
 *That was...*
 *That was exactly the same as Reading Steiner!*
 
-
-
-
-
-
-
-
-
-
-
 ==========SG0_01_06.scx.txt==========
 Kagari: “Sob... sob...”
 *The interior of the time machine smelled like metal and was covered in instruments of different sizes. The girl inside was sobbing.*
@@ -3162,16 +3072,6 @@ Faris: “All right, nya. In exchange, just make sure you tell Daru-nyan.”
 Suzuha: “Okey-dokey.”
 *The last part was almost a whisper as her words melted into Akihabara’s sky.*
 
-
-
-
-
-
-
-
-
-
-
 ==========SG0_01_07.scx.txt==========
 Maho: “...”
 *Maho Hiyajo was fidgeting.*
@@ -3251,16 +3151,6 @@ Maho: “Yeah.”
 *If  changed into someone she didn’t know, that would make her sad.*
 Leskinen: “It’s time. Let’s go.”
 *Maho nodded.*
-
-
-
-
-
-
-
-
-
-
 
 ==========SG0_01_08.scx.txt==========
 Rintaro: “...”
@@ -3519,16 +3409,6 @@ Rintaro: “Y-Yeah... I’m fine.”
 *Kaede and Fubuki were looking at me, worried.*
 *I got away from them as fast as I could.*
 
-
-
-
-
-
-
-
-
-
-
 ==========SG0_A01_01.scx.txt==========
 *The sky was red-black, dotted with columns of thick black smoke.*
 *There was so much rubble I couldn’t find a place to stand.*
@@ -3556,16 +3436,6 @@ Rintaro: “Y-Yeah... I’m fine.”
 *This was the real world.*
 *Hell.*
 *Yes, that’s what this was. This was Hell.*
-
-
-
-
-
-
-
-
-
-
 
 ==========SG0_A01_02.scx.txt==========
 Rintaro: “Gah...!”
@@ -3810,16 +3680,6 @@ Maho: “Well, I don’t have any family here, so I’ll be alone regardless.”
 Maho: “But that doesn’t mean I’m lonely. Don’t get the wrong idea, okay?”
 *Or so she said, but being all alone on Christmas in a bustling town was probably pretty lonely.*
 *Of course, she’d probably get mad if I told her that, so I didn’t.*
-
-
-
-
-
-
-
-
-
-
 
 ==========SG0_A01_03.scx.txt==========
 *When I finished talking to the professor, I went to the lab.*
@@ -4158,16 +4018,6 @@ Rintaro: “...”
 *She only existed inside of a computer.*
 *I guess I was just starting to see her as real...*
 
-
-
-
-
-
-
-
-
-
-
 ==========SG0_A01_04.scx.txt==========
 Suzuha: “Well, Dad? Any luck?”
 Itaru: “Nope, sorry. Nothing.”
@@ -4360,16 +4210,6 @@ Rintaro: “...”
 *But I didn’t answer the phone.*
 *I didn’t answer any of the other calls that came that day, either.*
 
-
-
-
-
-
-
-
-
-
-
 ==========SG0_A01_05.scx.txt==========
 *–The United States of America. California.*
 Reporter: “Christ, why do I have to do this report?”
@@ -4397,16 +4237,6 @@ Newscaster: “And now we go live to the scene. Jessica?”
 Reporter: “This is Jessica Edmond, reporting live from the scene. The bodies found this morning were initially believed to be human–”
 Reporter: “But police investigation later revealed them to be chimpanzees and orangutangs.”
 Reporter: “But the bodies are all missing their brains and parts of their heads. Police are warning locals that a maniac may be on the loose–”
-
-
-
-
-
-
-
-
-
-
 
 ==========SG0_A01_06.scx.txt==========
 Male student: “Hey, Okabe. You got class after this?”
@@ -4710,16 +4540,6 @@ Suzuha: “...”
 *Maybe it was because she was gone now, or maybe it was because of the anxiety meds, but I’d calmed down enough to start thinking that way.*
 *Of course, who knew if I’d feel the same way the next time I saw her, face-to-face.*
 
-
-
-
-
-
-
-
-
-
-
 ==========SG0_A01_07.scx.txt==========
 *The Japanese Office of the Global Brain Science Comprehensive Research Organization in Wako City, Saitama.*
 *Maho Hiyajo had tried her best to hold back a yawn, but in the end, she’d given up and opened her mouth so wide it covered well over half her face.*
@@ -4822,16 +4642,6 @@ Maho: “Hello? Okabe? It’s me! Hiyajo!”
 Maho: “I’m right next to your lab–”
 *But she didn’t get to say another word.*
 *By the time she’d realized that someone had grabbed her from behind, the phone had already slipped from her hands.*
-
-
-
-
-
-
-
-
-
-
 
 ==========SG0_A01_08.scx.txt==========
 Rintaro: “What’s this...?”
@@ -5053,16 +4863,6 @@ Maho: “Talk to her some time, if you ever feel like it. She’s lonely.”
 Rintaro: “Okay...”
 *The word “lonely” made my heart ache a little.*
 *But even so, I still didn’t talk to  that day.*
-
-
-
-
-
-
-
-
-
-
 
 ==========SG0_A01_09.scx.txt==========
 *Several days had passed since Moeka had given her report.*
@@ -5322,16 +5122,6 @@ Kana: “–!”
 Kana: “...”
 *And she slowly collapsed to the floor.*
 
-
-
-
-
-
-
-
-
-
-
 ==========SG0_A02_01.scx.txt==========
 Kana: “...”
 Rintaro: “Well? Calm down a bit?”
@@ -5509,16 +5299,6 @@ Luka: “Yes, all right. If you say so, Okabe.”
 *If it was nothing, then that was fine.*
 *Once Kagari got her memories back, I’d know for sure.*
 *Nobody knew when that would be, though.*
-
-
-
-
-
-
-
-
-
-
 
 ==========SG0_A02_02.scx.txt==========
 *The day after Lukako took Kagari to the lab,*
@@ -5752,16 +5532,6 @@ Maho: “I’ll pass on helping out, but I do want to visit a shrine on New Year
 *If she met Mayuri and they didn’t get along, there was probably no need to go to a party with her.*
 Rintaro: “All right. I’ll let you know the details, then.”
 Maho: “Okay. I’m looking forward to it.”
-
-
-
-
-
-
-
-
-
-
 
 ==========SG0_A02_03.scx.txt==========
 *The time between then and New Year’s flew by.*
@@ -6098,16 +5868,6 @@ Itaru: “Okay, let’s get going, too.”
 Rintaro: “Yeah.”
 *Even without Yuki, there were still twice as many people as usual heading for the lab.*
 
-
-
-
-
-
-
-
-
-
-
 ==========SG0_A02_04.scx.txt==========
 Mayuri: “So, once again, Happy New Year’s!”
 Everyone: “Happy New Year’s!”
@@ -6390,16 +6150,6 @@ Fubuki: “We’re back! I brought us a lot of drinks!”
 Kaede: “Sorry we’re late. Fubuki kept adding more stuff to the cart.”
 Fubuki: “Huh? What happened, guys? You all look so scared.”
 
-
-
-
-
-
-
-
-
-
-
 ==========SG0_A02_05.scx.txt==========
 Luka: “Thanks for taking me home.”
 Rintaro: “It’s fine...”
@@ -6511,16 +6261,6 @@ Itaru: “It’s a lot creepier to see you acting like a normal human being, man
 Rintaro: “Thanks.”
 Itaru: “Don’t worry about it.”
 
-
-
-
-
-
-
-
-
-
-
 ==========SG0_A02_06.scx.txt==========
 *Luka Urushibara was sad.*
 *He’d been sad for a long, long time.*
@@ -6608,16 +6348,6 @@ Luka: “But that’s...”
 *He didn’t even know.*
 *In the end, he would never know anything.*
 *And that only made him sadder.*
-
-
-
-
-
-
-
-
-
-
 
 ==========SG0_A02_07.scx.txt==========
 *The next day, after the attack...*
@@ -6840,16 +6570,6 @@ Tennouji: “No, that’s not it. It’s phonetic code. Military jargon.”
 Rintaro: “Military...”
 Tennouji: “And it’s a Western code, too.”
 
-
-
-
-
-
-
-
-
-
-
 ==========SG0_A02_08.scx.txt==========
 Faris: “Oh, there mew are, Okarin.”
 *I came straight up to the lab, where most of the people who were here yesterday had gathered.*
@@ -7062,7 +6782,6 @@ Amadeus Kurisu: “Help me, Okabe...”
 *I suddenly felt incredibly dizzy, and everything went black.*
 Rintaro: “...”
 Rintaro: “...”
-Rintaro: “...”
 *I felt like I was floating up from the bottom of a black pit.*
 *My mind slowly began to clear.*
 Rintaro: “Where am I?”
@@ -7124,16 +6843,6 @@ Rintaro: “What’s going on–”
 *And right after that–*
 *I suddenly felt incredibly dizzy, and everything went black.*
 Rintaro: “What? What’s going on?!”
-
-
-
-
-
-
-
-
-
-
 
 ==========SG0_A03_01.scx.txt==========
 Kurisu: “...”
@@ -7591,16 +7300,6 @@ Kurisu: “Okabe... It’s time to wake up.”
 *And then I–*
 *I woke up from my short dream.*
 
-
-
-
-
-
-
-
-
-
-
 ==========SG0_A03_02.scx.txt==========
 Rintaro: “...”
 *Color gradually returned to my blacked-out vision.*
@@ -7856,16 +7555,6 @@ Rintaro: “I see.”
 Rintaro: “...”
 *I thought for a while, then took out my phone and booted up the RINE application.*
 
-
-
-
-
-
-
-
-
-
-
 ==========SG0_A03_03b.scx.txt==========
 *Kagari Shiina felt happier and more fulfilled than the people around her thought she was.*
 *Her memories were missing.*
@@ -8001,16 +7690,6 @@ Kagari: “I don’t know... I don’t know... But...”
 Kagari: “For some reason, it suddenly feels like I do.”
 *There was suddenly a piercing pain in the back of her head.*
 *It felt like the beginning of something terrifying. She suddenly felt very nervous.*
-
-
-
-
-
-
-
-
-
-
 
 ==========SG0_A03_04.scx.txt==========
 Tennouji: “Listen, I’m not doing it because you asked me to. Just don’t forget that.”
@@ -8409,16 +8088,6 @@ Rintaro: “No, it’s nothing.”
 *What had happened during the time when she’d lost her memories?*
 *If I could find that out, I might be able to understand what was about to happen to us.*
 
-
-
-
-
-
-
-
-
-
-
 ==========SG0_A03_04b.scx.txt==========
 Maho: “Okay, I’m going to get started. Ready?”
 Kagari: “Y-Yeah...”
@@ -8506,16 +8175,6 @@ Maho: “Yeah. There’s still some things I can check on my own.”
 Maho: “Okay. See you later.”
 *Maho got up and went for the door, without bothering to look back.*
 *She seemed to be silently shutting out the entire world. All we could do was watch her go.*
-
-
-
-
-
-
-
-
-
-
 
 ==========SG0_A03_05.scx.txt==========
 *Maho Hiyajo stared at her computer monitor in a daze.*
@@ -8643,16 +8302,6 @@ Leskinen: “Hahaha...”
 Maho: “Heh... It’s nothing.”
 *She and Dr. Leskinen laughed at Reyes’s confusion.*
 *But the doubts in her mind lingered.*
-
-
-
-
-
-
-
-
-
-
 
 ==========SG0_A03_06.scx.txt==========
 *Kurisu’s memories were inside Kagari’s head.*
@@ -9050,16 +8699,6 @@ Rintaro: “Try to treat her like you normally would, as much as possible.”
 Mayuri: “Yeah. Okay...”
 *I told her to contact me right away if anything came up, then headed back to the lab.*
 
-
-
-
-
-
-
-
-
-
-
 ==========SG0_A03_07.scx.txt==========
 Suzuha: “Is Kagari in bad shape?”
 *That was the first thing Suzuha said to me when I walked through the door.*
@@ -9318,16 +8957,6 @@ Suzuha: “...?”
 *But even though we spent a lot of time on it,*
 *none of us had any good ideas.*
 
-
-
-
-
-
-
-
-
-
-
 ==========SG0_A03_08.scx.txt==========
 Maho: (I can’t believe it...)
 Maho: (No, but it’s true, isn’t it?)
@@ -9409,16 +9038,6 @@ Maho: “That’s right. Wasn’t he–”
 *There was no will that existed after death.*
 *If it existed at all,*
 *it existed inside the brain.*
-
-
-
-
-
-
-
-
-
-
 
 ==========SG0_A03_09.scx.txt==========
 *Several days passed, and I still had no idea who had planted the memories in Kagari’s head.*
@@ -9837,16 +9456,6 @@ Maho: “Use it?”
 *Several days later–*
 *Kagari’s condition was getting worse.*
 
-
-
-
-
-
-
-
-
-
-
 ==========SG0_A03_10.scx.txt==========
 *Staccato footsteps echoed through the darkness.*
 *Akihabara got quiet early.*
@@ -9891,16 +9500,6 @@ Man: “Gwaaah!”
 *One of the men who was trying to attack her from behind suddenly screamed.*
 ???: “You need to cool it. You don’t want to make a lot of noise either, do you?”
 *A huge man came out of the darkness, silhouetted by the moon.*
-
-
-
-
-
-
-
-
-
-
 
 ==========SG0_A03_11.scx.txt==========
 Rintaro: “Wow...”
@@ -10217,16 +9816,6 @@ Kagari: “...”
 *And then the phone up against her head*
 *stopped ringing.*
 
-
-
-
-
-
-
-
-
-
-
 ==========SG0_A04_01.scx.txt==========
 Kurisu: “What do you mean, ‘There you are’? I’ve been here the whole time.”
 Rintaro: “Have you?”
@@ -10301,16 +9890,6 @@ Moeka: “Okabe...”
 *Where was this place?*
 *Where... was I?*
 *I–*
-
-
-
-
-
-
-
-
-
-
 
 ==========SG0_A04_02.scx.txt==========
 Rintaro: “...”
@@ -10586,16 +10165,6 @@ Itaru: “Anything you want, man.”
 Rintaro: “What... year is it?”
 *Daru’s smile quickly became something more serious as he answered me.*
 Itaru: “It’s 2036. The world is at war.”
-
-
-
-
-
-
-
-
-
-
 
 ==========SG0_A04_03.scx.txt==========
 *Daru gave me all the details.*
@@ -11024,16 +10593,6 @@ Maho: “Hang in there.”
 *It took a long, long time.*
 *The journey was unimaginably long.*
 
-
-
-
-
-
-
-
-
-
-
 ==========SG0_A04_04.scx.txt==========
 Rintaro: “...”
 Rintaro: “...”
@@ -11423,16 +10982,6 @@ Rintaro: “Now that everyone’s here, I have something to declare!”
 Rintaro: “As of today, January 31st, 2011, we will begin a new operation!”
 Rintaro: “Our goal is to annihilate the coming future! To overturn the future of the world itself! That is our goal! Got it?”
 
-
-
-
-
-
-
-
-
-
-
 ==========SG0_A04_05.scx.txt==========
 Rintaro: “It’s me...”
 Rintaro: “We will now execute our new operation.”
@@ -11667,16 +11216,6 @@ Maho: “The question is, do I contact her or not?”
 *First, I needed to see if the app even worked anymore.*
 *If it did... I had an idea.*
 Rintaro: “Maho, can I ask you something crazy?”
-
-
-
-
-
-
-
-
-
-
 
 ==========SG0_A04_06.scx.txt==========
 *A full day had passed since the operation began.*
@@ -12072,16 +11611,6 @@ Suzuha: “Protect yourself, if you have to.”
 Rintaro: “...”
 *I hesitated, but decided to take it.*
 *It was the first time in my life I’d ever held a gun, and it was a lot heavier than I expected it to be.*
-
-
-
-
-
-
-
-
-
-
 
 ==========SG0_A04_07.scx.txt==========
 *The lights were still on at the building in Kanda.*
@@ -12560,16 +12089,6 @@ Kagari: “Yeah...”
 *I whispered softly to a girl who was no longer there.*
 Rintaro: “I’ll see you again, Kurisu...”
 
-
-
-
-
-
-
-
-
-
-
 ==========SG0_A04_08.scx.txt==========
 Fubuki: “Okay, Mayushii. We’ll be back.”
 Mayuri: “Okay, bye!”
@@ -12685,16 +12204,6 @@ Rintaro: “Yes... I promise.”
 *Kurisu– until the day comes that we meet,*
 *all I have, I give to you.*
 Rintaro: “El Psy Kongroo.”
-
-
-
-
-
-
-
-
-
-
 
 ==========SG0_A04_09.scx.txt==========
 *December, 2011.*
@@ -12824,16 +12333,6 @@ Rintaro: “It is time! In the name of Kyoma Hououin, I now initiate Operation H
 *To find the way there, I would change the past again.*
 Lab mems: “Okey-dokey!”
 *Kurisu– so that someday we can be together once more.*
-
-
-
-
-
-
-
-
-
-
 
 ==========SG0_B01_01.scx.txt==========
 Rintaro: “...I want to stop being a tester.”
@@ -13256,16 +12755,6 @@ Rintaro: “What... is going on?”
 *Dr. Leskinen and Maho were having the police take them back to their hotel in Wako, so we split up in front of the police station.*
 *We never did find out why the man had attacked us.*
 
-
-
-
-
-
-
-
-
-
-
 ==========SG0_B01_02.scx.txt==========
 *She felt dizzy.*
 *“That’s strange,” Suzuha thought. She stopped moving.*
@@ -13659,16 +13148,6 @@ Suzuha: (Mom really is a nice person...)
 *But sending this brief, happy time beyond the horizon of the world line was supposed to be Suzuha’s mission.*
 *If she didn’t, this world would be destroyed.*
 
-
-
-
-
-
-
-
-
-
-
 ==========SG0_B01_03.scx.txt==========
 Maid: “Welcome back, meowster!”
 *As I walked into the maid cafe “May Queen Nyan²,” the cat-eared maids working there greeted me cheerfully.*
@@ -13910,16 +13389,6 @@ Itaru: “And I’m not forcing you. If you remember and don’t want to tell me
 Rintaro: “Yeah.”
 *I sighed and gulped down my cold coffee.*
 
-
-
-
-
-
-
-
-
-
-
 ==========SG0_B01_04.scx.txt==========
 Amadeus Kurisu: “Listen, it’s too early for this...”
 Amadeus Kurisu: “Just go talk to Maho. Go on, hurry.”
@@ -14138,16 +13607,6 @@ Maho: “You really are weird.”
 *But even as she said it, she was smiling.*
 *I guess she decided to go to the party.*
 
-
-
-
-
-
-
-
-
-
-
 ==========SG0_B01_05.scx.txt==========
 Kagari: “No, Big Sis Suzuha. You can’t do that.”
 Kagari: “You can’t change the world. You’re not making sense!”
@@ -14251,16 +13710,6 @@ Suzuha: “The war’s coming, and very soon.”
 *For about two weeks now, someone had been watching Suzuha and the time machine. It was clear that some great power was on the move.*
 Itaru: “Okey-dokey.”
 *Suzuha nodded, satisfied at Itaru’s answer, and went to the bathroom to wash her face.*
-
-
-
-
-
-
-
-
-
-
 
 ==========SG0_B01_06.scx.txt==========
 Amadeus Kurisu: “I’m telling you, don’t talk to me, talk to Maho!”
@@ -14797,16 +14246,6 @@ Rintaro: “Ugh...”
 *I knew it far better than I had ever wanted.*
 *This was–*
 *Reading... Steiner...!*
-
-
-
-
-
-
-
-
-
-
 
 ==========SG0_B01_07.scx.txt==========
 *For the first time in almost four months, I felt like the whole world was twisting.*
@@ -15391,16 +14830,6 @@ Rintaro: “Why does the US military have Amadeus?”
 *I was about to ask Hammond when...*
 *For the first time in about a month, that feeling came back.*
 
-
-
-
-
-
-
-
-
-
-
 ==========SG0_B01_08.scx.txt==========
 Amadeus Kurisu: “Oh, Okabe. It looks really cold again today.”
 Amadeus Kurisu: “...?”
@@ -15856,16 +15285,6 @@ Rintaro: “I decided... that I’m not getting back in that thing.”
 *No matter what Daru said, no matter how Suzuha threatened me, I wasn’t going back to the past.*
 *I can’t... look back...*
 
-
-
-
-
-
-
-
-
-
-
 ==========SG0_B01_09.scx.txt==========
 *The next thing she knew, Suzuha was inside the time machine, wrapped up in a blanket.*
 *She must’ve been crying a lot, because she hadn’t even noticed that she’d come inside the time machine, or that Rintaro had left.*
@@ -15957,16 +15376,6 @@ Suzuha: “Maybe... that wouldn’t be so bad...”
 *She sat down and held her knees like a child, then softly closed her eyes.*
 Itaru: “I see... so Suzuha’s leaving before summer ends... no matter what Okarin decides...”
 *Just before she fell asleep, she thought she heard her father talking to himself.*
-
-
-
-
-
-
-
-
-
-
 
 ==========SG0_B01_10.scx.txt==========
 Maho: “Th-This⋯ This is truly paradise!”
@@ -16365,16 +15774,6 @@ Itaru: “Well, whatever. Fine. Come to the address I’m about to give you.”
 *But she didn’t say anything.*
 *The location he gave me was still in Akihabara.*
 *It was less than five minutes away.*
-
-
-
-
-
-
-
-
-
-
 
 ==========SG0_B01_11.scx.txt==========
 *Down an alley, a few turns off main strip, all the hustle and bustle of the crowd completely disappears.*
@@ -17006,16 +16405,6 @@ Rintaro: “I’d rather not stay here if I can avoid it.”
 Rintaro: “We’ll move at sunset.”
 *It would’ve been great if Suzuha had come back, but I couldn’t get in touch with her.*
 
-
-
-
-
-
-
-
-
-
-
 ==========SG0_B01_12.scx.txt==========
 Maho: “Whew...”
 *Maho was sinking into a warm bathtub.*
@@ -17282,16 +16671,6 @@ Maho: “Is the man I fell in love with really that weak?”
 *She felt embarrassed, as if she was a little kid, but at the same time she felt like now, she might not have any more nightmares.*
 *That night, for the first time in a very long while, she dreamed of a smiling Kurisu.*
 
-
-
-
-
-
-
-
-
-
-
 ==========SG0_B01_13.scx.txt==========
 *Maho and I stayed at Faris’s house for several days after that.*
 *Now that Kurisu’s computer was destroyed, the odds that anyone would come after us had gone way down, but there was still a chance.*
@@ -17380,16 +16759,6 @@ Rintaro: “No, thank you.”
 *As I watched their plane take off into the distance,*
 *I noticed that it felt like there was a hole in my heart.*
 *I clutched my phone tightly. Its connection to Amadeus was gone.*
-
-
-
-
-
-
-
-
-
-
 
 ==========SG0_B01_14.scx.txt==========
 Mayuri: “Kagari, from now on, you’re officially my daughter.”
@@ -17541,16 +16910,6 @@ Kagari: “I’ll treat you. Take off these bandages.”
 Kagari: “I wonder if I’ll hear the voice of God soon,”
 *she whispered.*
 *She took off on her motorcycle.*
-
-
-
-
-
-
-
-
-
-
 
 ==========SG0_B01_15.scx.txt==========
 *It was almost July.*
@@ -17817,16 +17176,6 @@ Mayuri: “But...”
 Rintaro: “She’s back in the hospital...?”
 *I couldn’t believe what I was seeing on the screen.*
 
-
-
-
-
-
-
-
-
-
-
 ==========SG0_B01_16.scx.txt==========
 *Fubuki was at a different location than before. This time it was the AH Tokyo General Hospital High-Tech Medical Center in Yoyogi.*
 *It was supposedly one of Japan’s most advanced hospitals.*
@@ -18046,16 +17395,6 @@ Mayuri: “Okarin, we’re here!”
 *And there was a very short response from “KuriGohan and Kamehameha.”*
 *There could be no doubt now.*
 *This “KuriGohan and Kamehameha” was .*
-
-
-
-
-
-
-
-
-
-
 
 ==========SG0_B01_17.scx.txt==========
 *It was a very hot day in 1998 when Suzuha said goodbye to Kagari Shiina.*
@@ -18734,16 +18073,6 @@ Suzuha: “Mm... I’m fine... but let me rest a little.”
 *That was all she had the energy to say.*
 *She closed her eyes in her dad’s arms, and her consciousness melted away.*
 
-
-
-
-
-
-
-
-
-
-
 ==========SG0_B01_18.scx.txt==========
 *When July came, the sun shone down even harder on eastern Japan. Summer was truly here.*
 *The news had been saying for days that the heat island effect might make this the hottest summer in years.*
@@ -18907,16 +18236,6 @@ Maho: “What?! I can’t believe it! You’re kidding me! That pervert?!”
 *Daru had said he was talking to Maho a lot, too, and I could just imagine what their conversations were like.*
 *But actually, if Daru didn’t do his best today, it would ruin the world’s entire chain of causality.*
 *In that sense, Daru’s date today was an event with universe-spanning implications.*
-
-
-
-
-
-
-
-
-
-
 
 ==========SG0_B01_19.scx.txt==========
 *About half the seats at Go Go Curry were full.*
@@ -19162,16 +18481,6 @@ Suzuha: “Okey-dokey!”
 *If nothing else, this meant that Maho Hiyajo was coming to the Future Gadget Lab.*
 *Suzuha hoped that this meant the work on the PhoneWave would get back on track.*
 
-
-
-
-
-
-
-
-
-
-
 ==========SG0_B01_20.scx.txt==========
 *There was a small explosion, and the room filled with smoke.*
 Maho: “Gwakk... The window! Open the window!”
@@ -19267,16 +18576,6 @@ Maho: “?!”
 *There was no way she could get them without Okabe seeing her.*
 *Her only choice was to stay hidden, completely undressed, and wait for him to leave.*
 Maho: (But this is... really... kind of nerve-wracking...)
-
-
-
-
-
-
-
-
-
-
 
 ==========SG0_B01_21.scx.txt==========
 Rintaro: “Hey, Daru.”
@@ -19719,16 +19018,6 @@ Rintaro: “Oh, no...”
 Rintaro: “Damn it!”
 *I ran out of the lab.*
 
-
-
-
-
-
-
-
-
-
-
 ==========SG0_B01_22.scx.txt==========
 Suzuha: “Whew. It’s still hot.”
 *The summer solstice had passed, and by 6 PM, the sun was finally setting behind the city’s skyline. Part of the sky was still red and the rest a dirty blue.*
@@ -19896,16 +19185,6 @@ Suzuha: “W-What is this?!”
 *When she saw the sender and subject line, Suzuha gasped.*
 Suzuha: “This... This is a video message from the future...”
 
-
-
-
-
-
-
-
-
-
-
 ==========SG0_B01_23.scx.txt==========
 Rintaro: “Ha... ha... ha...”
 *I stuck my hand against the wall of the Braun Tube Workshop to catch my breath.*
@@ -20036,16 +19315,6 @@ Itaru: “I’ll go, too–”
 Rintaro: “You and Hiyajo stay here and gather information! Mayuri might come back!”
 Rintaro: “But if something happens, run!”
 *I gave my orders and ran out of the lab towards the Radio Building.*
-
-
-
-
-
-
-
-
-
-
 
 ==========SG0_B01_24.scx.txt==========
 *Suzuha hit the “play” button on her smartphone’s video display.*
@@ -20320,16 +19589,6 @@ Armed man: “Uwaaahh!”
 *An instant later, the knife slit his throat and ended his life.*
 Armed man: “R-Retreat! Retreat!”
 *The survivors began to flee in terror.*
-
-
-
-
-
-
-
-
-
-
 
 ==========SG0_B01_25.scx.txt==========
 Rintaro: “Hahh... hahh...hahh...”
@@ -21200,16 +20459,6 @@ Rintaro: “I will find the path to Steins Gate!”
 *I would use every bit of dedication and obsession within me to seek the lone different outcome, which the laws of God could not reach.*
 Rintaro: “That... is my choice!”
 
-
-
-
-
-
-
-
-
-
-
 ==========SG0_B02_11.scx.txt==========
 *As soon as we left the building, I could see a car coming down the empty alleyway. It was a big American RV.*
 *We quickly hid ourselves in the shadow of another building.*
@@ -21237,16 +20486,6 @@ Maho: “Oh, right.”
 Maho: “I need to contact the professor.”
 Rintaro: “You should tell him to hide somewhere for today. If we meet up with him, it could put him in danger.”
 *Maho nodded.*
-
-
-
-
-
-
-
-
-
-
 
 ==========SG0_B02_12.scx.txt==========
 *Rintaro took Maho to Faris Nyannyan’s home.*
@@ -21411,16 +20650,6 @@ Maho: “Th-That doesn’t bother me⋯”
 *Maho and Dr. Leskinen returned to America via Narita Airport, just like they’d planned.*
 *Rintaro had come to see them off, and he was very surprised when Dr. Leskinen told him he could continue being a tester.*
 *–And then half a year passed.*
-
-
-
-
-
-
-
-
-
-
 
 ==========SG0_B02_13.scx.txt==========
 *Viktor Chondria University’s grounds were dead quiet.*
@@ -21704,16 +20933,6 @@ Leskinen: “Maho, remember that Japan trip we were just talking about? You’re
 *But  was no longer there.*
 *The one thing she knew was...*
 *Okabe’s words weren’t the ramblings of a conspiracy theorist after all.*
-
-
-
-
-
-
-
-
-
-
 
 ==========SG0_B02_14.scx.txt==========
 *It was almost July.*
@@ -22147,16 +21366,6 @@ Mayuri: “Okarin?”
 *But how would I explain it?*
 *It might be a better idea to talk to Maho and have her explain it to him.*
 *I couldn’t come to an answer right away.*
-
-
-
-
-
-
-
-
-
-
 
 ==========SG0_B02_15.scx.txt==========
 *It was a very hot day in 1998 when Suzuha said goodbye to Kagari Shiina.*
@@ -22674,16 +21883,6 @@ Suzuha: “Mm... I’m fine... but let me rest a little.”
 *That was all she had the energy to say.*
 *She closed her eyes in her dad’s arms, and her consciousness melted away.*
 
-
-
-
-
-
-
-
-
-
-
 ==========SG0_B02_16.scx.txt==========
 *When July came, the sun shone down even harder on eastern Japan. Summer was truly here.*
 *The news had been saying for days that the heat island effect might make this the hottest summer in years.*
@@ -22813,16 +22012,6 @@ Rintaro: “It was the best thing to do. I explained that to you before, didn’
 Maho: “Yeah, you’re right.”
 *She looked down, a sad expression on her face.*
 *I’d told her I was going to do it ahead of time, but it still must have upset her to see one of the last things she had to remember Kurisu by destroyed.*
-
-
-
-
-
-
-
-
-
-
 
 ==========SG0_B02_17.scx.txt==========
 *About half the seats at Go Go Curry were full.*
@@ -23053,16 +22242,6 @@ Itaru: “Yeah...”
 *Suzuha was starting to wonder about leaving, especially now that she had even more to worry about.*
 *–Maybe I shouldn’t have talked to Yuki after all.*
 *She realized again how powerless she was, being from the future.*
-
-
-
-
-
-
-
-
-
-
 
 ==========SG0_B02_18.scx.txt==========
 *The Global Brain Science Comprehensive Research Organization Japanese Office Prep Room in Wako City hadn’t changed a bit in six months.*
@@ -23304,16 +22483,6 @@ Rintaro: “...”
 *And wait... was she still crying?*
 *Before I could figure out if her tears were real or an act, I passed out–*
 
-
-
-
-
-
-
-
-
-
-
 ==========SG0_B02_19.scx.txt==========
 *When I woke up, my throat hurt.*
 Rintaro: “Cough... cough, cough, cough...”
@@ -23526,16 +22695,6 @@ Rintaro: “...”
 *And then I felt sick as I remembered that I was fated not to die until 2025.*
 *If no amount of torture could kill me...*
 *This was literally Hell.*
-
-
-
-
-
-
-
-
-
-
 
 ==========SG0_B02_20.scx.txt==========
 *Her head hurt.*
@@ -23948,16 +23107,6 @@ Maho: “Let’s go.”
 *To avoid that cruel future.*
 *Maho ran through the streets of Akihabara, where a war was already beginning.*
 
-
-
-
-
-
-
-
-
-
-
 ==========SG0_B02_21.scx.txt==========
 ???: “O... be...”
 *A voice.*
@@ -24080,16 +23229,6 @@ Rintaro: “I...”
 *I’m sorry, Mayuri.*
 *I’m sorry, Kurisu.*
 *Forgive me... for giving up here...*
-
-
-
-
-
-
-
-
-
-
 
 ==========SG0_K01_01.scx.txt==========
 *The dizziness stopped.*
@@ -24300,16 +23439,6 @@ Kagari: “That... song...”
 Mayuri: “Kagari!”
 Rintaro: “Kagari!”
 
-
-
-
-
-
-
-
-
-
-
 ==========SG0_K01_02.scx.txt==========
 Mayuri: “Searching for one thing,”
 Mayuri: “the laughter of the stars,”
@@ -24347,16 +23476,6 @@ Kagari: “N–”
 Kagari: “No...!”
 Kagari: “Don’t go!”
 Kagari: “Mommy!”
-
-
-
-
-
-
-
-
-
-
 
 ==========SG0_K01_03.scx.txt==========
 Kagari: “...”
@@ -24893,16 +24012,6 @@ Rintaro: “...Okay. Let’s go.”
 Kagari: “Thank you!”
 *The sun was about to set, so we decided to go the next day.*
 
-
-
-
-
-
-
-
-
-
-
 ==========SG0_K01_04.scx.txt==========
 *The next day, the sky had been cloudy since morning.*
 *I met with Kagari and Mayuri at a spot near the cemetery where her grandmother was buried.*
@@ -25004,16 +24113,6 @@ Mayuri: “Kagari! Run!”
 Mayuri: “Kyah!”
 *And then I used that momentum to run out into the street myself.*
 Mayuri: “Okarin!”
-
-
-
-
-
-
-
-
-
-
 
 ==========SG0_K01_05.scx.txt==========
 Mayuri: “A long time ago, the air wasn’t dirty like it is now, so nobody cared if they got wet in the rain.”
@@ -25119,16 +24218,6 @@ Kagari: “I have to go.”
 *She shook off the professor’s hand and ran off into the street, through the pouring rain.*
 *And then she saw a truck, splashing up water from the puddles as it came barreling towards her.*
 
-
-
-
-
-
-
-
-
-
-
 ==========SG0_K01_06.scx.txt==========
 Kagari: “...”
 Kagari: “...”
@@ -25211,16 +24300,6 @@ Mayuri: “You were sad for so long because of me, weren’t you?”
 Mayuri: “I’m sorry.”
 Kagari: “Mommy!”
 
-
-
-
-
-
-
-
-
-
-
 ==========SG0_K01_07.scx.txt==========
 Kagari: And that’s how I, Kagari Shiina, got all my memories back.
 Kagari: The next several months were wonderful.
@@ -25283,16 +24362,6 @@ Kagari: She was saying that she was sorry for leaving me alone.
 Kagari: It was about half a year later when I realized this.
 Kagari: July 7th, 2011.
 Kagari: The day of Tanabata.
-
-
-
-
-
-
-
-
-
-
 
 ==========SG0_K01_08.scx.txt==========
 Kagari: To tell the truth, I had known it was coming.
@@ -25482,16 +24551,6 @@ Kagari: “if you reach out, you can grab it.”
 *No matter how far apart they were,*
 *that song would connect them together.*
 
-
-
-
-
-
-
-
-
-
-
 ==========SG0_M01_00.scx.txt==========
 Maho: Amadeus and Salieri...
 Maho: Kurisu and me.
@@ -25538,16 +24597,6 @@ Maho: I respected Kurisu.
 Maho: I admired Kurisu.
 Maho: I–
 Maho: I...
-
-
-
-
-
-
-
-
-
-
 
 ==========SG0_M01_01.scx.txt==========
 *The sense of dizziness that I’d experienced so many times before slowly faded.*
@@ -25820,16 +24869,6 @@ Maho: “Wha-?!”
 Maho: “I’m an adult!”
 Moeka: “...”
 *In the end, my opposition to it was completely ignored.*
-
-
-
-
-
-
-
-
-
-
 
 ==========SG0_M01_02.scx.txt==========
 *The next day was the last day of New Year’s break.*
@@ -26336,16 +25375,6 @@ Rintaro: “...”
 Rintaro: “Just what the hell is Reading Steiner, anyway?”
 *Was it ever going to be scientifically explained?*
 
-
-
-
-
-
-
-
-
-
-
 ==========SG0_M01_03.scx.txt==========
 Maho: “Fwaah... Oh, oops.”
 *Maho quickly choked back her yawn, and looked around to see if anyone saw her.*
@@ -26848,16 +25877,6 @@ Faris: “I love mew, too! I’ll make you tea for the rest of your life, nya!�
 Maho: “Huh?! Is that what I just said?”
 *The next few minutes were a struggle to stop Faris from rubbing her face against her cheek.*
 
-
-
-
-
-
-
-
-
-
-
 ==========SG0_M01_04.scx.txt==========
 *I sighed a little as I got off the train at Akihabara.*
 Rintaro: “Come to think of it, I’ve come to Akihabara five days in a row.”
@@ -27272,16 +26291,6 @@ Maho: “Thanks for listening.”
 Rintaro: “Any time, I guess.”
 *Maho smiled a little and left the room.*
 
-
-
-
-
-
-
-
-
-
-
 ==========SG0_M01_05.scx.txt==========
 Nae: “Big Sis Mayuri, let’s go there next!”
 Mayuri: “Okay! Let’s go! Ready, start!”
@@ -27408,16 +26417,6 @@ Rintaro: “Gahh!”
 Mayuri: “Okarin!”
 *I just hope Maho made it away okay...*
 *That was my only thought before I passed out.*
-
-
-
-
-
-
-
-
-
-
 
 ==========SG0_M01_06.scx.txt==========
 *Maho just kept running.*
@@ -27890,16 +26889,6 @@ Maho: “What?!”
 *She quickly covered her eyes and ears–*
 *And then she heard the boom.*
 
-
-
-
-
-
-
-
-
-
-
 ==========SG0_M01_07.scx.txt==========
 *They snuck back to the office.*
 *Maho and Moeka quietly looked inside the open door.*
@@ -28063,9 +27052,6 @@ Moeka: “–nicht.”
 Amadeus Kurisu: “Control key confirmed. Shifting system to emergency mode.”
 Amadeus Kurisu: “Executing patch program specified by the control key.”
 Amadeus Kurisu: “There will be no confirmations issued during processing. Please be careful when using this patch.”
-Amadeus Kurisu: “Awaiting top-level administrator Maho Hiyajo’s orders to execute process.”
-Amadeus Kurisu: “Awaiting top-level administrator Maho Hiyajo’s orders to execute process.”
-Amadeus Kurisu: “Awaiting top-level administrator Maho Hiyajo’s orders to execute process.”
 Amadeus Kurisu: “Awaiting top-level administrator Maho Hiyajo’s orders to execute process.”
 Amadeus Kurisu: “Awaiting top-level administrator Maho Hiyajo’s orders to execute process.”
 *Amadeus’s mechanical voice filled the room.*
@@ -28276,23 +27262,12 @@ Maho: “Kuri... su...”
 Maho: “...Uwahhh...”
 Maho: “Waaaaaaaaah!”
 Maho: “Waaaaaaaaah!”
-Maho: “Waaaaaaaaah!”
 *She was never going to see  or Kurisu*
 *ever again.*
 *When she realized that, the tears just wouldn’t stop.*
 *They flowed freely.*
 *And she didn’t even try to stop them.*
 *She cried like a little girl until the EMTs arrived.*
-
-
-
-
-
-
-
-
-
-
 
 ==========SG0_M01_08.scx.txt==========
 Cabin Attendant: “Attention all passengers. We will be departing shortly. Please fasten your safety belts.”
@@ -28381,16 +27356,6 @@ Maho: “...”
 Maho: “...Just a little.”
 Maho: “...Heheh.”
 Maho: “See you soon, Moeka.”
-
-
-
-
-
-
-
-
-
-
 
 ==========SG0_T01_01.scx.txt==========
 Rintaro: “Now that the causal link has been established, allow me to explain the final stage of the plan.”

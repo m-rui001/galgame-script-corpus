@@ -1,4 +1,4 @@
-﻿*It's currently sometime in late August. Summer break is winding down, but the oppressive summer heat doesn't seem to be going anywhere.*
+*It's currently sometime in late August. Summer break is winding down, but the oppressive summer heat doesn't seem to be going anywhere.*
 *It's so awful it gets above 95 some days. And what's worse, it isn't much better at night.*
 *Today happens to be one of those. I'm almost dying out here.*
 ? ? ?: *sigh*
@@ -15,9 +15,9 @@ Levy 6: This heat's just... doing things to my head. *sigh* God, I'm burning up.
 *I grab my collar and start fanning myself.*
 *But, unfortunately fanning in this humid air does nothing to cool me off.*
 *If only I wasn't in long sleeves and wearing gloves right now... This is just torture.*
-Levy 9: I know it's stuffy, but we don't have a choice. We have to wear these outfits when we're on the job. 
+Levy 9: I know it's stuffy, but we don't have a choice. We have to wear these outfits when we're on the job.
 Levy 6: Sure, but why can't we get a summer outfit or something? I don't think that's too much to ask for.
-Levy 9: Well, you hear his constant whining and complaining about our lack of money. 
+Levy 9: Well, you hear his constant whining and complaining about our lack of money.
 Levy 6: I mean, sure, but that's no excuse to subject us to this crap...
 Levy 6: How are you even managing?
 Levy 9: I'm not. I'm all nasty and sweaty and my clothes are sticking to me. *sigh*... When do I get to go back to an actual air-conditioned room?
@@ -28,7 +28,7 @@ Levy 9: God, I feel so gross. I'm going to start itching like crazy if I don't g
 Levy 9: I'm just gonna have to suck it up. This is the price I pay for having this outfit look more fashionable.
 Levy 6: ......
 *Well, I agree the outfit looks nice.*
-Levy 6: Man, I wish I could sew. You can just make whatever outfit you want. 
+Levy 6: Man, I wish I could sew. You can just make whatever outfit you want.
 Levy 9: Well, I can't exactly make clothes... Why'd you bring up my sewing skills, though? What's this about?
 Levy 6: Could you maybe make my outfit short-sleeved? Pretty please?
 Levy 9: I guess I could, if you really wanted... But that'd be permanent. Are you sure you want to go running around in a short-sleeved outfit in winter?
@@ -49,7 +49,7 @@ Levy 9: Nope. Our target is nowhere to be found.
 *On the screen is video of a road. Countless cars are flying past in each direction.*
 *We're searching for a particular vehicle using the N-system, but yeah... no hits yet. *
 Levy 6: You sure you got the right number?
-Levy 9: Yeah, unless they sent me the wrong number. Unfortunately we received the number from an outside source this time around, so... not much we can do to verify it. 
+Levy 9: Yeah, unless they sent me the wrong number. Unfortunately we received the number from an outside source this time around, so... not much we can do to verify it.
 Levy 6: And they barely gave us anything else to work off of.
 Levy 9: Well, remember, this case wasn't tasked to us originally. We were just dispatched as backup to make sure everything was resolved swiftly and without incident.
 Levy 6: Yeah, they're usually too worried about appearances to send us in. Wonder why they choose to this time?
@@ -78,8 +78,8 @@ Levy 9: Looks like we've got an Astral.
 Levy 6: Yep.
 *The scooter moves via that invisible force and eventually, it lies down on the bed of the truck.*
 *The other guy then locks it down.*
-Levy 9: Change of mission from McGregor. We're now to pursue the targets. 
-Levy 6: Copy that. 
+Levy 9: Change of mission from McGregor. We're now to pursue the targets.
+Levy 6: Copy that.
 Boy A: Man, this shit is easy! Like stealing candy from a baby!
 Boy B: Yeah, says the guy who didn't even lift a finger.
 Boy A: Uhh, I drove the truck, dude! Plus I locked that thing down on the bed! I did plenty of shit!
@@ -90,7 +90,7 @@ Boy A: Oh, so you get exhausted when you use your powers and stuff?
 Boy B: Those things weigh close to a hundred kilograms, man. No shit lifting three of those is gonna wear me out.
 Boy A: But, like, you're not actually lifting 'em, right? Your psychic power's doin' all the work for ya.
 Boy B: It's not physically exhausting... I don't know how to really describe it. It's like a headache.
-Boy A: A headache? So you basically just feel dizzy and shit? 
+Boy A: A headache? So you basically just feel dizzy and shit?
 Boy B: Well, yeah. Using your ability requires a lot of concentration.
 Boy B: For me, I gotta focus on my target super hard and keep doing that as long as I'm transporting it.
 Boy A: Huh. Well, I know what it's like to get a headache when you think too hard about stuff, so I kinda get what you mean... Good job out there today, man. Want some water?
@@ -103,11 +103,11 @@ Boy A: The guys we sell to are the only ones I know of that'll do business with 
 Boy B: Fair point.
 Boy A: Don't know what you're complaining about, man. It was one day's worth of work... Actually, more like a few hours. 100k plus for a few hours is good.
 Boy B: I guess.
-Boy A: God, Astral abilities are fucking great. Wish I had me one. 
+Boy A: God, Astral abilities are fucking great. Wish I had me one.
 Boy B: Oh, I'd gladly give you mine if I could. This shit ruined my whole goddamn life.
 Boy A: Oh, so the kids bullied ya on the playground or somethin'?
 Boy B: Shut the fuck up! Just hurry up and call the fucking guy so he can get over here and pick these things up.
-Boy A: Don't go ballistic on me, man. I ain't trying to criticize on you or anything. Heck, that ability's the reason these rad scooters are ours now. 
+Boy A: Don't go ballistic on me, man. I ain't trying to criticize on you or anything. Heck, that ability's the reason these rad scooters are ours now.
 Levy 6: Oh, but they aren't yours. You stole them.
 Both: Wha--?!
 Boy B: Wh-Who's there?!
@@ -181,7 +181,7 @@ Boy B: Hah! What are you, a fucking counselor?! Take your advice and shove it ri
 Levy 6: I'll tell you something you might like to know. The guy buying those scooters off you? He works for a massive overseas crime organization.
 Levy 6: You and I probably better know them as the mafia. You ever heard the rumors about their kidnappings of Astrals?
 Boy B: WHAT?! That's all made-up horseshit, and you know it.
-Boy B: Some politician said they'd never had any kidnapping cases involving the mafia. 
+Boy B: Some politician said they'd never had any kidnapping cases involving the mafia.
 Levy 6: Use your brain. Would any sane politician admit that something like that is going on? Hell no.
 Boy B: ......
 Levy 6: They're still assessing your usefulness right now, but you can bet that if they end up liking your ability, they're gonna make you join 'em.
@@ -196,7 +196,7 @@ Boy B: Kgh!
 Levy 6: Your Psychokinesis doesn't have to be used for evil. If you just try, I'm sure you can live a decent life with your abilities.
 Boy B: Cut the shit. You are with the police, aren't you?
 Levy 6: I promise I'm not. Though, you're free to not believe me.
-Levy 6: Look, I'm a fellow Astral. Just quit the crime and live a clean life. You'll thank yourself later. 
+Levy 6: Look, I'm a fellow Astral. Just quit the crime and live a clean life. You'll thank yourself later.
 Boy B: Fuck off! *cough* *cough*!
 *Right after, I hear the braking sounds of multiple cars.*
 *And seconds later, a bunch of strong-looking men storm the warehouse. *
@@ -242,9 +242,9 @@ Satoru: This is the famous Washizu Research City, huh?
 Nanami: Do you know how we get to Kikka Academy from here?
 Satoru: We're supposed to get on the lightrail, and get off at the Kikka Academy station. You'll see the school right when you get off, apparently.
 Nanami: The lightrail? What's that?
-Satoru: It's what they call the metro here, apparently. It's astron-powered. 
+Satoru: It's what they call the metro here, apparently. It's astron-powered.
 Nanami: Oh, wow. I'd heard they were testing out stuff like that, but I never knew it was happening here.
-Satoru: I guess that's only to be expected. This IS a town dedicated to astron research, after all. 
+Satoru: I guess that's only to be expected. This IS a town dedicated to astron research, after all.
 *In most other cities, the average resident would probably feel hesitant to ride on an astron-powered train. New things scare people.*
 Satoru: Supposedly they also have cars that run on astral energy here.
 Nanami: I wonder if the public buses are like that too?
@@ -267,14 +267,14 @@ Satoru: I'm sure you'll get some opportunities to go to some in the near future.
 Announcement: "The next stop is Kikka Academy. I repeat, Kikka Academy. Please take all of your belongings with you as you exit the train."
 Satoru: That's us.
 Nanami: The ride was a lot less bumpy and noisy than I expected.
-Satoru: Yeah, and it can be faster than a bus ride depending on where you're going. 
+Satoru: Yeah, and it can be faster than a bus ride depending on where you're going.
 Nanami: I could definitely get used to riding it regularly.
 *I took the opportunity to check out the city while we were on the metro, and I have to say, it's even more urbanized than I expected.*
 *All the architecture looks like it was built yesterday, which I guess is no surprise. It is a new city.*
 *The building in front of us is no different. It's very well-designed and has a modern feel to it.*
-Satoru: Here we are, Kikka Academy. 
+Satoru: Here we are, Kikka Academy.
 Nanami: It's a really pretty building, I'll say.
-Satoru: Well, it was only founded a couple years back. 
+Satoru: Well, it was only founded a couple years back.
 Nanami: Gosh, the campus looks HUGE. I sure hope I'll be able to remember where everything is.
 Nanami: Ahh, my heart's pounding so hard right now. This is it... our new life. Surrounded by strangers...
 Satoru: Relax. If you're this much of a nervous wreck now, you're gonna have a heart attack before the day ends.
@@ -282,7 +282,7 @@ Nanami: I know, but I seriously can't help it.
 Guard A: ......
 *I see the security guard eying us suspiciously as we stand in front of the gate, idly chatting.*
 *I sure hope he'll be willing to contact the school for us, because we haven't actually received our student IDs yet.*
-Voice: Excuse me. 
+Voice: Excuse me.
 Satoru: Yeah?
 *I hear someone call out to us from behind, and swiftly turn around.*
 *A girl is standing there with a welcoming smile on her face.*
@@ -305,7 +305,7 @@ Nanami: Not the one WE saw. It was a different one.
 Satoru: How famous is this girl?
 Nanami: Honestly, she's probably the most well-known Astral in the world.
 Satoru: Is she an actor or something?
-Girl: Hahaha! Oh, hardly! I'm nowhere near that special. 
+Girl: Hahaha! Oh, hardly! I'm nowhere near that special.
 Nanami: You do make television appearances, though, right? And you've even been given the nickname the "Cute Girl Astral" on the internet--
 Girl: P-Please don't bring that up! I'm extremely embarrassed by those.
 *She covers her face in a fit of embarrassment. *
@@ -333,11 +333,11 @@ Guard A: Okay.
 Ayase: Straight ahead you'll find the school building itself, while the dormitories are located over in that direction.
 Ayase: I'd estimate it at around a three minute walk from here.
 Satoru: Kikka Academy is pretty huge.
-Ayase: Oh, but we have more than just the school building and our student dormitories. You might be interested in seeing the school's astron research facility. 
+Ayase: Oh, but we have more than just the school building and our student dormitories. You might be interested in seeing the school's astron research facility.
 Ayase: I do agree that our campus is quite larger than what is normal, however. Washizu City is a fair distance away from the metropolitan area, so land is cheap.
 Ayase: Follow me to the school building. We'll enter in and head straight to the principal's office.
 Nanami: Whoa, the inside is so pretty too...
-Ayase: It is, isn't it? This school was built quite recently, only in the past decade. 
+Ayase: It is, isn't it? This school was built quite recently, only in the past decade.
 Ayase: Also, since our school is a boarding school, we have fewer students than an average school would.
 Satoru: What's the student population at?
 Ayase: Most classes have on average thirty students per class, and each grade level has four different classes.
@@ -370,7 +370,7 @@ Ayase: I didn't startle you by any chance, did I? If so, I'm terribly sorry.
 Nanami: Oh, no, it wasn't your fault, at all... Sorry about that...
 Satoru: She's just a little shy, don't worry about it. It's not that she doesn't like you or that she's scared of you, she's just nervous.
 Satoru: Oh, and it might create a bit of confusion if you call us both by our surnames, so feel free to call her Nanami. She'd appreciate it.
-Nanami: Satoru-kun?! When did I ever say I'd-- 
+Nanami: Satoru-kun?! When did I ever say I'd--
 Ayase: I hope we can become good friends, Nanami-san.
 Nanami: E-Eep! Um, me too, Mitsukasa-senpai.
 Ayase: Oh gosh, isn't that adorable! Her face turned bright red.
@@ -436,7 +436,7 @@ Atsunori: We constructed this database to ensure that researchers are able to fi
 *Police also have access to this database, if they go through a certain procedure to obtain permission. *
 *But due to the nature of the AIMS... since it's basically a giant list of people's private information, I've heard that it's near impossible to get that permission.*
 Atsunori: If you're concerned about your information being leaked, rest assured. We keep this data under very tight protection.
-Satoru: Yes, that's fine. We have no qualms cooperating. 
+Satoru: Yes, that's fine. We have no qualms cooperating.
 Atsunori: Much appreciated.
 *Not a second later, I hear a knock on the door.*
 Atsunori: Enter.
@@ -468,7 +468,7 @@ Nanami: Oh, no, not at all! That's not what I was thinking!
 Nanami: I only recognized it because the necktie and skirt pattern are the same as Ayase-senpai's.
 Onee-san: Oh, so Mitsukasa-san brought you guys to the principal's office? That makes sense.
 Satoru: Sorry for the misunderstanding. That was rude on my part.
-Satoru: I just never imagined a student having their very own lab. 
+Satoru: I just never imagined a student having their very own lab.
 Onee-san: Yeaaah, I can see that. It definitely is pretty unusual for a student to have a room in the school building that's theirs.
 Onee-san: I hate to say it about myself, but I'm not really a NORMAL student, if that makes sense.
 Satoru: Oh, are you the top student at this school or something?
@@ -668,7 +668,7 @@ Mayu: People tell me all the time it just makes my explanations that much harder
 Mayu: It's basically a litmus paper, for something in more simpler terms.
 Nanami,Satoru: Ohh!
 Mayu: Just hold onto that paper and activate your abilities for me, alright? You should see the color change.
-Mayu: After a few simple tests like this, we'll be able to work out your ability types. 
+Mayu: After a few simple tests like this, we'll be able to work out your ability types.
 Satoru: Wait...
 *She's not... onto us, is she?*
 Mayu: I know it might sound like I think you're lying about your abilities, but it's something else.
@@ -684,7 +684,7 @@ Satoru: No problem. So first comes the test paper, you said?
 Mayu: That concludes everything. You're all done.
 Mayu: Okay, now let's get right to the results... We'll start with you, Arihara Satoru.
 Satoru: Okay.
-Mayu: Your ability is only able to be applied to yourself. 
+Mayu: Your ability is only able to be applied to yourself.
 Mayu: What you stated to me seems to be correct. It looks like a true physical enhancement ability.
 Satoru: Alright.
 *Phew.*
@@ -832,7 +832,7 @@ Hazuki: I do some myself on occasion. There's no more refreshing way to start th
 Satoru: Oh, so you do morning exercise too? That's cool.
 Hazuki: Perhaps we could exercise together sometime. What do you say?
 Satoru: Sure, I'd love to. But after I've gotten a little more used to life here.
-Hazuki: Ah, okay... You have your priorities straight, at least. Adjusting to change is the most important thing when moving. 
+Hazuki: Ah, okay... You have your priorities straight, at least. Adjusting to change is the most important thing when moving.
 Hazuki: Feel free to consult with me if you ever run into difficulties with anything.
 Satoru: Thanks, I will.
 *Nijouin-san is beaming.*
@@ -879,7 +879,7 @@ Satoru: Oh, no. It's nothing. I'm still just feeling a little jittery from my se
 *I promptly end my reply with that. *
 *Unfortunate as it is, I can't tell her what's on my mind right now.*
 Kaori: I will now start class.
-Kaori: Since we have someone new among us, I'll begin by going over the basic concepts. 
+Kaori: Since we have someone new among us, I'll begin by going over the basic concepts.
 Kaori: As you are all aware, certain humans can use supernatural powers once thought to be mere pseudoscience. What makes this all possible is the astron particle.
 Kaori: Astrons are able to sync with the human brain, in a sense, and when they do, they emit a characteristic energy.
 Kaori: The form this energy takes varies for each person, but we generally refer to anyone who can link with astrons as an Astral.
@@ -897,7 +897,7 @@ Kaori: Because of this, there are not only congenital types who are born Astrals
 Kaori: Now for a question. Which is more common, congenital types or acquired types? Arihara-kun, do you know the answer?
 Satoru: Congenital types.
 Kaori: And do you know why that is?
-Satoru: It's not uncommon for people to become Astrals at some period in life, but most of those who do hide the fact. 
+Satoru: It's not uncommon for people to become Astrals at some period in life, but most of those who do hide the fact.
 Satoru: Due to that, it's hypothesized that congenital types are more likely to be open about their identity as an Astral.
 Satoru: It's believed that the true number is closer to 50-50, but the discrepancy we see is because congenital types are more likely to admit that they're in Astral in surveys and censuses.
 Kaori: Thank you, Arihara-kun. You seem to have studied the material ahead of time, which is a very good thing.
@@ -980,7 +980,7 @@ Satoru: Does the student council president normally have a ton of responsibiliti
 Kyouhei: Kind of? But not exactly...
 Satoru: What's that supposed to mean?
 Kyouhei: Every dorm canteen basically has it's own "flavor," so to speak. Dorm four's, for instance, is super popular with the girls.
-Kyouhei: They sell really good sandwiches and desserts. 
+Kyouhei: They sell really good sandwiches and desserts.
 Kyouhei: And what makes dorm three special is the QUANTITY of food in its meals! You can't beat it!
 *Yeah, I can see.*
 *I ordered what's supposed to be the "normal" size for my ginger pork meal, but this is a lot of food. It could probably fill up even the biggest of eaters.*
@@ -1010,16 +1010,16 @@ Kyouhei: Are you familiar with the accident that happened here two years back?
 Kyouhei: If you remember, it was the one where the crane toppled over and destroyed the building that they were still doing construction on.
 Satoru: Oh, yeah. If memory serves me, they said the cause was strong winds or something. And there were ten people reported injured.
 Kyouhei: Yeah, luckily there were no actual deaths.
-Kyouhei: The actual reason for that is because there was an Astral at the scene who removed the debris really quickly. 
+Kyouhei: The actual reason for that is because there was an Astral at the scene who removed the debris really quickly.
 Kyouhei: You know what I'm about to say, right?
 Satoru: So Mitsukasa-san was the one who saved these people's lives during the accident? That's interesting.
-Kyouhei: Yeah, and because of her heroic efforts, the public reaction was overwhelmingly positive despite people's fear of Astrals.  
+Kyouhei: Yeah, and because of her heroic efforts, the public reaction was overwhelmingly positive despite people's fear of Astrals.
 Kyouhei: It probably also helped that everyone went on and on about how cute she was after she started doing interviews.
 Kyouhei: Famous Astrals are pretty nonexistent to begin with, so that just made her all the more special to everyone.
 Satoru: Yeah, she actually is pretty cute. I can see why she'd gain popularity.
 Kyouhei: And not long after that, it was announced that she would be going to Kikka Academy, the world-famous school for astron research. Both she and the school got flooded with interview requests following that.
 Satoru: I mean, I get why people would like her, but can interviews REALLY make people that famous?
-Kyouhei: Well, the school also pushed her into the limelight a ton because they wanted to use her to help better the public's perception of Astrals. 
+Kyouhei: Well, the school also pushed her into the limelight a ton because they wanted to use her to help better the public's perception of Astrals.
 Kyouhei: The more people associate Astrals with her, the less they're inclined to think of us as mutants, y'know?
 Satoru: I'm guessing that little jingle of hers was also the school's idea?
 Kyouhei: Probably? Singing videos are pretty popular on the internet right now, so I'm guessing they wanted her to jump on that trend.
@@ -1027,7 +1027,7 @@ Kyouhei: That's all she does with it, though, to my knowledge. She doesn't actua
 Kyouhei: But yeah, everyone here really appreciates her PR work. She's done a lot to make this city and the school itself more well-known.
 Satoru: I guess I can see why she's the most well-known Astral.
 Satoru: I'm a little surprised she's willingly taking on all that work, though. I know I wouldn't.
-Kyouhei: She's just a really good person. 
+Kyouhei: She's just a really good person.
 Kyouhei: "If my efforts can lead to a future where Astrals are accepted as valuable members of society, then I know I've done the right thing."
 Kyouhei: I'm pretty sure I read that quote of hers in some article.
 Satoru: Damn, she almost sounds like a goddess.
@@ -1172,7 +1172,7 @@ Satoru: Thanks for the offer, but I'm good.
 Satoru: I want to try and figure it out on my own before I go to others.
 Mayu: Oh, I like that attitude! It's good to just spend some time trying to wrap your brain around a concept you don't get.
 Mayu: But if you're still struggling later and want some help, I'm always available.
-Satoru: Yeah, they gave you your own lab, so I figure you must be pretty smart when it comes to this stuff. 
+Satoru: Yeah, they gave you your own lab, so I figure you must be pretty smart when it comes to this stuff.
 Satoru: I'll keep your offer in mind.
 Mayu: Great. By the way, my room is room 408 in dorm three.
 Satoru: Oh, coincidentally I'm also in dorm three.
@@ -1353,7 +1353,7 @@ Nanami: I'm sorry, Senpai! I'm almost done, I promise!
 Nanami: (Groin area, groin area, groin area... God, why didn't I ask him to be more specific!)
 Nanami: Ah! Is this it?
 Nanami: (The texture feels different! It has to be the sheet!)
-Nanami: (Urgh, but it just doesn't seem to want to come off... Almost, just a little bit more.) 
+Nanami: (Urgh, but it just doesn't seem to want to come off... Almost, just a little bit more.)
 Mayu: Ahh, Nanami-chan... Don't caress me, like that... hm! Mhhh! That's not the kind of place, you should be rubbing with your fingers... aaah!
 Mayu: Please, no more.... If you keep touching that area, I'm... I'm gonna... mh, mhh! Ah! Ah! Ah!
 Nanami: Get OFF, you stupid sheet!
@@ -1442,7 +1442,7 @@ Satoru: Three minutes? That's more than plenty.
 *After successfully infiltrating the building, we walk through the hallways and find Shikibe-senpai's lab.*
 *Now all that's left is to see whether or not the door will open.*
 Satoru: Do it, Nanami.
-Nanami: Okay. 
+Nanami: Okay.
 *She walks up to the sensor and puts the gel sheet on it.*
 *But the sensor shows no response.*
 Satoru: Hrm, I wonder why it's not working?
@@ -1659,7 +1659,7 @@ Attacker B: Aghhh!
 *With him out of the way, I've now taken out both of the assailants.*
 *But I still have one more thing to worry about...*
 Ayase: What... was that? What's going on?
-Satoru: (Well... shit.) 
+Satoru: (Well... shit.)
 Satoru: %117;(I'm so screwed!)
 *I saw an innocent girl in serious danger.*
 *Considering her life was threatened, I don't regret doing what I did in the slightest.*
@@ -1743,7 +1743,7 @@ Satoru: I mean, I'm still half in disbelief, but it is what it is. I guess the t
 Ayase: You--
 Ayase: What was that? I was SAVED by these pads? Are you saying it's a GOOD thing these tits are fake? How dare you... How DARE you insult me like that...
 Ayase: NGGGGHHHHH!
-Satoru: Why are you glaring at me?! Why do you sound like you want to kill me right this instant?! 
+Satoru: Why are you glaring at me?! Why do you sound like you want to kill me right this instant?!
 Ayase: Who do you think you're callin' Captain Flatearth, punk! I'm gonna beat the everliving crap outta you!
 Satoru: What?! I never called you that!
 Security B: I heard a scream from this direction!
@@ -1812,7 +1812,7 @@ Ayase: ......
 Ayase: Yes. I used my ability and knocked them out. I'm very sorry acting so rashly.
 Kaori: Don't apologize. Those men were armed with knives, so you had every right to defend yourself.
 Kaori: You aren't wounded anywhere, are--Wait, your shirt is ripped! Don't tell me they cut you?!
-Ayase: What? Oh, no! I'm alright. Thankfully, they only sliced my shirt. 
+Ayase: What? Oh, no! I'm alright. Thankfully, they only sliced my shirt.
 Kaori: Really?
 Ayase: Yes. I didn't sustain any wounds whatsoever.
 Kaori: Alright. Let's get you back to your dorm, then. We can let the security take care of the rest here.
@@ -1950,7 +1950,7 @@ Satoru: Me too.
 Satoru: On that note, I hope you can get along with my sister.
 Satoru: She's a bit shy and won't really talk to people unless they talk to her first, but I promise she likes being around other people.
 Satoru: If anything, she gets lonely real easily, so please try to make her feel welcome at school.
-Chisaki: Absolutely! 
+Chisaki: Absolutely!
 Nanami: Satoru-kun?! You didn't have to go and say all that stuff on my behalf!
 Satoru: I did have to, though. I'm your brother, and it's my responsibility to look out for you.
 Nanami: No, it is not! You've been saying this same spiel everytime we meet someone new, I swear! Hmph!
@@ -2025,7 +2025,7 @@ Satoru: Go ahead.
 Ayase: Cool.
 Ayase: Mhh. So sweet.
 *There's not a single trace of the gentle, kind-hearted Mitsukasa Ayase in the girl before me lazily munching down on this muffin.*
-Ayase: So yeah, considering what we're gonna be talking about and all, I think it's better if we just cut the BS and be honest from the start. 
+Ayase: So yeah, considering what we're gonna be talking about and all, I think it's better if we just cut the BS and be honest from the start.
 Satoru: Okay.
 Ayase: So? Wanna explain for me?
 Satoru: Um, explain what?
@@ -2107,7 +2107,7 @@ Satoru: Moral defenders, haha... I wish.
 Satoru: I'm sorry that I have to leave you in the dark, but I just want you to know, I as an Astral want to use my ability to help people.
 Satoru: So when I saw you being attacked yesterday, I just had to do something. But I know it's hard to trust a person in this short a time, believe me.
 Satoru: The fact of the matter is, though, I DID save you yesterday. And I also came here like you asked instead of running away.
-Satoru: So could you at least hold off on reporting me for now? I just need some more time to prove myself to you. 
+Satoru: So could you at least hold off on reporting me for now? I just need some more time to prove myself to you.
 Ayase: ......
 Ayase: Fine.
 Satoru: Thanks... really.
@@ -2141,7 +2141,7 @@ Satoru: I was a little curious about something.
 Satoru: You are an Astral yourself, right? So why didn't you use your ability when those men attacked you?
 *I mean, her ability was powerful enough to save lives during a building collapse.*
 *That was the initial incident that kickstarted her popularity.*
-Satoru: If there was some reason why you can't, I think it'd be safe to inform me in advance. 
+Satoru: If there was some reason why you can't, I think it'd be safe to inform me in advance.
 Ayase: That's a fair question. I can see why you'd wonder that, being a fellow Astral. But yeah, I can use my ability just fine.
 *Her muffin now finished, she gets up from her chair.*
 Ayase: Explaining it might get a little long and complicated, so it'd be better if I just demonstrated my ability on you. Is that fine?
@@ -2339,7 +2339,7 @@ Hazuki: So you say, Suou, but I know that you sometimes forgo filling one out wi
 Kyouhei: Ugh... Well, it's a lot of work when I'm just gonna be gone for ten minutes.
 Hazuki: I understand your frustration, I truly do, but rules are still rules. And being the dorm manager, it is my duty to uphold them.
 Kyouhei: ...I'm sorry. I won't do it again.
-Hazuki: Try not to become a lazybones like him, Arihara-kun. 
+Hazuki: Try not to become a lazybones like him, Arihara-kun.
 Satoru: Yeah, he's a good example. I rely on him to show me what NOT to do.
 Kyouhei: Why are you guys being so mean to me?!
 Hazuki: Sorry, I was just having a bit of fun. Ah, I don't believe I asked you, but what will you be doing out in the city?
@@ -2386,7 +2386,7 @@ Kyouhei: So I guess that means we're going to the mall, huh?
 Satoru: Yep.
 Hazuki: Umm, pardon my impertinence, but would you mind if I came along as well?
 Satoru: Sure, that's fine by us. We're going this weekend. Does that work for you?
-Hazuki: Perfect. I have nothing planned for this weekend, save for, well, watching TV... or rather DVDs, but I'm not quite sure you could call that much of a "plan." 
+Hazuki: Perfect. I have nothing planned for this weekend, save for, well, watching TV... or rather DVDs, but I'm not quite sure you could call that much of a "plan."
 Hazuki: I can watch them on my own time, so my schedule is effectively open.
 Satoru: What kind of DVDs, out of curiosity?
 Hazuki: Ah! Umm, well, they are...
@@ -2827,7 +2827,7 @@ Ryuunosuke: "Well, that WOULD be the plan, if you hadn't gotten yourself caught 
 Satoru: I was actually wondering about that. Were you able to discover anything about the men who tried to attack Mitsukasa-san?
 Ryuunosuke: "Nope. They're both keeping their lips shut. They admit they were trying to attack her, but insist they're just fans."
 Ryuunosuke: "Needless to say, we're not quite buying that story. We plan to continue interrogating them for the time being."
-Ryuunosuke: "So just carry on with your bodyguard mission as planned for now. I'll contact you if we learn anything. You're dismissed." 
+Ryuunosuke: "So just carry on with your bodyguard mission as planned for now. I'll contact you if we learn anything. You're dismissed."
 Satoru: Roger that. Levy Six, signing--Oh, one more thing!
 Ryuunosuke: "What? I've got things to do."
 Satoru: Sorry, but I just have a concern with regards to my guarding of Mitsukasa-san.
@@ -2845,7 +2845,7 @@ Ayase,Nanami,Hazuki: Mhm.
 Kyouhei: Oh, are you the girl Satoru said was coming?
 Chisaki: Yep! I'm Mibu Chisaki, everyone! Thanks for having me along today. I'm really excited to get to know everyone!
 Ayase: It's our pleasure. I'm Mitsukasa Ayase, by the way.
-Kyouhei: Hi, I'm Suou Kyouhei. 
+Kyouhei: Hi, I'm Suou Kyouhei.
 Hazuki: And I am Nijouin Hazuki. If memory serves me right, you belong to class 1-A, do you not? Oh, that would mean you're in the same class as Nanami-kun.
 Chisaki: Oh, you know who I am?
 Hazuki: Naturally. Today may be our first time holding a proper conversation, but you're a resident of the dorm I manage, so I know both your name and your face.
@@ -2864,7 +2864,7 @@ Hazuki: If there's something bothering you, please do tell me. Being kept in the
 Satoru: Well, okay. But just a forewarning, it really is nothing important.
 Satoru: I just thought you looked a little sleepy.
 Hazuki: Was I really? Goodness, what am I doing? I can't be making such a slovenly face in public.
-Satoru: I mean, it wasn't UGLY or anything. It just looked like you didn't get enough sleep or something. 
+Satoru: I mean, it wasn't UGLY or anything. It just looked like you didn't get enough sleep or something.
 Hazuki: Well, I don't suppose there's any reason I cannot tell you.
 Hazuki: You wouldn't happen to know about the incident from the other day where outsiders sneaked onto the campus, would you?
 Satoru: I just heard the rumors. Apparently, some fans of Mitsukasa-san snuck in and were arrested.
@@ -3027,7 +3027,7 @@ Nanami: Oh, I like that one. It's pretty cute.
 Chisaki: Are you going to try on anything, Ayase-senpai?
 Ayase: No, I think I'm fine.
 Chisaki: Are you sure?
-Chisaki: You have pretty big boobs, so honestly, you'll wanna try on anything to make sure it fits before you buy it. 
+Chisaki: You have pretty big boobs, so honestly, you'll wanna try on anything to make sure it fits before you buy it.
 Ayase: I understand your concern, but don't worry. I'm very well-acquainted with what size is right for me.
 Chisaki: Hrm, I still think you should, though.
 Ayase: Oh, I assure you, I will be QUITE alright. Ohohoho.
@@ -3088,8 +3088,8 @@ Mayu: That kind of negative mindset won't get you anywhere.
 Mayu: Come on, stop standing out here like some chump and get in there. Tell those girls what you think.
 Mayu: You might not think so, but I promise you they want to know.
 Satoru: Really?
-Mayu: That's just how girls are. You seeing them is embarrassing for them, but they still want you to see. They want to hear you say they look attractive, even if it makes them blush like crazy. 
-Mayu: Here's some words of wisdom from little ole me: Women seem very complicated, but once you figure them out, they're very simple. 
+Mayu: That's just how girls are. You seeing them is embarrassing for them, but they still want you to see. They want to hear you say they look attractive, even if it makes them blush like crazy.
+Mayu: Here's some words of wisdom from little ole me: Women seem very complicated, but once you figure them out, they're very simple.
 Satoru: ......
 *There's been no change in situation. I still don't sense anyone staring at us.*
 *Well, I guess it won't hurt to walk in for a while.*
@@ -3168,7 +3168,7 @@ Satoru: I agree.
 *Rather than getting myself all worked up and letting my imagination run wild, I should just come ready to listen and take it as it comes.*
 Satoru: Thanks, Nijouin-san.
 Hazuki: I'm sorry I couldn't be of more help.
-Satoru: Oh no, your input helped a ton. 
+Satoru: Oh no, your input helped a ton.
 Hazuki: Well, if it did, then great.
 Hazuki: But what is this all about? A personal problem of yours?
 Satoru: Nah, not really. I just wanted to make small talk.
@@ -3196,7 +3196,7 @@ Mayu: So, maybe... Oh, I know. Wanna just go to my room?
 Mayu: I'll feel more comfortable there, plus we won't have to worry about anyone hearing us.
 *I definitely won't feel comfortable in her room... But eh, whatever's best for her.*
 Satoru: Am I allowed to go on the girls' floors, though?
-Mayu: Yeah, it's perfectly fine during the day. 
+Mayu: Yeah, it's perfectly fine during the day.
 Mayu: Just try not to act nervous and antsy. That's what'll make people think we're doing something we shouldn't.
 Satoru: Okay. I'm ready to go if you are.
 Mayu: Ah, um, wait! Can I have a little time to get my room ready first?
@@ -3446,7 +3446,7 @@ Mayu: ......
 Satoru: Can I ask you to do something for me, Senpai?
 Mayu: Sure.
 Satoru: Could we just lay the past to rest and not bring this up anymore? I mean, it's not like I want to totally forget about that part of my life, but I don't want to be reminded of what a little brat I used to be.
-Satoru: Also, I'd appreciate it if you kept this between us. 
+Satoru: Also, I'd appreciate it if you kept this between us.
 Mayu: Of course. I never intended to tell anyone.
 Satoru: Thank you.
 Satoru: For my part, I won't tell anyone about you either.
@@ -3560,7 +3560,7 @@ Mayu: Also, one thing. Mayu, please.
 Satoru: What?
 Mayu: Mayu. You call me Shikibe-senpai, but I want you to call me Mayu from now on. Pretty please?
 Satoru: Why do I have to use your first name? I thought it was about you.
-Mayu: I think it's more fitting if we both switch up. 
+Mayu: I think it's more fitting if we both switch up.
 Mayu: It represents a new beginning of sorts for us, yeah?
 Satoru: ......
 Satoru: Sorry, but I have to decline, Shikibe-senpai.
@@ -3588,7 +3588,7 @@ Mayu: But anyhow, I'm glad we were able to reunite, Satoru-kun.
 Satoru: Me too, Mayu-senpai...
 Satoru: Also, um, not to distract from this touching moment, but please let go! This is urgent! My pants are falling down with my boxers and--
 *I really don't want anyone to see us like this.*
-Hazuki: Shikibe-senpai! I heard a call for help! 
+Hazuki: Shikibe-senpai! I heard a call for help!
 Hazuki: This is an emergency, so please forgive me for opening the door!
 Mayu,Satoru: Ah.
 Hazuki: ......
@@ -3606,7 +3606,7 @@ Satoru: Why'd you have to scream that out at the top of your lungs!
 Hazuki: Goodness gracious. You very nearly gave me a heart attack yesterday.
 *We're jogging together again today, and Nijouin-san is less than pleased with me after yesterday's mishap.*
 Satoru: Oh, me too.
-Satoru: You jumped to some REALLY wild conclusions there. 
+Satoru: You jumped to some REALLY wild conclusions there.
 Hazuki: Anyone would jump to that conclusion after witnessing what I did!
 Satoru: Fair point.
 *Sex is about the only thing you'd think of when seeing a girl trying to take off a guy's pants.*
@@ -3641,7 +3641,7 @@ Satoru: You know.
 Hazuki: Hm?
 Satoru: You're really in-shape. Like, we did all that running and you're not out of breath or anything.
 Hazuki: Haha, I guess I am. I've always loved physical exercise. It feels nice.
-Hazuki: Are you not the same, though? 
+Hazuki: Are you not the same, though?
 Hazuki: You aren't out of breath either, and your body is surprisingly toned. I would guess your clothes just always do a good job of hiding it.
 Satoru: Eh, I'm nothing special. Anyone can get a body like this with regular exercise.
 Hazuki: Can you, though? I know you ARE young, but still, would the exercise you get from PE classes at school really be enough to develop muscles like you have?
@@ -3675,7 +3675,7 @@ Hazuki: No, it's high time I get over this fear. I am GOING to do this. I WILL w
 Hazuki: Just please spare a tear for me after I've made myself the laughing stock of the class.
 Satoru: You're way too afraid.
 Satoru: Look, you'll be fine. If you looked bad in it, we never would've told you to buy it in the first place.
-Hazuki: I can only pray that you're right... Ah, I apologize. I wasn't meaning to question Mitsukasa-san nor Chisaki-kun's judgment. I'm still grateful to them for helping me. 
+Hazuki: I can only pray that you're right... Ah, I apologize. I wasn't meaning to question Mitsukasa-san nor Chisaki-kun's judgment. I'm still grateful to them for helping me.
 Satoru: Well, just relax and try to think about other things.
 Satoru: You ready? We need to head back to the dorm for breakfast.
 *The bell rings, signaling the end of Kakimoto-sensei's class.*
@@ -3719,7 +3719,7 @@ Hazuki: I need to be able to better control my ability, so that is something I p
 Satoru: Oh, are you having problems with control?
 Hazuki: Yes.
 Satoru: What's your link value, out of curiosity?
-Satoru: Given how wide of an area your ability can affect, I imagine it's fairly high. 
+Satoru: Given how wide of an area your ability can affect, I imagine it's fairly high.
 Hazuki: It's 186.
 Satoru: Dang... that is pretty high.
 Satoru: More than three times mine. I'm only a 56.
@@ -3910,7 +3910,7 @@ Hazuki: Uh... mhh....
 *The face she's making is the kind a kid would make when you just told them they did something wrong.*
 *She looks right, then left.*
 *Then finally, still with that frown on her face, she looks back at me.*
-Hazuki: Only for a second. If neither of us tells anyone else, we'll be fine. It'll be our secret. 
+Hazuki: Only for a second. If neither of us tells anyone else, we'll be fine. It'll be our secret.
 Hazuki: Would that be fine by you?
 Satoru: Sure. I won't tell anyone.
 Hazuki: Wonderful! Thank you kindly, Arihara-kun. Now, if you're ready, we should hurry up and begin before someone passes by.
@@ -4068,7 +4068,7 @@ Satoru: Gotcha. I figured if it was, then maybe the change in perception when in
 Satoru: ......
 Hazuki: Was there anything else that you took note of?
 Satoru: Sorry, it's just too hard to draw conclusions after seeing it a single time.
-Hazuki: No, that's only natural. Don't worry yourself about it. I should've known you wouldn't have been able to. 
+Hazuki: No, that's only natural. Don't worry yourself about it. I should've known you wouldn't have been able to.
 Satoru: Well, if you want, I can watch you use it again. A couple more times might be enough for me to figure out something.
 Hazuki: Oh, so then...
 Hazuki: You'll be willing to practice with me again?
@@ -4115,7 +4115,7 @@ Ryuunosuke: "First, get a good grasp on where everything is and figure out the b
 Ryuunosuke: "Remember, the number one priority in a mission is always, under any circumstance, to make sure your cover isn't blown."
 Ryuunosuke: "Now have you memorized the two names I gave you?"
 Satoru: Yep. Kamakura Hisato and Asukai Kanna.
-Ryuunosuke: "I want their addresses, places of work, and any clues regarding their current whereabouts." 
+Ryuunosuke: "I want their addresses, places of work, and any clues regarding their current whereabouts."
 Satoru: Copy that.
 Ryuunosuke: "You still got that key card I gave you?"
 Satoru: Of course.
@@ -4146,7 +4146,7 @@ Satoru: Is it top secret information?
 Ryuunosuke: "Not really... Okay, yeah. It pertains to you, so I should tell you."
 Ryuunosuke: "But, before I go on, keep in mind that this is all unconfirmed. Don't jump the gun and do anything rash, hear me?"
 Satoru: Of course. If I learn anything, I'll report it to you first and foremost.
-Ryuunosuke: "Like I just said, we're still investigating this, but there's a chance that the two individuals I had you look into are connected to the attack on Mitsukasa Ayase." 
+Ryuunosuke: "Like I just said, we're still investigating this, but there's a chance that the two individuals I had you look into are connected to the attack on Mitsukasa Ayase."
 Satoru: Did you find out something new?
 Ryuunosuke: "No, the men in custody kept claiming they were just fans and the police wrapped up the case. We can assume they weren't able to find anything through their investigation."
 Ryuunosuke: "Of course, we did our own digging, but just like theirs, nothing came up."
@@ -4319,7 +4319,7 @@ Ayase: I put on a concert and sang.
 Ayase: Well, it was honestly way too minor to even call a concert. The set list was real short.
 Satoru: Did you sing that song you sing in the school ad video?
 Ayase: Yeah, that and three other popular songs. I knew I wouldn't be up there for more than thirty minutes, so I went along and did it, but ugh...
-Ayase: It was still so much dang work, with the rehearsals and all that other crap, plus it was ridiculously embarrassing too. God, I hated it all. 
+Ayase: It was still so much dang work, with the rehearsals and all that other crap, plus it was ridiculously embarrassing too. God, I hated it all.
 Satoru: Singing in front of a big crowd was that bad?
 Ayase: Not the size, but the energy. Everyone was all hyped up, shouting and screaming... I guess that's better than a silent crowd, but still, it was so embarrassing.
 Ayase: When the crowd is excited, you're kinda forced to play along, so I had to act like one of those stupid happy-go-lucky pop idols.
@@ -4599,7 +4599,7 @@ Satoru: So since she's to be the bait, I'm assuming we'll have to get her face-t
 Ryuunosuke: "Right. We gotta dangle the lure in front of the fish for them to bite."
 Satoru: There's no way in hell me and Nanami will be able to handle them alone.
 Ryuunosuke: "Naturally. I'll send backup like I said."
-Ryuunosuke: "They won't let us refuse, but that means getting approval for extra manpower will be a lot easier. I'll make it happen, I promise." 
+Ryuunosuke: "They won't let us refuse, but that means getting approval for extra manpower will be a lot easier. I'll make it happen, I promise."
 Satoru: Thanks.
 Satoru: I think we should probably shy away from anything TOO elaborate.
 Satoru: Our lack of experience would just make it that much easier for us to screw-up and get hit by a bunch of unforeseen problems.
@@ -5229,7 +5229,7 @@ Kaori: Anemia is no laughing matter, Mitsukasa-san.
 Kaori: Especially considering his age.
 Ayase: Is it that serious?
 Kaori: Anemia does not just appear out of nowhere without a reason.
-Kaori: Normally, a lack of iron is the main cause, but since he is eating the dorm meals, that shouldn't be the issue. 
+Kaori: Normally, a lack of iron is the main cause, but since he is eating the dorm meals, that shouldn't be the issue.
 Kaori: So if we rule that out, other possibilities are... a disease that causes blood loss, or a tumor within the digestive system.
 Satoru: You're scaring me, Sensei.
 Kaori: Oh, I'm not doing that purposefully. This is a serious matter.
@@ -5815,7 +5815,7 @@ Kyouhei: Phew! Finally back!
 Canteen Lady: Oh, why hello there, kids.
 *Upon entering the dorm, we're greeted by one of the cafeteria ladies who's standing in the lobby.*
 Kyouhei: Oh, what are you doing out here?
-Canteen Lady: I was about to go and distribute the packages and mail given to me by the security people. 
+Canteen Lady: I was about to go and distribute the packages and mail given to me by the security people.
 Hazuki: Ah, I can do that for you.
 Canteen Lady: Oh, will you? Thanks.
 Canteen Lady: I need to get back to working on dinner for tonight.
@@ -5838,7 +5838,7 @@ Hazuki: Thank you very much.
 Chisaki: I'll help too.
 Nanami: I'd love to help, but I... still haven't associated names with room numbers yet. Oh, but I can help you carry some of the packages if you tell me where they're going.
 Hazuki: Thank you. I appreciate the sentiment, but if I have all of you help, there will be nothing left for me to do.
-Hazuki: I should be able to handle all of the mail for the girls on my own. 
+Hazuki: I should be able to handle all of the mail for the girls on my own.
 Hazuki: Hmm, let's take a look and see... Oh, Mitsukasa-san.
 Ayase: Yes?
 Hazuki: There is a package addressed to you. Here.
@@ -6068,7 +6068,7 @@ Satoru: Sorry, didn't mean to startle you.
 Ayase: No, you're good. So, um, what'd you want?
 Satoru: You sure you don't wanna play yourself?
 Ayase: Yeah, definitely. The object of the game's to solve the mystery of the mansion while you run away from the zombies.
-Ayase: It's kinda like a horror movie in a way, so I'm enjoying it just watching. 
+Ayase: It's kinda like a horror movie in a way, so I'm enjoying it just watching.
 Ayase: I mean, when I played it myself, my heart rate was--Oh god, they're coming! The zombies are coming!
 Satoru: Oh, guess I gotta get the heck out of here.
 *I quickly divert my attention back to the game and flee from the zombie swarm.*
@@ -6446,7 +6446,7 @@ Atsunori: Excuse me.
 Satoru: Principal Ise?
 Atsunori: Hm? Oh, hello there, Arihara-kun.
 Atsunori: Allow me to congratulate you on your success at the fair. The cafe was quite the hit.
-Satoru: Oh no, sir, I only played a small part in making it happen. The idea and implementation were all my other friends. 
+Satoru: Oh no, sir, I only played a small part in making it happen. The idea and implementation were all my other friends.
 Satoru: I'll make sure to relay your comment to them, though. Thank you very much.
 Atsunori: Sure, please do.
 Atsunori: If you don't mind me inquiring, why was the door locked?
@@ -6482,7 +6482,7 @@ Satoru: Different things I have to worry about?
 Nanami: In terms of security levels, I'd put the research center as first, then outside, then school buildings, and finally the dorms.
 Satoru: You can get around it, though, can't you?
 Nanami: I can, but chances are I'll get caught within seconds. My plan is to fool the security in a single area for the few seconds that I can.
-Nanami: I'll have to do some immediate clean-up work, too, like erasing my footprints from the system and all that. 
+Nanami: I'll have to do some immediate clean-up work, too, like erasing my footprints from the system and all that.
 Satoru: Sounds like you'd better stay within the school perimeter and provide long-distance support to me.
 Nanami: Are you sure you'll be fine? I won't be there with you on-site.
 Satoru: Sure. We've done this setup before.
@@ -6766,7 +6766,7 @@ Thief A: Somehow that worked out... Shit, there's a big difference between telep
 Thief A: I feel bad for bailing on him, but I'm getting the hell out of here.
 Satoru: Sorry, pal, but not today.
 Thief A: Wha--?!
-Satoru: Levy Six here. I've successfully subdued and apprehended the Astral that attempted to flee. 
+Satoru: Levy Six here. I've successfully subdued and apprehended the Astral that attempted to flee.
 McGregor: "McGregor, copy that. I'll immediately send someone your way."
 Levy 5: "Sorry he escaped from us."
 Satoru: I was just doing my job.
@@ -6852,7 +6852,7 @@ Ayase: Then what was this if not a prank?
 Ayase: I know I'm probably wrong... but you weren't trying to ASSAULT me in my sleep, were you?
 Satoru: What? You're way too imaginative.
 Ayase: ......
-Ayase: Yeah, you're probably right. I can't see you doing something like that. 
+Ayase: Yeah, you're probably right. I can't see you doing something like that.
 Ayase: Besides, who would even go through the risk just to assault a titless girl like me?
 Ayase: Hey, who're you calling titless!
 Satoru: You called yourself that!
@@ -7630,7 +7630,7 @@ Kyouhei: Then you also walked to class together after that.
 Mayu: I saw you both blushing and getting super flustered along the way. Which led me to believe something was different between the two of you.
 Ayase,Satoru: ......
 Hazuki: But what was most suspect was the way you behaved during class, Mitsukasa-san.
-Hazuki: You weren't listening or paying attention. Your mind seemed to be in some other place the entire time. 
+Hazuki: You weren't listening or paying attention. Your mind seemed to be in some other place the entire time.
 Ayase: Urk... W-Well, that was...
 Hazuki: The Mitsukasa-san I know would never space out during class time.
 Hazuki: I got a little worried after that, because I figured something might be troubling you.
@@ -7798,7 +7798,7 @@ Ayase: Umm, listen! Today's Friday, yeah?!
 Satoru: Yeah.
 Ayase: And the day that comes after Friday is Saturday!
 Satoru: Right.
-Ayase: So, um, I was thinking... 
+Ayase: So, um, I was thinking...
 Ayase: I was thinking...
 Ayase: (Why am I getting cold feet now?! All I have to do is say the word "date"!)
 Satoru: ......
@@ -8391,7 +8391,7 @@ Ayase: Tastes like cheese. *lick* *lick* *lick*... *suck* *smack* Mh.
 *She runs her tongue every inch just like a lovable puppy.*
 *My finger was coated in cheese and oil, but now, the only thing on it is her saliva.*
 Satoru: Does it?
-Ayase: *suck* Mh *lick* i' dosh... mh, it does. So I gotta clean it some more... ammh *smack* *suck* 
+Ayase: *suck* Mh *lick* i' dosh... mh, it does. So I gotta clean it some more... ammh *smack* *suck*
 *Sometime over the course of things, this enraptured look came over her face.*
 *She takes my finger into her mouth and fervently sucks on it, making loud wet, slurping sounds.*
 Ayase: Mhm *slurp* *lick* *lick*... mh, mhhh... Does it feel gross getting your finger licked?
@@ -8674,7 +8674,7 @@ Satoru: Oh, and I can't forget--
 Ayase: Errr, sorry. That's good enough. I get the point...
 Ayase: If you keep going, I'll be so happy and embarrassed at the same time that I won't know what to do with myself...
 Satoru: Hm, okay.
-Satoru: But yeah, that's what I find cute about you... I also love your smile. It's incredibly sweet and charming. 
+Satoru: But yeah, that's what I find cute about you... I also love your smile. It's incredibly sweet and charming.
 Ayase: My smile?
 Satoru: Your REAL smile, not the smile you make when you're everyone's "idol."
 Satoru: All of those things are why I fell in love with you. I love you more than the world, Ayase.
@@ -9013,7 +9013,7 @@ Chisaki: Hey, Senpai. Is it true that do all men prefer big boobs?
 Nanami: Chisaki-chan?! Why are you asking him that?!
 Mayu: Yeah, Mitsukasa-san might take it the wrong way!
 Chisaki: Ah! Sorry, I wasn't trying to imply anything! I just wanted a guy's opinion on the subject!
-Ayase: No need to worry, Chisaki-san. I never assumed anything of the sort. 
+Ayase: No need to worry, Chisaki-san. I never assumed anything of the sort.
 Ayase: Besides, I'm quite interested in hearing his response to that question too! I wonder what he'll say?
 Ayase: Care to enlighten us?
 *Oh god, oh god, oh god! She's terrifying me!*
@@ -9129,7 +9129,7 @@ Kaori: In other words, you don't have any excess energy, which means... the pros
 Satoru: So further developing an ability would actually be possible if there was excess energy when linking?
 Kaori: Not DEVELOPMENT, per se, but plain and simple enhancement, yes, that should be within the realm of possibility.
 Kaori: Ahem. Let me explain.
-Kaori: In theory, if you're able to harness that excess energy, the potency of your ability will increase. 
+Kaori: In theory, if you're able to harness that excess energy, the potency of your ability will increase.
 Kaori: This isn't "growth," but rather a "powering-up" of your ability insofar as you're improving efficiency.
 Kaori: You should be able to intuitively understand this concept.
 Satoru: Huh?
@@ -9149,7 +9149,7 @@ Kaori: Precisely. Unfortunately, though, as of now, there is no known way to inc
 Kaori: If such a method is ever discovered, it might even become possible to artificially manifest abilities in non-Astrals.
 Satoru: Interesting. Increasing the link value of a normal person would turn them into an Astral... yeah.
 Kaori: This is why many researchers from around the world are looking into the topic of link values.
-Satoru: I've heard some sketchy rumors about some drug on the black market that can supposedly make a normal person into an Astral... 
+Satoru: I've heard some sketchy rumors about some drug on the black market that can supposedly make a normal person into an Astral...
 Satoru: But yeah, I've never met a person who's become an Astral that way, nor anyone who's even seen the drug at all.
 Kaori: Exactly. Nothing of the sort exists YET.
 Kaori: Meaning you have an opportunity to do something big. I have my hopes up for you.
@@ -9399,7 +9399,7 @@ Ayase: Here you go... *yaaawn*
 *I gratefully take it and proceed to wipe the sweat off my forehead.*
 Ayase: Ugh, I dunno how you're able to jog every single morning. You have my respect.
 Satoru: I try to go to bed early.
-Satoru: I kinda have to do it, either way. Gotta keep in shape otherwise I'll screw up on a mission. 
+Satoru: I kinda have to do it, either way. Gotta keep in shape otherwise I'll screw up on a mission.
 Ayase: Look, I understand that stuff's important... but just try not to push yourself TOO hard, okay?
 Satoru: I won't. I didn't mean to worry you, but I'm not pushing myself, I promise.
 Satoru: You're my precious girlfriend and I love you to death. And I don't want to make you sad, so I'll pay attention to my health.
@@ -9463,7 +9463,7 @@ Kaori: How may I help you? A question pertaining to class?
 Kyouhei: No, I was wondering about Sagami-kun.
 Satoru: He was going on about how bad his migraine was and said he was gonna go to you.
 Kyouhei: Did he go back to his room?
-Kaori: Yes, he did. He didn't seem to be feeling very well, so I gave him some additional painkillers and sent him to his room. 
+Kaori: Yes, he did. He didn't seem to be feeling very well, so I gave him some additional painkillers and sent him to his room.
 Kyouhei: What would you advise us to get him if we were to go pay him a visit?
 Kaori: Simple food would be fine. Other than that, something to cool the inflammatory site would also be good.
 Kyouhei: Alright.
@@ -9623,7 +9623,7 @@ Ayase: I... guess you have a point. Sure.
 *I quickly conclude the matter before it can turn into a debate over who loves the other the most.*
 Satoru: You know, honestly, I'd rather play some kind of multiplayer game. That way we can both have fun.
 Satoru: Do you not like multiplayer games or something?
-Ayase: Well, I don't hate them, per se. It's more that I never had anyone to play with, so all the games I bought were single-player. 
+Ayase: Well, I don't hate them, per se. It's more that I never had anyone to play with, so all the games I bought were single-player.
 Satoru: Oh... Now I kinda feel bad for asking.
 Ayase: DON'T. That would REALLY piss me off.
 Ayase: I'm not alone anymore, so none of that matters.
@@ -9799,7 +9799,7 @@ Satoru: I don't see Sagami with you. Is he still struggling with that headache?
 Tesshin: Yeah, about that.
 Hazuki: Are you talking about Sagami? I've heard he's been admitted to the hospital.
 Satoru: He has?
-Hazuki: Yes. It technically is unrelated to dorm three, but Kakimoto-sensei also went ahead and informed me. 
+Hazuki: Yes. It technically is unrelated to dorm three, but Kakimoto-sensei also went ahead and informed me.
 Tesshin: I heard the same thing. Nobody'd been able to get him out of his room and it was getting real late.
 Tesshin: So people got worried, naturally, and got Kakimoto-sensei to come open the door...
 Satoru: So it was some sort of disease or something, and that's why they took him to the hospital? Man, I hope it's not a brain injury...
@@ -10596,7 +10596,7 @@ Ayase: Well, no duh. It's not my fault I'm like this... I love you so much... an
 Ayase: I love you so much it makes me go crazy.
 Satoru: And I love you too. Horny, or whatever else, you're still my Ayase.
 Ayase: Then don't make a girl say all that freaking crude crap, geez...
-Satoru: I'm ready, Ayase, so let's fuck. I want to feel your body. 
+Satoru: I'm ready, Ayase, so let's fuck. I want to feel your body.
 *.........*
 *......*
 *...*
@@ -10628,7 +10628,7 @@ Atsunori: Today. I'm finally going to wake Kotori here in a short while.
 Atsunori: That's why I called you here. I assume you want to come along, right?
 Ayase: Of course!
 Atsunori: And you as well, Arihara-kun?
-Atsunori: This wouldn't have been possible without you, so I would like for you to witness the fruits of our labor. 
+Atsunori: This wouldn't have been possible without you, so I would like for you to witness the fruits of our labor.
 Satoru: My pleasure.
 Atsunori: Let's be on our way then.
 *There's a single girl sleeping in this capsule much like the other ones I saw.*
@@ -10902,7 +10902,7 @@ Ryuunosuke: "Great."
 Ryuunosuke: "Man, it's been a long time since I've last been in action. I was forced to shoot in that moment, but damn, my heart nearly leapt out of my chest."
 Satoru: Your accuracy was still incredibly impressive, though.
 Ryuunosuke: "Hardly any agents had astral abilities ten years ago. You had to have that level of skill with a firearm to make it."
-Ryuunosuke: "I bet I would've been able to shoot a little bit faster if I was still in top form. I had to take my time to take aim yesterday." 
+Ryuunosuke: "I bet I would've been able to shoot a little bit faster if I was still in top form. I had to take my time to take aim yesterday."
 *That inhuman speed was him "taking his time"?*
 *It was basically almost like normal rapid-fire.*
 Ryuunosuke: "Well, that's enough chitchat for now. Let's move on to the subject at hand."
@@ -11100,7 +11100,7 @@ Ayase: Th-Thank you...
 Chisaki: However, since you were the one giving everyone else a great time, you didn't really get to relax and have fun yourself.
 Ayase: I appreciate your concern, Chisaki-san, but you really don't need to worry about me.
 Chisaki: Oh, no need to be shy. The party's not just for you, it's to celebrate the success of our cafe in general.
-Mayu: True. We had such a resounding success, so it might be worth celebrating. 
+Mayu: True. We had such a resounding success, so it might be worth celebrating.
 Nanami: We also managed to make a profit, right? How about we use the money for this party?
 Kyouhei: Sounds good. It's not a huge amount, but it'll be more than enough for a little party among all of us.
 Hazuki: Indeed, and I also think that would be a better choice than simply splitting the money.
@@ -11256,7 +11256,7 @@ Nanami: You really don't care.
 Satoru: Well, let's hurry up. The others are waiting on us to start the party.
 Mayu: Okaaay... Nijouin-san! I nominate you to give our toast.
 Hazuki: Huh?! Why must I do it?!
-Mayu: Hm, because you're the dorm manager? 
+Mayu: Hm, because you're the dorm manager?
 Hazuki: What does that even have to do with anything?! You know I'm not good at public speaking...
 *Nijouin-san must have realized it wouldn't be good to drag this out any further.*
 *With a visible reluctance, she gets up slowly and runs her gaze across the faces before her.*
@@ -11378,7 +11378,7 @@ Everyone: *stare**gulp* *gulp*...
 Nanami: Wh-What?
 Chisaki: You always harp on him for being a siscon... but you're quite the brocon yourself, I think.
 Nanami: Wha--?! I-I am not!
-Kyouhei: Satoru might be overly attached to you, but it kinda feels like the reverse is just as true. 
+Kyouhei: Satoru might be overly attached to you, but it kinda feels like the reverse is just as true.
 Nanami: Not you too!
 Hazuki: Perhaps she only accuses him of being a siscon to hide her own overly affectionate tendencies?
 Ayase: It's very plausible.
@@ -12121,7 +12121,7 @@ Nanami: ......
 *Before I take my panties off... I check inside them out of curiosity.*
 Nanami: Oh god... What a mess...
 Nanami: So you really do get wet down there. He didn't even do anything sexual to me... but still, somehow...
-Nanami: Just touching his body was enough... to make me wet. 
+Nanami: Just touching his body was enough... to make me wet.
 *The sensation of his warmth still lingers on my body.*
 *It's like he's still right here hugging me tight.*
 *And I'm reaching around with my hands... hugging his back.*
@@ -12345,7 +12345,7 @@ Satoru: No, we should tell him eventually... I just felt now isn't a good time, 
 Nanami: So that's your excuse, huh?
 Satoru: Yeah...
 Satoru: Okay, to be fair, I DO believe now's not a good time... but I'll admit, I am a little scared of how he's gonna take it.
-Nanami: Yeah, his son and daughter are dating... and even kissed. How would a dad even react to that? 
+Nanami: Yeah, his son and daughter are dating... and even kissed. How would a dad even react to that?
 Satoru: I don't have the slightest idea.
 *We might be technically siblings, but we aren't related by blood.*
 *So from a legal standpoint, at least, our relationship is fine.*
@@ -13244,7 +13244,7 @@ Hazuki: But--of course not.
 Hazuki: Being someone who is single, I suppose I'm wholly incapable of providing sound advice to help solve a lover's quarrel.
 Chisaki: Yeah, so let's just wait quietly for our gyoza.
 Hazuki: Would it not be better for us to go lend her a hand then?
-Chisaki: I don't think we should. From what we've been told, it helps her vent. 
+Chisaki: I don't think we should. From what we've been told, it helps her vent.
 Mayu: Boy, I can't wait for the gyoza. Oh, she's started to wrap them now.
 Mayu: Mhhh, they look so good!
 Satoru: ......
@@ -13801,7 +13801,7 @@ Agents: Ah... agh...
 *They quickly tie up the immobilized men.*
 *Once the sound and flash from the stun grenade subsides, I reactivate my ability and scan the inside of the storehouse.*
 *No signs of a trap.*
-Levy 5: Levy Five reporting in. The two targets have been successfully apprehended. 
+Levy 5: Levy Five reporting in. The two targets have been successfully apprehended.
 Satoru: Levy Six. No signs of explosives.
 McGregor: "Copy that. Levy Five and the rest of the raid team, proceed to take the targets and pull out. A van is waiting outside."
 Levy 5: Roger that.
@@ -13962,7 +13962,7 @@ Satoru: Moments like these make me realize the inconveniences of dorm life. Befo
 Nanami: Uh, that may make things easier for you, but I don't approve of you shoving all your responsibilities onto me.
 Satoru: Look, I'm sorry. Your food's literally the best in the world, so I know I'll enjoy whatever's on my plate.
 Nanami: Thanks for the overexaggerated compliment.
-Nanami: Actually, I'm curious. Would you want to go back to our old lifestyle if you had the choice? 
+Nanami: Actually, I'm curious. Would you want to go back to our old lifestyle if you had the choice?
 Satoru: Well, we started dating after coming here, so I'd have to say no.
 Satoru: That alone makes life here better than anything else.
 Nanami: Thanks again for the cheesy compliment.
@@ -14147,7 +14147,7 @@ Mayu: I'm just genuinely happy you're relying on me.
 Hazuki: Shikibe-senpai... Was that really all necessary if you were going to agree to help anyways?
 Mayu: Well, maybe, but I am kinda miffed that we don't know the exact circumstances, so I wanted to make that clear.
 Hazuki: Well... I do get your point...
-Hazuki: Oh, right. I haven't given my answer yet, but I will help as well, of course. 
+Hazuki: Oh, right. I haven't given my answer yet, but I will help as well, of course.
 Ayase: As will I.
 Satoru: Mitsukasa-san...
 Ayase: Don't worry about it. I owe you for the various things you've done for me.
@@ -14820,7 +14820,7 @@ Mayu: Sorry for jumping to conclusions and accusing you of that.
 Satoru: It's fine. I'm just glad you care about me, Mayu-senpai. Thank you.
 Satoru: But yeah, I gotta say... You really surprised me today.
 Mayu: Huh?
-Satoru: You're usually a pretty calm and collected person, but you got really emotional today. 
+Satoru: You're usually a pretty calm and collected person, but you got really emotional today.
 Mayu: Ahaha, well there's a simple reason behind that.
 *A self-deriding smile crosses her face, and her face slowly lowers.*
 Mayu: I don't want any more regrets.
@@ -15035,7 +15035,7 @@ Satoru: Calm down, please! This is all one giant misunderstanding!
 *I can see why they'd think that when she said our relationship was "special," but still!*
 Satoru: There's nothing going on between us! Back me up here, Mayu-senpai!
 Mayu: Ah... Y-Yeah, he's right.
-Mayu: I guess that's how someone would normally interpret what I said... 
+Mayu: I guess that's how someone would normally interpret what I said...
 Mayu: Sorry, Satoru-kun. I didn't mean to bother you.
 Satoru: I-It wasn't... a BOTHER, per se!
 Mayu: It wasn't?
@@ -15224,7 +15224,7 @@ Satoru: How's it going, Nanami?
 Nanami: Hmm. Personally, it feels like we're never going to get anywhere, at this rate.
 Satoru: I feel that...
 *We haven't been able to procure any useful information at all.*
-Satoru: We'll have to check if the keycard still works if we want any shot at hacking her computer again... 
+Satoru: We'll have to check if the keycard still works if we want any shot at hacking her computer again...
 Nanami: Hmm. How about when Shikibe-senpai's in her lab during the day?
 Nanami: If I could hack directly from her computer while it's turned on with all her privileges, we'd be set.
 Satoru: That's... not a very solid plan.
@@ -15710,7 +15710,7 @@ Nanami: But you'll basically be invading her privacy... Are you okay with that?
 Satoru: It's for the mission; I'll have to do it.
 *I swallow my emotions as I answer her.*
 Nanami: ......
-Nanami: Okay. Let's go ahead and set this plan into motion then. 
+Nanami: Okay. Let's go ahead and set this plan into motion then.
 Satoru: Tonight?
 Nanami: Tomorrow during the day's also an option, but we'd both have to leave class at the exact same time. See the problem with that?
 Nanami: Doing it in the middle of the night would be tough too. You'd be sneaking in while she's asleep.
@@ -15745,7 +15745,7 @@ Satoru: Phew.
 Satoru: No signs of that, though.
 *Our uniform's stealth function exists precisely to prevent scenarios like that from happening.*
 *Also, luckily enough, the window's lock was a normal lock that doesn't require a keycard. That made things easier.*
-Satoru: I've successfully infiltrated the room. I'll now proceed to insert the tool. 
+Satoru: I've successfully infiltrated the room. I'll now proceed to insert the tool.
 *I give Nanami a status update then take out the hacking tool from my pocket. It's the same one we used last time.*
 Satoru: Okay, let's turn the computer on...
 *All I have to do is in insert it. The program will run by itself and do everything it needs to.*
@@ -16699,7 +16699,7 @@ Ryuunosuke: "If you'd at least gotten this Shikibe Mayu to fall for you and come
 Ryuunosuke: "We'd have a whole host of different options at our disposal in that scenario."
 Satoru: I know, but this was the only way I felt I could express myself.
 Ryuunosuke: "Tch. Let me tell you something. When you're being all straightforward and painfully honest like this?"
-Ryuunosuke: "You make it damn near impossible for me to ignore those feelings of yours." 
+Ryuunosuke: "You make it damn near impossible for me to ignore those feelings of yours."
 Ryuunosuke: "And I have to admit it was probably a hard decision for you to abandon your duty and go against orders."
 Satoru: Dad...
 Ryuunosuke: "Let me confirm two more things. You're certain the crane accident two years ago was caused by that girl in the coma?"
@@ -17137,7 +17137,7 @@ Mayu: *giggle* Yeah, that's something we'll both need to work on.
 Satoru: You said it.
 Satoru: Do you guys mind if Mayu-senpai joins us?
 Kyouhei: F-Fine by me.
-Chisaki: Good morning, Shikibe-senapi! Glad to have ya with us! 
+Chisaki: Good morning, Shikibe-senapi! Glad to have ya with us!
 Mayu: Y-Yeah, good morning. Ahaha, sorry to bother you guys.
 Ayase: I feel like that is our line...
 Hazuki: W-Wait, we may very well be wrong. Take a closer look...
@@ -17875,7 +17875,7 @@ Satoru: Wh-What the hell is going on?!
 *I crouch and cover Mayu-senpai while quickly scanning the area.*
 *The wind blowing from within the building grows even fiercer.*
 *The windows shake and rattle to the point of nearly breaking.*
-Satoru: This definitely isn't any normal explosion... The force isn't abating; it's continuing and growing in intensity... 
+Satoru: This definitely isn't any normal explosion... The force isn't abating; it's continuing and growing in intensity...
 Satoru: What the hell's happening in there?
 Mayu: No--it can't be!
 *She gasps in shock.*
@@ -18263,7 +18263,7 @@ Satoru: Let's stay away from surgery, please!
 Mayu: Stop bullying my Satoru-kun!
 Nanami: Oh. Hi, Shikibe-senpai.
 Mayu: It's okay, Satoru-kun. Everything's going to be alright. Here, I'll hug you to my bosom, so please, don't get discouraged! Please!
-Satoru: Mmphbbhppbhgghb... 
+Satoru: Mmphbbhppbhgghb...
 Ayase: I think we're the ones being bullied by Shikibe-senpai right now... mentally...
 Hazuki: Excessive flirting indeed.
 Ayase: Y-Yes. Ahem...
@@ -19167,7 +19167,7 @@ Hazuki: That is precisely why I feel such an affinity for Chinonosuke's loyalty!
 Hazuki: Additionally, just look at him. Is he not the cutest thing you've ever laid eyes upon?
 *I eye him appraisingly.*
 Satoru: ......
-Hazuki: Ah--don't think I didn't notice that! Why are you squinting at him like that? He's cute! Cute! 
+Hazuki: Ah--don't think I didn't notice that! Why are you squinting at him like that? He's cute! Cute!
 Satoru: Er... it's a fish, though.
 Hazuki: So what if he is? All fish are cute.
 Satoru: But their eyes are all big and beady... It's kinda creepy.
@@ -19662,7 +19662,7 @@ Hazuki: N-No, you don't have to. I'm not quite confident enough yet to show them
 Hazuki: I just sort of... wanted to get another person's opinion first.
 *She shakes her head.*
 Hazuki: Actually, never mind. I should do this myself.
-Hazuki: I over-rely on you anyhow... This is your free time, so you should use it for yourself. 
+Hazuki: I over-rely on you anyhow... This is your free time, so you should use it for yourself.
 Hazuki: Surely you have things you want to do, right?
 Satoru: Don't worry. I wasn't really gonna do anything.
 *Sure, I can technically do whatever I want, but given that I lied about my ability, I can't mess around with it like everyone else if I want that to stay a secret.*
@@ -20847,7 +20847,7 @@ Satoru: I'm being honest. It's a very manly-looking meal.
 Hazuki: Manly... Urk...
 *Oh, now I've done it.*
 Satoru: I really don't care about what's in it. I'm just happy you prepared food for me.
-Hazuki: R-Really? 
+Hazuki: R-Really?
 Satoru: Plus I'm in the mood for meat today. You really know me well, huh?
 *Perhaps reassured by my smile, her mood immediately brightens.*
 Hazuki: R-Right! Men's bodies require the energy that meat provides! I... think!
@@ -21103,7 +21103,7 @@ Chisaki: Sorry, I don't know what those words mean.
 Hazuki: All I am asking is that you make no mention of us being a "couple" or "lovebirds" in public.
 Chisaki: Okie dokie. I'll try not to.
 Satoru: Are you really going to, though...
-Chisaki: Well, it's hard, alright? When girls talk, ninety percent of the time it's about boys. 
+Chisaki: Well, it's hard, alright? When girls talk, ninety percent of the time it's about boys.
 Hazuki: What?! I-Is that truly the case?!
 Satoru: I'd say with you, Hazuki, that ninety percent is for historical shows.
 Hazuki: Yes, I may talk about them often, but you're blowing it out of proportion!
@@ -21778,7 +21778,7 @@ Kido: Ngh!
 *This should scare him enough to not pull another one of those pranks ever again.*
 *But before I leave, I have to get the confession Dad asked for.*
 Satoru: Answer me. A while back, there was an incident where the glass cups inside an Italian Restaurant at the mall shattered. Was that your doing?
-Satoru: Then there were the destroyed sprinklers in a fashion store, and the cups in the movie theater, and the water pipes in the subway. 
+Satoru: Then there were the destroyed sprinklers in a fashion store, and the cups in the movie theater, and the water pipes in the subway.
 Satoru: And finally--the fire extinguisher here at the academy. Those were all done by you, weren't they?
 Satoru: You manipulated the air pressure with your ability, didn't you?
 Kido: I-I don't know what the hell you're talking about!
@@ -21786,7 +21786,7 @@ Satoru: We're also aware that you used your delayed effect ability to fake an al
 Kido: Ngh!
 Satoru: Give it up. You're the one who instigated all of those incidents, weren't you?
 *I put more weight on Kido's arm to make him talk.*
-Kido: You're with the cops, aren't you, you fucking bastard?! 
+Kido: You're with the cops, aren't you, you fucking bastard?!
 Satoru: I said I'm the one asking the--
 Satoru: Ngh, agh?!
 *All of a sudden, I see a bright spark--and the next thing I know, my vision is gone.*
@@ -21812,7 +21812,7 @@ Nanami: "Onii-chan, you should probably withdraw!"
 Satoru: If I retreat, he'll think he's invincible and do more daring stuff. After that, it'll be difficult to teach him a lesson.
 *The only way to make him repent is to beat it thoroughly into him.*
 Nanami: "But the cameras will record you chasing him!"
-Satoru: Hmm, that would be bad. Cut off all the cameras connected to the security room. Jam them all. 
+Satoru: Hmm, that would be bad. Cut off all the cameras connected to the security room. Jam them all.
 Nanami: "What?! There's no way someone won't notice that!"
 Satoru: Just do it, Levy Nine.
 Nanami: "Nghh, fine! By you're responsible for this, okay?!"
@@ -22148,7 +22148,7 @@ Satoru: Would you still trust me in spite of that?
 Hazuki: Back when I was little, I couldn't understand why the heroes in the shows I watched would sometimes forgive people who did bad things and let them escape.
 Hazuki: Father said it was human nature, but that wasn't a satisfying-enough answer for me.
 Hazuki: Now, though, I think I have a better grasp of what he meant.
-Hazuki: Crimes are crimes, and rules are rules. We can't bend them as we please. 
+Hazuki: Crimes are crimes, and rules are rules. We can't bend them as we please.
 Hazuki: Still, the people enforcing the rules are human too. And no one is above making mistakes.
 *Right. Kido was a victim of the folly of human nature.*
 Hazuki: If a just man is imperfect, that makes those do wrong just as imperfect.
@@ -22426,7 +22426,7 @@ Satoru: Would you have wanted an older sibling or a younger one?
 Chisaki: Hmm, having a cute little sister would be nice, but I think I'd like having a big brother I could look up to.
 Satoru: You can call me Onii-chan if that'd make you feel better.
 Chisaki: Haha, no thanks.
-Satoru: What?! Why are you smiling?! 
+Satoru: What?! Why are you smiling?!
 Chisaki: Well, it's just that if I called you that, I wouldn't be able to deal with Nanami-chan's jealousy.
 Satoru: I don't think she'd care.
 *In fact, she'd probably encourage it.*
@@ -23614,7 +23614,7 @@ Satoru: Yeah. You probably shouldn't try to play hero again, for your own safety
 Chisaki: Yeah... I'm sorry.
 Satoru: I'm not upset at you for getting me hurt or anything. I'm just worried for you.
 Satoru: I could visibly see the anger in your eyes when you rushed in front of him.
-Satoru: Your action prevented that woman from being victimized further, so I don't fault you for doing what you did. 
+Satoru: Your action prevented that woman from being victimized further, so I don't fault you for doing what you did.
 Satoru: But don't you think you could've done something more sensible than running at a criminal and confronting him head on?
 *To control an ability of his type, you need to focus on a specific location.*
 *Having a good grasp on the space around you is important for that, and most people rely on visual feedback to contextualize their surroundings.*

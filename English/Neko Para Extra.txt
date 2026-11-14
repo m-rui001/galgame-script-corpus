@@ -1,4 +1,4 @@
-﻿Chocola: G-Good morning... to you...
+Chocola: G-Good morning... to you...
 Vanilla: Good morning...
 Shigure: Good morning, Chocola, Vanilla.
 Shigure: Did you get any sleep last night?
@@ -653,7 +653,6 @@ Maple & Cinnamon: I-I'm sorry!!I-I'm so sorry~!!
 ================================================================================
 Coconut: Onee-chan, Onee-chan♪
 Coconut: Onee-chan, Onee-chan♪
-Coconut: Onee-chan, Onee-chan♪
 Azuki: Sheesh, you sure are a clingy one.
 Coconut: Ehehe♪ Well, I do love my Onee-chan♪
 Coconut: Onee-chan, am I bothering you?
@@ -935,7 +934,7 @@ Kashou: You two are good girls, so you just might get a present yourselves, you 
 Chocola: Wow! A present! He said present, Vanilla!
 Vanilla: I never knew someone so benevolent existed. The world sure is big.
 Kashou: Yep, the world is a big place.
-Kashou: Chocola, Vanilla? What do you two want? 
+Kashou: Chocola, Vanilla? What do you two want?
 Chocola: Chocola wants a toy! A toy is what I want!
 Chocola: One that goes nyan nyan nyaaan!
 Vanilla: I-I want a picture book...!
@@ -986,7 +985,7 @@ Shigure: Even if I were to go to bed, I would be too excited about tomorrow, so 
 Shigure: Would you mind if I watch you work, Nii-sama? Unless it's too distracting, of course.
 Kashou: I don't mind.
 Kashou: Though, I don't know whether you'll see anything interesting.
-Shigure: Wow, your skills are impeccable. 
+Shigure: Wow, your skills are impeccable.
 Shigure: Kudos to your studies in France.
 Kashou: It was a selfish desire of mine.
 Kashou: I needed to get at least this good to justify it.

@@ -96,7 +96,6 @@ Junior: "..."
 Junior: "... Shit!"
 *...*
 *...*
-*...*
 You: "Urgh..."
 You: "What happened?"
 Junior: "Dad! You're awake! Thank god..."
@@ -5463,7 +5462,6 @@ Junior: "Now what?"
 You: "Well, step one is done, so... Now we wait for tomorrow."
 *...*
 *...*
-*...*
 *The sun shines brightly as you wake up the next day.*
 You: "Mgh... Where am I?"
 You: "Oh, right... I'm in the middle of my evil plan."
@@ -6209,7 +6207,7 @@ Junior: "Quick, what is it saying?"
 You: "Let me read..."
 *...*
 *"Since you were looking away, I wanted to show you just how bad it was. Look, my uniform is all kinds of ripped up.*
-down: 
+down:
 *"Thanks for getting me out of there... Next time Ron has duties, I hope you will come with me again. nn Kim*
 You: "..."
 Junior: "Well?"

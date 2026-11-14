@@ -2080,7 +2080,6 @@ You: "Still smells like moldy carpet in here."
 *Stay here*
 *Leave the room*
 *Leave the room*
-*Leave the room*
 *I slowly woke up.*
 *I sucked in a deep breath.*
 You: "Mondays, amirite?"

@@ -422,7 +422,7 @@ Mina: "Whatever you want. But, uh... I spent all my allowance, so I can't go sho
 Makoto: "What? It's the start of the month! What did you spend it on?"
 Mina: "Bunch of books..."
 My own voice rang strangely in my ear. (Well, that's odd...)
-But I was unable to finish the thought. The air seemed to thicken around my ears, and voices assaulted them. Countless voices coalesced and echoed near my ear. 
+But I was unable to finish the thought. The air seemed to thicken around my ears, and voices assaulted them. Countless voices coalesced and echoed near my ear.
 Others / Female Student A: "So, last night, right?"
 Others / Female Student B: "Listen to this. Know what Miho did?"
 Others / Female Student C: "Yeah, I know what you mean."
@@ -3220,7 +3220,6 @@ Makoto: "I'm in the bath now"
 Makoto: "Hey, where are you?"
 Makoto: "Where are you?"
 Makoto: "Where are you?"
-Makoto: "Where are you?"
 Makoto: "What are you up to?"
 Makoto: "Hey, Mina?"
 Makoto: "Mina?"
@@ -3230,35 +3229,10 @@ Makoto: "Mina?"
 Makoto: "Mina?"
 "Mina?"
 "Mina?"
-"Mina?"
 Makoto: "Mina?"
 "Mina?"
 "Mina?"
-"Mina?"
-"Mina?"
-"Mina?"
-"Mina?"
-"Mina?"
-"Mina?"
-"Mina?"
-"Mina?"
-"Mina?"
 Makoto: "Mina?"
-"Mina?"
-"Mina?"
-"Mina?"
-"Mina?"
-"Mina?"
-"Mina?"
-"Mina?"
-"Mina?"
-"Mina?"
-"Mina?"
-"Mina?"
-"Mina?"
-"Mina?"
-"Mina?"
-"Mina?"
 "Mina?"
 "Mina?"
 Riko: "Is something wrong?"
@@ -5145,7 +5119,7 @@ Riko: "Very well. Let me call you a taxi. Please stay here until then."
 Mina: "No, I'll walk home. I want to walk home alone."
 *I reached for the doorknob. The brass was cold to the touch and sucked the warmth from my hand. I never turned around again as I went outside.*
 Jessica: "Mina..."
-Her frail voice was cut short by the closing of the door. I opened my vinyl umbrella to stem the cataclysm from above. The path down the hill was cast in the monochrome of the dark night and highlights of rainy haze. The incessant hiss filled my mind as I walked. The fallen rain ran down the hill in rivulets that reflected the light of street lamps along the road. I wore no gloves. My hands were stiff but did not feel cold. Because I was a doll? The rain fell so heavy on my umbrella that I felt compelled to lower my head and look to the ground. The rainwater rushed down past my feet, and it seemed to me like I was like the pebbles it left behind. Why did I resist so stubbornly? Why couldn't I accept it all? That was the right decision. I had to accept it. I had to accept it, not languish indecisively. Besides, I was a doll now. 
+Her frail voice was cut short by the closing of the door. I opened my vinyl umbrella to stem the cataclysm from above. The path down the hill was cast in the monochrome of the dark night and highlights of rainy haze. The incessant hiss filled my mind as I walked. The fallen rain ran down the hill in rivulets that reflected the light of street lamps along the road. I wore no gloves. My hands were stiff but did not feel cold. Because I was a doll? The rain fell so heavy on my umbrella that I felt compelled to lower my head and look to the ground. The rainwater rushed down past my feet, and it seemed to me like I was like the pebbles it left behind. Why did I resist so stubbornly? Why couldn't I accept it all? That was the right decision. I had to accept it. I had to accept it, not languish indecisively. Besides, I was a doll now.
 Mina: "A doll..."
 *It sounded surreal when I said it. I had seen many dolls. Dolls that seemed so human. Takachiho Sayo had been a doll. Makoto had been a doll. Touko had been a doll. The woman I had met on the train. The boy I destroyed. The nurse who worked at my mother's hospital. They had all been dolls. Had they been different from human beings? Jessica, Riko, and Yang were all dolls now. There was no difference between them and other people. Therefore I was the same as well. I think my trouble was probably not with accepting that I had become a doll. This development would rightfully shock and disturb anybody, and yet Riko and Jessica accepted it without question. It scared me. I felt their smiles were empty like the interior of ceramic dolls, that something was missing. I felt I was seeing marionettes dancing on invisible strings and it made me sick. And... If I underwent anamnesis as intended, I would enthusiastically march forth toward battle with a smile on my lips. The thought frightened me. They were both such strong and gentle people. I saw even the strength of their will be bent by Ruka's power, tied to her strings,and it scared me. She whose beauty seemed unworldly... That the seeds she had sowed within me were slowly extending their roots sent cold shivers down my spine and terrified me. When I looked up I was approaching the foot of the hill. Was I going to make it in time to the station for the last train? I considered checking my purse for enough money to take a taxi. Just when I reached inside the pocket of my coat, I heard the sound of an engine from the bottom. White exhaust hung in the rain and with every confident roar of the engine the headlights flared up. The black edges of the car shone like rough-cut obsidian. A powerfully built man was laboring in the back.*
 Mina: "Jay?"
@@ -5958,7 +5932,7 @@ Mina: "How..."
 Jessica: "How can she be in a different area at the same time?"
 Riko: "It's impossible for the same person to exist in two areas!"
 ??? / Japanese: "She's different. It's possible."
-She spoke in a despondent voice. Suddenly we were flooded by other voices from different places. 
+She spoke in a despondent voice. Suddenly we were flooded by other voices from different places.
 - ??? / American -< She's bad news. > I heard English from somewhere and a girl appeared backlined against the light.- ??? / Russian -< That's the one who killed all my friends! > I heard a new voice in Russian and another girl of light appeared.- ??? / Chinese -< She also came to our area a month ago. > Another girl appeared in a wave of angry Chinese.- ??? / German -< Why is that woman here? > A German girl spoke and soon the space erupted in a cacophony of foreign languages
 ??? / Japanese: "We're a pretty international bunch now, eh?"
 *The first girl spoke in Japanese and turned to Jessica.*
@@ -6596,7 +6570,7 @@ Mina: (Maybe the carriage over? Where? Who's watching?)
 Kasajima Miwa: "No... No... I don't want to die!"
 Kasajima Miwa: "No, no, no, no!"
 Mina: "...!"
-I wore my fear like a cloak of ice. The dolls I had watched crack and splinter began to morph into myself in my imagination. Once killed, I was going to disappear like the dolls that I had killed, obliterated from the face of the Earth. I would fall apart and be forgotten. Nothing would remain of me. No-thing wo-uld re-main. I twitched. I heard low clangs. The child was slamming a toy against the handrail. I heard high metallic clicks. One of the girls was playing around with a ballpoint pen in her hand. I heard the buzz of someone's cell phone vibrating. Something twinkled far away. The child screamed. The girls laughed annoyingly. Someone was listening to music on his headphones and I heard a game being played. My nerves were hypersensitive to sights and sounds, irritated by tiny stimulations that bred fear in me. 
+I wore my fear like a cloak of ice. The dolls I had watched crack and splinter began to morph into myself in my imagination. Once killed, I was going to disappear like the dolls that I had killed, obliterated from the face of the Earth. I would fall apart and be forgotten. Nothing would remain of me. No-thing wo-uld re-main. I twitched. I heard low clangs. The child was slamming a toy against the handrail. I heard high metallic clicks. One of the girls was playing around with a ballpoint pen in her hand. I heard the buzz of someone's cell phone vibrating. Something twinkled far away. The child screamed. The girls laughed annoyingly. Someone was listening to music on his headphones and I heard a game being played. My nerves were hypersensitive to sights and sounds, irritated by tiny stimulations that bred fear in me.
 Female University Student: "Hahaha!"
 (No, no, no, I don't want to die, I don't want to die, I don't want to die, I don't want to die, I don't want to die, I don't want to die, I don't want to die, I don't want to die, I don't want to die...)
 *I heard something indistinct next to my head. I felt like time had stopped. The window behind me was almost opaque from cracks, like a spider web. It slowly bent inward and burst into a million pieces. The air rushed in, blowing a hail of tiny shards into my face.*
@@ -7665,7 +7639,7 @@ Mina: "Okay..."
 *I got up from the sofa and returned to my room. I remembered that I'd left the bathtub running, but didn't feel like getting in anymore. Darkness engulfed my mind.*
 ====================agreement_130. json====================
 Episode.13
-In the box was a broken doll. The porcelain was broken and chipped here and there. Her hair was white, her skin was white, her clothes were white... I looked at her, took her in my hands and straightened out her disheveled hair. The doll looked at me, smiling from eyes the color of a cloudy liquid. 
+In the box was a broken doll. The porcelain was broken and chipped here and there. Her hair was white, her skin was white, her clothes were white... I looked at her, took her in my hands and straightened out her disheveled hair. The doll looked at me, smiling from eyes the color of a cloudy liquid.
 Another Doll: "He-y, Mi-na... We a-re the sa-me."
 *Her entire body clattered as she moved to give me a broad smile.*
 Another Doll: "We a-re the sa-me... No-bo-dy el-se ca-n un-der-stan-d us. On-ly we ca-n."
@@ -11721,7 +11695,7 @@ Riko: "That makes me happy... I hope the day comes soon. Then I wouldn't have to
 Riko's Mother: "Yes. You will be reborn as a beautiful angel, ready to play your part."
 Riko: "An angel! I want to be an angel..."
 Riko's Mother: "Yes... I want to see you become an angel as well..."
-My mother pressed her forehead against my brow and her eyes trembled. When the blood of God within me awakened, her duties would be fulfilled, and she would fall into eternal slumber with the blissful knowledge that the succession of souls was unbroken. Of course, she did not tell me that when I was young. She was afraid it would confuse me and stand between me and the awakening. And when the blood of Oracles in me awakened, I was not going to grieve her death, but understand it as a natural phenomenon. In this fashion, there was a predestined narrative that filled me entirely, which would one day redeem all my hardships in a beautiful rebirth of the self. That was my mother's wish, and it was my own wish. I lived solely for that. When I was twelve, during the wintertime, everything ended in the blink of an eye. I had stomach pains and impure blood was expelled from me for the first time. My mother cleaned me, put her hand on my head and smiled. 
+My mother pressed her forehead against my brow and her eyes trembled. When the blood of God within me awakened, her duties would be fulfilled, and she would fall into eternal slumber with the blissful knowledge that the succession of souls was unbroken. Of course, she did not tell me that when I was young. She was afraid it would confuse me and stand between me and the awakening. And when the blood of Oracles in me awakened, I was not going to grieve her death, but understand it as a natural phenomenon. In this fashion, there was a predestined narrative that filled me entirely, which would one day redeem all my hardships in a beautiful rebirth of the self. That was my mother's wish, and it was my own wish. I lived solely for that. When I was twelve, during the wintertime, everything ended in the blink of an eye. I had stomach pains and impure blood was expelled from me for the first time. My mother cleaned me, put her hand on my head and smiled.
 Riko's Mother: "Don't worry. You're not sick. You learned about this at school, right?"
 *I still remember her vividly. My mother's smiles were faint and fleeting, like one freshly cured of the weight of madness. I thought her smile was supremely beautiful and clung to her, afraid she would disappear. My fears were proven correct. My mother was gentle to the last. I would not have blamed her for being distraught, deranged, or for blaming me, but she showed me nothing but love.*
 Riko: "Mom, where are we?"
@@ -13261,4 +13235,4 @@ Li-Fang: "You should have known. She cannot leave her world."
 Yang: "Mother, are you..."
 *She was serious.*
 Li-Fang: "I told you. I only wanted to protect her."
-My mother looked out toward the vast and bright sky as though that was where she expected to find Mina. 
+My mother looked out toward the vast and bright sky as though that was where she expected to find Mina.

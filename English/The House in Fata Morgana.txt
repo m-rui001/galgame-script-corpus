@@ -928,14 +928,14 @@ Nellie: "...Bah."
 Mell: "Oh, uh, I didn't really think this through, did I? I don't even know where she is."
 Mell: "I'm guessing... she's probably Mother's maid."
 Mell: "White hair..."
-Mell: (It _has_ to be the girl from last night.) 
-Mell: (But...) 
+Mell: (It _has_ to be the girl from last night.)
+Mell: (But...)
 *Deep down, he was having difficulty believing the young woman he had seen the previous night was truly here to be a servant.*
 *And can you blame him? When he saw her, she was an absolute mess—hardly what you would envision from a girl of class.*
 *But he did not seek her to find out whether that was true.*
 *He merely wanted to see her once more, to ascertain whether what he had witnessed the previous night was real or his imagination.*
 *And he wanted to have an actual conversation with her.*
-Mell: (I don't want to run into Mother... That would be awkward.) 
+Mell: (I don't want to run into Mother... That would be awkward.)
 *He was heading toward his mother's bedchamber, but the closer he drew, the heavier each step grew.*
 *He rounded a corner, debating whether or not to head back—and stopped in his tracks.*
 *On occasion, wishes do come true. When Mell turned the corner, he saw her—the same girl. That same white hair.*
@@ -965,19 +965,18 @@ Mell: "I— I was wondering how you were doing."
 White hair: "...Pardon? "
 White hair: "I-I'm quite fine..."
 Mell: "G-Good! That's great to hear! "
-Mell: (You fool, Mell! What are you even saying?!) 
-Mell: (You have more important things to ask—like where she came from. Or to tell her... she has pretty hair and eyes.) 
-Mell: (But I don't want to trouble her too much...) 
+Mell: (You fool, Mell! What are you even saying?!)
+Mell: (You have more important things to ask—like where she came from. Or to tell her... she has pretty hair and eyes.)
+Mell: (But I don't want to trouble her too much...)
 White hair: "L-Lord Mell? "
 Mell: "Yes?! "
 White hair: "Sorry, you just suddenly fell silent. Was I, um, in your way?"
 Mell: "I-In my way?! No, not at all! "
 Mell: "Wh-What are you up to? "
 White hair: "............ I'm... cleaning."
-Mell: (Well, yeah. I didn't even need to ask.) 
+Mell: (Well, yeah. I didn't even need to ask.)
 Mell: "Ahh, you're cleaning! "
 White hair: "............"
-Mell: "............"
 Mell: "............"
 Mell: "............"
 Mell: "Oh, uh, you can just let the other servants take care of the cleaning. You're one of the nobles' daughters we took in, right? Then why is Mother making—"
@@ -989,7 +988,7 @@ Mell: "Say, um... Yesterday— "
 White hair: "This mansion is truly a thing of beauty. All the many roses in the garden—even the furnishing has had a great deal of thought put into it."
 White hair: "This family must have a wonderful sense of aesthetic."
 Mell: "Oh... Yeah, thanks."
-Mell: (Did she... just change the subject on me?) 
+Mell: (Did she... just change the subject on me?)
 White hair: "I'm delighted to have been given the opportunity to serve at such a magnificent house."
 Mell: "............"
 Mell: "Mother and Father... actually had nothing to do with that. Not even the garden."
@@ -1009,8 +1008,8 @@ Mell: "I was just thinking that you're kind of like this house."
 White hair: "What do you mean... by that?"
 Mell: "I mean, when you first arrived—"
 Mell: "Oh, uh, no, never mind. Forget it."
-Mell: (She'll figure out you were peeping on her, stupid.) 
-Mell: (She hasn't yet... has she?) 
+Mell: (She'll figure out you were peeping on her, stupid.)
+Mell: (She hasn't yet... has she?)
 Mell: "............"
 White hair: "Yes? "
 Mell: "I-It's nothing. The more I think about it, you and the mansion aren't really comparable."
@@ -1092,7 +1091,7 @@ Mell: (Either way, she still scares me. It's like there's no light in her eyes�
 Mell: (That doesn't make her any less pretty, though.)
 White hair: "............ "
 Mell: "............ "
-Mell: (Ah... the conversation died. I have to think of something else to talk about...) 
+Mell: (Ah... the conversation died. I have to think of something else to talk about...)
 Mell: "Um— "
 White hair: "...Um. "
 Mell: "Er— Oh, uh, yes?! You can ask me anything! "
@@ -1171,16 +1170,16 @@ Mell: "This is _me_ we're talking about..."
 Mell: "Besides, I hardly even know her."
 Mell: "............"
 Beggar: "Young sire... Blessed young sire, alms for the poor..."
-Mell: (It's the same beggar as before.) 
-Mell: (I don't think he's moved since then.) 
-Mell: (But he looks skinnier than last time.) 
-Mell: (He's going to have trouble making it through the summer.) 
+Mell: (It's the same beggar as before.)
+Mell: (I don't think he's moved since then.)
+Mell: (But he looks skinnier than last time.)
+Mell: (He's going to have trouble making it through the summer.)
 Mell: (I should give him something while I still have the chance.)
 Beggar: "Alms for the poor... Have mercy..."
 Mell: "Sorry, but this is all I have to give you..."
 Beggar: "Ahh... thank you very much. Blessings upon you. May the Lord bless your soul, young sire."
 Mell: "Thanks..."
-Mell: (I feel bad for him... but that's just the way of the world.) 
+Mell: (I feel bad for him... but that's just the way of the world.)
 Mell: "Farewell."
 Mell: "The skies are really clear."
 *The sun shone fiercely down on the town that day.*
@@ -1244,7 +1243,7 @@ Nellie: "Huh..."
 White hair: "............"
 Nellie: "So tell me— "
 White hair: "Ah, L-Lady Nellie! That is a most wonderful painting! "
-Nellie: (She just tried to brush me off! I won't let her get away that easy!) 
+Nellie: (She just tried to brush me off! I won't let her get away that easy!)
 Nellie: "Painting? It's in my room, so of _course_ it's wonderful. "
 White hair: "But that... that one's especially so."
 White hair: "You're both so adorable... You, Lady Nellie, and Lord Mell... Hehe. How old were you when it was painted?"
@@ -1289,7 +1288,7 @@ White hair: "He is quite the gentleman. I assumed women would be drawn to him...
 Nellie: "Gentleman? Have you met Mell already? "
 White hair: "...This morning, briefly."
 Nellie: "............"
-Nellie: (That reminds me... Mell seemed to know about her too...) 
+Nellie: (That reminds me... Mell seemed to know about her too...)
 White hair: "Um..."
 Nellie: "............"
 Nellie: "What do you think about Mell? "
@@ -1337,7 +1336,7 @@ Mell: "I-I guess."
 Mell: "I will look at your room, I promise, but first... uh, do you know where the new maid is? "
 Nellie: "............"
 Mell: "Now now, don't get any strange ideas. I just haven't yet had the chance to introduce myself, and I thought I should, as a member of the family. "
-Nellie: (Except you _have_, and I know it...) 
+Nellie: (Except you _have_, and I know it...)
 Mell: "Being the eldest son, it would be shameful if she were to pass me in the halls not even knowing who I am, so..."
 Nellie: "Don't ask me."
 Mell: "What? But you were in the house all day!"
@@ -1361,7 +1360,7 @@ Mell: "Wha— Wh-Why did that even come up?"
 Nellie: "Because we're both girls. We talk about things like what kind of boys we like and who's the most handsome. "
 Mell: "............"
 Nellie: "Why do you look so downtrodden, dearest Mell?! You look like a sad little boy who can't get his crush to notice him! "
-Nellie: (That face is unbecoming of a prince, Mell...) 
+Nellie: (That face is unbecoming of a prince, Mell...)
 Nellie: "Are you interested in her? That's strange. You haven't even met."
 Mell: "I-I am not! "
 Mell: "It's just depressing to find out that someone you've never even met doesn't like you..."
@@ -1392,8 +1391,8 @@ White hair: "That painting..."
 *One's first love, in particular, tends to burn like a wildfire. Are you familiar with the sensation, Master?*
 *Oh? Hehehe.*
 Mell: "Ah..."
-Mell: (There she is. Is she cleaning? No, it looks like she's reading.) 
-Mell: (It's now or never.) 
+Mell: (There she is. Is she cleaning? No, it looks like she's reading.)
+Mell: (It's now or never.)
 Mell: "............ "
 White hair: "............"
 Mell: "...Boo! "
@@ -1550,9 +1549,6 @@ Mell: "Hahaha..."
 *A presence in his bedchamber.*
 Monologue: ""
 Monologue: ""
-Monologue: ""
-Monologue: ""
-Monologue: ""
 Voice: "............ She's..."
 Voice: "Why... I never wanted her to die..."
 Voice: "Was she not eating?!"
@@ -1582,11 +1578,11 @@ Mell: "...?"
 Mell: (I can sense someone standing beyond my door.)
 Mell: "............"
 Mell: "Is someone there?"
-Mell: (It's like they're watching me...) 
-Mell: (Is it just my imagination?) 
+Mell: (It's like they're watching me...)
+Mell: (Is it just my imagination?)
 Mell: "............"
-Mell: (I can't move.) 
-Mell: (What? What do you want? Go away.) 
+Mell: (I can't move.)
+Mell: (What? What do you want? Go away.)
 Mell: "............"
 Mell: "Haah..."
 Mell: "............"
@@ -1674,7 +1670,7 @@ Maid: "You mustn't be so harsh on her. She is your one and only, darling little 
 Mell: "You're right, but still... she's taken it a bit too far of late."
 Maid: "Oh? I am not so sure. She does not seem to be behaving any differently to me."
 Mell: "Hmm..."
-Mell: (Am I the one acting differently, then?) 
+Mell: (Am I the one acting differently, then?)
 Mell: "............"
 Mell: "Well, enough about that. Can I ask you a favor? "
 Maid: "Me? What can I do for you?"
@@ -1711,7 +1707,7 @@ Mell: "Ah..."
 White hair: "............"
 Mell: "............"
 White hair: "............"
-Mell: (O-Of course, I get her out of the house, and I can't even think of anything to say...) 
+Mell: (O-Of course, I get her out of the house, and I can't even think of anything to say...)
 Mell: "H-Hey, uh... "
 White hair: "Yes? "
 Mell: "Have you settled in to life at the mansion? "
@@ -1730,9 +1726,9 @@ Mell: "Umm..."
 White hair: "I don't...? "
 Mell: "Never mind, sorry. It's not important."
 White hair: "...? "
-Mell: (It _is_ important, but I can't just ask how she feels about me...) 
-Mell: (That would make it sound like I...) 
-Mell: (...Forget “sound like.” I _do_, don't I?) 
+Mell: (It _is_ important, but I can't just ask how she feels about me...)
+Mell: (That would make it sound like I...)
+Mell: (...Forget “sound like.” I _do_, don't I?)
 White hair: "Lord Mell? "
 Mell: "Oh, sorry... Had something on my mind."
 Mell: "It looks like it might rain again today. The weather usually gets _better_ as summer approaches, not worse like it has been."
@@ -1751,12 +1747,12 @@ White hair: "A smile suits Lady Nellie much more than I."
 Mell: "What? Her smile and your smile are completely different."
 White hair: "Also... a smile suits you as well, Lord Mell."
 Mell: "D-Do you really think so?"
-Mell: (What am I supposed to do... in the face of a smile like that?) 
+Mell: (What am I supposed to do... in the face of a smile like that?)
 Mell: "So, um..."
 White hair: "Yes? "
 Mell: "............"
-Mell: (Knowing her, if I ask if I'm imposing, she'll say no without hesitation.) 
-Mell: (Trying to cover myself isn't going to get me anywhere.) 
+Mell: (Knowing her, if I ask if I'm imposing, she'll say no without hesitation.)
+Mell: (Trying to cover myself isn't going to get me anywhere.)
 Mell: "Hold on a second."
 Mell: "I never did get you those flowers like I promised. There was a single white rose blooming in the garden..."
 Mell: "I was planning to give it to you, but it disappeared before I had the chance."
@@ -1806,7 +1802,7 @@ Mell: "Ah— Wait! "
 Mell: "............"
 Mell: "It looks like... she's even less fond of me than I thought."
 Mell: "Nnh..."
-Mell: (God, I'm crying.) 
+Mell: (God, I'm crying.)
 Mell: "I'm pathetic..."
 Priest: "...? "
 Mell: "............"
@@ -1855,16 +1851,16 @@ Priest: "By all means."
 *In the back of Mell's mind, a vision of the night of the storm—the night the White-Haired Girl arrived at the mansion was surely replaying.*
 *She had been wearing little more than rags and covered in grime—hardly the appearance of a respectable young lady of class.*
 Mell: "............"
-Mell: (Have I been putting her through unnecessary stress?) 
-Mell: (If she actually turns out to be nameless, to be rankless...) 
+Mell: (Have I been putting her through unnecessary stress?)
+Mell: (If she actually turns out to be nameless, to be rankless...)
 Mell: (No matter where she comes from, my heart is decided. I will not fool myself about how I feel any longer.)
 Mell: (No, I _cannot_ fool myself.)
 Mell: (But how does _she_ feel?)
-Mell: (What will everyone else think?) 
-Mell: (I have to find out why she was welcomed into our house.) 
-Mell: (I'll ask Mother, or Father—) 
-Mell: (No... If, for some reason, they don't know she isn't aristocratic, I'm better off not saying anything.) 
-Mell: (But if they don't... then does that mean she's been lying to us? And to them?) 
+Mell: (What will everyone else think?)
+Mell: (I have to find out why she was welcomed into our house.)
+Mell: (I'll ask Mother, or Father—)
+Mell: (No... If, for some reason, they don't know she isn't aristocratic, I'm better off not saying anything.)
+Mell: (But if they don't... then does that mean she's been lying to us? And to them?)
 Mell: (I have to find out. This time, I _must_ get answers.)
 Nellie: "No! Absolutely not! "
 Nellie: "You come back and the first thing you say is _that_?! I hate you, Father! I will _not_ stand for this! "
@@ -1886,30 +1882,30 @@ Nellie: "_want_ to get married!"
 *Roads, such as the one we were following, have a way of diverging with little warning.*
 *And if you do not turn the wheel exactly right at those sudden forks, you may end up somewhere horribly off course. I was well aware of that fact... *
 *which is why I thought that what I did was for the best.*
-Mell: (It's happening again.) 
-Mell: (I made sure the door was closed... but I can sense someone standing there.) 
-Mell: (Someone watching me...) 
+Mell: (It's happening again.)
+Mell: (I made sure the door was closed... but I can sense someone standing there.)
+Mell: (Someone watching me...)
 Mell: "............"
-Mell: (Footsteps...) 
-Mell: (They're looking down at me?) 
-Mell: (I want to open my eyes, but I can't do it.) 
-Mell: (Curses...) 
-Mell: (You're just going to leave without doing anything, aren't you?) 
-Mell: (Then hurry up and get out of here.) 
-Mell: (Free me from this torture.) 
+Mell: (Footsteps...)
+Mell: (They're looking down at me?)
+Mell: (I want to open my eyes, but I can't do it.)
+Mell: (Curses...)
+Mell: (You're just going to leave without doing anything, aren't you?)
+Mell: (Then hurry up and get out of here.)
+Mell: (Free me from this torture.)
 Mell: "............"
 Mell: "—! "
-Mell: (No, tonight they're—) 
-Mell: (They're on my bed now, looking down on me.) 
-Mell: (My neck—) 
+Mell: (No, tonight they're—)
+Mell: (They're on my bed now, looking down on me.)
+Mell: (My neck—)
 Mell: "Wh— "
 Mell: (I can't speak! I can't move!)
 Unknown: ".........Ngh."
 Mell: "...! "
-Mell: (These cold fingers... That soft breath...) 
+Mell: (These cold fingers... That soft breath...)
 Mell: "Wh..."
 Mell: "Why..."
-Mell: (I can move my body. But that's not important right now.) 
+Mell: (I can move my body. But that's not important right now.)
 White hair: "............"
 White hair: "You smell of roses. The scent of a world far removed from ours."
 Mell: "............"
@@ -1991,7 +1987,7 @@ White hair: "I had so many chances... but I couldn't do anything."
 *She appeared so fragile, so precarious looking down on him that it seemed as though, if a gust of wind were to whisk through the room, it would blow her away completely.*
 *Her pale fingers were trembling, like she had tried to squeeze them again and failed.*
 *However, her hand did not pull away from his still-slender neck.*
-Mell: (Her hand... is so cold.) 
+Mell: (Her hand... is so cold.)
 *He did not challenge her, but simply kept his eyes affixed on hers, as if carefully watching to see what she would do next.*
 Mell: "I'll say it as many times as I must: I love you. And I wouldn't be able to accept losing you without knowing anything."
 Mell: "So please, tell me the reason. I'll see to it that you're taken care of..."
@@ -2136,7 +2132,7 @@ Nellie: "............"
 Arthur: "Now, now, Nellie. You love the theatre, so don't look so cross."
 Nellie: "Hmph."
 *Nellie was out with a man other than her brother that evening—a rare sight indeed. And she was quite clearly in a foul mood.*
-Nellie: (I will _not_ stand for this... That I should have to marry a man as disagreeable as Arthur! It's unthinkable!) 
+Nellie: (I will _not_ stand for this... That I should have to marry a man as disagreeable as Arthur! It's unthinkable!)
 *The young man at her side was Nellie's fiancé, selected by her parents.*
 *On any other occasion, she would have snubbed an invitation from any man who was not Mell, but she had little say in this matter.*
 *She was, for lack of a better word, _forced_ to go out with him.*
@@ -2174,9 +2170,9 @@ Arthur: "Otherwise, you can just go complain about it to your friends."
 Arthur: "Oh, that's right... As far as I'm aware, you don't _have_ any friends."
 Nellie: "Enough! "
 Arthur: "As you wish."
-Nellie: (This is so _frustrating_... Why should I have to listen to this jerk mock me?!) 
-Nellie: (I have Mell. I know—if Father won't listen to me, I'll ask Mell to talk to him!) 
-Nellie: (Mell will be able to convince him!) 
+Nellie: (This is so _frustrating_... Why should I have to listen to this jerk mock me?!)
+Nellie: (I have Mell. I know—if Father won't listen to me, I'll ask Mell to talk to him!)
+Nellie: (Mell will be able to convince him!)
 Arthur: "Come on now, your favorite play is about to start. Maybe you should face forward. "
 Nellie: (Enjoy it while it lasts! You won't be talking down to me much longer!)
 Nellie: "...What? "
@@ -2368,7 +2364,7 @@ Nellie: "...! "
 Nellie: "Thi... This is... how... I envision... your son... and our unborn... daughter... might look... several years... from now..."
 Nellie: "...“Your son and our unborn daughter”..."
 Nellie: "So this was a painting... of the future."
-Nellie: (Then it really _is_ of me and Mell...) 
+Nellie: (Then it really _is_ of me and Mell...)
 Nellie: "............"
 Nellie: "No. Use your head, stupid."
 Nellie: "I'm only fourteen... Sixteen years ago, I would not have even been inside Mother! "
@@ -2398,8 +2394,8 @@ Nellie: "..............."
 Nellie: "What... am I reading...?"
 Nellie: "I don't get it! Someone, tell me! What does this mean?! "
 Nellie: "...! "
-Nellie: (A painting from sixteen years ago.) 
-Nellie: (Hair color. Sin.) 
+Nellie: (A painting from sixteen years ago.)
+Nellie: (Hair color. Sin.)
 Nellie: (“I do hope it is a girl”...?)
 White hair: "Yes? "
 Nellie: "It's Nellie. Let me in."
@@ -2639,10 +2635,10 @@ Mell: "...! "
 *He simply went where his feet took him. And where he arrived was the church.*
 Mell: "F-Father! "
 Mell: "Father! "
-Mell: (God... God should be able to offer me counsel.) 
-Mell: (To answer all my questions.) 
-Mell: (About that painting, about her, and about Nellie's feelings.) 
-Mell: (Not her lies, but the truth!) 
+Mell: (God... God should be able to offer me counsel.)
+Mell: (To answer all my questions.)
+Mell: (About that painting, about her, and about Nellie's feelings.)
+Mell: (Not her lies, but the truth!)
 Mell: "Please, open the door! "
 Mell: "...!"
 Mell: "Open the door!"
@@ -2665,7 +2661,7 @@ Mell: "Wha—"
 Mell: "What— Who... are you...?"
 *Standing there was a beggar dressed in tattered rags.*
 Beggar: "............"
-Mell: (He's still begging at the church?) 
+Mell: (He's still begging at the church?)
 *The hooded beggar tentatively extended his hand toward Mell, pleading for relief with sad, slender fingers.*
 *Were he a generous young man, Mell would have given the beggar something. Were he generous, of course.*
 Beggar: "...L-Lord..."
@@ -2673,13 +2669,13 @@ Mell: "...Get your filthy hands off me! "
 Mell: "I don't have a damned thing to give you right now! Don't you dare touch me! "
 Beggar: "......"
 *Suddenly— *
-Mell: (Suddenly—) 
+Mell: (Suddenly—)
 *—the beggar's head turned upward.*
-Mell: (—my eyes catch the beggar's.) 
+Mell: (—my eyes catch the beggar's.)
 *Her hood fell back, revealing a hairless head—*
 Mell: "Wh...y..."
 *—and a pair of red eyes gazing bitterly—though with a familiar, distinctive glimmer—at Mell.*
-Mell: (Red eyes...) 
+Mell: (Red eyes...)
 *She immediately covered her face and turned to run.*
 Mell: "I-It can't be... The beggar that's always been here was a... "
 *But you said yourself that they would not survive much longer. How could you be certain she was that same beggar? *
@@ -2688,14 +2684,14 @@ Mell: "A-Ahh! W-Wait! Wait for me! "
 *Or perhaps you wanted to believe your meager generosity made a difference—that you did something of value.*
 *I will not say it is wrong to think so...*
 Mell: "_Wait for me!_"
-Mell: (I chase after the fleeing girl.) 
-Mell: (Though I shout for her to stop, she continues to run.) 
-Mell: (The rain is so heavy I'm afraid I might lose her.) 
-Mell: (I'm terrified.) 
-Mell: (But... But I didn't do anything wrong! Did I?!) 
+Mell: (I chase after the fleeing girl.)
+Mell: (Though I shout for her to stop, she continues to run.)
+Mell: (The rain is so heavy I'm afraid I might lose her.)
+Mell: (I'm terrified.)
+Mell: (But... But I didn't do anything wrong! Did I?!)
 Mell: "I'm begging you, please stop! I just want to talk! "
 White hair: "............"
-Mell: (She comes to a stop at a corner.) 
+Mell: (She comes to a stop at a corner.)
 White hair: "Please do not go around this corner."
 Mell: "...I-It's you... isn't it?"
 White hair: "............ I am sorry."
@@ -2740,17 +2736,17 @@ Mell: "Come to me!"
 Mell: "Don't leave me all alone!"
 Mell: "I need you by my side!"
 Mell: "_Please!_"
-Mell: (I extend my hand around the corner.) 
-Mell: (I sense her hesitating beyond the bend.) 
+Mell: (I extend my hand around the corner.)
+Mell: (I sense her hesitating beyond the bend.)
 Mell: "I'm begging you..."
-Mell: (I can't see what's on the other side, but a vision of her reaching out to put her hand in mine wells up in my mind.) 
-Mell: (But—) 
+Mell: (I can't see what's on the other side, but a vision of her reaching out to put her hand in mine wells up in my mind.)
+Mell: (But—)
 White hair: "That story... never had an ending..."
 Mell: "Wha—"
-Mell: (—she doesn't take my hand.) 
+Mell: (—she doesn't take my hand.)
 White hair: "I doubt the girl ever wrote that letter."
 Mell: "Ah..."
-Mell: (She's not there when I turn the corner.) 
+Mell: (She's not there when I turn the corner.)
 Mell: "_Why?!_ "
 Mell: "How did things end up like... like _this_?"
 Mell: "Where did I go wrong, O God?!"
@@ -3756,10 +3752,10 @@ Bestia: (She's the only one willing to accept me, to be with me.)
 *After all— *
 *you are enchanted by the pleasure murder brings. *
 *You have been for a very, very long time... *
-Bestia: (This time... This time I'm done.) 
-Bestia: (I won't kill anyone anymore.) 
-Bestia: (Being with her is far more satisfying...) 
-Bestia: (than the joy killing brought me. To be with her is what I truly want!) 
+Bestia: (This time... This time I'm done.)
+Bestia: (I won't kill anyone anymore.)
+Bestia: (Being with her is far more satisfying...)
+Bestia: (than the joy killing brought me. To be with her is what I truly want!)
 *So very self-centered. *
 Bestia: "You certainly are."
 *............ *
@@ -4137,7 +4133,6 @@ Bestia: "They scowled at me, and then—"
 *Never seen anyone like this before.*
 *What is he, anyway?*
 *Beats me. A bestia, by the looks of it.*
-*Bestia!*
 *Bestia!*
 *Bestia!*
 Bestia: " I didn't understand what they were saying about me."
@@ -6553,7 +6548,7 @@ Friend 1: "And even if they _do_ connect the tracks, will it really be in any sh
 Friend 1: "It's a pipe dream, this transcontinental railroad of yours. "
 Jacopo: "............ "
 *Jacopo went silent, but I am certain this is what was going through his head: *
-Jacopo: (You're a bunch of damned imbeciles if you can't see that the entire country's put their weight behind this endeavor. This is why you have so much trouble making even a few thousand.) 
+Jacopo: (You're a bunch of damned imbeciles if you can't see that the entire country's put their weight behind this endeavor. This is why you have so much trouble making even a few thousand.)
 *At the time, a great railway was being built across the breadth of the continent. *
 *Construction was spearheaded by two large rail companies, in competition for both prestige and a bigger share of this massive national enterprise. *
 *The Union Pacific Railroad Company started building from the east, and the Central Pacific Railroad Company from the west. *
@@ -6585,8 +6580,8 @@ Friend 2: "............ "
 *It was as though everyone was being rushed along by some unknown, invisible force. *
 *Part of it was, I expect, caused by the growing divide between those standing at the top and sitting at the bottom. *
 *Or perhaps... the mansion was simply taking after its master. *
-Jacopo: (There's no time to waste. Everything is resting upon the success of this project.) 
-Jacopo: (Whatever it takes, I will ensure it happens. I need more money—and more power.) 
+Jacopo: (There's no time to waste. Everything is resting upon the success of this project.)
+Jacopo: (Whatever it takes, I will ensure it happens. I need more money—and more power.)
 *Suddenly, a restrained knock on the door stopped his train of thought. *
 *From beyond the door came a woman's voice, gentle as a soft spring breeze. *
 Unknown: "Pardon me... I have made some tea. May I offer anyone a cup? "
@@ -6968,7 +6963,7 @@ Jacopo: "You can't seem to make up your mind. Go on, tell me, which do you like 
 White hair: "Ah... um... "
 White hair: "I like... this better. "
 Jacopo: "...I see. "
-White hair: (He looks... somewhat pleased?) 
+White hair: (He looks... somewhat pleased?)
 Jacopo: "Mm. Though, when it comes down to it, this is a simple trick only a child would fall for. "
 White hair: "Then... I suppose that makes me a child. If it means I get to watch something as splendid as two tiny people dancing, I'll happily fall for the trick. "
 Jacopo: "Quit describing it as two tiny people dancing. You're going to lose your head that far up in the clouds. "
@@ -7605,8 +7600,8 @@ Jacopo: "Couldn't tell you. As I recall, she came with the house. Is _that_ the 
 Tomaso: "A gal you can't read will _always_ be interesting. "
 Jacopo: "Is that so? "
 Jacopo: "............ "
-Jacopo: (Now that he mentions it... how old _is_ that woman?) 
-Jacopo: (Though I suppose it doesn't much matter...) 
+Jacopo: (Now that he mentions it... how old _is_ that woman?)
+Jacopo: (Though I suppose it doesn't much matter...)
 Tomaso: "Oh yeah, Jacopo. One other thing I wanted to talk to you about. "
 Jacopo: "...What is it this time? And if it's more of your blather, I will shoot you dead where you stand. "
 Tomaso: "Now, now, no need for threats. This one's about your, uh, better half. "
@@ -7633,19 +7628,19 @@ Jacopo: "H-Hold on, Tommaso! Why would she— "
 Tomaso: "Make it last. That's all the advice your Uncle Tommy has for you. Ciao. "
 Jacopo: "Wait! Tommaso! "
 Jacopo: "............ "
-Jacopo: (I could go after him. It would be a simple task to catch him, grab him by the neck, make him tell me...) 
-Jacopo: (Tell me where he spoke with her, and what she told him...) 
-Jacopo: (But why?! Why will my legs not move?!) 
+Jacopo: (I could go after him. It would be a simple task to catch him, grab him by the neck, make him tell me...)
+Jacopo: (Tell me where he spoke with her, and what she told him...)
+Jacopo: (But why?! Why will my legs not move?!)
 Jacopo: "Asking him for advice... Fashionable perfume... Her smile...? "
-Jacopo: (“She looks good with a smile.” “She'll be smiling for you like always.”) 
+Jacopo: (“She looks good with a smile.” “She'll be smiling for you like always.”)
 Jacopo: "That can't be. "
-Jacopo: (She hardly ever smiles around me!) 
+Jacopo: (She hardly ever smiles around me!)
 Jacopo: "But she'll... she'll smile for _him_?! "
-Jacopo: (Last night... when she was short of breath, having such a grand time, wearing that perfume...) 
-Jacopo: (getting ready to leave the house...) 
-Jacopo: (Just who was _that_ smile for?!) 
+Jacopo: (Last night... when she was short of breath, having such a grand time, wearing that perfume...)
+Jacopo: (getting ready to leave the house...)
+Jacopo: (Just who was _that_ smile for?!)
 Jacopo: "God_dammit_! "
-Jacopo: (Don't you think I'll let you run free _any longer_!) 
+Jacopo: (Don't you think I'll let you run free _any longer_!)
 *His eyebrows were furrowed, creating deep creases on his forehead. *
 *Several servants stood off to the side, watching their master attentively as he stomped past them down the corridor. *
 *However, no one said a word to him. *
@@ -7810,14 +7805,14 @@ Maria: "Absolutely! Not a problem! "
 White hair: "Thank you, Maria... "
 White hair: "You are the only person I can count on... and I mean that. "
 Jacopo: ".............................. "
-Jacopo: (Why...? How did this happen?) 
-Jacopo: (Why would she betray me?) 
-Jacopo: (I wanted to give her a decently happy life...) 
-Jacopo: (I didn't _want_ to get violent with her...) 
-Jacopo: (Yet, when I saw her face, when I heard what she had to say...) 
-Jacopo: (I couldn't restrain myself.) 
-Jacopo: (I guess what it comes down to is that, no matter how you dress it up, I am still a Bearzatti.) 
-Jacopo: (There was never any way for this bloodline to give that girl happiness.) 
+Jacopo: (Why...? How did this happen?)
+Jacopo: (Why would she betray me?)
+Jacopo: (I wanted to give her a decently happy life...)
+Jacopo: (I didn't _want_ to get violent with her...)
+Jacopo: (Yet, when I saw her face, when I heard what she had to say...)
+Jacopo: (I couldn't restrain myself.)
+Jacopo: (I guess what it comes down to is that, no matter how you dress it up, I am still a Bearzatti.)
+Jacopo: (There was never any way for this bloodline to give that girl happiness.)
 Jacopo: "Goddammit... "
 Jacopo: "Why am I fretting over this nonsense? "
 Jacopo: "............ And I'm supposed to be the future head? Hah. "
@@ -7830,12 +7825,12 @@ White hair: "Ah... you're right. That's a shame... "
 Jacopo: "I didn't think you actually _would_! "
 White hair: "But it's the most precious thing... Hehe. They look as though they're dancing atop my palm. "
 Jacopo: "............ "
-Jacopo: (It's almost frightening... how much innocence rests within those hands. It's as if they've been completely cut off from all the world's filth.) 
-Jacopo: (My hands, however... are soaked in blood.) 
-Jacopo: (I fear that bringing her into my world... may taint her.) 
-Jacopo: (Am I capable of protecting this woman's purity?) 
-Jacopo: (And yet, as I watched her so joyously playing...) 
-Jacopo: (I felt as though I had gotten _close_ to her. _I_ was the one being a child that day.) 
+Jacopo: (It's almost frightening... how much innocence rests within those hands. It's as if they've been completely cut off from all the world's filth.)
+Jacopo: (My hands, however... are soaked in blood.)
+Jacopo: (I fear that bringing her into my world... may taint her.)
+Jacopo: (Am I capable of protecting this woman's purity?)
+Jacopo: (And yet, as I watched her so joyously playing...)
+Jacopo: (I felt as though I had gotten _close_ to her. _I_ was the one being a child that day.)
 Jacopo: "............ "
 Maria: "Jacopo. It's me, Maria. Is it all right if I come in? "
 Jacopo: "A-Ah, Maria. It's fine. Come in. "
@@ -8355,10 +8350,10 @@ Jacopo: "“A restaurant more to your liking”? I knew it... you _have_ been go
 Jacopo: "“I still treasure the gift you gave to me”?! God's sake! "
 Jacopo: "You have to be fucking kidding! "
 Jacopo: "............Ngh. "
-Jacopo: (But I've ensured she can't leave that room! She'll never see this man again...) 
-Jacopo: (In time, she'll let go... and so will he...) 
-Jacopo: (Ahh, listen to me. Resigning myself to the hope that everything will fix itself... How did I end up like this?) 
-Jacopo: (Such a pitiful man I've become...) 
+Jacopo: (But I've ensured she can't leave that room! She'll never see this man again...)
+Jacopo: (In time, she'll let go... and so will he...)
+Jacopo: (Ahh, listen to me. Resigning myself to the hope that everything will fix itself... How did I end up like this?)
+Jacopo: (Such a pitiful man I've become...)
 *On the surface, Maria acted quite heartbroken at the sight of their suffering. *
 *But when she returned to her room, the walls echoed with her cackles. She derived a great deal of entertainment from their squirming. *
 *The more they writhed in anguish, the deeper her satisfaction grew. *
@@ -8373,12 +8368,12 @@ White hair: "_If you have the time... I would appreciate a response._ "
 Jacopo: "...You're never gonna get a response, though... "
 Jacopo: "Not as long as I'm intercepting them... "
 Jacopo: "There's no way I'm allowing these... or your love to get to him... "
-Jacopo: (I could just stop reading them.) 
-Jacopo: (It would certainly make things easier.) 
-Jacopo: (But if I don't... my imagination will run wild.) 
-Jacopo: (Fantasizing about her writing to this other man... and what she might be putting in her correspondence...) 
-Jacopo: (I'd be better off knowing the truth than torturing myself with fantasy.) 
-Jacopo: (It's... the better option...) 
+Jacopo: (I could just stop reading them.)
+Jacopo: (It would certainly make things easier.)
+Jacopo: (But if I don't... my imagination will run wild.)
+Jacopo: (Fantasizing about her writing to this other man... and what she might be putting in her correspondence...)
+Jacopo: (I'd be better off knowing the truth than torturing myself with fantasy.)
+Jacopo: (It's... the better option...)
 *Jacopo accepted every letter Maria delivered, without fail. *
 *He would merely nod as he accepted it, his face contorted in discomfort, and then pore over the text when he was alone. *
 *I assume he did not want her to see his heart sinking into darkness. *
@@ -8420,12 +8415,12 @@ Jacopo: "........................ "
 *Occasionally, the name on the letter would change. Maria was making the White-Haired Girl out to be having affairs with multiple other men. *
 *She could never do any such thing, of course. *
 *But Jacopo, thinking Maria to be his only ally, believed everything she said. *
-Jacopo: (If I could figure out who this man is... and where he resides...) 
-Jacopo: (I could make him tell me every last detail about his relations with my wife...) 
-Jacopo: (But what if...) 
-Jacopo: (that information went public as a result?) 
-Jacopo: (If news of her infidelity spread...) 
-Jacopo: (and were to reach the cosca...) 
+Jacopo: (If I could figure out who this man is... and where he resides...)
+Jacopo: (I could make him tell me every last detail about his relations with my wife...)
+Jacopo: (But what if...)
+Jacopo: (that information went public as a result?)
+Jacopo: (If news of her infidelity spread...)
+Jacopo: (and were to reach the cosca...)
 Jacopo's father: "The fate of the Bearzattis is in your hands, son. "
 Jacopo's father: "There's a limit to what we can accomplish on this tiny island. "
 Jacopo's father: "If we don't turn our attention outwards, we will wither away and die. "
@@ -8456,15 +8451,15 @@ Jacopo's father: "kill her before anyone finds out. "
 Jacopo's father: "Your place is above others. "
 Jacopo's father: "Climb to the top. Never be content with someone above you. "
 Jacopo's father: "And never forget the weight you carry on your shoulders. "
-Jacopo: (I must keep intercepting her letters...) 
-Jacopo: (I must keep her locked up...) 
-Jacopo: (I still have work to do.) 
-Jacopo: (I cannot allow anyone to learn about how she's disgraced me...) 
-Jacopo: (“Kill her”...) 
-Jacopo: (That's how my old man says to handle it...) 
-Jacopo: (............ That's the last resort.) 
-Jacopo: (It's not...) 
-Jacopo: (not yet...) 
+Jacopo: (I must keep intercepting her letters...)
+Jacopo: (I must keep her locked up...)
+Jacopo: (I still have work to do.)
+Jacopo: (I cannot allow anyone to learn about how she's disgraced me...)
+Jacopo: (“Kill her”...)
+Jacopo: (That's how my old man says to handle it...)
+Jacopo: (............ That's the last resort.)
+Jacopo: (It's not...)
+Jacopo: (not yet...)
 Jacopo: "Ahh... "
 Jacopo: "Goddammit! "
 Jacopo: "It's downright wrong... "
@@ -8480,14 +8475,14 @@ Rd_maid: "If you're not feeling well, you should stay— "
 Jacopo: "_I said I'm fine!_ It's not your job to try and infer my condition! "
 Rd_maid: "Y-Yes, sir... "
 Jacopo: "............ "
-Jacopo: (Dammit... Keep it under wraps. Act like normal.) 
-Jacopo: (You can at least do _that_ much, damn you!) 
+Jacopo: (Dammit... Keep it under wraps. Act like normal.)
+Jacopo: (You can at least do _that_ much, damn you!)
 Rd_maid: "Take care on your trip, Master. "
 Jacopo: "...Yeah. "
 Coachman: "............ "
 Jacopo: "...? "
-Jacopo: (It's not... the usual coachman.) 
-Jacopo: (I also feel like I've seen him somewhere...) 
+Jacopo: (It's not... the usual coachman.)
+Jacopo: (I also feel like I've seen him somewhere...)
 Coachman: "............your fault... "
 Jacopo: "...What? "
 Coachman: "...that we... "
@@ -8503,18 +8498,18 @@ Jacopo: "Ggh... nrg... Silence! Don't make a scene...! "
 Jacopo: "Call... a doctor! "
 Rd_maid: "Y-Y-Yes, sir! "
 Jacopo: "Nrgh... hahh... "
-Jacopo: (Now I remember... where I've seen him before...) 
-Jacopo: (That's right... I put his factory... out of business...) 
-Jacopo: (I needed it out of the picture... to expand my own business...) 
-Jacopo: (Ahh...) 
-Jacopo: (I guess he held a grudge about that...) 
-Jacopo: (I should have been more careful...) 
+Jacopo: (Now I remember... where I've seen him before...)
+Jacopo: (That's right... I put his factory... out of business...)
+Jacopo: (I needed it out of the picture... to expand my own business...)
+Jacopo: (Ahh...)
+Jacopo: (I guess he held a grudge about that...)
+Jacopo: (I should have been more careful...)
 Jacopo: "............ "
 Jacopo: "............ Blood flows... with surprising abundance... from a stab wound... "
 Jacopo: "Hahh... "
 Jacopo: "It's not stopping, either... "
 Jacopo: "Son of a bitch... "
-Jacopo: (The world... is going white...) 
+Jacopo: (The world... is going white...)
 Jacopo: "C'mon, now... "
 Jacopo: "You have to be kidding... "
 Monolog: "I know very well"
@@ -8579,12 +8574,12 @@ Monolog: "Ahaha..."
 *I truly did... want to ensure she always had a smile on her face. _I truly did... want to ensure she always had a smile on her face._ *
 Jacopo: ".................. "
 Jacopo: "...Nngh... "
-Jacopo: (Is this... my room?) 
-Jacopo: (I'm alive...?) 
-Jacopo: (Dammit... Ugh... I feel nauseous...) 
-Jacopo: (What... What time is it...?) 
-Jacopo: (The world's a blur...) 
-Jacopo: (So hot...) 
+Jacopo: (Is this... my room?)
+Jacopo: (I'm alive...?)
+Jacopo: (Dammit... Ugh... I feel nauseous...)
+Jacopo: (What... What time is it...?)
+Jacopo: (The world's a blur...)
+Jacopo: (So hot...)
 White hair: "You mustn't get up. "
 Jacopo: "—! "
 White hair: "The doctor said bacteria entered your body through the wound. Because of that, you have a very high fever. "
@@ -8643,10 +8638,10 @@ Jacopo: "...Thank you... "
 Maid: "You appear to be quite delirious, Master... "
 Maid: "Those are things you should be telling your wife, not me... "
 Jacopo: "............ "
-Jacopo: (...It was all a dream...) 
-Jacopo: (Of course it was... It wouldn't be that easy...) 
-Jacopo: (And she would never come to my room...) 
-Jacopo: (She's involved with other men...) 
+Jacopo: (...It was all a dream...)
+Jacopo: (Of course it was... It wouldn't be that easy...)
+Jacopo: (And she would never come to my room...)
+Jacopo: (She's involved with other men...)
 Maria: "Jacopo, may I come in? I have, um... "
 Maria: "I have another letter... "
 Jacopo: ".................................... "
@@ -8801,22 +8796,22 @@ Maria: "If they do end up figuring it out, tough shit. Doesn't hurt anything, ju
 Maria: "...I don't understand why he's so infatuated with this railroad. I mean, I do _sort of_ get romanticizing steel, but... "
 Maria: "my kinda steel's a little... smaller scale. Anyway. I suppose it's about time to get things moving. "
 Maria: "Hehe... "
-Maria: (No matter how this plays out, you will _not_ have a happy ending, Jacopo.) 
-Maria: (You're going to get a real taste of just how much I _despise_ you.) 
+Maria: (No matter how this plays out, you will _not_ have a happy ending, Jacopo.)
+Maria: (You're going to get a real taste of just how much I _despise_ you.)
 Rd_maid: "Maria! Maria! Oh, there you are! "
 Maria: "...Tch. What is it? I'm on break right now. "
 Rd_maid: "You were assigned to clean the cellar today, weren't you?! Well, head maid's saying it hasn't been done yet! "
 Maria: "Whaaaat? I did. I cleaned it. "
-Maria: (Just a casual once-over, but hey.) 
+Maria: (Just a casual once-over, but hey.)
 Rd_maid: "Well, do it again—and do it _right_ this time! 'Cause if you don't, it's gonna fall on me! "
-Maria: (And that's supposed to make me give a damn?) 
+Maria: (And that's supposed to make me give a damn?)
 Rd_maid: "I mean it! You take care of it! You get enough special treatment as it is! "
 Maria: "Yeah, yeah, right, right! I heard ya the first time! I'll care of it! "
 Rd_maid: "And don't you forget it! Oh, for god's sake. Why should _I_ have to be the one to tell her? "
 Maria: "............ Is she gone? "
 Maria: "Ugh, what a pain. Who cares if the damn cellar is clean? "
 Maria: "Not like anyone's bringing guests down there. Yeesh. "
-Maria: (...I guess I _should_ take care of it. Better that than a tongue-lashing by the head maid.) 
+Maria: (...I guess I _should_ take care of it. Better that than a tongue-lashing by the head maid.)
 Maria: "God, why did I have to be a maid, anyway? "
 Maria: "...What a dank place. "
 Maria: "Ugh, it's so dark and humid down here. Makes me feel gross. "
@@ -8867,14 +8862,14 @@ Maria: "Aaaah, nope! Forget it! Didn't see a thing! Not a chance it's real! Just
 Maria: "This is silly."
 Maria: "............"
 Maria: "...Hmm? There's something... in this box..."
-Maria: (Is that a painting? Has that always been here?) 
+Maria: (Is that a painting? Has that always been here?)
 Maria: "...Huh? "
 Maria: "White hair... fair skin... Is this the madam? "
-Maria: (But then... why is the face... all torn up?) 
-Maria: (And her clothes... look really old-fashioned...) 
-Maria: (The painting seems worn and faded too... Something about it... feels off.) 
-Maria: (I'm not sure how to describe it. It's very...) 
-Maria: (creepy. Unsettling.) 
+Maria: (But then... why is the face... all torn up?)
+Maria: (And her clothes... look really old-fashioned...)
+Maria: (The painting seems worn and faded too... Something about it... feels off.)
+Maria: (I'm not sure how to describe it. It's very...)
+Maria: (creepy. Unsettling.)
 Maria: "............ "
 Maria: (The writing on the floor... and this painting... What is _with_ this house?)
 Maria: "............"
@@ -9325,9 +9320,9 @@ Jacopo's father: "Glory everlasting upon our blood—and upon this earth. "
 *_got through... to either of you... _got through... to either of you...__ *
 Jacopo: "...Ngh... rgh... "
 Jacopo: "Everything... "
-Jacopo: (is slipping through my fingers...) 
-Jacopo: (Her love... my friendship with Maria...) 
-Jacopo: (Both of their smiles...) 
+Jacopo: (is slipping through my fingers...)
+Jacopo: (Her love... my friendship with Maria...)
+Jacopo: (Both of their smiles...)
 Rd_maid: "Master—! Master! Wh-What was that sound?! "
 Rd_maid: "_Eek!_ S-So much blood... Ah, aaaah, Maria?! "
 Rd_maid: "Wh-What happened this time?! "
@@ -9337,8 +9332,8 @@ Jacopo: "............ Call a doctor. Someone with tight lips. Do not call the po
 Jacopo: "And don't make a scene... got it? If so, then go on. "
 Rd_maid: "Y-Yes, sir! "
 Jacopo: ".................. "
-Jacopo: (Right... not everything has slipped from my grasp...) 
-Jacopo: (My money and influence are all that's left...) 
+Jacopo: (Right... not everything has slipped from my grasp...)
+Jacopo: (My money and influence are all that's left...)
 Maid: "That _is_ what you wanted, though, is it not? "
 Maid: "You sought money and power, no? "
 Jacopo: "............ "
@@ -32303,7 +32298,6 @@ Michel: ".................."
 *I can't... allow myself to disappear... until you've returned...*
 *............*
 *............*
-*............*
 *............Giselle............*
 Giselle: "...Michel..."
 Giselle: "Finally... I've finally found you..."
@@ -35604,7 +35598,6 @@ Michel: "............"
 Giselle: "..."
 Morgana: "..."
 Giselle: "..."
-Morgana: "..."
 Morgana: "..."
 Morgana: "..."
 Michel: "..."

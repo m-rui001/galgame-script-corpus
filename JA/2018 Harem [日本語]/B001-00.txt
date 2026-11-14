@@ -1,4 +1,4 @@
-﻿chapter5_0|いいことはわるい
+chapter5_0|いいことはわるい
 narrator:相変わらず二人が来るのは平日の朝と、週末。
 (scene change)
 narrator:そういう生活が続いていたけれど——。

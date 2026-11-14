@@ -1,4 +1,4 @@
-﻿chapter0_0|"So it goes."
+chapter0_0|"So it goes."
 narrator:就算养成了晚上早睡的习惯，也没法做到白天完全不困。
 protagonist:「上代家主是个非常喜欢热闹的人，大家能这样聚在一起，他在天上看到想必也会很高兴吧。」
 narrator:简短的寒暄过后，耳畔传来了和尚混杂着方言的吟诵。

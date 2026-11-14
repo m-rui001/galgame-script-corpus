@@ -1080,7 +1080,7 @@ At least, being so defective a human being, that's what the Hood believed.
 ......
 ............Nope.
 I have no clue how to solve this.
-Difficulty Level ★ ★ ★ ★ ★ ★ ★  
+Difficulty Level ★ ★ ★ ★ ★ ★ ★
 It definitely deserved to be at the top rank of "Belphegor" in my favorite series of puzzle rings, the Seven Deadly Sins.
 I've already cleared "Lucifer" and "Beelzebub," but this one's just a sphere.
 As a sphere, that it can even be called a puzzle ring is incredible. It's so completely departed from the idea of puzzle rings that you can't work through removing parts of it with trial and error.
@@ -3442,7 +3442,7 @@ Akatsuki: "That's that. I don't like using magic as a shield, but I think you ca
 I doubt there's anyone around here who hasn't seen students in the Academy uniform, and it's common knowledge that that Academy trains Casters.
 Hoodlum: "You privileged Casters can't possibly understand how I feel!!"
 Hoodlum: "The scum in the entertainment district, you Casters, you're all the same! People with power always gotta act like they're better than anyone else!!"
-The man spat and ran off, his profile looking rather lonesome. He'd acted quickly when he understood the position he was in. 
+The man spat and ran off, his profile looking rather lonesome. He'd acted quickly when he understood the position he was in.
 Akatsuki: "So if he couldn't use magic, Haruto's moral compass wouldn't exist, eh? No, that can't be true."
 Akatsuki: "If that's all he was worth, we wouldn't go through all this trouble in the first place. Don't underestimate Super Haruto!"
 Haruto: "Stop calling me that."
@@ -4502,7 +4502,7 @@ He let out a short yelp and then collapsed, unconscious.
 Yumi: "Everybody calm down, it's alright now. Could someone go get another teacher for me?"
 While everyone else there panicked, Yumi-sensei alone kept her cool.
 All I could do was watch.
-With the end of our practical exam, we returned to the classroom to wait. 
+With the end of our practical exam, we returned to the classroom to wait.
 Yumi-sensei was dealing with the commotion from earlier and hadn't yet returned.
 Akatsuki: "Man, that was really incredible though."
 Haruto: "Yeah, it was."
@@ -5044,7 +5044,7 @@ Inui: "That's what happened to my eye."
 Haruto: "I-Is it?"
 Everybody at the Academy seems to have a different theory about the headmaster's eyepatch.
 One theory says that he's a former soldier and it's a wound he got after taking out 10,000 enemies by himself, and another says that he's a half vampire and that one of his eyes is red, or something...
-Another theory says that he's actually got a bad case of eighth-grader syndrome and he just wears the eyepatch to look cool... 
+Another theory says that he's actually got a bad case of eighth-grader syndrome and he just wears the eyepatch to look cool...
 All these arbitrary rumors were flying around, but the truth is that he got it carrying out justice, which is a perfectly respectable reason. And I doubt the sort of person those rumors described would have been able to become headmaster of the Academy.
 Inui: "It's important to be true to your ideals, but you can't worry your father. Parents care more about their children than themselves."
 Inui: "You won't understand that until you have a child of your own."
@@ -6508,7 +6508,7 @@ The priest swept it all away with that phrase, but I knew there was a lot of mea
 Maybe he seems so close to Mikihisa-san because he's dealt with him for a long time, what with his minor offenses and such.
 As I was imagining that, the priest began suddenly speaking as though he was in a dream.
 Father Gaimon: "Do you know of the amendments they passed when magic crime was on the rise, to increase the severity of punishments?"
-Fiona: "Well, it sounds as though they were trying to intimidate people into obeying the law." 
+Fiona: "Well, it sounds as though they were trying to intimidate people into obeying the law."
 Father Gaimon: "It's true that they restored order when the country was in a lot of trouble, but they also garnered opposition from a portion of society."
 Father Gaimon: "After magic began to be further regulated, more amendments were passed so that all magic crimes were no longer lumped together, and now there are lighter sentences as well."
 Fiona: "Right."
@@ -14668,16 +14668,15 @@ I carved into him the meaning of turning your back in a fight. Still think it's 
 Fiona: "Trash disposal."
 Knock him out. Bleed him dry. Hang him up. Skin him. Clean him. Cut him up. An assembly line of work etched into me to eliminate all unnecessary delays.
 I could cut his head off or pierce his heart and gouge it out. With that, he'd be disposed of.
-I've done this countless times before.                                
-There is no reason to hesitate when eliminating a target.             
-I've don     s countle     mes before.                                
-There is no r      to hesitate when elimi     g a t     .             
-I     on     s c     e     mes b     .                                
-     is no r      to      ate w     elimi     g a t     .             
-I                    e                                                
-                              w                         .             
-                                                                      
-                                                                      
+I've done this countless times before.
+There is no reason to hesitate when eliminating a target.
+I've don     s countle     mes before.
+There is no r      to hesitate when elimi     g a t     .
+I     on     s c     e     mes b     .
+     is no r      to      ate w     elimi     g a t     .
+I                    e
+                              w                         .
+
 Fiona: "............Aah..."
 I found myself about to collapse, supported by a cold wall. I massaged my brow and took a deep breath.
 Fiona: "Something's wrong. That lunatic's nonsense is clinging to me..."
@@ -23672,33 +23671,33 @@ Actually, it looked more like a person wearing clothes had become the green liqu
 While a strange sense of disgust was bubbling up in me, I realized that the picture had been stuck between the pages of the book I was holding.
 The book had several other pieces of paper in it as well. I pulled them out and returned {Macbeth} to the shelf.
 I ran my eyes over the papers in my hands. They seemed to be some sort of documents, filled with mechanical-looking letters.
-XX/XX/XXXX 
+XX/XX/XXXX
 Something strange happened to one of the researchers looking into the internal structure of the King's Pillar.
 After attempting to make physical contact with the subject, the researcher let out a strange scream, doubled over, and turned to some sort of jelly before he could even be held down.
-The cause is unknown. 
- 
-XX/XX/XXXX 
+The cause is unknown.
+
+XX/XX/XXXX
 In an effort to determine the cause, we attempted to recreate the same effect from the other day. Our results confirmed a dense Dunamis reaction from inside the Pillar.
 The jellification seems to be caused by a Dunamis effect that spreads through contact.
 This Dunamis reaction is coming from the individual who has fused with the King's Pillar.
-XX/XX/XXXX 
+XX/XX/XXXX
 Our analysis shows that this reaction strongly resembles the molecular structure of Elements.
 We believe that the individual's Dunamis is releasing these particles through the King's Pillar.
 However, the amount of Elements it is currently releasing far surpass the amount that one person could posses.
 In order to verify our hypothesis, we'll have to clear up this contradiction.
-XX/XX/XXXX 
+XX/XX/XXXX
 After countless tests, we've finally succeeded at verifying our hypothesis.
 We've discovered a mechanism that amplifies Elements inside the subject's body.
 We theorize that this unknown mechanism (let's call it "X") makes the production of this incredible amount of Elements possible.
-XX/XX/XXXX 
+XX/XX/XXXX
 We've learned of the "Holy War" from testimony of one of the Dunamis-holders that was brought in for research.
 We also learned the events that led to the individual absorbed by the Pillar—Amabuki Senri's—acquisition of X.
-XX/XX/XXXX 
+XX/XX/XXXX
 I personally pursued more information on the Holy War.
 The more I find out, the more rage rises within me.
 How could this Holy War have taken place outside my notice?
 How could I not have been selected?
-XX/XX/XXXX 
+XX/XX/XXXX
 It was not a brilliant throne that awaited the Victor of the Holy War.
 The power was too great for someone unchosen.
 This world has not settled into its right order.
@@ -23706,18 +23705,18 @@ It must be remade into its proper form.
 For that purpose, there must be a new Holy War.
 It should be possible for a true chosen one such as I.
 There's no need for this Victor who's nothing but a corpse.
-XX/XX/XXXX 
+XX/XX/XXXX
 A Holy War in which I was not even invited to the stage has no value.
 Why did the Selector ignore someone who obviously should have been selected?
 With each passing day, my irritation only grows.
 There is no one as fitting as me to stand at the summit of humanity.
-XX/XX/XXXX 
+XX/XX/XXXX
 It must be redone, and correctly this time.
 Fate hasn't chosen the right man for the job.
-XX/XX/XXXX 
+XX/XX/XXXX
 The hand of fate has begun moving again.
 Let the judgment begin with Icarus's death.
- —A new Holy War— 
+ —A new Holy War—
 The words ended there. The closer to the end I got, the more wild and rough the originally-neat writing became.
 Asahi had come to my side at some point and was peering at the same documents.
 Asahi: "What do you suppose the 'Holy War' is...?"

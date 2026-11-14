@@ -5,7 +5,7 @@ Chocola: Will you be dining in with us today, or will you be getting something t
 Vanilla: Dine in for two? This way, please.
 Vanilla: I'll be right back with the menus. Please wait a moment.
 Maple: I recommend Finings's Earl Grey.
-Maple: It's my favorite, and I personally ordered it for the shop, so you can't go wrong with it. 
+Maple: It's my favorite, and I personally ordered it for the shop, so you can't go wrong with it.
 Cinnamon: If you would like cake, I suggest the fruit shortcake~
 Cinnamon: It'll go perfectly with the Earl Grey~ ♪
 Shigure: Coconut, we have three cakes for delivery. Could you go get them from Nii-sama?
@@ -1342,7 +1342,7 @@ Kashou: It's very like you to want to grow up and become a model catgirl.
 Kashou: I'll help you out as much as I can, be it training or something else.
 Kashou: You can talk to me like you always have. You don't need to pretend to be someone you're not.
 Kashou: Just be yourself and stop trying to be so polite all the time.
-Kashou: You've been a precious member of my family long before you started talking so formally, right? 
+Kashou: You've been a precious member of my family long before you started talking so formally, right?
 *She slowly nods...*
 *...With tears overflowing from her eyes.*
 Coconut: ...Yeah. Thanks.

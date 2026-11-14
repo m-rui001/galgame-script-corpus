@@ -11348,7 +11348,7 @@ Yamato: Happy? With what?
 *Someone tapped my shoulder.*
 *A chill ran down my spine.*
 Miyako: Heheh... Heheheh.
-Miyako: 
+Miyako:
 *Tender love filled her eyes.*
 Miyako: Minamoto-kun, I don't think we need a third wheel here.
 Tadakatsu: You don't have to tell me. I'll go, and it'll be just you two.
@@ -12073,7 +12073,7 @@ Yamato: ...Hmm.
 Momoyo: Well, I don't think it'll take her the full five months.
 *Nevertheless, she looked satisfied to have met a strong foe. Even in defeat, she had smiled.*
 *Even wounded so badly it would take five months to heal, she still sought a rematch. That was something else.*
-Momoyo: 
+Momoyo:
 *When given the choice between a peaceful life and ruin, she was the sort of girl who charged headfirst into the later.*
 *Nee-san, too, lusted for battle.*
 Momoyo: Hm? What's wrong, lil' bro? Whatcha staring at?
@@ -15039,11 +15039,6 @@ Yamato: (I won't have long. Slack off, and I'll miss.)
 *Now!: [ Timed Selection ]*
 SelectMenuTimeLimit.spm
 SelectMenuTimeLimit.spm
-SelectMenuTimeLimit.spm
-SelectMenuTimeLimit.spm
-SelectMenuTimeLimit.spm
-SelectMenuTimeLimit.spm
-SelectMenuTimeLimit.spm
 Scoop!
 SE78
 Yamato: Got him!
@@ -16427,11 +16422,6 @@ Momoyo: Do you think you can trick me like that?!
 *Don't think, I told myself. Choose!: [ Timed Selection ]*
 SelectMenuTimeLimit.spm
 SelectMenuTimeLimit.spm
-SelectMenuTimeLimit.spm
-SelectMenuTimeLimit.spm
-SelectMenuTimeLimit.spm
-SelectMenuTimeLimit.spm
-SelectMenuTimeLimit.spm
 Talk about us
 Talk about manga
 Hold her hand
@@ -16899,11 +16889,6 @@ Chris: I doubt any others are whimsical enough to come bathe at this hour.
 Gakuto: (Ugh -- they walked right on in?!)
 Shouichi: (And that's Momo-senpai and Chris's voices. What do we do?)
 *As the tactician, I ordered everyone to...: [ Timed Selection ]*
-SelectMenuTimeLimit.spm
-SelectMenuTimeLimit.spm
-SelectMenuTimeLimit.spm
-SelectMenuTimeLimit.spm
-SelectMenuTimeLimit.spm
 SelectMenuTimeLimit.spm
 SelectMenuTimeLimit.spm
 Hide
@@ -17859,7 +17844,7 @@ Touma: Now, for my next plan... Contact the F Army's freshmen platoon.
 Touma: --It is time for the sleeper cell to awaken.
 *--South of the eastern mountain, F Army's freshmen platoon.*
 F Army Freshman Captain: Aoi-san's finally given us the signal!
-F Army Freshman Lieutenant: What's up, Nonaka-san? *munch, munch* 
+F Army Freshman Lieutenant: What's up, Nonaka-san? *munch, munch*
 F Army Freshman Captain: Ryohei, listen up. We're leaving F Army and switching over to S Army.
 F Army Freshman Lieutenant: *munch* Seriously? We're turning traitor?
 F Army Freshman Captain: Stick with me, guys!
@@ -19564,11 +19549,6 @@ Yamato: And we couldn't have done it without each and every one of you!
 Yamato: Hip, hip, hooray!
 Class 2-F Soldiers: Hip, hip, hooray!
 Class 2-F Soldiers: Hip, hip, hooray!
-Class 2-F Soldiers: Hip, hip, hooray!
-Class 2-F Soldiers: Hip, hip, hooray!
-Class 2-F Soldiers: Hip, hip, hooray!
-Class 2-F Soldiers: Hip, hip, hooray!
-Class 2-F Soldiers: Hip, hip, hooray!
 *Our cheers echoed across the battlefield.*
 *And so ended the Kawakami War.*
 *............*
@@ -20077,7 +20057,8 @@ Yamato: ...Next time. Next time? ...Yeah, next time.
 *While I wouldn't let myself become a stalker...*
 Yamato: I would never give up.
 Shouichi: Damn straight! That's the Soul of Kawakami!
-*--Our love was just beginning!====================act_c_一子シナリオ.bin====================*
+*--Our love was just beginning!
+====================act_c_一子シナリオ.bin====================*
 Kazuko: PUSH-ING! EVER! ON-WARD!
 *Wanko was devoting herself to training.*
 Mayo: Wanko-chan, do you know what that saying means?
@@ -26366,7 +26347,7 @@ Kazuko: So... Let's get back to the fireworks.
 *Her arm brushed mine.*
 Kazuko: Heheheh.
 Yamato: (And the mood's incredible!)
-Kazuko: 
+Kazuko:
 Yamato: (I didn't want to burden her with any of this until after the test, but...)
 Yamato: (All's good. It's helped her, if anything, and it doesn't change how I feel about her.)
 Yamato: (But I'll save sweeping her off her feet for after the test.)
@@ -27894,7 +27875,7 @@ History Teacher: Mr. Usami! Will you stand for this?!
 Kyojin: Man, these damn old-man eyes can't see a thing.
 Yamato: Then we'll see you later!
 Yamato: Please leave, now!
-Azumi: Could you please not forget that you aren't in charge? 
+Azumi: Could you please not forget that you aren't in charge?
 Yamato: Uh, I'm sorry. (Whoa, I do not want to be on her bad side.)
 Hideo: Nwuh! Circumstances have left Us with no choice!
 Hideo: Go! And Heaven help you if you suffer from motion sickness!
@@ -28143,7 +28124,7 @@ Azumi: Hideo-sama, if I may?
 Hideo: Do as you will. We have never sought to hide it.
 Yamato: Huh? You're telling them?!
 Tadakatsu: Hey, wait!
-Azumi: The truth is... 
+Azumi: The truth is...
 *She coolly reported our triple confession.*
 Takuya: Whoa. Then this is a full love polyhedron?
 Miyako: --!
@@ -29793,11 +29774,6 @@ Touma: But that wouldn't be Class F's... Well, I suppose I would be satisfied wi
 Umeko: Stop!
 *Capt and the others must've fled to one of the closer rooms.*
 *But for me, it was Wanko's or bust. What was her room number again?: [ Timed Selection ]*
-SelectMenuTimeLimit.spm
-SelectMenuTimeLimit.spm
-SelectMenuTimeLimit.spm
-SelectMenuTimeLimit.spm
-SelectMenuTimeLimit.spm
 SelectMenuTimeLimit.spm
 SelectMenuTimeLimit.spm
 4023
@@ -35466,7 +35442,7 @@ Touma: I do have a lot to think about. There are so many cute girls to keep trac
 Touma: Not to mention all the cute boys. Oh, my worries will never cease.
 Hideo: Mwahahahaha! Oh friend of Ours, such are ever your thoughts!
 Kokoro: Heh heh. Well, that is Aoi-kun's quirk.
-Azumi: No matter what troubles you, I'd be happy to talk about it! 
+Azumi: No matter what troubles you, I'd be happy to talk about it!
 Margit: I can understand how one's mind would wander after the end of exams.
 2-S Student: And yet you came in first, Aoi-kun. You're something else.
 Kyojin: That's the reaction you get? For that? Sounds like you're popular.
@@ -35673,7 +35649,7 @@ Yamato: Wow, what a powerful weapon you've got here. I don't think we can let yo
 Yamato: Oh, and you've got a weapon on your backside too. (I also grabbed her ass.)
 Miyako: Haah... But I want to enter... I'll do anything to get in.
 Yamato: In that case... You're a woman. I trust you understand?
-Miyako: Mm-hm. I'll work hard to serve you... 
+Miyako: Mm-hm. I'll work hard to serve you...
 *One hour later.*
 Miyako: Thanks for the meal. It was so strong and rich and felt gummy as it went down my throat.
 Yamato: We've wrung out all the joy we can... Let's do it again before we sleep.
@@ -36323,7 +36299,7 @@ Chris: No I am not!
 *Well, there were still a fair number of us... Things would surely be fine.*
 *Or so I thought.*
 *The blazing-hot summer of 2009 continued.*
-Yukie: 
+Yukie:
 Yamato: Oh. You look like you're having fun, Mayucchi.
 Yukie: I am. Oowada-san and I are going fishing.
 Yamato: Oh. Nice going. You're already friends.
@@ -39368,11 +39344,6 @@ Yamato: Me? The Peeking Tactician? Hey, hey, guys.
 *A difficult question. I had a girlfriend, but...: [ Timed Selection ]*
 SelectMenuTimeLimit.spm
 SelectMenuTimeLimit.spm
-SelectMenuTimeLimit.spm
-SelectMenuTimeLimit.spm
-SelectMenuTimeLimit.spm
-SelectMenuTimeLimit.spm
-SelectMenuTimeLimit.spm
 I would peek
 I wouldn't peek
 Yamato: You did well to ask me.
@@ -41873,11 +41844,6 @@ Gakuto: (How the hell would know?!)
 *Koda Aya's novel was...: [ Timed Selection ]*
 SelectMenuTimeLimit.spm
 SelectMenuTimeLimit.spm
-SelectMenuTimeLimit.spm
-SelectMenuTimeLimit.spm
-SelectMenuTimeLimit.spm
-SelectMenuTimeLimit.spm
-SelectMenuTimeLimit.spm
 The Coastal Train
 The Black Skirt
 Growing Up
@@ -42311,7 +42277,7 @@ Tadakatsu: Argh! Stop kibitzin' with him, dumbass!
 Yamato: ...Younger girls can be so adorably innocent.
 Yamato: I want to help Mayucchi, I really do.
 *I'd grown attached to her, too.*
-Yamato: 
+Yamato:
 Miyako: ...You're in a good mood.
 Yamato: So could you not ruin it?
 Miyako: So now you're not...?
@@ -51582,7 +51548,7 @@ Momoyo: We'll start with 2-S! Come on, cutie!
 *He arrived to find...*
 Momoyo: Oh, that's a cold reaction from our audience!
 Class 2-S Student: Kh. Why couldn't the girls make up their mind on the makeup direction?
-Azumi: My, my. That's not an excuse, is it? 
+Azumi: My, my. That's not an excuse, is it?
 Margit: There was not much to work with.
 Kokoro: Indeed. A shame that we chose him, when we had someone much more suitable.
 Shouichi: ...Class S doesn't got a clue on how to come together. Maybe that's their weakness.
@@ -61358,7 +61324,7 @@ Mayo: Eh heh heh.
 *It was nice, sometimes, to make physical contact with people from outside the Family.*
 Gakuto: Whoa, he's even got Class Rep trained.
 Shouichi: Yamato knows when to use the carrot and when to use the stick. So what's gonna happen next...
-Mayo: 
+Mayo:
 *She was as easy to handle as Wanko.*
 Kazuko: Hey, why do I feel all itchy when I see that?
 Miyako: Class Rep, you're being treated like a fool.
@@ -63916,7 +63882,7 @@ Chika: None of the other stores can match the perfect balance of our ingredients
 Mitsuru: Chris-san, you should try some too.
 *He handed her a rice cake stuffed with beam jam, but...*
 Chris: No, I shall buy my own.
-Chika: Thank you. Please come again. 
+Chika: Thank you. Please come again.
 Chris: Good. One should eat such things only after paying for them.
 Yamato: I'll buy some too.
 Kazuko: Yamato, the inside of my wallet's so lonely.
@@ -64106,7 +64072,7 @@ Gakuto: I shall be a nice guy again today.
 Chris: Japan truly is wonderful.
 *Moro and Chris were both earnestly paying attention to class.*
 *But sometimes, my eyes wandered to people outside of the Family.*
-Chika: 
+Chika:
 *She was texting someone, using her textbook to hide her phone from the teacher.*
 Yamato: (Hm, she's drawing something as she types.)
 *Was it... bread?*
@@ -67674,7 +67640,7 @@ Takuya: Looks like the bridge has found itself a few new friends.
 *The girls from countries that drive on the right were walking their own path.*
 Koyuki: Oh, they're like a bunch of soldiers.
 Jun: Looks like we've got another oddball in our class.
-Koyuki: Shoot them, hang them, lethal injection 
+Koyuki: Shoot them, hang them, lethal injection
 Jun: Hey, don't ad-lib a song that disturbing.
 Kazuko: Hey, Yamato, hurry up.
 Yamato: Nah, we have to wait a little longer. We don't want anyone to think we're with them.
@@ -68291,7 +68257,7 @@ Hideo: In fact, We are also somewhat familiar with the local gambling establishm
 Yamato: Should you really just be ignoring them?
 Hideo: A Kuki needn't personally deal with the extermination of rats.
 Hideo: Regardless, We judge this to be something We needn't handle personally.
-Azumi: I've finished preparing the staircase for you, sir! 
+Azumi: I've finished preparing the staircase for you, sir!
 Hideo: Azumi, listen to Naoe's request with a warm and generous heart.
 Hideo: We shall climb ever higher. Mwahahaha!
 *He roared with laughter as he began to climb.*
@@ -68400,7 +68366,7 @@ Yamato: That's a bit fast, but we'll make it work. Thank you.
 Hideo: Mwahahahaha!
 Yamato: Oh, you're back. Then I'm counting on you.
 Hideo: Let Us return to the classroom. We must not be tardy!
-Azumi: Yes, Hideo-sama! 
+Azumi: Yes, Hideo-sama!
 *She was quick to change her tone.*
 *Women could be strange creatures.*
 Touma: Oh my, if it isn't Yamato-kun.
@@ -69095,7 +69061,7 @@ Shouichi: Me? Pitiful?
 Touma: You are a hero, to be sure. An admirable one.
 Touma: Yet you are a hero only because you dwell in the world of children.
 Touma: Someday, you will be overwhelmed by the implacable absurdities of society. That I can promise.
-Azumi: Isn't that just too bad? 
+Azumi: Isn't that just too bad?
 Touma: Please accept that the time has finally come for you to fail.
 Shouichi: Who made you the boss of that?!
 Jun: Enough!
@@ -69855,7 +69821,7 @@ Margit: The book Frau Chris recommended is out. I will buy a copy. You all will 
 Hideo: Mwahahaha. So this is the book Kazuko-dono spoke of!
 Azumi: It is as you say, Hideo-sama.
 Hideo: ...Hmm. Purchasing every copy for Our collection is a tempting proposition, but book ought to be read by every citizen. We shall buy but one.
-Azumi: As you wish! 
+Azumi: As you wish!
 Hideo: Kazama did this? Perhaps We shall raise Our expectations of him.
 *And people continued to come.*
 Mrs. Shimazu: Oh, this looks interesting.
@@ -70179,7 +70145,7 @@ Suguru: Though his Strength stat may be high, Shimazu is always quick to embroil
 Suguru: Shall I head home and re-read Autumn's manga adaptation?
 *All the classmates who had headed outside with him started to head home.*
 Hideo: Mwahahaha! Here stands Our beloved carriage-horse-like commoner.
-Azumi: He's not something you should lay eyes on, so let's fly out of here! 
+Azumi: He's not something you should lay eyes on, so let's fly out of here!
 Hideo: Yes. Tremble before Our divine form!
 Azumi: Yes, yes, yes, Hideo-sama's coming through!
 *Team Kuki passed by in a rickshaw.*
@@ -70785,7 +70751,7 @@ Gakuto: In other words, she has to be hot.
 Takuya: You're at it again, Gakuto?
 Gakuto: You really have to pay attention to her mouth. To how her lips glisten, to how dirtily she can move it -- that's the ticket.
 Miyako: My Yamato will never sit quietly while you look at me with those eyes.
-Yamato: 
+Yamato:
 *She glanced over towards me, so I looked away.*
 Gakuto: I've known you for too long to look at you that way.
 Miyako: Heh heh heh. The Shiina Virus truly is contagious.
@@ -72999,7 +72965,7 @@ Suguru: I never thought I would feel the same way about something as the dumb bl
 *However, 2-F's morale was in the pits.*
 Suguru: My energy is presently at 50%. In other words, I feel as if I am entering the second straight map since I last healed to full.
 Chika: I have like, no idea what you just said, but I'm not in the mood either.
-Azumi: Everyone's far too listless 
+Azumi: Everyone's far too listless
 Hideo: What is wrong, commoners? Are your family finances under pressure due to the panic and the rising yen?!
 Hideo: Things will soon calm, so for now, you must endure!
 Margit: I cannot lose fighting alongside Frau Chris. You will all embrace the same mode of thought.
@@ -73234,7 +73200,7 @@ Azumi: Hideo-samaaaaaa! I'm back!
 Hideo: You are late, Azumi! You have ignored Our plight!
 Azumi: I will accept any punishment you give.
 Hideo: However, We are in a good mood, for this one has satisfied Our hunger, so you have Our pardon.
-Azumi: Thank you... Kh. Very much! 
+Azumi: Thank you... Kh. Very much!
 Takuya: Hm? Your expression looked a bit different for a second there.
 Hideo: Azumi, if anything should happen, you are to lend him your strength.
 Takuya: It's fine, really. So then, I'll be leaving.
@@ -74613,7 +74579,7 @@ Lu: There we go! That was awfully close!
 Chika: Wow! Mr. Lu, you're so cool.
 Haguro: I'd totally have your baby. Like, if you were hot, anyways.
 Lu: A stray, huh... Hmm, you seem unhurt.
-Cat: Meow, meow 
+Cat: Meow, meow
 Lu: Are you hungry? Let me get you something.
 Chika: Animals like him... And he's reliable.
 Haguro: Lu's kinda overbearing? But he good.
@@ -76839,7 +76805,7 @@ Tatsuko: Don't worry. We won't hurt Yamato-kun one bit more.
 Angel: But if you guys snitch on us to the cops...
 Ami: We will utterly destroy the man... Heh heh heh.
 Chris: Curse you, Itagaki Sisters...
-Angel: Bye-onara! 
+Angel: Bye-onara!
 Miyako: GIVE ME BACK MY YAMATO!!!
 *Miyako's screams echoed across the sky.*
 *--The factory's front entrance.*
@@ -77134,7 +77100,7 @@ Ryuuhei: That's why our TV's just for watching DVDs or playing games.
 *...That sucked.*
 Ami: Things are dangerous here, it's practically lawless. Though that does keep the rent cheap.
 Ami: It fits us to a T. Heh heh heh.
-Tatsuko: 
+Tatsuko:
 *Itagaki Tatsuko was humming a jaunty tune as she cooked.*
 Ami: Tatsu's in charge of cooking. Her food tastes pretty good.
 Ami: But sometimes she'll fall asleep halfway through. You don't want to eat what we end up with then.
@@ -77466,7 +77432,7 @@ Yamato: ...'Carnival'? The name makes it sound fun.
 Maroudo: Oh, it will be. For the moral bedrock of Kawakami shall collapse in a single night.
 Yamato: ...What?
 Maroudo: A picture is worth a thousand words, as they say. Ten days remain until the Carnival begins.
-Maroudo: I'll have Ryuuhei and the rest keep watch over you until then. 
+Maroudo: I'll have Ryuuhei and the rest keep watch over you until then.
 Ami: Tatsu, Yamato's going to stay with us for a little while longer.
 Tatsuko: Zzz... Zzz...
 Ami: You're still asleep? You might be my sister, but you still manage to amaze me.
@@ -77515,7 +77481,7 @@ Tatsuko: Zzz... Zzz...
 *......*
 *--Kawakami Station's ticket gate.*
 Hideo: Oh, Kazuko-dono! Your timing is impeccable.
-Azumi: Hello again during summer break! 
+Azumi: Hello again during summer break!
 Kazuko: Yeah. Thanks for stopping back here, Kuki-kun.
 Hideo: Say nothing of it. Affectionately viewing commoners attend the station is one of life's pleasures. Mwahaha.
 Hideo: --So, why are you present here, Minamoto of Class F?
@@ -77540,12 +77506,12 @@ Hideo: Fret not. This is the will of the Kukis!
 Azumi: And if we did send you an invoice, the number of zeroes would shock you silly.
 Kazuko: Ooooh...
 Hideo: Regardless, We ask that, until the new Cookie is ready, you use a certain item. Azumi!
-Azumi: Here you are, sir! 
+Azumi: Here you are, sir!
 Cookie 3: Hey, Kazuko. Wahaha, been a long two days.
 Kazuko: A-A tiny Cookie?
 Hideo: Oh, might this be the first time you have witnessed this form?
 Hideo: This is Cookie's third form. We had on hand the replacement parts for this section, making its restoration easy.
-Azumi: But it can't transform right now, okay? 
+Azumi: But it can't transform right now, okay?
 Hideo: Please use this until its proper body has been built.
 Kazuko: Th-Thank you for everything. I can't believe you did this much in a day.
 Hideo: Oh, when We thought of how sad you would be without Cookie, We could not stop Ourself.
@@ -79585,7 +79551,7 @@ Miyako: Ah, lick... Mn, mnah... Mmnn?!
 Miyako: Let me drink it. Aamph.
 Momoyo: Ah!
 *Spurt, spurt, spurt, spurt, spurt!*
-Miyako: Mn, ahhhhh... 
+Miyako: Mn, ahhhhh...
 *A huge quantity of sperm gushed into Miyako's mouth.*
 Momoyo: Mm... And here I thought I'd drink it first.
 Miyako: ...*gulp, gulp, gulp*
@@ -79742,7 +79708,7 @@ Policeman: However, we're equipped to handle it.
 *The sun set.*
 *--The Kawakami City Industrial Area.*
 *Hundreds of outlaws had gathered here.*
-Angel: Yah-hah! Check out the view! 
+Angel: Yah-hah! Check out the view!
 Ami: Well done, gathering so many.
 Tatsuko: ...Yamato-kunnnnn...
 Ami: Get a hold of yourself, Tatsu.
@@ -80268,7 +80234,7 @@ Shakadou: Hah ha ha ha ha ha! Now things're gettin' fun!
 Touma: And so we unleash our cluster of chaos... Now the city will descend further into mayhem.
 Touma: ...However, Shakadou is one of my friends... I wish him well.
 *--Kinryuu Street, Kazuko vs. Angel*
-Angel: Weak! Kawakami Kazuko, you're weak! 
+Angel: Weak! Kawakami Kazuko, you're weak!
 *The full force of Angel's kick pounded into Kazuko's midsection.*
 Kazuko: Gah-- *cough*
 Angel: Time to finish you!
@@ -80654,7 +80620,7 @@ Touma: I'm afraid I cannot do that.
 Koyuki: No can do!
 Touma: Yuki, remember what I asked?
 Koyuki: Time to do the mission!
-Koyuki: Naoe Ya-mato 
+Koyuki: Naoe Ya-mato
 Koyuki: I'll crush you.
 Miyako: Yamato!
 *She rushed between me and Koyuki.*
@@ -84302,9 +84268,9 @@ Daimaro: Now, I believe that is the matter settled, no?
 *Today was the cultural festival...*
 *I could hear Miyako trying to wake me up.*
 *Because she always did.*
-Miyako: Hey! Yamato! You have to wake up! 
+Miyako: Hey! Yamato! You have to wake up!
 Yamato: ......
-Miyako: If you don't wake up, your big sister might pull a prank on you 
+Miyako: If you don't wake up, your big sister might pull a prank on you
 Miyako: Oh, no response. Then I'll have a breakfast of sausage and white stew--
 Yamato: Nah, I'm up.
 Miyako: ...I risked my life to wake you. You can't just be that stoic.
@@ -85635,8 +85601,6 @@ wagi: I can only hope you enjoyed the experience.
 wagi: That is the end of Majikoi... for now. Thank you for playing.
 wagi: I hope to see you again. Good bye.
 MA-KUN: I'm MA-KUN, the CG director. Thank you for purchasing the game.
-*Next*
-*Next*
 *Next*
 *Next*
 MA-KUN: Wanko's so cute.
@@ -89280,7 +89244,7 @@ Miyako: Ah, lick... Mn, mnah... Mmnn?!
 Miyako: Let me drink it. Aamph.
 Momoyo: Ah!
 *Spurt, spurt, spurt, spurt, spurt!*
-Miyako: Mn, ahhhhh... 
+Miyako: Mn, ahhhhh...
 *A huge quantity of sperm gushed into Miyako's mouth.*
 Momoyo: Mm... And here I thought I'd drink it first.
 Miyako: ...*gulp, gulp, gulp*

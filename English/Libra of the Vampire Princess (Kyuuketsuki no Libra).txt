@@ -8511,7 +8511,6 @@ Iris: "Shut up and go wash your face... I will not say it again."
 Lycoris: "U-understood?!"
 **Splash splash*.*
 **Splash splash*.*
-**Splash splash*.*
 **Refreshing*!*
 Lycoris: "Phew! I am refreshed! I feel like having breakfast gracefully! Excellent!"
 Iris: "Then?"
@@ -16125,7 +16124,6 @@ Lotus: "Mm? Nothing."
 Lotus: "Even though I controlled you, you called it up by yourself once. So don't worry."
 Shuma: "Well, that's true. Okay, I'll try."
 *I stick out both my hands as if I were holding a sword at the ready.*
-Shuma: "......"
 Shuma: "......"
 Shuma: "......"
 Lotus: "What's wrong?"

@@ -2063,7 +2063,6 @@ You: "I could be doing way better things with my time."
 *Yeah, guess I'll wait a little bit...*
 *...*
 *...*
-*...*
 *Oh, there's a dude coming.*
 Akaber: "Greetings, young man..."
 You: "Morning, sir. Are you...Mr Akaber?"
@@ -8665,7 +8664,6 @@ You: "See you later."
 *What should I do? Should I try calling him?*
 *Well, it's worth a shot.*
 You: "Akaber! AKABER! Are you there?"
-*...*
 *...*
 *...*
 *Nothing, as expected.*

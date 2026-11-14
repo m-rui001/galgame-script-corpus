@@ -1,0 +1,700 @@
+old_path,new_path,line_match,reason
+Zh/FutabaChannel [中文人名表].txt,Zh/_reference/FutabaChannel [中文人名表].txt,0.667,merged_or_moved
+Zh/Hamidashi [中文]/詩桜-05.txt,Zh/ハミダシクリエイティブ [中文].txt,0.9,merged_or_moved
+JA/Mugen Kairou [日本語]/pro2.txt,Zh/夢幻廻廊 [中日对照].txt,0.933,merged_or_moved
+Zh/Hamidashi [中文]/共通-05a.txt,Zh/ハミダシクリエイティブ [中文].txt,0.933,merged_or_moved
+Zh/RaspberryCube [中文]/瑠莉-07.txt,Zh/RaspberryCube [中文]/瑠莉-07 [中文].txt,0.933,merged_or_moved
+Zh/Kao no nai Tsuki [中文]/D082629_02.txt,Zh/Kao no nai Tsuki [中文]/D082629_02 [中文].txt,0.941,merged_or_moved
+JA/Mugen Kairou [日本語]/01.txt,Zh/夢幻廻廊 [中日对照].txt,0.967,merged_or_moved
+JA/Mugen Kairou [日本語]/07.txt,Zh/夢幻廻廊 [中日对照].txt,0.967,merged_or_moved
+JA/Mugen Kairou [日本語]/14.txt,Zh/夢幻廻廊 [中日对照].txt,0.967,merged_or_moved
+JA/Mugen Kairou [日本語]/sister1.txt,Zh/夢幻廻廊 [中日对照].txt,0.967,merged_or_moved
+JA/Mugen Kairou [日本語]/sister4.txt,Zh/Mugen Kairou [中文]/sister4.txt [中日对照],0.967,merged_or_moved
+Zh/2020 Yuuwaku [中文]/A007-00.txt,Zh/2020 Yuuwaku [中文]/A007-00 [中文].txt,0.967,merged_or_moved
+Zh/Ambitious Mission [中文]/サガプラ怪盗　弥栄　５.txt,Zh/Ambitious Mission [中文]/サガプラ怪盗　弥栄　５ [中文].txt,0.967,merged_or_moved
+Zh/ChronoClock [中文]/snmc08.txt,Zh/ChronoClock [中文]/snmc08 [中文].txt,0.967,merged_or_moved
+Zh/ChronoClock [中文]/snmk01.txt,Zh/ChronoClock [中文]/snmk01 [中文].txt,0.967,merged_or_moved
+Zh/Grisaia no Meikyuu [中文]/ama_h01.txt,Zh/Grisaia no Meikyuu [中文]/ama_h01 [中文].txt,0.967,merged_or_moved
+Zh/Kao no nai Tsuki [中文]/D0816_04.txt,Zh/Kao no nai Tsuki [中文]/D0816_04 [中文].txt,0.967,merged_or_moved
+Zh/Osananajimi FD [中文]/01_ell_002_01.txt,Zh/Osananajimi FD [中文]/01_ell_002_01 [中文].txt,0.967,merged_or_moved
+Zh/RaspberryCube [中文]/オープニング続き.txt,Zh/RaspberryCube [中文]/オープニング続き [中文].txt,0.967,merged_or_moved
+Zh/RaspberryCube [中文]/瑠莉-05.txt,Zh/RaspberryCube [中文]/瑠莉-05 [中文].txt,0.967,merged_or_moved
+Zh/RaspberryCube [中文]/瑠莉-22.txt,Zh/RaspberryCube [中文]/瑠莉-22 [中文].txt,0.967,merged_or_moved
+Zh/RaspberryCube [中文]/瑠莉-25.txt,Zh/RaspberryCube [中文]/瑠莉-25 [中日对照].txt,0.967,merged_or_moved
+Zh/Tuinosora Remake [中文]/やす子15_2.txt,Zh/Tuinosora Remake [中文]/やす子15_2 [中文].txt,0.967,merged_or_moved
+Zh/はるかかなた [中文].txt,Zh/はるかかなた [中日对照].txt,0.967,merged_or_moved
+Zh/カオスドミナス[v26508][Windows][tt_君] [中文].txt,Zh/カオスドミナス[v26508][Windows][tt_君] [中日对照].txt,0.967,merged_or_moved
+Zh/魔法少女の兄 ～下手な嘘と不良少年～ [中文].txt,JA/魔法少女の兄 ～下手な嘘と不良少年～ [日本語].txt,0.967,merged_or_moved
+JA/Mugen Kairou [日本語]/02.txt,Zh/夢幻廻廊 [中日对照].txt,1.0,merged_or_moved
+JA/Mugen Kairou [日本語]/03.txt,Zh/Mugen Kairou [中文]/03.txt [中日对照],1.0,merged_or_moved
+JA/Mugen Kairou [日本語]/04.txt,Zh/夢幻廻廊 [中日对照].txt,1.0,merged_or_moved
+JA/Mugen Kairou [日本語]/05.txt,Zh/夢幻廻廊 [中日对照].txt,1.0,merged_or_moved
+JA/Mugen Kairou [日本語]/08.txt,Zh/Mugen Kairou [中文]/08.txt [中日对照],1.0,merged_or_moved
+JA/Mugen Kairou [日本語]/09.txt,Zh/夢幻廻廊 [中日对照].txt,1.0,merged_or_moved
+JA/Mugen Kairou [日本語]/11.txt,Zh/夢幻廻廊 [中日对照].txt,1.0,merged_or_moved
+JA/Mugen Kairou [日本語]/16.txt,Zh/夢幻廻廊 [中日对照].txt,1.0,merged_or_moved
+JA/Mugen Kairou [日本語]/17.txt,Zh/Mugen Kairou [中文]/17.txt [中日对照],1.0,merged_or_moved
+JA/Mugen Kairou [日本語]/18.txt,Zh/夢幻廻廊 [中日对照].txt,1.0,merged_or_moved
+JA/Mugen Kairou [日本語]/19.txt,Zh/夢幻廻廊 [中日对照].txt,1.0,merged_or_moved
+JA/Mugen Kairou [日本語]/last.txt,Zh/夢幻廻廊 [中日对照].txt,1.0,merged_or_moved
+JA/Mugen Kairou [日本語]/pro3.txt,Zh/夢幻廻廊 [中日对照].txt,1.0,merged_or_moved
+JA/Mugen Kairou [日本語]/pro4.txt,Zh/夢幻廻廊 [中日对照].txt,1.0,merged_or_moved
+JA/Narcissu [日本語]/narci_onetwo/narcissu.txt,Zh/Narcissu [中文]/narci_onetwo/narcissu.txt [中日对照],1.0,merged_or_moved
+JA/Osananajimi FD [日本語]/01_ell_001_01.txt,English/Osananajimi FD/01_ell_001_01.txt,1.0,merged_or_moved
+JA/Osananajimi FD [日本語]/01_ell_002_01.txt,English/Osananajimi FD/01_ell_002_01.txt,1.0,merged_or_moved
+JA/Osananajimi FD [日本語]/01_ell_003_01.txt,English/Osananajimi FD/01_ell_003_01.txt,1.0,merged_or_moved
+JA/Osananajimi FD [日本語]/01_ell_004_01.txt,English/Osananajimi FD/01_ell_004_01.txt,1.0,merged_or_moved
+JA/Osananajimi FD [日本語]/01_ell_005_01.txt,English/Osananajimi FD/01_ell_005_01.txt,1.0,merged_or_moved
+JA/Osananajimi FD [日本語]/01_ell_006_01.txt,English/Osananajimi FD/01_ell_006_01.txt,1.0,merged_or_moved
+JA/Osananajimi FD [日本語]/01_ell_007_01.txt,English/Osananajimi FD/01_ell_007_01.txt,1.0,merged_or_moved
+JA/Osananajimi FD [日本語]/01_ell_008_01.txt,English/Osananajimi FD/01_ell_008_01.txt,1.0,merged_or_moved
+JA/Osananajimi FD [日本語]/01_ell_009_01.txt,English/Osananajimi FD/01_ell_009_01.txt,1.0,merged_or_moved
+JA/Osananajimi FD [日本語]/01_ell_010_01.txt,English/Osananajimi FD/01_ell_010_01.txt,1.0,merged_or_moved
+JA/Osananajimi FD [日本語]/01_ell_011_01.txt,English/Osananajimi FD/01_ell_011_01.txt,1.0,merged_or_moved
+JA/Osananajimi FD [日本語]/01_ell_012_01.txt,English/Osananajimi FD/01_ell_012_01.txt,1.0,merged_or_moved
+JA/Osananajimi FD [日本語]/01_ell_013_01.txt,English/Osananajimi FD/01_ell_013_01.txt,1.0,merged_or_moved
+JA/Osananajimi FD [日本語]/01_ell_014_01.txt,English/Osananajimi FD/01_ell_014_01.txt,1.0,merged_or_moved
+JA/Osananajimi FD [日本語]/01_ell_015_01.txt,English/Osananajimi FD/01_ell_015_01.txt,1.0,merged_or_moved
+JA/Osananajimi FD [日本語]/01_ell_016_01.txt,English/Osananajimi FD/01_ell_016_01.txt,1.0,merged_or_moved
+JA/Osananajimi FD [日本語]/01_ell_017_01.txt,English/Osananajimi FD/01_ell_017_01.txt,1.0,merged_or_moved
+JA/Osananajimi FD [日本語]/01_ell_018_01.txt,English/Osananajimi FD/01_ell_018_01.txt,1.0,merged_or_moved
+JA/Osananajimi FD [日本語]/01_ell_019_01.txt,English/Osananajimi FD/01_ell_019_01.txt,1.0,merged_or_moved
+JA/Osananajimi FD [日本語]/02_iri_001_01.txt,English/Osananajimi FD/02_iri_001_01.txt,1.0,merged_or_moved
+JA/Osananajimi FD [日本語]/02_iri_002_01.txt,English/Osananajimi FD/02_iri_002_01.txt,1.0,merged_or_moved
+JA/Osananajimi FD [日本語]/02_iri_004_01.txt,English/Osananajimi FD/02_iri_004_01.txt,1.0,merged_or_moved
+JA/Osananajimi FD [日本語]/02_iri_005_01.txt,English/Osananajimi FD/02_iri_005_01.txt,1.0,merged_or_moved
+JA/Osananajimi FD [日本語]/02_iri_006_01.txt,English/Osananajimi FD/02_iri_006_01.txt,1.0,merged_or_moved
+JA/Osananajimi FD [日本語]/02_iri_007_01.txt,English/Osananajimi FD/02_iri_007_01.txt,1.0,merged_or_moved
+JA/Osananajimi FD [日本語]/02_iri_008_01.txt,English/Osananajimi FD/02_iri_008_01.txt,1.0,merged_or_moved
+JA/Osananajimi FD [日本語]/02_iri_009_01.txt,English/Osananajimi FD/02_iri_009_01.txt,1.0,merged_or_moved
+JA/Osananajimi FD [日本語]/02_iri_010_01.txt,English/Osananajimi FD/02_iri_010_01.txt,1.0,merged_or_moved
+JA/Osananajimi FD [日本語]/02_iri_011_01.txt,English/Osananajimi FD/02_iri_011_01.txt,1.0,merged_or_moved
+JA/Osananajimi FD [日本語]/02_iri_013_01.txt,English/Osananajimi FD/02_iri_013_01.txt,1.0,merged_or_moved
+JA/Osananajimi FD [日本語]/02_iri_015_01.txt,English/Osananajimi FD/02_iri_015_01.txt,1.0,merged_or_moved
+JA/Osananajimi FD [日本語]/02_iri_016_01.txt,English/Osananajimi FD/02_iri_016_01.txt,1.0,merged_or_moved
+JA/Osananajimi FD [日本語]/02_iri_017_01.txt,English/Osananajimi FD/02_iri_017_01.txt,1.0,merged_or_moved
+JA/Osananajimi FD [日本語]/02_iri_018_01.txt,English/Osananajimi FD/02_iri_018_01.txt,1.0,merged_or_moved
+JA/Osananajimi FD [日本語]/02_iri_019_01.txt,English/Osananajimi FD/02_iri_019_01.txt,1.0,merged_or_moved
+JA/Osananajimi FD [日本語]/02_iri_020_01.txt,English/Osananajimi FD/02_iri_020_01.txt,1.0,merged_or_moved
+JA/SaDistic BlooD [日本語].txt,English/SaDistic BlooD.txt,1.0,merged_or_moved
+Zh/2015 SSSA [中文]/A000-01.txt,Zh/2015 SSSA [中文]/A000-01 [中文].txt,1.0,merged_or_moved
+Zh/2015 SSSA [中文]/A001-00.txt,Zh/2015 SSSA [中文]/A001-00 [中文].txt,1.0,merged_or_moved
+Zh/2015 SSSA [中文]/A001-01.txt,Zh/2015 SSSA [中文]/A001-01 [中文].txt,1.0,merged_or_moved
+Zh/2015 SSSA [中文]/A001-02.txt,Zh/2015 SSSA [中文]/A001-02 [中文].txt,1.0,merged_or_moved
+Zh/2015 SSSA [中文]/A002-00.txt,Zh/2015 SSSA [中文]/A002-00 [中文].txt,1.0,merged_or_moved
+Zh/2015 SSSA [中文]/A002-01.txt,Zh/2015 SSSA [中文]/A002-01 [中文].txt,1.0,merged_or_moved
+Zh/2015 SSSA [中文]/A002-02.txt,Zh/2015 SSSA [中文]/A002-02 [中文].txt,1.0,merged_or_moved
+Zh/2015 SSSA [中文]/A003-00.txt,Zh/2015 SSSA [中文]/A003-00 [中文].txt,1.0,merged_or_moved
+Zh/2015 SSSA [中文]/A003-01.txt,Zh/2015 SSSA [中文]/A003-01 [中文].txt,1.0,merged_or_moved
+Zh/2015 SSSA [中文]/A003-02.txt,Zh/2015 SSSA [中文]/A003-02 [中文].txt,1.0,merged_or_moved
+Zh/2015 SSSA [中文]/A004-00.txt,Zh/2015 SSSA [中文]/A004-00 [中文].txt,1.0,merged_or_moved
+Zh/2015 SSSA [中文]/B000-00.txt,Zh/2015 SSSA [中文]/B000-00 [中文].txt,1.0,merged_or_moved
+Zh/2015 SSSA [中文]/B000-01.txt,Zh/2015 SSSA [中文]/B000-01 [中文].txt,1.0,merged_or_moved
+Zh/2015 SSSA [中文]/B001-00.txt,Zh/2015 SSSA [中文]/B001-00 [中文].txt,1.0,merged_or_moved
+Zh/2015 SSSA [中文]/B001-01.txt,Zh/2015 SSSA [中文]/B001-01 [中文].txt,1.0,merged_or_moved
+Zh/2015 SSSA [中文]/B001-02.txt,Zh/2015 SSSA [中文]/B001-02 [中文].txt,1.0,merged_or_moved
+Zh/2015 SSSA [中文]/B002-00.txt,Zh/2015 SSSA [中文]/B002-00 [中文].txt,1.0,merged_or_moved
+Zh/2015 SSSA [中文]/Z001-00.txt,Zh/2015 SSSA [中文]/Z001-00 [中文].txt,1.0,merged_or_moved
+Zh/2016b SSSA2 [中文]/A000-01.txt,Zh/2016b SSSA2 [中文]/A000-01 [中文].txt,1.0,merged_or_moved
+Zh/2016b SSSA2 [中文]/A001-00.txt,Zh/2016b SSSA2 [中文]/A001-00 [中文].txt,1.0,merged_or_moved
+Zh/2016b SSSA2 [中文]/A001-01.txt,Zh/2016b SSSA2 [中文]/A001-01 [中文].txt,1.0,merged_or_moved
+Zh/2016b SSSA2 [中文]/A002-01.txt,Zh/2016b SSSA2 [中文]/A002-01 [中文].txt,1.0,merged_or_moved
+Zh/2016b SSSA2 [中文]/B000-00.txt,Zh/2016b SSSA2 [中文]/B000-00 [中文].txt,1.0,merged_or_moved
+Zh/2016b SSSA2 [中文]/B001-00.txt,Zh/2016b SSSA2 [中文]/B001-00 [中文].txt,1.0,merged_or_moved
+Zh/2016b SSSA2 [中文]/B002-00.txt,Zh/2016b SSSA2 [中文]/B002-00 [中文].txt,1.0,merged_or_moved
+Zh/2016b SSSA2 [中文]/C000-00.txt,Zh/2016b SSSA2 [中文]/C000-00 [中文].txt,1.0,merged_or_moved
+Zh/2017 Otomari [中文]/A000-01.txt,Zh/2017 Otomari [中文]/A000-01 [中文].txt,1.0,merged_or_moved
+Zh/2017 Otomari [中文]/A001-00.txt,Zh/2017 Otomari [中文]/A001-00 [中文].txt,1.0,merged_or_moved
+Zh/2017 Otomari [中文]/A002-00.txt,Zh/2017 Otomari [中文]/A002-00 [中文].txt,1.0,merged_or_moved
+Zh/2017 Otomari [中文]/A003-00.txt,Zh/2017 Otomari [中文]/A003-00 [中文].txt,1.0,merged_or_moved
+Zh/2017 Otomari [中文]/B000-00.txt,Zh/2017 Otomari [中文]/B000-00 [中文].txt,1.0,merged_or_moved
+Zh/2017 Otomari [中文]/B001-00.txt,Zh/2017 Otomari [中文]/B001-00 [中文].txt,1.0,merged_or_moved
+Zh/2017 Otomari [中文]/B002-00.txt,Zh/2017 Otomari [中文]/B002-00 [中文].txt,1.0,merged_or_moved
+Zh/2017 Otomari [中文]/B004-00.txt,Zh/2017 Otomari [中文]/B004-00 [中文].txt,1.0,merged_or_moved
+Zh/2017 Otomari [中文]/C000-00.txt,Zh/2017 Otomari [中文]/C000-00 [中文].txt,1.0,merged_or_moved
+Zh/2018 Harem [中文]/B000-00.txt,Zh/2018 Harem [中文]/B000-00 [中文].txt,1.0,merged_or_moved
+Zh/2018 Harem [中文]/B000-02.txt,Zh/2018 Harem [中文]/B000-02 [中文].txt,1.0,merged_or_moved
+Zh/2018 Harem [中文]/B001-00.txt,Zh/2018 Harem [中文]/B001-00 [中文].txt,1.0,merged_or_moved
+Zh/2018 Harem [中文]/B001-01.txt,Zh/2018 Harem [中文]/B001-01 [中文].txt,1.0,merged_or_moved
+Zh/2018 Harem [中文]/B002-00.txt,Zh/2018 Harem [中文]/B002-00 [中文].txt,1.0,merged_or_moved
+Zh/2018 Harem [中文]/B002-01.txt,Zh/2018 Harem [中文]/B002-01 [中文].txt,1.0,merged_or_moved
+Zh/2018 Harem [中文]/B003-00.txt,Zh/2018 Harem [中文]/B003-00 [中文].txt,1.0,merged_or_moved
+Zh/2018 Harem [中文]/B003-01.txt,Zh/2018 Harem [中文]/B003-01 [中文].txt,1.0,merged_or_moved
+Zh/2018 Harem [中文]/B004-00.txt,Zh/2018 Harem [中文]/B004-00 [中文].txt,1.0,merged_or_moved
+Zh/2018 Harem [中文]/Z000-00.txt,Zh/2018 Harem [中文]/Z000-00 [中文].txt,1.0,merged_or_moved
+Zh/2019 Aiyoku [中文]/B003-00.txt,Zh/2019 Aiyoku [中文]/B003-00 [中文].txt,1.0,merged_or_moved
+Zh/2022 Mainichi [中文]/A000-01.txt,Zh/2022 Mainichi [中文]/A000-01 [中文].txt,1.0,merged_or_moved
+Zh/2022 Mainichi [中文]/A001-00.txt,Zh/2022 Mainichi [中文]/A001-00 [中文].txt,1.0,merged_or_moved
+Zh/2022 Mainichi [中文]/A001-01.txt,Zh/2022 Mainichi [中文]/A001-01 [中文].txt,1.0,merged_or_moved
+Zh/2022 Mainichi [中文]/A002-00.txt,Zh/2022 Mainichi [中文]/A002-00 [中文].txt,1.0,merged_or_moved
+Zh/2022 Mainichi [中文]/A002-01.txt,Zh/2022 Mainichi [中文]/A002-01 [中文].txt,1.0,merged_or_moved
+Zh/2022 Mainichi [中文]/A002-02.txt,Zh/2022 Mainichi [中文]/A002-02 [中文].txt,1.0,merged_or_moved
+Zh/2022 Mainichi [中文]/A002-03.txt,Zh/2022 Mainichi [中文]/A002-03 [中文].txt,1.0,merged_or_moved
+Zh/2022 Mainichi [中文]/A003-00.txt,Zh/2022 Mainichi [中文]/A003-00 [中文].txt,1.0,merged_or_moved
+Zh/2022 Mainichi [中文]/A003-01.txt,Zh/2022 Mainichi [中文]/A003-01 [中文].txt,1.0,merged_or_moved
+Zh/2022 Mainichi [中文]/A004-00.txt,Zh/2022 Mainichi [中文]/A004-00 [中文].txt,1.0,merged_or_moved
+Zh/2022 Mainichi [中文]/A004-01.txt,Zh/2022 Mainichi [中文]/A004-01 [中文].txt,1.0,merged_or_moved
+Zh/2022 Mainichi [中文]/A004-02.txt,Zh/2022 Mainichi [中文]/A004-02 [中文].txt,1.0,merged_or_moved
+Zh/2022 Mainichi [中文]/A004-03.txt,Zh/2022 Mainichi [中文]/A004-03 [中文].txt,1.0,merged_or_moved
+Zh/2022 Mainichi [中文]/A005-01.txt,Zh/2022 Mainichi [中文]/A005-01 [中文].txt,1.0,merged_or_moved
+Zh/2022 Mainichi [中文]/A006-00.txt,Zh/2022 Mainichi [中文]/A006-00 [中文].txt,1.0,merged_or_moved
+Zh/2022 Mainichi [中文]/A006-01.txt,Zh/2022 Mainichi [中文]/A006-01 [中文].txt,1.0,merged_or_moved
+Zh/2022 Mainichi [中文]/A006-02.txt,Zh/2022 Mainichi [中文]/A006-02 [中日对照].txt,1.0,merged_or_moved
+Zh/2022 Mainichi [中文]/A006-03.txt,Zh/2022 Mainichi [中文]/A006-03 [中文].txt,1.0,merged_or_moved
+Zh/2022 Mainichi [中文]/A007-00.txt,Zh/2022 Mainichi [中文]/A007-00 [中文].txt,1.0,merged_or_moved
+Zh/2022 Mainichi [中文]/A007-01.txt,Zh/2022 Mainichi [中文]/A007-01 [中文].txt,1.0,merged_or_moved
+Zh/2022 Mainichi [中文]/A008-00.txt,Zh/2022 Mainichi [中文]/A008-00 [中文].txt,1.0,merged_or_moved
+Zh/2022 Mainichi [中文]/A008-01.txt,Zh/2022 Mainichi [中文]/A008-01 [中文].txt,1.0,merged_or_moved
+Zh/2022 Mainichi [中文]/A009-00.txt,Zh/2022 Mainichi [中文]/A009-00 [中文].txt,1.0,merged_or_moved
+Zh/2022 Mainichi [中文]/A009-01.txt,Zh/2022 Mainichi [中文]/A009-01 [中文].txt,1.0,merged_or_moved
+Zh/2022 Mainichi [中文]/A009-02.txt,Zh/2022 Mainichi [中文]/A009-02 [中文].txt,1.0,merged_or_moved
+Zh/2022 Mainichi [中文]/A009-03.txt,Zh/2022 Mainichi [中文]/A009-03 [中文].txt,1.0,merged_or_moved
+Zh/2022 Mainichi [中文]/B000-00.txt,Zh/2022 Mainichi [中文]/B000-00 [中文].txt,1.0,merged_or_moved
+Zh/2022 Mainichi [中文]/Z000-00.txt,Zh/2022 Mainichi [中文]/Z000-00 [中文].txt,1.0,merged_or_moved
+Zh/AMATSUTSUMI [中文]/sn3004.txt,Zh/AMATSUTSUMI [中文]/sn3004 [中文].txt,1.0,merged_or_moved
+Zh/AMATSUTSUMI [中文]/sn4014n.txt,Zh/AMATSUTSUMI [中文]/sn4014n [中文].txt,1.0,merged_or_moved
+Zh/Aibeya [中文]/02_comn_20.txt,Zh/Aibeya [中文]/02_comn_20 [中文].txt,1.0,merged_or_moved
+Zh/Aibeya [中文]/02_comn_33cs.txt,Zh/Aibeya [中文]/02_comn_33cs [中文].txt,1.0,merged_or_moved
+Zh/Aibeya [中文]/02_comn_40.txt,Zh/Aibeya [中文]/02_comn_40 [中文].txt,1.0,merged_or_moved
+Zh/Aibeya [中文]/02_comn_42.txt,Zh/Aibeya [中文]/02_comn_42 [中文].txt,1.0,merged_or_moved
+Zh/Amazing Grace [中文]/ep01_3.txt,Zh/Amazing Grace [中文]/ep01_3 [中文].txt,1.0,merged_or_moved
+Zh/Amazing Grace [中文]/ep02.txt,Zh/Amazing Grace [中文]/ep02 [中文].txt,1.0,merged_or_moved
+Zh/Amazing Grace [中文]/ep03.txt,Zh/Amazing Grace [中文]/ep03 [中文].txt,1.0,merged_or_moved
+Zh/Amazing Grace [中文]/ep04kirie.txt,Zh/Amazing Grace [中文]/ep04kirie [中文].txt,1.0,merged_or_moved
+Zh/Amazing Grace [中文]/ep10kotoha.txt,Zh/Amazing Grace [中文]/ep10kotoha [中文].txt,1.0,merged_or_moved
+Zh/Amazing Grace [中文]/ep11grand.txt,Zh/Amazing Grace [中文]/ep11grand [中文].txt,1.0,merged_or_moved
+Zh/Amazing Grace [中文]/ep12grand.txt,Zh/Amazing Grace [中文]/ep12grand [中文].txt,1.0,merged_or_moved
+Zh/Amazing Grace [中文]/ep13grand.txt,Zh/Amazing Grace [中文]/ep13grand [中文].txt,1.0,merged_or_moved
+Zh/Amazing Grace [中文]/ep16sakuya_after.txt,Zh/Amazing Grace [中文]/ep16sakuya_after [中文].txt,1.0,merged_or_moved
+Zh/Ambitious Mission [中文]/◆特別な日◆.txt,Zh/Ambitious Mission [中文]/◆特別な日◆ [中文].txt,1.0,merged_or_moved
+Zh/Ambitious Mission [中文]/サガプラ怪盗　あてな　３.txt,Zh/Ambitious Mission [中文]/サガプラ怪盗　あてな　３ [中文].txt,1.0,merged_or_moved
+Zh/Ambitious Mission [中文]/サガプラ怪盗　あてな　５.txt,Zh/Ambitious Mission [中文]/サガプラ怪盗　あてな　５ [中文].txt,1.0,merged_or_moved
+Zh/Ambitious Mission [中文]/サガプラ怪盗　あてな　７.txt,Zh/Ambitious Mission [中文]/サガプラ怪盗　あてな　７ [中文].txt,1.0,merged_or_moved
+Zh/Ambitious Mission [中文]/サガプラ怪盗　かぐ　Ｄ　１１h3　おまけh.txt,Zh/Ambitious Mission [中文]/サガプラ怪盗　かぐ　Ｄ　１１h3　おまけh [中文].txt,1.0,merged_or_moved
+Zh/Ambitious Mission [中文]/サガプラ怪盗　かぐ　Ｄ　１１h3　３p.txt,Zh/Ambitious Mission [中文]/サガプラ怪盗　かぐ　Ｄ　１１h3　３p [中文].txt,1.0,merged_or_moved
+Zh/Ambitious Mission [中文]/サガプラ怪盗　プロローグ　07　２.txt,Zh/Ambitious Mission [中文]/サガプラ怪盗　プロローグ　07　２ [中文].txt,1.0,merged_or_moved
+Zh/Ambitious Mission [中文]/サガプラ怪盗　プロローグ　10　２.txt,Zh/Ambitious Mission [中文]/サガプラ怪盗　プロローグ　10　２ [中文].txt,1.0,merged_or_moved
+Zh/Ambitious Mission [中文]/サガプラ怪盗　弥栄　１.txt,Zh/Ambitious Mission [中文]/サガプラ怪盗　弥栄　１ [中文].txt,1.0,merged_or_moved
+Zh/Ambitious Mission [中文]/サガプラ怪盗　弥栄　１０.txt,Zh/Ambitious Mission [中文]/サガプラ怪盗　弥栄　１０ [中文].txt,1.0,merged_or_moved
+Zh/Ambitious Mission [中文]/サガプラ怪盗　弥栄　１１h3　おまけh.txt,Zh/Ambitious Mission [中文]/サガプラ怪盗　弥栄　１１h3　おまけh [中文].txt,1.0,merged_or_moved
+Zh/Ambitious Mission [中文]/サガプラ怪盗　弥栄　１２.txt,Zh/Ambitious Mission [中文]/サガプラ怪盗　弥栄　１２ [中文].txt,1.0,merged_or_moved
+Zh/Ambitious Mission [中文]/サガプラ怪盗　弥栄　９.txt,Zh/Ambitious Mission [中文]/サガプラ怪盗　弥栄　９ [中文].txt,1.0,merged_or_moved
+Zh/Ambitious Mission [中文]/サガプラ怪盗　虹夢　６　１０.txt,Zh/Ambitious Mission [中文]/サガプラ怪盗　虹夢　６　１０ [中文].txt,1.0,merged_or_moved
+Zh/Ambitious Mission [中文]/サガプラ怪盗　虹夢　６　３.txt,Zh/Ambitious Mission [中文]/サガプラ怪盗　虹夢　６　３ [中文].txt,1.0,merged_or_moved
+Zh/Ambitious Mission [中文]/サガプラ怪盗　虹夢　６　５.txt,Zh/Ambitious Mission [中文]/サガプラ怪盗　虹夢　６　５ [中文].txt,1.0,merged_or_moved
+Zh/Ambitious Mission [中文]/サガプラ怪盗　虹夢　６　７.txt,Zh/Ambitious Mission [中文]/サガプラ怪盗　虹夢　６　７ [中文].txt,1.0,merged_or_moved
+Zh/ChronoClock [中文]/sndd02.txt,Zh/ChronoClock [中文]/sndd02 [中文].txt,1.0,merged_or_moved
+Zh/ChronoClock [中文]/sndd03.txt,Zh/ChronoClock [中文]/sndd03 [中文].txt,1.0,merged_or_moved
+Zh/ChronoClock [中文]/sndd04.txt,Zh/ChronoClock [中文]/sndd04 [中文].txt,1.0,merged_or_moved
+Zh/ChronoClock [中文]/sndd05.txt,Zh/ChronoClock [中文]/sndd05 [中文].txt,1.0,merged_or_moved
+Zh/ChronoClock [中文]/sndd07.txt,Zh/ChronoClock [中文]/sndd07 [中文].txt,1.0,merged_or_moved
+Zh/ChronoClock [中文]/snkr01.txt,Zh/ChronoClock [中文]/snkr01 [中日对照].txt,1.0,merged_or_moved
+Zh/ChronoClock [中文]/snkr02.txt,Zh/ChronoClock [中文]/snkr02 [中日对照].txt,1.0,merged_or_moved
+Zh/ChronoClock [中文]/snkr03.txt,Zh/ChronoClock [中文]/snkr03 [中日对照].txt,1.0,merged_or_moved
+Zh/ChronoClock [中文]/snkr04.txt,Zh/ChronoClock [中文]/snkr04 [中日对照].txt,1.0,merged_or_moved
+Zh/ChronoClock [中文]/snky01.txt,Zh/ChronoClock [中文]/snky01 [中日对照].txt,1.0,merged_or_moved
+Zh/ChronoClock [中文]/snky02.txt,Zh/ChronoClock [中文]/snky02 [中文].txt,1.0,merged_or_moved
+Zh/ChronoClock [中文]/snky03.txt,Zh/ChronoClock [中文]/snky03 [中日对照].txt,1.0,merged_or_moved
+Zh/ChronoClock [中文]/snky04.txt,Zh/ChronoClock [中文]/snky04 [中日对照].txt,1.0,merged_or_moved
+Zh/ChronoClock [中文]/snky07.txt,Zh/ChronoClock [中文]/snky07 [中日对照].txt,1.0,merged_or_moved
+Zh/ChronoClock [中文]/snky09.txt,Zh/ChronoClock [中文]/snky09 [中日对照].txt,1.0,merged_or_moved
+Zh/ChronoClock [中文]/snky21.txt,Zh/ChronoClock [中文]/snky21 [中文].txt,1.0,merged_or_moved
+Zh/ChronoClock [中文]/snky24b.txt,Zh/ChronoClock [中文]/snky24b [中文].txt,1.0,merged_or_moved
+Zh/ChronoClock [中文]/snky25c.txt,Zh/ChronoClock [中文]/snky25c [中文].txt,1.0,merged_or_moved
+Zh/ChronoClock [中文]/snmc02.txt,Zh/ChronoClock [中文]/snmc02 [中文].txt,1.0,merged_or_moved
+Zh/ChronoClock [中文]/snmc03.txt,Zh/ChronoClock [中文]/snmc03 [中文].txt,1.0,merged_or_moved
+Zh/ChronoClock [中文]/snmc06.txt,Zh/ChronoClock [中文]/snmc06 [中文].txt,1.0,merged_or_moved
+Zh/ChronoClock [中文]/snmc09.txt,Zh/ChronoClock [中文]/snmc09 [中文].txt,1.0,merged_or_moved
+Zh/ChronoClock [中文]/snmk03.txt,Zh/ChronoClock [中文]/snmk03 [中文].txt,1.0,merged_or_moved
+Zh/ChronoClock [中文]/snmk04.txt,Zh/ChronoClock [中文]/snmk04 [中文].txt,1.0,merged_or_moved
+Zh/ChronoClock [中文]/snmk05.txt,Zh/ChronoClock [中文]/snmk05 [中文].txt,1.0,merged_or_moved
+Zh/ChronoClock [中文]/snmk07.txt,Zh/ChronoClock [中文]/snmk07 [中文].txt,1.0,merged_or_moved
+Zh/ChronoClock [中文]/snms01.txt,Zh/ChronoClock [中文]/snms01 [中文].txt,1.0,merged_or_moved
+Zh/ChronoClock [中文]/snms02.txt,Zh/ChronoClock [中文]/snms02 [中文].txt,1.0,merged_or_moved
+Zh/ChronoClock [中文]/snms03.txt,Zh/ChronoClock [中文]/snms03 [中文].txt,1.0,merged_or_moved
+Zh/ChronoClock [中文]/snms04.txt,Zh/ChronoClock [中文]/snms04 [中文].txt,1.0,merged_or_moved
+Zh/ChronoClock [中文]/snms05.txt,Zh/ChronoClock [中文]/snms05 [中文].txt,1.0,merged_or_moved
+Zh/ChronoClock [中文]/snms06.txt,Zh/ChronoClock [中文]/snms06 [中文].txt,1.0,merged_or_moved
+Zh/ChronoClock [中文]/snms07.txt,Zh/ChronoClock [中文]/snms07 [中文].txt,1.0,merged_or_moved
+Zh/D.S [中文]/ds_1129c_cm.txt,Zh/D.S [中文]/ds_1129c_cm [中文].txt,1.0,merged_or_moved
+Zh/D.S [中文]/ds_1130b_cm.txt,Zh/D.S [中文]/ds_1130b_cm [中文].txt,1.0,merged_or_moved
+Zh/D.S [中文]/ds_1130d_cm.txt,Zh/D.S [中文]/ds_1130d_cm [中文].txt,1.0,merged_or_moved
+Zh/D.S [中文]/ds_1203c_cm.txt,Zh/D.S [中文]/ds_1203c_cm [中文].txt,1.0,merged_or_moved
+Zh/D.S [中文]/ds_1205a_cm.txt,Zh/D.S [中文]/ds_1205a_cm [中文].txt,1.0,merged_or_moved
+Zh/D.S [中文]/ds_1206b_cm.txt,Zh/D.S [中文]/ds_1206b_cm [中文].txt,1.0,merged_or_moved
+Zh/D.S [中文]/ds_1208c_cm.txt,Zh/D.S [中文]/ds_1208c_cm [中文].txt,1.0,merged_or_moved
+Zh/D.S [中文]/ds_1213a_cm.txt,Zh/D.S [中文]/ds_1213a_cm [中文].txt,1.0,merged_or_moved
+Zh/D.S [中文]/ds_1218c_hm.txt,Zh/D.S [中文]/ds_1218c_hm [中文].txt,1.0,merged_or_moved
+Zh/D.S [中文]/ds_1221a_hd.txt,Zh/D.S [中文]/ds_1221a_hd [中文].txt,1.0,merged_or_moved
+Zh/D.S [中文]/ds_1221c_hm.txt,Zh/D.S [中文]/ds_1221c_hm [中文].txt,1.0,merged_or_moved
+Zh/D.S [中文]/ds_1224c_hm.txt,Zh/D.S [中文]/ds_1224c_hm [中文].txt,1.0,merged_or_moved
+Zh/D.S [中文]/ds_1226b_ne.txt,Zh/D.S [中文]/ds_1226b_ne [中文].txt,1.0,merged_or_moved
+Zh/D.S [中文]/ds_1228a_hd.txt,Zh/D.S [中文]/ds_1228a_hd [中文].txt,1.0,merged_or_moved
+Zh/D.S [中文]/ds_1228c_ne.txt,Zh/D.S [中文]/ds_1228c_ne [中文].txt,1.0,merged_or_moved
+Zh/D.S [中文]/ds_1302b_hm.txt,Zh/D.S [中文]/ds_1302b_hm [中文].txt,1.0,merged_or_moved
+Zh/D.S [中文]/ds_1302c_hm.txt,Zh/D.S [中文]/ds_1302c_hm [中文].txt,1.0,merged_or_moved
+Zh/D.S [中文]/ds_1316a_ne.txt,Zh/D.S [中文]/ds_1316a_ne [中文].txt,1.0,merged_or_moved
+Zh/Einstein Yori Ai o Komete AP [中文]/15序盤0707.txt,Zh/アインシュタインより愛を込めて APOLLOCRISIS [中文].txt,1.0,merged_or_moved
+Zh/Einstein Yori Ai o Komete AP [中文]/_emo_pos.txt,JA/Einstein Yori Ai o Komete AP [日本語]/_emo_pos.txt [日本語],1.0,merged_or_moved
+Zh/FutabaChannel [中文].txt,Zh/FutabaChannel [中日对照].txt,1.0,merged_or_moved
+Zh/Grisaia no Meikyuu [中文]/sac_005.txt,Zh/Grisaia no Meikyuu [中文]/sac_005 [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/あすみ-01.txt,Zh/Hamidashi [中文]/あすみ-01 [中日对照].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/あすみ-02.txt,Zh/ハミダシクリエイティブ [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/あすみ-03.txt,Zh/ハミダシクリエイティブ [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/あすみ-04_01.txt,Zh/ハミダシクリエイティブ [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/あすみ-04_02.txt,Zh/ハミダシクリエイティブ [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/あすみ-05.txt,Zh/ハミダシクリエイティブ [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/あすみ-06.txt,Zh/ハミダシクリエイティブ [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/あすみ-07.txt,Zh/ハミダシクリエイティブ [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/あすみ-10_01.txt,Zh/ハミダシクリエイティブ [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/あすみ-10_02.txt,Zh/ハミダシクリエイティブ [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/あすみ-11.txt,Zh/ハミダシクリエイティブ [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/あすみ-12.txt,Zh/ハミダシクリエイティブ [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/あすみ-13.txt,Zh/ハミダシクリエイティブ [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/あすみ-14.txt,Zh/ハミダシクリエイティブ [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/あすみ-16.txt,Zh/ハミダシクリエイティブ [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/あすみ-af_01.txt,Zh/ハミダシクリエイティブ [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/あすみ-af_02.txt,Zh/ハミダシクリエイティブ [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/あすみ-ed.txt,Zh/ハミダシクリエイティブ [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/あすみ-ep.txt,Zh/ハミダシクリエイティブ [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/あすみhシーン01.txt,Zh/ハミダシクリエイティブ [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/あすみhシーン01a.txt,Zh/ハミダシクリエイティブ [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/あすみhシーン01b.txt,Zh/Hamidashi [中文]/あすみhシーン01b [中日对照].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/あすみhシーン02_01.txt,Zh/Hamidashi [中文]/あすみhシーン02_01 [中日对照].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/あすみhシーン02_01a.txt,Zh/ハミダシクリエイティブ [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/あすみhシーン02_01b.txt,Zh/ハミダシクリエイティブ [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/あすみhシーン02_02.txt,Zh/ハミダシクリエイティブ [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/あすみhシーン02_02a.txt,Zh/ハミダシクリエイティブ [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/あすみhシーン02_02b.txt,Zh/ハミダシクリエイティブ [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/あすみhシーン03a.txt,Zh/ハミダシクリエイティブ [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/あすみhシーン03b.txt,Zh/ハミダシクリエイティブ [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/あすみhシーン04.txt,Zh/ハミダシクリエイティブ [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/あすみhシーン05.txt,Zh/ハミダシクリエイティブ [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/共通-05.txt,Zh/ハミダシクリエイティブ [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/共通-09.txt,Zh/ハミダシクリエイティブ [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/共通-10.txt,Zh/ハミダシクリエイティブ [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/共通-11.txt,Zh/ハミダシクリエイティブ [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/共通-14.txt,Zh/ハミダシクリエイティブ [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/共通-14b.txt,Zh/ハミダシクリエイティブ [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/共通-19.txt,Zh/ハミダシクリエイティブ [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/共通-20.txt,Zh/ハミダシクリエイティブ [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/共通-21.txt,Zh/ハミダシクリエイティブ [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/共通-23.txt,Zh/ハミダシクリエイティブ [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/共通-24.txt,Zh/ハミダシクリエイティブ [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/共通-25c.txt,Zh/Hamidashi [中文]/共通-25c [中日对照].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/共通-25d.txt,Zh/ハミダシクリエイティブ [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/共通-28.txt,Zh/ハミダシクリエイティブ [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/共通-29.txt,Zh/ハミダシクリエイティブ [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/共通-30.txt,Zh/ハミダシクリエイティブ [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/共通-31.txt,Zh/ハミダシクリエイティブ [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/共通-32.txt,Zh/ハミダシクリエイティブ [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/共通-32a.txt,Zh/ハミダシクリエイティブ [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/共通-33.txt,Zh/ハミダシクリエイティブ [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/共通-34.txt,Zh/ハミダシクリエイティブ [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/共通-35.txt,Zh/ハミダシクリエイティブ [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/共通-36.txt,Zh/ハミダシクリエイティブ [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/共通-38.txt,Zh/ハミダシクリエイティブ [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/共通-39.txt,Zh/ハミダシクリエイティブ [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/共通-41.txt,Zh/ハミダシクリエイティブ [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/共通-44.txt,Zh/ハミダシクリエイティブ [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/共通-44a.txt,Zh/ハミダシクリエイティブ [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/共通-45.txt,Zh/Hamidashi [中文]/共通-45 [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/妃愛-07.txt,Zh/ハミダシクリエイティブ [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/妃愛-10.txt,Zh/ハミダシクリエイティブ [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/妃愛-15.txt,Zh/Hamidashi [中文]/妃愛-15 [中日对照].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/妃愛-16.txt,Zh/ハミダシクリエイティブ [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/妃愛-18.txt,Zh/ハミダシクリエイティブ [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/華乃-06.txt,Zh/ハミダシクリエイティブ [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/華乃-07.txt,Zh/ハミダシクリエイティブ [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/華乃-08.txt,Zh/ハミダシクリエイティブ [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/華乃-12.txt,Zh/ハミダシクリエイティブ [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/華乃-16.txt,Zh/Hamidashi [中文]/華乃-16 [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/華乃-17.txt,Zh/ハミダシクリエイティブ [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/華乃-ep.txt,Zh/ハミダシクリエイティブ [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/詩桜-01.txt,Zh/Hamidashi [中文]/詩桜-01 [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/詩桜-02.txt,Zh/ハミダシクリエイティブ [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/詩桜-03.txt,Zh/Hamidashi [中文]/詩桜-03 [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/詩桜-06.txt,Zh/ハミダシクリエイティブ [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/詩桜-10.txt,Zh/Hamidashi [中文]/詩桜-10 [中日对照].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/詩桜-af.txt,Zh/Hamidashi [中文]/詩桜-af [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/詩桜-ed.txt,Zh/Hamidashi [中文]/詩桜-ed [中文].txt,1.0,merged_or_moved
+Zh/Hamidashi [中文]/詩桜-ep_02.txt,Zh/ハミダシクリエイティブ [中文].txt,1.0,merged_or_moved
+Zh/HimeのちHoney [中文].txt,Zh/HimeのちHoney[v814][Windows][英俊] [中日对照].txt,1.0,merged_or_moved
+Zh/HimeのちHoney[v814][Windows][英俊] [中文].txt,Zh/HimeのちHoney[v814][Windows][英俊] [中日对照].txt,1.0,merged_or_moved
+Zh/Houkago Cinderella [中文]/a_yukiko_pickup.txt,Zh/放課後シンデレラ [中文].txt,1.0,merged_or_moved
+Zh/Houkago Cinderella [中文]/c_tanomi_scene02.txt,Zh/Houkago Cinderella [中文]/c_tanomi_scene02 [中文].txt,1.0,merged_or_moved
+Zh/Houkago Cinderella [中文]/c_yukiko_scene01.txt,Zh/Houkago Cinderella [中文]/c_yukiko_scene01 [中文].txt,1.0,merged_or_moved
+Zh/Houkago Cinderella [中文]/c_yukiko_scene02.txt,Zh/Houkago Cinderella [中文]/c_yukiko_scene02 [中文].txt,1.0,merged_or_moved
+Zh/Houkago Cinderella [中文]/c_yukiko_scene03.txt,Zh/Houkago Cinderella [中文]/c_yukiko_scene03 [中文].txt,1.0,merged_or_moved
+Zh/Houkago Cinderella [中文]/map_etc_03.txt,Zh/Houkago Cinderella [中文]/map_etc_03 [中文].txt,1.0,merged_or_moved
+Zh/Houkago Cinderella [中文]/map_tukusi_01.txt,Zh/放課後シンデレラ [中文].txt,1.0,merged_or_moved
+Zh/Houkago Cinderella [中文]/map_youka_01.txt,Zh/Houkago Cinderella [中文]/map_youka_01 [中文].txt,1.0,merged_or_moved
+Zh/Houkago Cinderella [中文]/map_youka_04.txt,Zh/Houkago Cinderella [中文]/map_youka_04 [中文].txt,1.0,merged_or_moved
+Zh/Houkago Cinderella [中文]/prologue_02.txt,Zh/放課後シンデレラ [中文].txt,1.0,merged_or_moved
+Zh/Houkago Cinderella [中文]/prologue_03.txt,Zh/Houkago Cinderella [中文]/prologue_03 [中文].txt,1.0,merged_or_moved
+Zh/Houkago Cinderella [中文]/prologue_04.txt,Zh/Houkago Cinderella [中文]/prologue_04 [中文].txt,1.0,merged_or_moved
+Zh/Houkago Cinderella [中文]/r_maria_06.txt,Zh/Houkago Cinderella [中文]/r_maria_06 [中文].txt,1.0,merged_or_moved
+Zh/Houkago Cinderella [中文]/r_tanomi_02.txt,Zh/Houkago Cinderella [中文]/r_tanomi_02 [中文].txt,1.0,merged_or_moved
+Zh/Houkago Cinderella [中文]/r_tanomi_06.txt,Zh/Houkago Cinderella [中文]/r_tanomi_06 [中文].txt,1.0,merged_or_moved
+Zh/Houkago Cinderella [中文]/r_youka_05.txt,Zh/Houkago Cinderella [中文]/r_youka_05 [中文].txt,1.0,merged_or_moved
+Zh/Houkago Cinderella [中文]/r_youka_06.txt,Zh/Houkago Cinderella [中文]/r_youka_06 [中文].txt,1.0,merged_or_moved
+Zh/Houkago Cinderella [中文]/r_yukiko_08.txt,Zh/Houkago Cinderella [中文]/r_yukiko_08 [中文].txt,1.0,merged_or_moved
+Zh/Ima Sugu Onii-chan [中文]/ev4320.txt,Zh/Ima Sugu Onii-chan [中文]/ev4320 [中文].txt,1.0,merged_or_moved
+Zh/Kao no nai Tsuki [中文]/D0807_01.txt,Zh/Kao no nai Tsuki [中文]/D0807_01 [中文].txt,1.0,merged_or_moved
+Zh/Kao no nai Tsuki [中文]/D0807_02.txt,Zh/Kao no nai Tsuki [中文]/D0807_02 [中文].txt,1.0,merged_or_moved
+Zh/Kao no nai Tsuki [中文]/D0807_04.txt,Zh/Kao no nai Tsuki [中文]/D0807_04 [中文].txt,1.0,merged_or_moved
+Zh/Kao no nai Tsuki [中文]/D0807_05.txt,Zh/Kao no nai Tsuki [中文]/D0807_05 [中文].txt,1.0,merged_or_moved
+Zh/Kao no nai Tsuki [中文]/D0811_02.txt,Zh/Kao no nai Tsuki [中文]/D0811_02 [中文].txt,1.0,merged_or_moved
+Zh/Kao no nai Tsuki [中文]/D081421_08.txt,Zh/Kao no nai Tsuki [中文]/D081421_08 [中文].txt,1.0,merged_or_moved
+Zh/Kao no nai Tsuki [中文]/D0814_02.txt,Zh/Kao no nai Tsuki [中文]/D0814_02 [中文].txt,1.0,merged_or_moved
+Zh/Kao no nai Tsuki [中文]/D0814_04.txt,Zh/Kao no nai Tsuki [中文]/D0814_04 [中文].txt,1.0,merged_or_moved
+Zh/Kao no nai Tsuki [中文]/D0816_02.txt,Zh/Kao no nai Tsuki [中文]/D0816_02 [中文].txt,1.0,merged_or_moved
+Zh/Kao no nai Tsuki [中文]/D0816_06.txt,Zh/Kao no nai Tsuki [中文]/D0816_06 [中文].txt,1.0,merged_or_moved
+Zh/Kao no nai Tsuki [中文]/D0817_06.txt,Zh/Kao no nai Tsuki [中文]/D0817_06 [中文].txt,1.0,merged_or_moved
+Zh/Kao no nai Tsuki [中文]/D0818_12.txt,Zh/Kao no nai Tsuki [中文]/D0818_12 [中文].txt,1.0,merged_or_moved
+Zh/Kao no nai Tsuki [中文]/S01_05.txt,Zh/Kao no nai Tsuki [中文]/S01_05 [中文].txt,1.0,merged_or_moved
+Zh/Kao no nai Tsuki [中文]/S08_04.txt,Zh/Kao no nai Tsuki [中文]/S08_04 [中文].txt,1.0,merged_or_moved
+Zh/Kao no nai Tsuki [中文]/S16_02.txt,Zh/Kao no nai Tsuki [中文]/S16_02 [中文].txt,1.0,merged_or_moved
+Zh/Kao no nai Tsuki [中文]/S22_02.txt,Zh/Kao no nai Tsuki [中文]/S22_02 [中文].txt,1.0,merged_or_moved
+Zh/Kao no nai Tsuki [中文]/S31_07a.txt,Zh/Kao no nai Tsuki [中文]/S31_07a [中文].txt,1.0,merged_or_moved
+Zh/Kao no nai Tsuki [中文]/S31_07b.txt,Zh/Kao no nai Tsuki [中文]/S31_07b [中文].txt,1.0,merged_or_moved
+Zh/Kao no nai Tsuki [中文]/S39_01.txt,Zh/Kao no nai Tsuki [中文]/S39_01 [中文].txt,1.0,merged_or_moved
+Zh/Little Busters! English Edition [中文].txt,Zh/Little Busters! English Edition [中日对照].txt,1.0,merged_or_moved
+Zh/Minikui Mojika no Ko [中文]/a0040.txt,Zh/みにくいモジカの子 [中文].txt,1.0,merged_or_moved
+Zh/Minikui Mojika no Ko [中文]/a0049h.txt,Zh/みにくいモジカの子 [中文].txt,1.0,merged_or_moved
+Zh/Minikui Mojika no Ko [中文]/a0049h_01.txt,Zh/みにくいモジカの子 [中文].txt,1.0,merged_or_moved
+Zh/Minikui Mojika no Ko [中文]/a0101.txt,Zh/みにくいモジカの子 [中文].txt,1.0,merged_or_moved
+Zh/Minikui Mojika no Ko [中文]/a0130.txt,Zh/みにくいモジカの子 [中文].txt,1.0,merged_or_moved
+Zh/Minikui Mojika no Ko [中文]/a0162.txt,Zh/みにくいモジカの子 [中文].txt,1.0,merged_or_moved
+Zh/Minikui Mojika no Ko [中文]/a0164.txt,Zh/みにくいモジカの子 [中文].txt,1.0,merged_or_moved
+Zh/Minikui Mojika no Ko [中文]/a0180.txt,Zh/みにくいモジカの子 [中文].txt,1.0,merged_or_moved
+Zh/Minikui Mojika no Ko [中文]/a0210.txt,Zh/みにくいモジカの子 [中文].txt,1.0,merged_or_moved
+Zh/Minikui Mojika no Ko [中文]/a1010.txt,Zh/みにくいモジカの子 [中文].txt,1.0,merged_or_moved
+Zh/Minikui Mojika no Ko [中文]/a1041.txt,Zh/みにくいモジカの子 [中文].txt,1.0,merged_or_moved
+Zh/Minikui Mojika no Ko [中文]/a1083.txt,Zh/みにくいモジカの子 [中文].txt,1.0,merged_or_moved
+Zh/Minikui Mojika no Ko [中文]/a1100.txt,Zh/みにくいモジカの子 [中文].txt,1.0,merged_or_moved
+Zh/Minikui Mojika no Ko [中文]/a1120.txt,Zh/みにくいモジカの子 [中文].txt,1.0,merged_or_moved
+Zh/Minikui Mojika no Ko [中文]/a3020.txt,Zh/みにくいモジカの子 [中文].txt,1.0,merged_or_moved
+Zh/Minikui Mojika no Ko [中文]/a3040.txt,Zh/みにくいモジカの子 [中文].txt,1.0,merged_or_moved
+Zh/Minikui Mojika no Ko [中文]/a3050.txt,Zh/みにくいモジカの子 [中文].txt,1.0,merged_or_moved
+Zh/Minikui Mojika no Ko [中文]/a3052.txt,Zh/みにくいモジカの子 [中文].txt,1.0,merged_or_moved
+Zh/Minikui Mojika no Ko [中文]/a4040.txt,Zh/みにくいモジカの子 [中文].txt,1.0,merged_or_moved
+Zh/Minikui Mojika no Ko [中文]/b1010.txt,Zh/みにくいモジカの子 [中文].txt,1.0,merged_or_moved
+Zh/Minikui Mojika no Ko [中文]/b1011h_01.txt,Zh/みにくいモジカの子 [中文].txt,1.0,merged_or_moved
+Zh/Minikui Mojika no Ko [中文]/b1011h_02.txt,Zh/みにくいモジカの子 [中文].txt,1.0,merged_or_moved
+Zh/Minikui Mojika no Ko [中文]/b1021.txt,Zh/みにくいモジカの子 [中文].txt,1.0,merged_or_moved
+Zh/Minikui Mojika no Ko [中文]/b1032.txt,Zh/みにくいモジカの子 [中文].txt,1.0,merged_or_moved
+Zh/Minikui Mojika no Ko [中文]/b1040.txt,Zh/みにくいモジカの子 [中文].txt,1.0,merged_or_moved
+Zh/Minikui Mojika no Ko [中文]/b1054.txt,Zh/みにくいモジカの子 [中文].txt,1.0,merged_or_moved
+Zh/Minikui Mojika no Ko [中文]/b1061.txt,Zh/みにくいモジカの子 [中文].txt,1.0,merged_or_moved
+Zh/Minikui Mojika no Ko [中文]/b1062.txt,Zh/みにくいモジカの子 [中文].txt,1.0,merged_or_moved
+Zh/Minikui Mojika no Ko [中文]/b1063.txt,Zh/みにくいモジカの子 [中文].txt,1.0,merged_or_moved
+Zh/Minikui Mojika no Ko [中文]/b1071.txt,Zh/みにくいモジカの子 [中文].txt,1.0,merged_or_moved
+Zh/Minikui Mojika no Ko [中文]/b1092h.txt,Zh/みにくいモジカの子 [中文].txt,1.0,merged_or_moved
+Zh/Minikui Mojika no Ko [中文]/c2020.txt,Zh/みにくいモジカの子 [中文].txt,1.0,merged_or_moved
+Zh/Minikui Mojika no Ko [中文]/c2061.txt,Zh/みにくいモジカの子 [中文].txt,1.0,merged_or_moved
+Zh/Minikui Mojika no Ko [中文]/c2063.txt,Zh/みにくいモジカの子 [中文].txt,1.0,merged_or_moved
+Zh/Minikui Mojika no Ko [中文]/d3020.txt,Zh/みにくいモジカの子 [中文].txt,1.0,merged_or_moved
+Zh/Minikui Mojika no Ko [中文]/d3021.txt,Zh/みにくいモジカの子 [中文].txt,1.0,merged_or_moved
+Zh/Minikui Mojika no Ko [中文]/d3040.txt,Zh/みにくいモジカの子 [中文].txt,1.0,merged_or_moved
+Zh/Minikui Mojika no Ko [中文]/e4030.txt,Zh/みにくいモジカの子 [中文].txt,1.0,merged_or_moved
+Zh/Minikui Mojika no Ko [中文]/e4092_01.txt,Zh/みにくいモジカの子 [中文].txt,1.0,merged_or_moved
+Zh/Minikui Mojika no Ko [中文]/e4092_02.txt,Zh/みにくいモジカの子 [中文].txt,1.0,merged_or_moved
+Zh/Minikui Mojika no Ko [中文]/f5081.txt,Zh/みにくいモジカの子 [中文].txt,1.0,merged_or_moved
+Zh/Minikui Mojika no Ko [中文]/f5090h.txt,Zh/みにくいモジカの子 [中文].txt,1.0,merged_or_moved
+Zh/Minikui Mojika no Ko [中文]/f5180h.txt,Zh/みにくいモジカの子 [中文].txt,1.0,merged_or_moved
+Zh/Minikui Mojika no Ko [中文]/f5180h_01.txt,Zh/みにくいモジカの子 [中文].txt,1.0,merged_or_moved
+Zh/Minikui Mojika no Ko [中文]/f5180h_02.txt,Zh/みにくいモジカの子 [中文].txt,1.0,merged_or_moved
+Zh/Monkeys [中文]/ma1_04.txt,Zh/Monkeys [中文]/ma1_04 [中文].txt,1.0,merged_or_moved
+Zh/Nanairo Reincarnation [中文]/NANAIRO_05.txt,Zh/Nanairo Reincarnation [中文]/NANAIRO_05 [中文].txt,1.0,merged_or_moved
+Zh/Nanairo Reincarnation [中文]/NANAIRO_07.txt,Zh/Nanairo Reincarnation [中文]/NANAIRO_07 [中文].txt,1.0,merged_or_moved
+Zh/Nanairo Reincarnation [中文]/NANAIRO_08.txt,Zh/Nanairo Reincarnation [中文]/NANAIRO_08 [中文].txt,1.0,merged_or_moved
+Zh/Nanairo Reincarnation [中文]/NANAIRO_11_1.txt,Zh/Nanairo Reincarnation [中文]/NANAIRO_11_1 [中文].txt,1.0,merged_or_moved
+Zh/Nanairo Reincarnation [中文]/NANAIRO_20.txt,Zh/Nanairo Reincarnation [中文]/NANAIRO_20 [中文].txt,1.0,merged_or_moved
+Zh/Nanairo Reincarnation [中文]/NANAIRO_22.txt,Zh/Nanairo Reincarnation [中文]/NANAIRO_22 [中文].txt,1.0,merged_or_moved
+Zh/Nanairo Reincarnation [中文]/NANAIRO_25_1.txt,Zh/Nanairo Reincarnation [中文]/NANAIRO_25_1 [中文].txt,1.0,merged_or_moved
+Zh/Nanairo Reincarnation [中文]/NANAIRO_SCENE017.txt,Zh/Nanairo Reincarnation [中文]/NANAIRO_SCENE017 [中文].txt,1.0,merged_or_moved
+Zh/Nanairo Reincarnation [中文]/NANAIRO_SCENE025.txt,Zh/Nanairo Reincarnation [中文]/NANAIRO_SCENE025 [中文].txt,1.0,merged_or_moved
+Zh/Nanairo Reincarnation [中文]/NANAIRO_SCENE060.txt,Zh/Nanairo Reincarnation [中文]/NANAIRO_SCENE060 [中文].txt,1.0,merged_or_moved
+Zh/Nanairo Reincarnation [中文]/NANAIRO_SCENE072.txt,Zh/Nanairo Reincarnation [中文]/NANAIRO_SCENE072 [中文].txt,1.0,merged_or_moved
+Zh/OrenoSugataga [中文]/06_01.txt,Zh/OrenoSugataga [中文]/06_01 [中文].txt,1.0,merged_or_moved
+Zh/OrenoSugataga [中文]/08_01.txt,Zh/OrenoSugataga [中文]/08_01 [中日对照].txt,1.0,merged_or_moved
+Zh/OrenoSugataga [中文]/08_03.txt,Zh/OrenoSugataga [中文]/08_03 [中文].txt,1.0,merged_or_moved
+Zh/OrenoSugataga [中文]/09_01.txt,Zh/OrenoSugataga [中文]/09_01 [中文].txt,1.0,merged_or_moved
+Zh/OrenoSugataga [中文]/11_01.txt,Zh/OrenoSugataga [中文]/11_01 [中文].txt,1.0,merged_or_moved
+Zh/OrenoSugataga [中文]/12_01.txt,Zh/OrenoSugataga [中文]/12_01 [中文].txt,1.0,merged_or_moved
+Zh/OrenoSugataga [中文]/13_01.txt,Zh/OrenoSugataga [中文]/13_01 [中文].txt,1.0,merged_or_moved
+Zh/OrenoSugataga [中文]/a02_02H.txt,Zh/OrenoSugataga [中文]/a02_02H [中文].txt,1.0,merged_or_moved
+Zh/OrenoSugataga [中文]/a10_01.txt,Zh/OrenoSugataga [中文]/a10_01 [中文].txt,1.0,merged_or_moved
+Zh/OrenoSugataga [中文]/a15_01.txt,Zh/OrenoSugataga [中文]/a15_01 [中文].txt,1.0,merged_or_moved
+Zh/OrenoSugataga [中文]/a19_01.txt,Zh/OrenoSugataga [中文]/a19_01 [中文].txt,1.0,merged_or_moved
+Zh/OrenoSugataga [中文]/b00_04.txt,Zh/OrenoSugataga [中文]/b00_04 [中文].txt,1.0,merged_or_moved
+Zh/OrenoSugataga [中文]/b02_02H.txt,Zh/OrenoSugataga [中文]/b02_02H [中文].txt,1.0,merged_or_moved
+Zh/OrenoSugataga [中文]/b05_01.txt,Zh/OrenoSugataga [中文]/b05_01 [中文].txt,1.0,merged_or_moved
+Zh/OrenoSugataga [中文]/b09_02H.txt,Zh/OrenoSugataga [中文]/b09_02H [中文].txt,1.0,merged_or_moved
+Zh/OrenoSugataga [中文]/c06_02H.txt,Zh/OrenoSugataga [中文]/c06_02H [中文].txt,1.0,merged_or_moved
+Zh/OrenoSugataga [中文]/c08_02H.txt,Zh/OrenoSugataga [中文]/c08_02H [中文].txt,1.0,merged_or_moved
+Zh/OrenoSugataga [中文]/c09_01.txt,Zh/OrenoSugataga [中文]/c09_01 [中文].txt,1.0,merged_or_moved
+Zh/OrenoSugataga [中文]/c11_02H.txt,Zh/OrenoSugataga [中文]/c11_02H [中文].txt,1.0,merged_or_moved
+Zh/OrenoSugataga [中文]/d02_02H.txt,Zh/OrenoSugataga [中文]/d02_02H [中文].txt,1.0,merged_or_moved
+Zh/OrenoSugataga [中文]/d04_02H.txt,Zh/OrenoSugataga [中文]/d04_02H [中文].txt,1.0,merged_or_moved
+Zh/OrenoSugataga [中文]/d13_02H.txt,Zh/OrenoSugataga [中文]/d13_02H [中文].txt,1.0,merged_or_moved
+Zh/OrenoSugataga [中文]/e01_01.txt,Zh/OrenoSugataga [中文]/e01_01 [中文].txt,1.0,merged_or_moved
+Zh/OrenoSugataga [中文]/e03_01.txt,Zh/OrenoSugataga [中文]/e03_01 [中文].txt,1.0,merged_or_moved
+Zh/OrenoSugataga [中文]/e04_02h.txt,Zh/OrenoSugataga [中文]/e04_02h [中文].txt,1.0,merged_or_moved
+Zh/OrenoSugataga [中文]/e04_03.txt,Zh/OrenoSugataga [中文]/e04_03 [中文].txt,1.0,merged_or_moved
+Zh/OrenoSugataga [中文]/e06_01.txt,Zh/OrenoSugataga [中文]/e06_01 [中文].txt,1.0,merged_or_moved
+Zh/OrenoSugataga [中文]/e06_02H.txt,Zh/OrenoSugataga [中文]/e06_02H [中文].txt,1.0,merged_or_moved
+Zh/OrenoSugataga [中文]/e07_02h.txt,Zh/OrenoSugataga [中文]/e07_02h [中文].txt,1.0,merged_or_moved
+Zh/OrenoSugataga [中文]/e11_02h.txt,Zh/OrenoSugataga [中文]/e11_02h [中文].txt,1.0,merged_or_moved
+Zh/OrenoSugataga [中文]/h01_02H.txt,Zh/OrenoSugataga [中文]/h01_02H [中文].txt,1.0,merged_or_moved
+Zh/OrenoSugataga [中文]/h02_02H.txt,Zh/OrenoSugataga [中文]/h02_02H [中文].txt,1.0,merged_or_moved
+Zh/OrenoSugataga [中文]/h03_02H.txt,Zh/OrenoSugataga [中文]/h03_02H [中文].txt,1.0,merged_or_moved
+Zh/OrenoSugataga [中文]/h05_04H.txt,Zh/OrenoSugataga [中文]/h05_04H [中文].txt,1.0,merged_or_moved
+Zh/Osananajimi FD [中文]/01_ell_003_01.txt,Zh/Osananajimi FD [中文]/01_ell_003_01 [中日对照].txt,1.0,merged_or_moved
+Zh/Osananajimi FD [中文]/01_ell_004_01.txt,Zh/Osananajimi FD [中文]/01_ell_004_01 [中日对照].txt,1.0,merged_or_moved
+Zh/Osananajimi FD [中文]/01_ell_008_01.txt,Zh/Osananajimi FD [中文]/01_ell_008_01 [中日对照].txt,1.0,merged_or_moved
+Zh/Osananajimi FD [中文]/01_ell_012_01.txt,Zh/Osananajimi FD [中文]/01_ell_012_01 [中日对照].txt,1.0,merged_or_moved
+Zh/Osananajimi FD [中文]/01_ell_014_01.txt,Zh/Osananajimi FD [中文]/01_ell_014_01 [中日对照].txt,1.0,merged_or_moved
+Zh/Osananajimi FD [中文]/02_iri_001_01.txt,Zh/Osananajimi FD [中文]/02_iri_001_01 [中日对照].txt,1.0,merged_or_moved
+Zh/Osananajimi FD [中文]/02_iri_002_01.txt,Zh/Osananajimi FD [中文]/02_iri_002_01 [中日对照].txt,1.0,merged_or_moved
+Zh/Osananajimi FD [中文]/02_iri_004_01.txt,Zh/Osananajimi FD [中文]/02_iri_004_01 [中日对照].txt,1.0,merged_or_moved
+Zh/Osananajimi FD [中文]/02_iri_006_01.txt,Zh/Osananajimi FD [中文]/02_iri_006_01 [中日对照].txt,1.0,merged_or_moved
+Zh/Osananajimi FD [中文]/02_iri_007_01.txt,Zh/Osananajimi FD [中文]/02_iri_007_01 [中日对照].txt,1.0,merged_or_moved
+Zh/Osananajimi FD [中文]/02_iri_009_01.txt,Zh/Osananajimi FD [中文]/02_iri_009_01 [中日对照].txt,1.0,merged_or_moved
+Zh/Osananajimi FD [中文]/02_iri_010_01.txt,Zh/Osananajimi FD [中文]/02_iri_010_01 [中日对照].txt,1.0,merged_or_moved
+Zh/Osananajimi FD [中文]/02_iri_011_01.txt,Zh/Osananajimi FD [中文]/02_iri_011_01 [中日对照].txt,1.0,merged_or_moved
+Zh/Osananajimi FD [中文]/02_iri_013_01.txt,Zh/Osananajimi FD [中文]/02_iri_013_01 [中日对照].txt,1.0,merged_or_moved
+Zh/Osananajimi FD [中文]/02_iri_014_01.txt,Zh/Osananajimi FD [中文]/02_iri_014_01 [中日对照].txt,1.0,merged_or_moved
+Zh/Osananajimi FD [中文]/02_iri_015_01.txt,Zh/Osananajimi FD [中文]/02_iri_015_01 [中日对照].txt,1.0,merged_or_moved
+Zh/Osananajimi FD [中文]/02_iri_017_01.txt,Zh/Osananajimi FD [中文]/02_iri_017_01 [中日对照].txt,1.0,merged_or_moved
+Zh/Osananajimi FD [中文]/02_iri_018_01.txt,Zh/Osananajimi FD [中文]/02_iri_018_01 [中日对照].txt,1.0,merged_or_moved
+Zh/Osananajimi FD [中文]/02_iri_019_01.txt,Zh/Osananajimi FD [中文]/02_iri_019_01 [中日对照].txt,1.0,merged_or_moved
+Zh/Osananajimi FD [中文]/02_iri_020_01.txt,Zh/Osananajimi FD [中文]/02_iri_020_01 [中日对照].txt,1.0,merged_or_moved
+Zh/Ouchi ni Kaeru made [中文]/共通2_10.txt,Zh/お家に帰るまでがましまろです [中文].txt,1.0,merged_or_moved
+Zh/Ouchi ni Kaeru made [中文]/共通2_4_3.txt,Zh/お家に帰るまでがましまろです [中文].txt,1.0,merged_or_moved
+Zh/Ouchi ni Kaeru made [中文]/共通2_6.txt,Zh/Ouchi ni Kaeru made [中文]/共通2_6 [中文].txt,1.0,merged_or_moved
+Zh/Ouchi ni Kaeru made [中文]/共通2_6_3.txt,Zh/お家に帰るまでがましまろです [中文].txt,1.0,merged_or_moved
+Zh/Ouchi ni Kaeru made [中文]/共通2_7_2.txt,Zh/お家に帰るまでがましまろです [中文].txt,1.0,merged_or_moved
+Zh/Ouchi ni Kaeru made [中文]/共通2_9_1.txt,Zh/Ouchi ni Kaeru made [中文]/共通2_9_1 [中文].txt,1.0,merged_or_moved
+Zh/Ouchi ni Kaeru made [中文]/汐_10.txt,Zh/お家に帰るまでがましまろです [中文].txt,1.0,merged_or_moved
+Zh/Ouchi ni Kaeru made [中文]/汐_18_H4_1.txt,Zh/お家に帰るまでがましまろです [中文].txt,1.0,merged_or_moved
+Zh/Ouchi ni Kaeru made [中文]/汐_20ep_H5.txt,Zh/Ouchi ni Kaeru made [中文]/汐_20ep_H5 [中文].txt,1.0,merged_or_moved
+Zh/Ouchi ni Kaeru made [中文]/汐_20ep_H5_1.txt,Zh/Ouchi ni Kaeru made [中文]/汐_20ep_H5_1 [中文].txt,1.0,merged_or_moved
+Zh/Ouchi ni Kaeru made [中文]/汐_H6_2.txt,Zh/お家に帰るまでがましまろです [中文].txt,1.0,merged_or_moved
+Zh/Ouchi ni Kaeru made [中文]/汐_H6_3.txt,Zh/Ouchi ni Kaeru made [中文]/汐_H6_3 [中文].txt,1.0,merged_or_moved
+Zh/Ouchi ni Kaeru made [中文]/汐_H7.txt,Zh/お家に帰るまでがましまろです [中文].txt,1.0,merged_or_moved
+Zh/Ouchi ni Kaeru made [中文]/汐_H7_1.txt,Zh/Ouchi ni Kaeru made [中文]/汐_H7_1 [中文].txt,1.0,merged_or_moved
+Zh/Ouchi ni Kaeru made [中文]/汐_H7_2.txt,Zh/Ouchi ni Kaeru made [中文]/汐_H7_2 [中文].txt,1.0,merged_or_moved
+Zh/Ouchi ni Kaeru made [中文]/礼羽_03.txt,Zh/お家に帰るまでがましまろです [中文].txt,1.0,merged_or_moved
+Zh/Ouchi ni Kaeru made [中文]/礼羽_04.txt,Zh/Ouchi ni Kaeru made [中文]/礼羽_04 [中文].txt,1.0,merged_or_moved
+Zh/Ouchi ni Kaeru made [中文]/礼羽_10.txt,Zh/お家に帰るまでがましまろです [中文].txt,1.0,merged_or_moved
+Zh/Ouchi ni Kaeru made [中文]/礼羽_11_H3_3.txt,Zh/お家に帰るまでがましまろです [中文].txt,1.0,merged_or_moved
+Zh/Ouchi ni Kaeru made [中文]/紗々_03.txt,Zh/お家に帰るまでがましまろです [中文].txt,1.0,merged_or_moved
+Zh/Ouchi ni Kaeru made [中文]/紗々_06.txt,Zh/Ouchi ni Kaeru made [中文]/紗々_06 [中文].txt,1.0,merged_or_moved
+Zh/Ouchi ni Kaeru made [中文]/花音_11.txt,Zh/Ouchi ni Kaeru made [中文]/花音_11 [中文].txt,1.0,merged_or_moved
+Zh/Ouchi ni Kaeru made [中文]/花音_19_H4_1.txt,Zh/お家に帰るまでがましまろです [中文].txt,1.0,merged_or_moved
+Zh/Ouchi ni Kaeru made [中文]/花音_19_H4_2.txt,Zh/お家に帰るまでがましまろです [中文].txt,1.0,merged_or_moved
+Zh/RaspberryCube [中文]/みなと-03(幕間).txt,Zh/RaspberryCube [中文]/みなと-03(幕間) [中文].txt,1.0,merged_or_moved
+Zh/RaspberryCube [中文]/みなと-07.txt,Zh/RaspberryCube [中文]/みなと-07 [中文].txt,1.0,merged_or_moved
+Zh/RaspberryCube [中文]/みなと-08.txt,Zh/RaspberryCube [中文]/みなと-08 [中文].txt,1.0,merged_or_moved
+Zh/RaspberryCube [中文]/みなと-17.txt,Zh/RaspberryCube [中文]/みなと-17 [中文].txt,1.0,merged_or_moved
+Zh/RaspberryCube [中文]/みなと-18.txt,Zh/RaspberryCube [中文]/みなと-18 [中文].txt,1.0,merged_or_moved
+Zh/RaspberryCube [中文]/みなと-21.txt,Zh/RaspberryCube [中文]/みなと-21 [中文].txt,1.0,merged_or_moved
+Zh/RaspberryCube [中文]/みなと-24.txt,Zh/RaspberryCube [中文]/みなと-24 [中文].txt,1.0,merged_or_moved
+Zh/RaspberryCube [中文]/みなと-26.txt,Zh/RaspberryCube [中文]/みなと-26 [中文].txt,1.0,merged_or_moved
+Zh/RaspberryCube [中文]/みなとHシーン04.txt,Zh/RaspberryCube [中文]/みなとHシーン04 [中文].txt,1.0,merged_or_moved
+Zh/RaspberryCube [中文]/オープニング.txt,Zh/RaspberryCube [中文]/オープニング [中文].txt,1.0,merged_or_moved
+Zh/RaspberryCube [中文]/悠-05.txt,Zh/RaspberryCube [中文]/悠-05 [中文].txt,1.0,merged_or_moved
+Zh/RaspberryCube [中文]/悠-07.txt,Zh/RaspberryCube [中文]/悠-07 [中文].txt,1.0,merged_or_moved
+Zh/RaspberryCube [中文]/悠-08.txt,Zh/RaspberryCube [中文]/悠-08 [中文].txt,1.0,merged_or_moved
+Zh/RaspberryCube [中文]/悠-12.txt,Zh/RaspberryCube [中文]/悠-12 [中文].txt,1.0,merged_or_moved
+Zh/RaspberryCube [中文]/悠-13.txt,Zh/RaspberryCube [中文]/悠-13 [中文].txt,1.0,merged_or_moved
+Zh/RaspberryCube [中文]/悠-16.txt,Zh/RaspberryCube [中文]/悠-16 [中文].txt,1.0,merged_or_moved
+Zh/RaspberryCube [中文]/悠-18.txt,Zh/RaspberryCube [中文]/悠-18 [中文].txt,1.0,merged_or_moved
+Zh/RaspberryCube [中文]/悠-23.txt,Zh/RaspberryCube [中文]/悠-23 [中文].txt,1.0,merged_or_moved
+Zh/RaspberryCube [中文]/悠-24.txt,Zh/RaspberryCube [中文]/悠-24 [中文].txt,1.0,merged_or_moved
+Zh/RaspberryCube [中文]/悠-26.txt,Zh/RaspberryCube [中文]/悠-26 [中文].txt,1.0,merged_or_moved
+Zh/RaspberryCube [中文]/悠Hシーン02.txt,Zh/RaspberryCube [中文]/悠Hシーン02 [中文].txt,1.0,merged_or_moved
+Zh/RaspberryCube [中文]/悠Hシーン04.txt,Zh/RaspberryCube [中文]/悠Hシーン04 [中文].txt,1.0,merged_or_moved
+Zh/RaspberryCube [中文]/瑠莉-01.txt,Zh/RaspberryCube [中文]/瑠莉-01 [中文].txt,1.0,merged_or_moved
+Zh/RaspberryCube [中文]/瑠莉-02.txt,Zh/RaspberryCube [中文]/瑠莉-02 [中文].txt,1.0,merged_or_moved
+Zh/RaspberryCube [中文]/瑠莉-04.txt,Zh/RaspberryCube [中文]/瑠莉-04 [中文].txt,1.0,merged_or_moved
+Zh/RaspberryCube [中文]/瑠莉-08.txt,Zh/RaspberryCube [中文]/瑠莉-08 [中文].txt,1.0,merged_or_moved
+Zh/RaspberryCube [中文]/瑠莉-09.txt,Zh/RaspberryCube [中文]/瑠莉-09 [中文].txt,1.0,merged_or_moved
+Zh/RaspberryCube [中文]/瑠莉-10.txt,Zh/RaspberryCube [中文]/瑠莉-10 [中文].txt,1.0,merged_or_moved
+Zh/RaspberryCube [中文]/瑠莉-13.txt,Zh/RaspberryCube [中文]/瑠莉-13 [中文].txt,1.0,merged_or_moved
+Zh/RaspberryCube [中文]/瑠莉-14.txt,Zh/RaspberryCube [中文]/瑠莉-14 [中文].txt,1.0,merged_or_moved
+Zh/RaspberryCube [中文]/瑠莉-18.txt,Zh/RaspberryCube [中文]/瑠莉-18 [中文].txt,1.0,merged_or_moved
+Zh/RaspberryCube [中文]/瑠莉-19.txt,Zh/RaspberryCube [中文]/瑠莉-19 [中文].txt,1.0,merged_or_moved
+Zh/RaspberryCube [中文]/瑠莉-20.txt,Zh/RaspberryCube [中文]/瑠莉-20 [中文].txt,1.0,merged_or_moved
+Zh/RaspberryCube [中文]/瑠莉-24.txt,Zh/RaspberryCube [中文]/瑠莉-24 [中日对照].txt,1.0,merged_or_moved
+Zh/RaspberryCube [中文]/瑠莉-26.txt,Zh/RaspberryCube [中文]/瑠莉-26 [中日对照].txt,1.0,merged_or_moved
+Zh/RaspberryCube [中文]/瑠莉-27.txt,Zh/RaspberryCube [中文]/瑠莉-27 [中日对照].txt,1.0,merged_or_moved
+Zh/RaspberryCube [中文]/瑠莉Hシーン03.txt,Zh/RaspberryCube [中文]/瑠莉Hシーン03 [中文].txt,1.0,merged_or_moved
+Zh/RaspberryCube [中文]/美琴-06.txt,Zh/RaspberryCube [中文]/美琴-06 [中文].txt,1.0,merged_or_moved
+Zh/RaspberryCube [中文]/美琴-16.txt,Zh/RaspberryCube [中文]/美琴-16 [中文].txt,1.0,merged_or_moved
+Zh/RaspberryCube [中文]/美琴-17.txt,Zh/RaspberryCube [中文]/美琴-17 [中文].txt,1.0,merged_or_moved
+Zh/RaspberryCube [中文]/美琴-18.txt,Zh/RaspberryCube [中文]/美琴-18 [中文].txt,1.0,merged_or_moved
+Zh/RaspberryCube [中文]/美琴-19.txt,Zh/RaspberryCube [中文]/美琴-19 [中文].txt,1.0,merged_or_moved
+Zh/RaspberryCube [中文]/美琴-おまけ.txt,Zh/RaspberryCube [中文]/美琴-おまけ [中日对照].txt,1.0,merged_or_moved
+Zh/RaspberryCube [中文]/美琴Hシーン02.txt,Zh/RaspberryCube [中文]/美琴Hシーン02 [中文].txt,1.0,merged_or_moved
+Zh/RaspberryCube [中文]/美琴Hシーン04.txt,Zh/RaspberryCube [中文]/美琴Hシーン04 [中文].txt,1.0,merged_or_moved
+Zh/Tuinosora Remake [中文]/numinose1（彩名）.txt,Zh/Tuinosora Remake [中文]/numinose1（彩名） [中文].txt,1.0,merged_or_moved
+Zh/Tuinosora Remake [中文]/卓司13_2.txt,Zh/Tuinosora Remake [中文]/卓司13_2 [中文].txt,1.0,merged_or_moved
+Zh/Tuinosora Remake [中文]/卓司15_1.txt,Zh/Tuinosora Remake [中文]/卓司15_1 [中文].txt,1.0,merged_or_moved
+Zh/Tuinosora Remake [中文]/卓司17_1.txt,Zh/Tuinosora Remake [中文]/卓司17_1 [中文].txt,1.0,merged_or_moved
+Zh/Tuinosora Remake [中文]/卓司17_2.txt,Zh/Tuinosora Remake [中文]/卓司17_2 [中文].txt,1.0,merged_or_moved
+Zh/Tuinosora Remake [中文]/卓司17_3.txt,Zh/Tuinosora Remake [中文]/卓司17_3 [中文].txt,1.0,merged_or_moved
+Zh/Tuinosora Remake [中文]/琴美15_1.txt,Zh/Tuinosora Remake [中文]/琴美15_1 [中文].txt,1.0,merged_or_moved
+Zh/Tuinosora Remake [中文]/琴美17_1.txt,Zh/Tuinosora Remake [中文]/琴美17_1 [中文].txt,1.0,merged_or_moved
+Zh/Tuinosora Remake [中文]/行人13_3.txt,Zh/Tuinosora Remake [中文]/行人13_3 [中文].txt,1.0,merged_or_moved
+Zh/Tuinosora Remake [中文]/行人15_1.txt,Zh/Tuinosora Remake [中文]/行人15_1 [中文].txt,1.0,merged_or_moved
+Zh/Tuinosora Remake [中文]/行人16.txt,Zh/Tuinosora Remake [中文]/行人16 [中文].txt,1.0,merged_or_moved
+Zh/Tuinosora Remake [中文]/行人18_2.txt,Zh/Tuinosora Remake [中文]/行人18_2 [中文].txt,1.0,merged_or_moved
+Zh/We Don't Have Wings [中文]/s03_06g1.txt,Zh/We Don't Have Wings [中文]/s03_06g1 [中文].txt,1.0,merged_or_moved
+Zh/We Don't Have Wings [中文]/s03_06g2.txt,Zh/We Don't Have Wings [中文]/s03_06g1 [中文].txt,1.0,merged_or_moved
+Zh/Wonderful Day [中文]/Chapter1.txt,JA/Wonderful Day [日本語]/Chapter1.txt [日本語],1.0,merged_or_moved
+Zh/Wonderful Day [中文]/Chapter2.txt,JA/Wonderful Day [日本語]/Chapter2.txt [日本語],1.0,merged_or_moved
+Zh/Wonderful Day [中文]/Chapter3.txt,JA/Wonderful Day [日本語]/Chapter3.txt [日本語],1.0,merged_or_moved
+Zh/Wonderful Day [中文]/Chapter4.txt,JA/Wonderful Day [日本語]/Chapter4.txt [日本語],1.0,merged_or_moved
+Zh/Wonderful Day [中文]/Chapter5.txt,JA/Wonderful Day [日本語]/Chapter5.txt [日本語],1.0,merged_or_moved
+Zh/Wonderful Day [中文]/Chapter6.txt,JA/Wonderful Day [日本語]/Chapter6.txt [日本語],1.0,merged_or_moved
+Zh/Wonderful Day [中文]/Chapter7.txt,JA/Wonderful Day [日本語]/Chapter7.txt [日本語],1.0,merged_or_moved
+Zh/Wonderful Day [中文]/Extra.txt,JA/Wonderful Day [日本語]/Extra.txt [日本語],1.0,merged_or_moved
+Zh/Wonderful Day [中文]/Sex.txt,JA/Wonderful Day [日本語]/Sex.txt [日本語],1.0,merged_or_moved
+Zh/その恋、保留につき、ガーデンパーティー [中文].txt,JA/その恋、保留につき、ガーデンパーティー [日本語].txt,1.0,merged_or_moved
+Zh/はるまで、くるる。 [繁中].txt,Zh/はるまで、くるる。 [中文] (2).txt,1.0,merged_or_moved
+Zh/ぷにろり湯・つう [中文].txt,Zh/ぷにろり湯・つう [中日对照].txt,1.0,merged_or_moved
+Zh/不運と幸運と恋占いのタロット [中文].txt,JA/不運と幸運と恋占いのタロット [日本語].txt,1.0,merged_or_moved
+Zh/俺の恋天使がポンコツすぎてコワ～い。 [中文].txt,JA/俺の恋天使がポンコツすぎてコワ～い。 [日本語].txt,1.0,merged_or_moved
+Zh/夢幻廻廊 [中文].txt,Zh/夢幻廻廊 [中日对照].txt,1.0,merged_or_moved
+Zh/失われた未来を求めて [中文].txt,Zh/失われた未来を求めて [中日对照].txt,1.0,merged_or_moved
+Zh/月は東に日は西に [中文].txt,JA/月は東に日は西に [日本語].txt,1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01100.arc~/00_op_01.txt,JA/樱之诗 [日本語]/data01100.arc~/00_op_01.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01100.arc~/00_op_02.txt,JA/樱之诗 [日本語]/data01100.arc~/00_op_02.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01100.arc~/00_op_03.txt,JA/樱之诗 [日本語]/data01100.arc~/00_op_03.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01100.arc~/00_op_04.txt,JA/樱之诗 [日本語]/data01100.arc~/00_op_04.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01101.arc~/01_fruhlingsbegi1.txt,JA/樱之诗 [日本語]/data01101.arc~/01_fruhlingsbegi1.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01101.arc~/01_fruhlingsbegi2.txt,JA/樱之诗 [日本語]/data01101.arc~/01_fruhlingsbegi2.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01101.arc~/01_fruhlingsbegi3.txt,JA/樱之诗 [日本語]/data01101.arc~/01_fruhlingsbegi3.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01101.arc~/01_fruhlingsbegi4.txt,JA/樱之诗 [日本語]/data01101.arc~/01_fruhlingsbegi4.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01101.arc~/01_fruhlingsbegi5.txt,JA/樱之诗 [日本語]/data01101.arc~/01_fruhlingsbegi5.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01101.arc~/01_fruhlingsbegi6.txt,JA/樱之诗 [日本語]/data01101.arc~/01_fruhlingsbegi6.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01102.arc~/02_abend_01.txt,JA/樱之诗 [日本語]/data01102.arc~/02_abend_01.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01102.arc~/02_abend_02.txt,JA/樱之诗 [日本語]/data01102.arc~/02_abend_02.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01102.arc~/02_abend_03.txt,JA/樱之诗 [日本語]/data01102.arc~/02_abend_03.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01102.arc~/02_abend_04.txt,JA/樱之诗 [日本語]/data01102.arc~/02_abend_04.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01102.arc~/02_abend_05.txt,JA/樱之诗 [日本語]/data01102.arc~/02_abend_05.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01102.arc~/02_abend_06.txt,JA/樱之诗 [日本語]/data01102.arc~/02_abend_06.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01102.arc~/02_abend_07.txt,JA/樱之诗 [日本語]/data01102.arc~/02_abend_07.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01102.arc~/02_abend_08.txt,JA/樱之诗 [日本語]/data01102.arc~/02_abend_08.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01102.arc~/02_abend_09.txt,JA/樱之诗 [日本語]/data01102.arc~/02_abend_09.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01102.arc~/02_abend_10.txt,JA/樱之诗 [日本語]/data01102.arc~/02_abend_10.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01102.arc~/02_abend_11.txt,JA/樱之诗 [日本語]/data01102.arc~/02_abend_11.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01102.arc~/02_abend_12.txt,JA/樱之诗 [日本語]/data01102.arc~/02_abend_12.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01102.arc~/02_abend_13.txt,JA/樱之诗 [日本語]/data01102.arc~/02_abend_13.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01102.arc~/02_abend_14.txt,JA/樱之诗 [日本語]/data01102.arc~/02_abend_14.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01102.arc~/02_abend_an01.txt,JA/樱之诗 [日本語]/data01102.arc~/02_abend_an01.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01102.arc~/02_abend_an02.txt,JA/樱之诗 [日本語]/data01102.arc~/02_abend_rn02b.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01102.arc~/02_abend_pi01.txt,JA/樱之诗 [日本語]/data01102.arc~/02_abend_pi01.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01102.arc~/02_abend_pi02.txt,JA/樱之诗 [日本語]/data01102.arc~/02_abend_pi02.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01102.arc~/02_abend_pi03.txt,JA/樱之诗 [日本語]/data01102.arc~/02_abend_pi03.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01102.arc~/02_abend_pi04.txt,JA/樱之诗 [日本語]/data01102.arc~/02_abend_pi04.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01102.arc~/02_abend_pi05.txt,JA/樱之诗 [日本語]/data01102.arc~/02_abend_pi05.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01102.arc~/02_abend_pi06.txt,JA/樱之诗 [日本語]/data01102.arc~/02_abend_pi06.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01102.arc~/02_abend_rn01.txt,JA/樱之诗 [日本語]/data01102.arc~/02_abend_rn01.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01102.arc~/02_abend_rn02.txt,JA/樱之诗 [日本語]/data01102.arc~/02_abend_rn02.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01102.arc~/02_abend_rn02b.txt,JA/樱之诗 [日本語]/data01102.arc~/02_abend_rn02b.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01102.arc~/02_abend_rn03.txt,JA/樱之诗 [日本語]/data01102.arc~/02_abend_rn03.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01102.arc~/02_abend_rn04.txt,JA/樱之诗 [日本語]/data01102.arc~/02_abend_rn04.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01102.arc~/02_abend_ze01.txt,JA/樱之诗 [日本語]/data01102.arc~/02_abend_ze01.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01102.arc~/02_abend_ze02.txt,JA/樱之诗 [日本語]/data01102.arc~/02_abend_ze02.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01102.arc~/02_abend_ze03.txt,JA/樱之诗 [日本語]/data01102.arc~/02_abend_ze03.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01102.arc~/02_abend_ze05.txt,JA/樱之诗 [日本語]/data01102.arc~/02_abend_ze05.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01102.arc~/02_abend_ze06.txt,JA/樱之诗 [日本語]/data01102.arc~/02_abend_ze06.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01102.arc~/02_abend_ze07.txt,JA/樱之诗 [日本語]/data01102.arc~/02_abend_ze07.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01102.arc~/02_abend_ze08.txt,JA/樱之诗 [日本語]/data01102.arc~/02_abend_ze08.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01103.arc~/03_picapica_01.txt,JA/樱之诗 [日本語]/data01103.arc~/03_picapica_01.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01103.arc~/03_picapica_02.txt,JA/樱之诗 [日本語]/data01103.arc~/03_picapica_02.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01103.arc~/03_picapica_03.txt,JA/樱之诗 [日本語]/data01103.arc~/03_picapica_03.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01103.arc~/03_picapica_04.txt,JA/樱之诗 [日本語]/data01103.arc~/03_picapica_04.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01103.arc~/03_picapica_05.txt,JA/樱之诗 [日本語]/data01103.arc~/03_picapica_05.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01103.arc~/03_picapica_06.txt,JA/樱之诗 [日本語]/data01103.arc~/03_picapica_06.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01103.arc~/03_picapica_07.txt,JA/樱之诗 [日本語]/data01103.arc~/03_picapica_07.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01103.arc~/03_picapica_08.txt,JA/樱之诗 [日本語]/data01103.arc~/03_picapica_08.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01103.arc~/03_picapica_09.txt,JA/樱之诗 [日本語]/data01103.arc~/03_picapica_09.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01103.arc~/03_picapica_10.txt,JA/樱之诗 [日本語]/data01103.arc~/03_picapica_10.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01103.arc~/03_picapica_11.txt,JA/樱之诗 [日本語]/data01103.arc~/03_picapica_11.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01103.arc~/03_picapica_12.txt,JA/樱之诗 [日本語]/data01103.arc~/03_picapica_12.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01103.arc~/03_picapica_13.txt,JA/樱之诗 [日本語]/data01103.arc~/03_picapica_13.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01104.arc~/03_olympia_01.txt,JA/樱之诗 [日本語]/data01104.arc~/03_olympia_01.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01104.arc~/03_olympia_02.txt,JA/樱之诗 [日本語]/data01104.arc~/03_olympia_02.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01104.arc~/03_olympia_03.txt,JA/樱之诗 [日本語]/data01104.arc~/03_olympia_03.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01104.arc~/03_olympia_04.txt,JA/樱之诗 [日本語]/data01104.arc~/03_olympia_04.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01104.arc~/03_olympia_05.txt,JA/樱之诗 [日本語]/data01104.arc~/03_olympia_05.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01104.arc~/03_olympia_06.txt,JA/樱之诗 [日本語]/data01104.arc~/03_olympia_06.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01104.arc~/03_olympia_07.txt,JA/樱之诗 [日本語]/data01104.arc~/03_olympia_07.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01104.arc~/03_olympia_08.txt,JA/樱之诗 [日本語]/data01104.arc~/03_olympia_08.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01104.arc~/03_olympia_09.txt,JA/樱之诗 [日本語]/data01104.arc~/03_olympia_09.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01105.arc~/03_marchen_01.txt,JA/樱之诗 [日本語]/data01105.arc~/03_marchen_01.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01105.arc~/03_marchen_02.txt,JA/樱之诗 [日本語]/data01105.arc~/03_marchen_02.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01105.arc~/03_zypressen_01.txt,JA/樱之诗 [日本語]/data01105.arc~/03_zypressen_01.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01105.arc~/03_zypressen_02.txt,JA/樱之诗 [日本語]/data01105.arc~/03_zypressen_02.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01105.arc~/03_zypressen_03.txt,JA/樱之诗 [日本語]/data01105.arc~/03_zypressen_03.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01105.arc~/03_zypressen_04.txt,JA/樱之诗 [日本語]/data01105.arc~/03_zypressen_04.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01105.arc~/03_zypressen_05.txt,JA/樱之诗 [日本語]/data01105.arc~/03_zypressen_05.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01105.arc~/03_zypressen_06.txt,JA/樱之诗 [日本語]/data01105.arc~/03_zypressen_06.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01105.arc~/03_zypressen_06a.txt,JA/樱之诗 [日本語]/data01105.arc~/03_zypressen_06a.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01105.arc~/03_zypressen_07.txt,JA/樱之诗 [日本語]/data01105.arc~/03_zypressen_07.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01105.arc~/03_zypressen_08.txt,JA/樱之诗 [日本語]/data01105.arc~/03_zypressen_08.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01105.arc~/03_zypressen_09.txt,JA/樱之诗 [日本語]/data01105.arc~/03_zypressen_09.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01105.arc~/03_zypressen_10.txt,JA/樱之诗 [日本語]/data01105.arc~/03_zypressen_10.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01105.arc~/03_zypressen_11.txt,JA/樱之诗 [日本語]/data01105.arc~/03_zypressen_11.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01105.arc~/03_zypressen_12.txt,JA/樱之诗 [日本語]/data01105.arc~/03_zypressen_12.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01105.arc~/03_zypressen_13.txt,JA/樱之诗 [日本語]/data01105.arc~/03_zypressen_13.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01105.arc~/03_zypressen_14.txt,JA/樱之诗 [日本語]/data01105.arc~/03_zypressen_14.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01106.arc~/03_andoe_01.txt,JA/樱之诗 [日本語]/data01106.arc~/03_andoe_01.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01106.arc~/03_andoe_02.txt,JA/樱之诗 [日本語]/data01106.arc~/03_andoe_02.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01106.arc~/03_andoe_03.txt,JA/樱之诗 [日本語]/data01106.arc~/03_andoe_03.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01106.arc~/03_andoe_04.txt,JA/樱之诗 [日本語]/data01106.arc~/03_andoe_04.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01106.arc~/03_andoe_05.txt,JA/樱之诗 [日本語]/data01106.arc~/03_andoe_05.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01107.arc~/04_what_is_mind・1.txt,JA/樱之诗 [日本語]/data01107.arc~/04_what_is_mind・1.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01107.arc~/04_what_is_mind・2.txt,JA/樱之诗 [日本語]/data01107.arc~/04_what_is_mind・2.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01108.arc~/05_the_happy_pri1.txt,JA/樱之诗 [日本語]/data01108.arc~/05_the_happy_pri1.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01108.arc~/05_the_happy_pri10.txt,JA/樱之诗 [日本語]/data01108.arc~/05_the_happy_pri10.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01108.arc~/05_the_happy_pri2.txt,JA/樱之诗 [日本語]/data01108.arc~/05_the_happy_pri2.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01108.arc~/05_the_happy_pri3.txt,JA/樱之诗 [日本語]/data01108.arc~/05_the_happy_pri3.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01108.arc~/05_the_happy_pri4.txt,JA/樱之诗 [日本語]/data01108.arc~/05_the_happy_pri4.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01108.arc~/05_the_happy_pri5.txt,JA/樱之诗 [日本語]/data01108.arc~/05_the_happy_pri5.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01108.arc~/05_the_happy_pri6.txt,JA/樱之诗 [日本語]/data01108.arc~/05_the_happy_pri6.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01108.arc~/05_the_happy_pri7.txt,JA/樱之诗 [日本語]/data01108.arc~/05_the_happy_pri7.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01108.arc~/05_the_happy_pri8.txt,JA/樱之诗 [日本語]/data01108.arc~/05_the_happy_pri8.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01108.arc~/05_the_happy_pri9.txt,JA/樱之诗 [日本語]/data01108.arc~/05_the_happy_pri9.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01109.arc~/06_Ⅵ_01.txt,JA/樱之诗 [日本語]/data01109.arc~/06_Ⅵ_01.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01109.arc~/06_Ⅵ_02.txt,JA/樱之诗 [日本語]/data01109.arc~/06_Ⅵ_02.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01109.arc~/06_Ⅵ_03.txt,JA/樱之诗 [日本語]/data01109.arc~/06_Ⅵ_03.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01109.arc~/06_Ⅵ_04.txt,JA/樱之诗 [日本語]/data01109.arc~/06_Ⅵ_04.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01109.arc~/06_Ⅵ_05.txt,JA/樱之诗 [日本語]/data01109.arc~/06_Ⅵ_05.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01109.arc~/06_Ⅵ_06.txt,JA/樱之诗 [日本語]/data01109.arc~/06_Ⅵ_06.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01109.arc~/06_Ⅵ_07.txt,JA/樱之诗 [日本語]/data01109.arc~/06_Ⅵ_07.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01109.arc~/06_Ⅵ_08.txt,JA/樱之诗 [日本語]/data01109.arc~/06_Ⅵ_08.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01999.arc~/h_ai_01.txt,JA/樱之诗 [日本語]/data01999.arc~/h_ai_01.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01999.arc~/h_hr_01.txt,JA/樱之诗 [日本語]/data01999.arc~/h_hr_01.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01999.arc~/h_hr_02.txt,JA/樱之诗 [日本語]/data01999.arc~/h_hr_02.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01999.arc~/h_mk_01.txt,JA/樱之诗 [日本語]/data01103.arc~/03_picapica_09.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01999.arc~/h_mk_02.txt,JA/樱之诗 [日本語]/data01999.arc~/h_mk_02.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01999.arc~/h_rn_01.txt,JA/樱之诗 [日本語]/data01999.arc~/h_rn_01.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01999.arc~/h_rn_02.txt,JA/樱之诗 [日本語]/data01104.arc~/03_olympia_05.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01999.arc~/h_rn_03.txt,JA/樱之诗 [日本語]/data01999.arc~/h_rn_03.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01999.arc~/h_rn_04.txt,JA/樱之诗 [日本語]/data01999.arc~/h_rn_04.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01999.arc~/h_sz_01.txt,JA/樱之诗 [日本語]/data01106.arc~/03_andoe_03.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01999.arc~/h_sz_02.txt,JA/樱之诗 [日本語]/data01999.arc~/h_sz_02.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01999.arc~/h_sz_03.txt,JA/樱之诗 [日本語]/data01999.arc~/h_sz_03.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01999.arc~/h_sz_04.txt,JA/樱之诗 [日本語]/data01999.arc~/h_sz_04.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01999.arc~/h_ym_01.txt,JA/樱之诗 [日本語]/data01999.arc~/h_ym_01.txt [日本語],1.0,merged_or_moved
+Zh/樱之诗 [中文]/data01999.arc~/test.txt,JA/樱之诗 [日本語]/data01106.arc~/03_andoe_02.txt [日本語],1.0,merged_or_moved
+Zh/毒舌クールな妹を性的に可愛がる！～兄さんの変態、ド変態！責任とって孕ませてよね！～ [中文].txt,JA/毒舌クールな妹を性的に可愛がる！～兄さんの変態、ド変態！責任とって孕ませてよね！～ [日本語].txt,1.0,merged_or_moved
+Zh/誰が殺したコマドリを [中文].txt,Zh/誰が殺したコマドリを [中日对照].txt,1.0,merged_or_moved
+Zh/迷える2人とセカイのすべて LOVE HEAVEN 300% [中文].txt,Zh/迷える2人とセカイのすべて LOVE HEAVEN 300% [中日对照].txt,1.0,merged_or_moved
+Zh/Ｅスクールライフ [中文].txt,Zh/Ｅスクールライフ [中日对照] (2).txt,1.0,merged_or_moved

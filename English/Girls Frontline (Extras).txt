@@ -1379,7 +1379,7 @@ M4A1: Enough, M16A1! You're not going anywhere!
 M16A1: Is that all you have to say, M4A1?  You went to such extremes to catch up with me just to say this?
 M4A1: What? What do you mean, M16?! Stop right there, or...
 M16A1: Or what?  "Stop right there or die, M16A1!" Is that what you're gonna say?
-M4A1: No, I'll never say that. M16, I⁠—
+M4A1: No, I'll never say that. M16, I—
 M16A1: And that's how we are different, M4A1.  I won't just do what you can't, I'll do it better.
 M4A1: M16... No!
 M16A1: Stop right there...  Or die, M4A1!
@@ -3337,7 +3337,6 @@ Ouroboros: Load a revolver with a single bullet and take turns firing at your ow
 SAA: I know I can't beat you anyways. Might as well gamble on my luck.  Besides, I'm sure the God of cola will be on my side.
 Ouroboros: Then I shall make you see just how hopeless you are.  Don't worry. Losing to me is not humiliating at all. But I'm afraid your neural cloud will be mine after that.
 *...*
-*Click.*
 *Click.*
 *Click.*
 *After a few turns of the chamber...*
@@ -7380,7 +7379,6 @@ Type 56R: It's still dark here...
 Kalina's Voice: Now that's strange... Maybe there's something wrong with the drivers for your visual module. Let me tinker with it for a bit.
 *...*
 *...*
-*...*
 Kalina: How about now? I can see your pupils focusing.
 Type 56R: Yeah... The module's functioning normally. I can see now. Thank you, Miss Kalina.
 Kalina: I'm so sorry, I thought you were okay just now when I saw you open your eyes. I didn't get an error message, but this sort of thing has happened before.
@@ -8196,7 +8194,7 @@ M4A1: The military...  No, I don't get it... Why...  Wasn't the military behind 
 AK-12: A squad of humans from the military killed them. That much is obvious from the bullet holes and the debris they left behind.  Of course, they'll cover it up by saying they were "getting rid of out-of-control Dolls".
 AR-15: M4A1, do you know a Captain Yegor?
 M4A1: ...
-AR-15: 
+AR-15:
 AR-15: He's the mastermind and culprit behind the attack on all of you.  I believe he personally shot RO635.
 M4A1: Yegor? No, how could this be... Isn't he...
 AR-15: M4A1, Yegor is the one who set up the AR Team. That much is certain.
@@ -10411,7 +10409,7 @@ Five-seven: Miss M1918, are you in your room?
 M1918: ...Yes.  Please come in.
 Five-seven: Bonjour, M1918. I'll dispense with the formalities.  A new mission's come in, and the Commander would like you to operate with us.
 M1918: I see...
-Five-seven: We found some cargo that escaped our notice in the previous battle⁠—  Miss M1918? Are you spacing out?
+Five-seven: We found some cargo that escaped our notice in the previous battle—  Miss M1918? Are you spacing out?
 M1918: ...  Why is it that...people yell at me for not being able to do something...  But when I accomplish something I CAN do... I get yelled at anyway...?  What on earth... should I...
 Five-seven: Well, you ask me that...  But weren't you the one who said that you didn't need outsiders sticking their noses into your team's business?
 M1918: I just want an answer.
@@ -10461,7 +10459,7 @@ Super SASS: When you were transferred to assist the FN Team...  We, hm, we were 
 XM3: We didn't have an incompetent leader hanging over our heads anymore.  Nothing's happier than that, right?
 M1918: ...  In any case, thank you for telling me all this.
 XM3: But what are you going to do after learning all that?  I'm sure you do just fine by yourself where we can't see, Miss M1918.  But you're just too selfish in front of us.
-Super SASS: XM3! That's not our⁠—
+Super SASS: XM3! That's not our—
 M1918: No... it's all true...  It's a fact that... I only care about things that I want to care about...
 XM3: ...
 M1918: But those things...  Are the limit of what I can do...  I'm already...
@@ -10623,7 +10621,7 @@ LWMMG: ...
 M60: First off, there's that simulated battle you were in.  Frankly speaking, SAW and the rest of us, myself included, have no idea why you went up and took a direct hit from that shell. Was there no better course of action? I don't think so.
 LWMMG: At that time...it was my first reaction.  And also, my weapon's Imprint...  I was rolled out of the factory later, so it's only natural that I take on more dangerous tasks, isn't it...?
 M60: (Interrupts) Excuse me?! What did I just hear?  Are you saying that we're useless now?  Are you calling me old?!
-Mk48: (Stifles laughter) Pffffff...calm down, M60⁠— Pfhaha...
+Mk48: (Stifles laughter) Pffffff...calm down, M60— Pfhaha...
 M60: I heard you laughing! I'm gonna deal with you later!
 *After snapping at Mk48, M60 composes herself and looks LWMMG squarely in the eyes.*
 M60: Lam, you listen, and you listen well.  It's not as though anything new is automatically good or outstanding or the better choice between two options. That has never been a thing for us.
@@ -10799,10 +10797,10 @@ Welrod Mk II: Let her be.  She has temporarily parted ways with us in pursuit of
 Bren: Dammit... I'm trapped in such a place...
 *Bren is leaning against the door in the depot.  She peeks through the cracks on the old, battered door and watches as a troop of Sangvis units draws closer and closer.*
 Bren: If I had moved quickly enough, I wouldn't have been backed into such a corner...  I'm already in a different team, so I should've become stronger!
-*⁠—But is that really true?*
+*—But is that really true?*
 *In a team made out of elite Dolls, it's challenging enough just to keep up with everyone else.  I thought it would only be temporary, but my current predicament...won't be solved by stroking my own wounded ego.*
 Bren: Dammit. Goddammit!  Why can't I get any stronger?! WHY?!!!!
-*⁠—Actually, I've always known this.*
+*—Actually, I've always known this.*
 *I can never be as strong as an elite Doll.  No matter how hard I work, there is a limit that I simply can't surpass.  Is this where I have to stop?*
 Bren: Will I always have to gaze upon their backs...?  As if I'd let that happen!  But what...what should I do?
 *Bren gets up on her feet and picks up her machine gun.*
@@ -11883,7 +11881,7 @@ M950A: Then...I won't let them lay a finger on Thunder.
 *Bang bang bang.  The soldier at the door starts firing non-stop at M950A, sending sparks flying off the edge of the mechanical bed.*
 *Meanwhile, he has also fished out an EMP grenade, ready to throw it any moment.*
 *M950A lowers her center of gravity and gathers strength in her legs, then with a massive crash...*
-Military Guard at the Door: ⁠—!
+Military Guard at the Door: —!
 *She punches her way through the wall and makes it outside the safe house.*
 *Bang.*
 *A bullet cracks open the soldier's helmet. He slumps onto the ground without even a chance to scream.*
@@ -11913,9 +11911,9 @@ M950A: So you were created to sacrifice yourself for others... T-That's ridiculo
 Prototype Fairy: That's why she gave me a choice, and I don't regret making it.  It's a big world, I've met a lot of interesting people and done some interesting things. I'm content.
 M950A: Origin... You've had so little time.
 Prototype Fairy: That's fine, I have happy memories, and thanks to you, I've found my way.  Thank you. I've come to love myself.
-M950A: ⁠—!
+M950A: —!
 Prototype Fairy: Can I also be your friend?
-M950A: Of c⁠—
+M950A: Of c—
 *Before M950A can finish, cracks appear on the Prototype Fairy's vocal module, breaking it into chunks in a matter of seconds.*
 *...M950A takes off her jacket and drapes it over the Fairy's remains.*
 M950A: Of course.
@@ -13516,7 +13514,6 @@ Super SASS: ...
 M1911: Got it... One down!
 Thompson: Carry on!
 Super SASS: ...
-*Bang—!*
 *Bang—!*
 *Bang—!*
 Super SASS: W-what's wrong? Don't tell me my fire control system is...?
@@ -19300,9 +19297,8 @@ M16A1: ...I see. The fact that she went missing there is very interesting indeed
 哈维尔: I’ll be waiting for good news from you.
 *Click. The transmission ends.*
 *......*
-安洁莉娅: 
+安洁莉娅:
 *[Ange frowns. For someone who likes to bite her nails, being bound hand and foot is very inconvenient.]*
-*Emptiness.*
 *Emptiness.*
 *Emptiness.*
 *[The day-bright lights begin turning off in the distance, one after the other.] [It’s as though some unnameable entity is approaching her, and the sound of the lights turning off in sequence within the expansive room pounds on her heart like a drum.]*
@@ -21387,7 +21383,7 @@ UMP9: I am very touched by your spirit, but ...
 *boom!!!  With another burst, in a curse of the blood characteristics, the sound of architects gradually disappeared.*
 UMP9: ... Hey, it is really poor.
 RO635: ......9?
-UMP45: 
+UMP45:
 *呲呲 ...*
 UMP45: RO!Check her permissions!
 RO635: What happened!?
@@ -22029,7 +22025,6 @@ AN94: ......
 Grig: Gray!?
 Grey: -!
 *Between the breath, the hands of the hands of the sword boarded the high platform.  Almost at the same time, the second bullet also penetrates the chest of Gray.*
-*呯!*
 *呯!*
 *呯!*
 *Gray's eyes have lost highlights at this moment.*
@@ -26741,7 +26736,7 @@ IDW: Speaking of which, I didn't see any fire or smoke, so why... ...!
 IDW: You...you're...
 ???: Whew, you have frightening combat reflexes. Unfortunately, your ability to multitask is nowhere as good as everyone else.
 IDW: You, why is it you! Just now...you you you-
-IDW: 
+IDW:
 SAA: Yes, yes, I know what you want to say.
 *SAA proudly plants her hands on her hips. She is surrounded by the tranquilized bodies of the security guards.*
 IDW: How how how come you're the phantom thief! (Loud) Are you here to steal the jewel!? (Really loud) Ahhhhhhh! How could this be! (Really really loud) Where's the Commeownder? Does the Commeownder know!?
@@ -31881,7 +31876,7 @@ Commander: ...  I see.
 *The Commander then walks along the beach for a while.*
 Commander: According to Lewis' report, it should be around here.
 *The Commander finally stops and shouts toward the ocean.*
-Commander: R93! R93⁠—
+Commander: R93! R93—
 *As expected, there is no answer.  But the Commander sees a figure appear behind a large reef.*
 Commander: Looks like I was right.
 *Then the Commander places the bag given by Lewis on the coast near the reef.*
@@ -32202,7 +32197,7 @@ C-MS: Yeah.  ...  Huh?
 Z-62: Remember my name! I am Z-62!  You keep calling me your subordinate, but what kind of good-for-nothing boss would leave their subordinate in the sea for an entire day?!  Stupid C-MS!
 *Squirt, squirt, squirt. Z-62 keeps shooting at C-MS, each drizzle of water hitting her smack in between her eyes.*
 C-MS: H...help...!
-*C-MS runs out from the villa and right into⁠—*
+*C-MS runs out from the villa and right into—*
 Serdyukov: Finally, gotcha.
 C-MS: Eep...!
 *C-MS cowers on the ground with her head buried in her arms.*
@@ -32344,7 +32339,7 @@ QJY-88: You mean...  Being anxious makes me more perceptive of hidden problems? 
 Serdyukov: What I mean is that if you can't stop yourself from being anxious...  Then simply don't consider your anxiety as a kind of hindrance. Make it your strength instead.
 QJY-88: Make anxiety...my strength?
 Serdyukov: That's right. For example, you were super anxious when you accepted this mission, worrying how you wouldn't be up to the task.  This anxiety drove you to create the anti-drowning device.  As I said before, that's a very good start.
-QJY-88: Actually, this anti-drowning device is just an external storage module installed onto a swim ring...  But I did put a lot of thought into minimizing the size of the swim ring without compromising its durability...  And how to inflate it instantly when it's activated...  This is just the very first prototype attempting to solve these problems.  Which means...I never got around to actually⁠—
+QJY-88: Actually, this anti-drowning device is just an external storage module installed onto a swim ring...  But I did put a lot of thought into minimizing the size of the swim ring without compromising its durability...  And how to inflate it instantly when it's activated...  This is just the very first prototype attempting to solve these problems.  Which means...I never got around to actually—
 *QJY-88 faintly hears a shrill scream coming from the sea.  AHHHHHH—*
 QJY-88: Did you hear that, Serdyukov?
 Serdyukov: Hear what?
@@ -32354,7 +32349,7 @@ Serdyukov: You think so? But the sea looks very calm to me...  Let me check with
 *QJY-88 stares at the sea in a daze.*
 QJY-88: Am I so nervous that my auditory system malfunctioned?  But that scream sounded so real...
 QJY-88: If I didn't mishear it, the only ones operating at sea right now could only be the investigation team.  Lewis is fishing by the sea right now, so that only leaves R93.
-QJY-88: R93's physical traits are⁠—
+QJY-88: R93's physical traits are—
 *QJY-88 keeps a close eye on the surface of the sea as she accesses her neural cloud.*
 QJY-88: Oh right, pink hair like that over there!  Wait... is that R93's head?!
 QJY-88: What should I do?!  Should I head over to save her?
@@ -32498,7 +32493,7 @@ Z-62: Commander...  I...I'm chilling the watermelon for C-MS...
 4 Shiki: That's...  R93 of the investigation team?  Has thou actually found a mermaid?!  That can't be...  The mermaid sighting was just some nonsense that we came up with...
 QJY-88: Hang in there! We're coming to save thee!
 4 Shiki: It's QJY-88! She found her courage after talking to the Commander!  The Commander has such miraculous powers!
-4 Shiki: Now QJY-88 is doing her best to make her way to R93... Hang in here, R93!  QJY-88 is accelerating. She's cutting through the water like an invincible shark!  You can do it, QJY-88! You're the bes⁠—
+4 Shiki: Now QJY-88 is doing her best to make her way to R93... Hang in here, R93!  QJY-88 is accelerating. She's cutting through the water like an invincible shark!  You can do it, QJY-88! You're the bes—
 QJY-88: Help! Cough, cough!  I...(gurgles)...can't swim!
 *4 Shiki leans further on her swim ring to take a closer look.*
 4 Shiki: ...  ...QJY-88?
@@ -32589,7 +32584,7 @@ ADS: "If you're spotted for being nervous, just casually brush it off as vigilan
 Serdyukov: ...
 ADS: People are giving us curious looks. Let's move to the depot over there.
 ADS: Serdyukov, this is your first maritime mission, isn't it?
-Serdyukov: ...  Yeah, but that doesn't mean I can't⁠—
+Serdyukov: ...  Yeah, but that doesn't mean I can't—
 ADS: I know what you want to say, Serdyukov.  I picked you to join my squad because I have faith in your abilities and professionalism.
 Serdyukov: Thank you...
 ADS: Many Dolls who have never worked with me before don't trust my performance in battle because of my physical appearance.  They tend to treat me as a child and mess around with me, but wouldn't take the mission seriously.  Which is why I'm very grateful that you trust me, Serdyukov.

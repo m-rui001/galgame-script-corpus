@@ -13835,31 +13835,31 @@
 在那苍穹之中，飞过一羽纯白的大鸟。
 
 ◆autoInsertLabel
-どこでもセーブプラグイン
+随处存档插件
 
 ◆extraButton
-System.inform(storage+'.pngがみつかりません');
-throw new Exception("\n名前を付けてください");
-throw new Exception("\n'all'という名前は使えません");
+System.inform(storage+'.png未找到');
+throw new Exception("\n请命名");
+throw new Exception("\n不能使用名为'all'的名称");
 
 ◆function
-System.inform('ファイル\"'+fn+'\"がみつかりません');
+System.inform('文件\"'+fn+'\"未找到');
 
 ◆private
-System.inform('blnのpathが間違ってます');
+System.inform('bln的path不正确');
 
 ◆release
-System.inform('release.ksにてpublickeyを入力してください');
+System.inform('请在release.ks中输入publickey');
 System.inform('署名が無効です : '+fn[i]);
 System.inform('署名が無効です : '+fname);
 
 ◆zoom
-背景/前景画像の拡大縮小効果による表示を行うプラグイン
-var tempLayer; // テンポラリレイヤ
-var overlayLayer; // オーバーレイレイヤ
-var startTick; // 開始ティック
-var time; // ズームを行っている時間
-var mode; // 前景レイヤモード
+通过背景/前景图像缩放效果进行显示的插件
+var tempLayer; // 临时图层
+var overlayLayer; // 覆盖图层
+var startTick; // 开始刻度
+var time; // 进行缩放的时间
+var mode; // 前景图层模式
 var accel; // 加速度的な動きを行うか ( 負 : 0 : 正 )
 var moveFunc; // 移動位置計算用関数
 var targetLayerName; // 対象レイヤ名

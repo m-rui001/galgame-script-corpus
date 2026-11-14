@@ -14,7 +14,7 @@ Bravo 2: "――Lieutenant!"
 Bravo Leader: "Ah? What is it!?"
 Bravo 2: "What......what the hell is that?"
 CP: "――Command Post to Bravo Leader, report your status."
-Bravo Leader: "This is Bravo Leader......wait......wait what? There's something......in the middle of the hall. 
+Bravo Leader: "This is Bravo Leader......wait......wait what? There's something......in the middle of the hall.
 Bravo 2: "That's......is that some kind of pillar?"
 Bravo Leader: "This is Bravo Leader. There appears to be some kind of column stretching from the floor to the ceiling, and......something transparent in the middle......"
 Bravo 2: "――Lieutenant! Look! There's......tons of them!"
@@ -17480,7 +17480,7 @@ Mikoto: "Dad......you're still alive, right......?"
 Yuuhi: "Let us move past these trials together, and with the noble wills of those young men and women as our cornerstones, we will come together as one to achieve"ictory and peace."
 Yuuhi: "To all people of Japan......"
 Yuuhi: "I ask that you never forget those who gave their lives for the people in this country, the hearts of those who sacrificed themselves for their duty."
-Yuuhi: "I shall press onward, with the dying wills of countless warriors weighing on my shoulders." 
+Yuuhi: "I shall press onward, with the dying wills of countless warriors weighing on my shoulders."
 Yuuhi: "I ask that you all lend me your strength for a short while longer."
 Yuuhi: "Let us look to the future and press onward together, so that we may not repeat the same mistakes, but do what each and every one of us is meant to do."
 =======================================
@@ -26278,7 +26278,6 @@ Sumika: "Yeah, good morning, Shirogane-kun."
 Takeru: "............eh?"
 *――Good morning, Shirogane-kun.*
 *――Good morning, Shirogane-kun.*
-*――Good morning, Shirogane-kun.*
 *.................."Shirogane......kun"..................?*
 *......you seem kinda down.*
 *.........you're gonna make the teachers sad...... ......so try to cheer up, okay?*
@@ -27020,12 +27019,6 @@ Yuuko: "......never mind."
 *You'll remember if you read the diaries, so good luck!*
 *Keep reading until you remember!*
 *It'll be fine, so just calm down and remember.*
-*Takeru-chan, Takeru-chan, Takeru-chan, Takeru-chan.*
-*Takeru-chan, Takeru-chan, Takeru-chan, Takeru-chan.*
-*Takeru-chan, Takeru-chan, Takeru-chan, Takeru-chan.*
-*Takeru-chan, Takeru-chan, Takeru-chan, Takeru-chan.*
-*Takeru-chan, Takeru-chan, Takeru-chan, Takeru-chan.*
-*Takeru-chan, Takeru-chan, Takeru-chan, Takeru-chan.*
 *Takeru-chan, Takeru-chan, Takeru-chan, Takeru-chan.*
 *Takeru-chan, Takeru-chan, Takeru-chan, Takeru-chan.*
 Yuuko: "So that's what happened......"

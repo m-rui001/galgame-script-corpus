@@ -1,4 +1,4 @@
-﻿*I've always liked stargazing, but what really got me invested in space was my older cousin, Seiji. He's an even bigger space nut than I am, if that can be believed.*
+*I've always liked stargazing, but what really got me invested in space was my older cousin, Seiji. He's an even bigger space nut than I am, if that can be believed.*
 *When I was younger, Seiji used to take me hiking, so we could look up at the stars.*
 *He gave me a collapsible telescope for my twelfth birthday. It was a pretty cheap telescope, and it wasn't all that powerful, but I cherished it.*
 *Those days I spent with my cousin, out in the sticks, were truly precious.*
@@ -335,7 +335,6 @@ Haru: "Aaah."
 *Darkness consumes me, and my thoughts all slide into the abyss.*
 *...*
 *...*
-*...*
 Hiyori: "Hey, Haru. Wakey-wakey. You've had a full hour."
 Haru: "Zzzz, mm... Huh?"
 *I'm stirred from my torpor by a hand upon my shoulder, and a gentle exhalation of air against my cheek.*
@@ -502,7 +501,6 @@ Haru: "I-I'll be fine. You go on without me, please. Hiyori,  I-"
 Haru:  "Guh!!!"
 *I cough, choking on nothing, my head smacking against the roof with another thud.*
 *Then, everything goes black.*
-*...*
 *...*
 *...*
 Hiyori: "...ru? Are you alright, Haru...?!"
@@ -2195,7 +2193,6 @@ Haru: "Mm... Nn, zzz..."
 *When I look to the sky, I'm always reminded of just how unimportant my own problems are.*
 *It's this knowledge which gives me the fortitude to keep on going.*
 *I can do anything - or so I like to tell myself - so long as I can look to the stars for guidance.*
-*...*
 *...*
 *...*
 *And so, the next day...*

@@ -1,4 +1,4 @@
-﻿chapter2_0|いつもただ次のひと掃きを
+chapter2_0|いつもただ次のひと掃きを
 narrator:鳥の鳴き声が聞こえる。
 (scene change)
 narrator:意識はまだ遠い。

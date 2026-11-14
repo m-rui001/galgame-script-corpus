@@ -1,12 +1,12 @@
-doBoxBlurを時間変化でかけるプラグイン
-20111123	0.1	初期リリース
-↓中では行頭に*を書かないこと！
+通过时间变化施加doBoxBlur的插件
+20111123	0.1	初始发布
+↓中不要写在行首加*！
 var STOP=0, BLURING=1, PAUSE=2;	 現在のステータス
-var win;			 ウィンドウへの参照
+var win;			 对窗口的引用
 var dstpagestr;	 = 'fore';	 対象レイヤのページ(文字列)
 var dstlayerstr; = 'base';	 対象レイヤ(文字列)
-var dstlayer;			 対象レイヤ(レイヤオブジェクト)
-var srclayer;			 元画像(指定したレイヤのコピー)
+var dstlayer;			 目标图层（图层对象）
+var srclayer;			 原图像（指定图层的副本）
 var startx;	 = 0;		 ブラー開始時のブラーX成分
 var endx;	 = 63;	 ブラー終了時のブラーX成分
 var starty;	 = 0;		 ブラー開始時のブラーY成分
@@ -16,15 +16,15 @@ var time;	 = 2000;	 ブラー時間
 var sttime;			 タイマ開始時間
 var pausesttime = 0;		 ポーズ開始時間
 var srcfile;	 = ""		 元になるファイル
-return;	 初期化の初期化時は画像ないので。
-stop();		 ループ終了
+return;	 初始化初期时没有图像所以。
+stop();		 结束循环
 var fore_blurary = ;	 表画面ブラー配列
 var back_blurary = ;	 裏画面ブラー配列
-stop(,true);	 元に戻して終わる ... これ必要かなぁ。
+stop(,true);	 恢复原状后结束 ... 这有必要吗。
 timer.interval = 50;	 タイマ間隔 50 = 120秒に一回動かす
 fore_blurary.erase(i);	 終了したのを削除
 back_blurary.erase(i);	 終了したのを削除
-if (endflg)  終わってたらあるブラーの終了をKAGへ発砲
+if (endflg)  如果已结束则向KAG发送某个模糊的结束
 cg.base = 'hamon22'; 背景、透明部分がある場合は、直前のゲーム画面が見える
 cg.cg_button = 'save_button'; サムネイルと同じ大きさのボタン
 cg.cg_dummy = 'title1224'; まだ見ていないCGの位置に表示する画像
@@ -38,16 +38,16 @@ cg.page_basex =  kag.scWidth-100; ページボタンの初期x座標
 cg.page_basey = 100;   ページボタンの初期y座標
 cg.page_width = 0;  ページボタン間の幅
 cg.page_height = 50;  ページボタン間の高さ
-cg.page_cg = ;  	ページボタンに使用するボタン画像, この配列が空なら文字そうでないなら画像を表示する
-cg.nowpage_cg = ;	ページボタンに画像を使用するときはここに現在のページの画像を指定する
-cg.page_font = %;	ページボタンに文字を使うときのフォント
+cg.page_cg = ;  用于页面按钮的按钮图片，若此数组为空则显示文字，否则显示图片
+cg.nowpage_cg = ;	当页面按钮使用图片时，请在此指定当前页面的图片
+cg.page_font = %;	使用文字作为页面按钮时的字体
 cg.count_x = cg.thumbnail_width - 50;  差分画像をいくつみたかの表示のサムネイルからの相対x座標
 cg.count_y = cg.thumbnail_height - 30; 差分画像をいくつみたかの表示のサムネイルからの相対y座標
 cg.count_font = %;       差分画像をいくつみたかの表示フォント
 cg.close_x=kag.scWidth-150; 閉じるのx座標
 cg.close_y=kag.scHeight-40; 閉じるのy座標
-cg.close_button = '';	閉じるにボタン画像を使用するなら指定する。空のときは文字を使う
-cg.close_font = %;	閉じるに文字を使用するときのフォント
+cg.close_button = '';	关闭按钮若使用图片则在此指定。留空时使用文字
+cg.close_font = %;	使用关闭时文字所用的字体
 cg.cg_storage = [ ファイル名を入れる
 cg.cg_sstorage = [ サムネイルファイル名を入れる
 cg.complete = function (){ 全CGを見たことにする(デバッグ用)
@@ -86,8 +86,8 @@ var close_sub_label	= '*config_sub_close'; ラベル名
 var close_sub_storage	= 'config_sub.ks'; ファイル名
 var button_graphic = [ ボタンの画像を指定
 var togglebutton_graphic = [ 	トグルボタンの画像を指定(左から, 未チェック状態チェックされた状態未チェックでカーソルがあたった状態)
-function wheel(shift, delta, x, y)	マウスホイールでページ移動
-var jump; ジャンプ先指定用
+function wheel(shift, delta, x, y)	用鼠标滚轮翻页
+var jump; 用于指定跳转目标
 config_plugin_obj.togglebutton_00 = kag.chNonStopToPageBreak; ページ末まで一度に表示
 config_plugin_obj.togglebutton_01 = kag.ch2ndNonStopToPageBreak; 既読ページ末まで一度に表示
 config_plugin_obj.togglebutton_04 = sf.chEdge;	 縁取り
@@ -103,17 +103,17 @@ var	curvals = ;	 現在の位置
 var	accel = 0;	 加速度的に扱うか =0:等速、<0:減速、>0:加速
 var	processTime = 0; 処理にかかる時間
 var	infinity = false;	 無限フラグ
-if(accel < 0) {  上弦(最初が動きが早く、徐々に遅くなる)
-else if(accel > 0) {  下弦(最初は動きが遅く、徐々に早くなる)
-return ret > 0 ? ret : 0;	 -の値を返すのを防ぐ
+if(accel < 0) {  上弦（最初动作快，逐渐变慢）
+else if(accel > 0) {  下弦（最初动作慢，逐渐变快）
+return ret > 0 ? ret : 0;	 防止返回负值
 *const* var mWait = 2;  待ち
-dm('CutIn用ストレージ'+storage+'がありません');
-owner.s(%);  ハンドラの s (停止) を呼ぶ
+dm('没有CutIn用的存储'+storage+'');
+owner.s(%);  调用处理程序的 s（停止）
 throw new Exception(scriptname + " の 行 " + lineofs + " から始まる"
-var name;		 このカットインの名前
-var shlayer;		 画像保存用シャドウレイヤ
-var storage;		 画像ファイル
-var conductor;		 CutIn用コンダクタ
+var name;		 这个切入的名字
+var shlayer;		 用于保存图像的阴影图层
+var storage;		 图像文件
+var conductor;		 CutIn用的引导器
 var p_scale;		 拡大縮小情報
 var p_locatex;		 位置、移動情報X
 var p_locatey;		 位置、移動情報Y
@@ -124,7 +124,7 @@ shlayer.visible = false;	 通常表示しないので
 timer.interval	= 16.667;	 (16.667msec = 160秒で一回)
 savedata	= void;	 最初はvoidに。
 layer.left = posx - ary2; ← aryのために、この関数内に
-if(!needHandling(tick))	 次回からのタイマ停止はこの中で実施
+if(!needHandling(tick))	 从下次开始的定时器停止在此中执行
 if(edvals === void) {  ↓dstpos が指定されてなかったら relpos
 conductor.tagpending(elm);  後回し
 return p_locatex.toFinishTime(tick) + 1;  この+1重要
@@ -136,81 +136,81 @@ Scripts.eval(elm.exp);  elm.exp を式として実行
 throw new Exception(scriptname + " の 行 " + lineofs + " から始まる"
 conductor.tagpending(elm);  処理中なら後回し
 dic.p_scale	= p_scale.store();	 現在の状態を保存する
-中では頭に*を書かないこと！*
+中不要写在开头加*！*
 p_scale.restore(dic.p_scale);		 位置を復元
 var foreCutIns = ;	 表画面のcutin配列
 var backCutIns = ;	 裏画面のcutin配列
 elm.name = 'all';	 nameは必須なのでallにしちゃう
-obj.store();		 最初の状態をセーブ可能にしておく
+obj.store();		 使初始状态可保存
 var warn_anim, warn_province, warn_partial;  警告メッセージ表示用
 var tmpLayer = new Layer(kag, layer);  一時レイヤを作ります
-tmpLayer.assignImages(layer);  一時レイヤに操作対象のレイヤの画像をコピーします
+tmpLayer.assignImages(layer);  将操作对象图层的图像复制到临时图层
 var width = (int)(tmpLayer.imageWidth * xscale  100);  拡大／縮小後の幅を計算します
 var height = (int)(tmpLayer.imageHeight * yscale  100);  拡大／縮小後の高さを計算します
-width = 1 if width < 1;  幅は必ず 1 ピクセル以上になるようにします
-height = 1 if height < 1;  高さも必ず 1 ピクセル以上になるようにします
-layer.setImageSize(width, height);  操作対象のレイヤのサイズを変更します
-layer.setSizeToImageSize();  操作対象のレイヤのサイズを画像のサイズに合わせます
-invalidate tmpLayer;  一時レイヤはもう必要ないので無効化します
+width = 1 if width < 1;  确保宽度始终不小于1像素
+height = 1 if height < 1; 同时确保高度也一定不小于 1 像素
+layer.setImageSize(width, height);  更改操作对象图层的尺寸
+layer.setSizeToImageSize();  将操作对象图层的尺寸调整为图像的尺寸
+invalidate tmpLayer;  临时图层不再需要，因此将其无效化
 var tmpLayer = new Layer(kag, layer);  一時レイヤを作ります
-tmpLayer.assignImages(layer);  一時レイヤに操作対象のレイヤの画像をコピーします
-layer.setImageSize(width, height);  操作対象のレイヤのサイズを変更します
-layer.setSizeToImageSize();  操作対象のレイヤのサイズを画像のサイズに合わせます
-invalidate tmpLayer;  一時レイヤはもう必要ないので無効化します
+tmpLayer.assignImages(layer);  将操作对象图层的图像复制到临时图层
+layer.setImageSize(width, height);  更改操作对象图层的尺寸
+layer.setSizeToImageSize();  将操作对象图层的尺寸调整为图像的尺寸
+invalidate tmpLayer;  临时图层不再需要，因此将其无效化
 var tmpLayer = new Layer(kag, layer);  一時レイヤを作ります
-tmpLayer.assignImages(layer);  一時レイヤに操作対象のレイヤの画像をコピーします
+tmpLayer.assignImages(layer);  将操作对象图层的图像复制到临时图层
 var width = (int)(xw * Math.abs(cos) + yh * Math.abs(sin));  変換後の幅を計算します
 var height = (int)(xw * Math.abs(sin) + yh * Math.abs(cos));  変換後の高さを計算します
-width = 1 if width < 1;  幅は必ず 1 ピクセル以上になるようにします
-height = 1 if height < 1;  高さも必ず 1 ピクセル以上になるようにします
-layer.setImageSize(width, height);  操作対象のレイヤのサイズを変更します
-layer.setSizeToImageSize();  操作対象のレイヤのサイズを画像のサイズに合わせます
-invalidate tmpLayer;  一時レイヤはもう必要ないので無効化します
+width = 1 if width < 1;  确保宽度始终不小于1像素
+height = 1 if height < 1;  同时确保高度至少为 1 像素
+layer.setImageSize(width, height);  更改操作对象图层的尺寸
+layer.setSizeToImageSize();  将操作对象图层的尺寸调整为图像的尺寸
+invalidate tmpLayer;  临时图层不再需要，因此将其无效化
 var left = kag.scPositionX;  pos 属性の値に相当する画像の水平方向中心位置を取得します
 var maxval = value;  第１引数を現在の最大値とします
-return maxval;  引数のうち最大の値を返します
+return maxval;  返回参数中的最大值
 var minval = value;  第１引数の値を現在の最小値とします
-return minval;  引数のうち最小の値を返します
-return true;  表画面の前景レイヤ配列の中に該当するレイヤがあれば true を返します
-return true;  裏画面の前景レイヤ配列の中に該当するレイヤがあれば true を返します
+return minval;  返回参数中的最小值
+return true;  如果表画面的前景图层数组中存在对应图层，则返回 true
+return true;  如果里画面的前景图层数组中存在对应图层，则返回 true
 var processed = false;  画像処理が実行された場合 true になります
-warn(layer, "eximage マクロでアニメーション情報を持つ画像を読み込むと正しく動作しない可能性があります。");
-warn(layer, "eximage マクロで領域アクション定義をもつ画像(クリッカブルマップ)を読み込むと正しく動作しない可能性があります。");
-warn(layer, "eximage マクロで画像を読み込んだ後に image タグまたは exmove マクロ以外でレイヤの画像を変更すると正しく動作しない可能性があります。", false);
-warn(layer, "eximage マクロで読み込んだ画像に pimage タグで部分画像を読み込んだり ptext タグで文字列を書き込むと正しく動作しない可能性があります。", false);
+warn(layer, "使用 eximage 宏读取带有动画信息的图像时，可能无法正常运作。");
+warn(layer, "使用 eximage 宏读取带有区域动作定义的图像(可点击地图)时，可能无法正常运作。");
+warn(layer, "使用 eximage 宏读取图像后，如果通过 image 标签或 exmove 宏以外的方式更改图层图像，可能无法正常运作。", false);
+warn(layer, "如果对使用 eximage 宏读取的图像通过 pimage 标签读取部分图像，或通过 ptext 标签写入字符串，可能无法正常运作。", false);
 message = (page ? "表画面の " : "") + index + " 番のレイヤについてn" + message;
 message = (page ? "裏画面の " : "") + kag.back.layers.find(layer) + " 番のレイヤについてn" + message;
-System.inform(message, "警告");  警告メッセージボックスを表示する場合
+System.inform(message, "警告");  显示警告消息框时
 var foreFlags = f.foreCharacterLayers;  表画面の前景レイヤの情報が記録されている配列
 var backFlags = f.backCharacterLayers;  裏画面の前景レイヤの情報が記録されている配列
-var layer;  操作対象のレイヤへの参照
+var layer;  对操作对象图层的引用
 var refLayer;  一時レイヤ
 var currentScale;  現在の拡大率(%)
 var currentAngle;  現在の回転角(°)
 var _path = , pathex = ;  移動位置・不透明度の変化, 拡大率・回転角の変化
 var _time;  １区間あたりの移動時間(ms)
 var centerX, centerY;  拡大・縮小・回転の中心位置
-var moveFunc;  画像を拡大・縮小・回転するためのメソッド(rotate or resize)
+var moveFunc;  用于放大、缩小、旋转图像的方法(rotate 或 resize)
 var rect = %;  クリッピングのための矩形情報
 var prevClip = true;  前回のハンドラ呼び出しでクリッピングしたか
-var prevOX, prevOY;  前回のハンドラ呼び出し時の(DefaultMoverにより設定された)レイヤの座標
-var prevX, prevY;  前回のハンドラ呼び出し時の(ExtendedMoverにより設定された)レイヤの座標
+var prevOX, prevOY;  上次调用处理程序时的(由 DefaultMover 设置的)图层坐标
+var prevX, prevY;  上次调用处理程序时（由 ExtendedMover 设置的）图层的坐标
 var scaleX, scaleY;  X, Y 方向初期拡大率
-var transformParams;  初期状態での(x1, y1, x2, y2, x3, y3 属性指定による)アフィン変換パラメータ
+var transformParams;  初始状态下的（根据 x1, y1, x2, y2, x3, y3 属性指定的）仿射变换参数
 var regInit = new RegExp("", "g");  path 属性に  (初期値)を指定可能にするための正規表現オブジェクト
 var regPrev = new RegExp("", "g");  path 属性に $ (前区間での値)を指定可能にするための正規表現オブジェクト
 if(loadParams !== void)  レイヤに画像が読み込まれていれば以下のブロックを実行します
 moveFunc = rotate;  回転する場合は rotate メソッドを使用します
-moveFunc = rotate;  回転しない場合でも初期回転角が 0°でなければ回転するものとみなして rotate メソッドを使用します
+moveFunc = rotate;  即使不旋转，只要初始旋转角不为 0°，就视为会发生旋转，从而使用 rotate 方法。
 moveFunc = resize;  拡大・縮小はするが回転しない場合は resize メソッドを使用します
 if(moveFunc !== void && loadParams.storage !== void)  拡大・縮小・回転する場合は以下のブロックを実行します
-return prev;  何も指定されていない(値が省略されている)場合は前区間の値を返します
-System.inform("exmove マクロの path 属性解析中にエラーが発生しました。n"
-throw e;	 後の処理は KAG システムにお任せします
+return prev;  如果未指定任何内容（省略了值），则返回前一个区间的值
+System.inform("exmove 宏的 path 属性解析过程中发生错误。n"
+throw e;	 后续处理交给 KAG 系统
 var finalAngle = (int pathex) % 360;  最終回転角(-359°～359°の範囲になるように調整します)
-calcRotateParams(rotateParams, refLayer, fa, fs);  アフィン変換のパラメータを計算します
-rotateImage(stFastLinear, false);  移動が終わったのでクリッピングなし＆線形補間でアフィン変換します
-scaleImage(fs, stFastLinear, false);  移動が終わったのでクリッピングなし＆線形補間で拡大・縮小します
+calcRotateParams(rotateParams, refLayer, fa, fs);  计算仿射变换的参数
+rotateImage(stFastLinear, false);  移动已结束，因此进行无裁剪＆线性插值的仿射变换
+scaleImage(fs, stFastLinear, false);  移动已结束，因此进行无裁剪＆线性插值的放大・缩小
 layer.setPos(layer.left - rotateParams.dspX, layer.top - rotateParams.dspY);  位置調整します
 var index = tickCount  time * 2;  現在の区間を計算します
 var ratio = tickCount % time  time;  現在の区間内の位置を計算します
@@ -220,26 +220,26 @@ var es = pathex;  現在の区間での最終拡大率
 var ea = pathex;  現在の区間での最終回転角
 var width = int(refLayer.imageWidth * scale);  拡大・縮小後の幅を計算します
 var height = int(refLayer.imageHeight * scale);  拡大・縮小後の高さを計算します
-width = 1 if width < 1;  幅は必ず 1 ピクセル以上になるようにします
-height = 1 if height < 1;  高さも必ず 1 ピクセル以上になるようにします
-layer.setImageSize(width, height);  レイヤのサイズを変更します
-layer.setSizeToImageSize();  レイヤのサイズを画像のサイズに合わせます
-layer.setImageSize(width, height);  レイヤのサイズを変更します
-layer.setSizeToImageSize();  レイヤのサイズを画像のサイズに合わせます
+width = 1 if width < 1; 确保宽度至少为 1 像素
+height = 1 if height < 1；高度也确保至少为 1 像素
+layer.setImageSize(width, height);  更改图层的尺寸
+layer.setSizeToImageSize();  将图层的尺寸调整为图像的尺寸
+layer.setImageSize(width, height);  更改图层的尺寸
+layer.setSizeToImageSize();  将图层的尺寸调整为图像的尺寸
 centerPos.cx = internalGetCenterPos(elm.cx, layer.imageWidth, mag);  cx 属性の値をチェックします
 centerPos.cy = internalGetCenterPos(elm.cy, layer.imageHeight, mag);  cy 属性の値をチェックします
 if(val.charAt(val.length - 1) == '%')  パーセント表記の場合は以下の式で中心点の座標を計算します
-return length * .5;  値が省略されている場合は 50% とみなします
-layer.window.moveCount++;  動いているレイヤの数を１つ増やします(この値は kag オブジェクトがレイヤの移動を管理するために使用します)
-layer.moveObject.startMove(+elm.delay);  レイヤの移動を開始します
+return length * .5;  如果省略了值，则视为 50%
+layer.window.moveCount++;  将正在移动的图层数量增加 1（该值由 kag 对象用于管理图层的移动）
+layer.moveObject.startMove(+elm.delay);  开始图层的移动
 var stopped = false;  レイヤの移動が既に停止しているか
 global.LinearMover.move(...);  位置と不透明度を設定します
 global.ExtendedMover.move(...);  拡大・縮小・回転を行います
-stopMove();  例外が発生したら移動を停止します
-throw e;  後は吉里吉里システムにお任せします
-var clickse, clicksebuf;	 クリックされたときに再生する効果音のファイル名とバッファ番号
-var enterse, entersebuf;	 ボタンの上にマウスカーソルが乗った時に再生する効果音のファイル名とバッファ番号
-var leavese, leavesebuf;	 ボタンの上からマウスカーソルが出て行った時に再生する効果音のファイル名とバッファ番号
+stopMove();  如果发生异常则停止移动
+throw e;  后续交给吉里吉里系统
+var clickse, clicksebuf;	 被点击时播放的效果音的文件名和缓冲区编号
+var enterse, entersebuf;	 鼠标光标移到按钮上时播放的效果音的文件名和缓冲区编号
+var leavese, leavesebuf;	 鼠标光标从按钮上移开时播放的效果音的文件名和缓冲区编号
 var foreSeen = false;  表画面のボタンが可視か
 var backSeen = false;  裏画面のボタンが可視か
 var foreButtons = ;  表画面のボタンの配列
@@ -253,27 +253,27 @@ obj.hint = '进入设置界面';
 obj.hint = '返回标题画面';
 x_width = 70;  ボタン間の幅
 y_height = 0;  ボタン間の高さ
-obj.absolute = 2000000-3;  重ね合わせ順序はメッセージ履歴よりも奥にします
+obj.absolute = 2000000-3;  叠放顺序放在消息历史的后面（更靠里层）
 realign();  表示位置の変更
-{ 安定時は、回想モードかどうかで有効にするボタンを変える
-{ 回想モード
-{  走行中は各ボタンを無効にする
-setOptions(elm);			 ↑デフォルト値
+{ 稳定时，根据是否为回想模式来改变要启用的按钮
+{ 回想模式
+{  运行中禁用各按钮
+setOptions(elm);			 ↑默认值
 invalidate timer;	 先に invalidate
-if (Butt_mouseDown) {	ボタンが押されていれば
-if (Butt_mouseDown)	 まだボタンが押されていれば繰り返し
-else			 押されてなければ終了
+if (Butt_mouseDown) {	如果按钮被按下
+if (Butt_mouseDown)	 如果按钮仍被按下则重复
+else			 如果未被按下则结束
 var minheight = 16;	 スクロールバーの最小高さ
 minheight = graphic.width3-1;	 1dot = 中央サイズ
 minheight = graphic.height-1;	 1dot = 中央サイズ
-return;	 drag中でなければ終了
+return;	 如果不在拖拽中则结束
 parent.onKeyDown(...);	 親を呼ぶ
 var target;			 操作する対象(History)
-var prev, next;			 前ボタン、次ボタン
-var slider;			 スライダー部分
-var timer;	 スクロールバーのスライダ外を押した時のリピートタイマ
+var prev, next;			 前一个按钮、下一个按钮
+var slider;			 滑块部分
+var timer;	 按下滚动条滑块外区域时的重复定时器
 var dst;			 ↑の目的値
-var graphic;			 背景グラフィック
+var graphic;			 背景图形
 timer.enabled = false;		 最初は falseに
 invalidate timer;	 先に invalidate
 super.initState(...);		 この中でprevnextは変更済み
@@ -282,53 +282,53 @@ super.initState(...);		 この中でprevnextは変更済み
 prev.setPos(width-prev.width,0);  ボタン位置を設定
 var elmary = ;	 ライン中のタグ配列。文字列はで蓄積
 var linetop = 0;	 表示開始位置
-* searchTag()は使わなくなったので容量削減のため削除
+* searchTag()已不再使用，因此为削减容量而删除
 if (!search_from_back) {	 前から探す
-} else {			 後ろから探す
-行頭*はナシ *
+} else {			 从后往前查找
+行首*不需要 *
 width += +elmary.hwidth;	 タグ幅を合計
-var tagstack;	 タグを保存する配列
+var tagstack;	 保存标签的数组
 var inrubytag = %;	 hrubyタグでstr=が指定されてなかった時に使用
-var tagstack;		 タグスタック(行末で状態を元に戻すために使用)
+var tagstack;		 标签栈（用于在行末恢复状态）
 if (elm.align == 'l')			 左ぞろえなら
 else if (elm.align == 'r')		 右ぞろえなら
 else if (elm.align == 'e' && cw > rw) {	 均等割りなら
-return void; 	 自動改行を行わない場合は終了
-return void;	 一行に収まっていれば終了
+return void; 	 不进行自动换行时结束
+return void;	 如果已收在一行内则结束
 if (space == 0) {  左右中央揃えの時
 } else {  均等割りの時
 if (inrubytag.tagname !== void) {  ruby中なら
 var e = elmary;	 以前のTAGに接続
 e.text += ch;		 ↓文字列長を更新
-return '';		 一行に収まったら O.K.
+return '';		 如果已收在一行内则 O.K.
 var backup_fontinfo = owner.getFontInfo(); フォント情報を保存
 owner.setFontInfo(backup_fontinfo);	 フォント情報を戻す
 return true; 	 自動改行しない場合は終了
 var next = calcRubyPos(e);	 改行チェック
 if (next !== void) {	 間で改行が必要なら
-addTag(elm);  今のタグを追加
-throw new Exception("履歴が縦書きモードでないとは使用できません");
+addTag(elm);  添加当前标签
+throw new Exception("历史记录不是竖排模式时无法使用");
 var savestr = "";	 これは高速化のために追加。ないとラベルごとの
 var hbuttons=, hacts=, himages=;	 ボタン、アクション、画像
-delButtons();	 ボタンゴミが残っていたらアレなので削除する
+delButtons();	 如果残留了按钮垃圾会有点问题，所以删除
 fs = owner.font.height;  動的なのでここで
 if (!btn_visible)  全部画面外なら全部削除
-clear();	 このときはボタンは考慮不要、削除すればよい
+clear();	 此时无需考虑按钮，直接删除即可
 for (var i = ary.count-1; i >= 1; i--) {  =の後にTJS式は不可
-else		↓tabをデリミタとして分割
+else		↓以tab作为分隔符分割
 super.restore(void);	 引数は void でよい
-owner.setDefaultFont();	 色をデフォルトに戻す
+owner.setDefaultFont();	 将颜色恢复为默认
 hb.setOptions(e);	 画像読み込みとか
-if (o.verticalView)  縦書きならセンタリング
-else  横書きなら下ぞろえ
+if (o.verticalView)  如果是竖排则居中
+else  如果是横排则底部对齐
 o.drawText(dx, dy, e.str);  まず文字を書く
 e.st_x = x;  座標だけ覚えとく
 var e = hactsave; 必ず設定されているはず
 if (size <= 0)	 丁度次の行からhactが始まる時
-return;	 何もしない
+return;	 什么都不做
 hi.setOptions(e);	 画像読み込みとか
 return hi.width;   下揃え
-throw new Exception("履歴が縦書きモードでないとは使用できません");
+throw new Exception("历史记录不是竖排模式时无法使用");
 f.face = f.face.substr(1);  を除去
 var antialiased = true;		 アンチエイリアス文字描画を行うか
 var verticalView = true;	 縦書きかどうか
@@ -357,10 +357,10 @@ var repageLine = 0;		 改ページ行数
 var dispStart = 0;		 現在の表示行(dataStartからの距離)
 var dispLines = 0;		 履歴メッセージ表示可能行数
 var canScroll = false;		 履歴がscroll可能かどうか
-var currentLine;		 現在の行の文字とタグの保存クラス
+var currentLine;		 当前行的字符和标签保存类
 var storeState = false;		 状態を栞に保存するか
 var wwLeading="$([{「‘“（〔［｛〈《「『【￥＄￡";  行末禁則文字
-var fontcolor;			 現在のヒストリ文字色
+var fontcolor;			 当前历史记录文字颜色
 var shadowLevel   = 0;		 デフォルト影レベル
 var shadowColor   = 0x000000;	 デフォルト影色
 var shadowWidth   = 0;		 デフォルト影幅
@@ -375,36 +375,36 @@ name = "履歴メッセージレイヤ";
 hitThreshold = 1;	 透明部分も含め全体でイベントを受ける
 registerTags();		 履歴用のタグを登録
 elm.top = sch;  横書き時も下げる
-clearLinesRemaining();	 行ページデータを全部削除
+clearLinesRemaining();	 删除全部行页面数据
 dataLines = 1;  0 だと最終行が履歴に表示されない
-clear(); これないとロード時に履歴がクリアされない
-return;	 実際はMainWindowから呼ばれないから不要だけど
-clear();  これないとロード時に履歴がクリアされない
-if (everypage) { ページ単位の場合
+clear(); 没有这个的话加载时历史记录不会被清除
+return;	 实际上不会从MainWindow调用所以不需要
+clear();  没有这个的话加载时历史记录不会被清除
+if (everypage) { 按页单位的情况下
 } else {  if (!everypage) 行単位の場合
 if (currentLine.addChar(ch) != '') {	 改行必要なら
 reline();			 改行して
-addChar(ch);			 文字を追加しなおし
+addChar(ch);			 重新添加字符
 if (!currentLine.addTag(e)) {		 改行必要なら
 reline();			 改行して
-addTag(e);			 タグを追加しなおし
-return;  行に表示物がない場合、なにもしない
-repage();  改ページすべき行数になったとき
+addTag(e);			 重新添加标签
+return;  行内没有显示内容时，什么都不做
+repage();  达到应该分页的行数时
 fillRect(x, y, w, h, 0);	 透明にする
-clearBack();	 念のため終了時は clearBack() しておく
-return;  スクロールできないなら帰る
-moveButtons(-1);	 ボタン位置を補正する
-moveButtons(1);	 ボタン位置を補正する
+clearBack();	 以防万一结束时先 clearBack()
+return;  无法滚动的话就返回
+moveButtons(-1);	 修正按钮位置
+moveButtons(1);	 修正按钮位置
 if (dataLines <= dispLines)  表示可能範囲内に収まる
-else			 表示可能範囲内に収まらない
+else			 不在可显示范围内
 face = face.substr(1);	 最初のがあれば取る
 return 0;	 これonTag()に必要
-var time;			 フェードイン・アウトにかかる時間
-var starttime;			 フェード開始時間
-var status;			 フェード状態
+var time;			 淡入淡出所需时间
+var starttime;			 淡入开始时间
+var status;			 淡入淡出状态
 var closeButton;		 右上の履歴終了ボタン
-var meslayer;			 メッセージ表示レイヤ
-var lastWheelTick;  最後にホイールを操作した tick count
+var meslayer;			 消息显示层
+var lastWheelTick;  最后操作滚轮的 tick count
 var bggraphic = "";		 背景画像ファイル名
 var prevgraphic = "";		 prevボタンの画像ファイル名
 var nextgraphic = "";		 nextボタンの画像ファイル名
@@ -428,25 +428,25 @@ invalidate closeButton;	 存在するなら再設定
 closeButton.hint         = "メッセージ履歴を閉じる";
 opacity = 0;	 fadeのため最初は opacity = 0
 enabled = true;	 これが無いと setMode() でエラーになる
-removeMode();	 上にあるとsystembuttonにフォーカスされるので
-if (fadeobj.isFading()) {  フェード中ならフェード終了する
-* くるくる回しているうちにいきなり履歴が
-閉じたりしないような仕掛け *
+removeMode();	 在上方的话焦点会转移到systembutton所以
+if (fadeobj.isFading()) {  如果正在淡入淡出中则结束淡入淡出
+* 在转来转去的过程中突然历史记录
+不会关闭之类的机制 *
 var exp = "";		 クリック時に実行されるTJS式
 var exp = "";	 クリックされた時に実行されるTJS式
 fillRect(w,  0, w,h, 0x90000000|c);	 押された時
 Butt_imageLoaded = true;	 強制的にイメージボタンにする
 var graphic;	 表示する画像
-return;		 実行しないならしない。
+return;		 不执行就不执行。
 先頭に注意 *
 var startdisp = 0;	 開始位置(0=画面外から、10=10ドット画面に入った状態で
 var enddisp = 0;	 停止位置(0=画面外まで、10=10ドット残して)
 timer.interval  = 33.33333;  (33.33333msec = 130秒で一回)
 edtick = System.getTickCount();	 最終位置に移動
-var recordfile;		 セーブするファイル名(フルパス)
+var recordfile;		 保存的文件名(完整路径)
 var labels     = %;	 既読ラベル辞書配列
 var needtosave = false;	 変更されたかフラグ(変更なければセーブしない)
-restore();	 既存データを読み込み、labels初期化
+restore();	 读取现有数据，初始化 labels
 return +labels;	 void ならば +void = 0 が返る
 needtosave = false;	 書き込み直後はセーブ不要とマーク
 needtosave = false;	 読み込み直後はセーブ不要とマーク
@@ -454,12 +454,12 @@ w.currentRecordStorage = "";	 現在のシナリオファイル名
 w.currentRecordLabel   = "";	 現在のラベル名
 w.recordfiles = %;		 既読ラベルファイル配列
 var uuid = uuidhash;	 既存なら既存UUID指定
-do {  UUID が重複しなくなるまで無限ループ
+do {  无限循环直到 UUID 不再重复
 uuidhash = uuid;  新規なら新規UUIDを設定
-KLayersのスケルトンは以下の通り。
-class KAGLayers_skelton  extends KAGLayer(またはその派生レイヤ)
-var classid;	 クラス名の文字列
-行頭から書いちゃうとラベルと認識されてしまう。注意 *
+KLayers 的骨架如下。
+class KAGLayers_skelton  extends KAGLayer(或其派生图层)
+var classid;	 类名的字符串
+写在行首的话会被识别为标签。注意 *
 var captionface = "ＭＳ Ｐゴシック";	 フォント名
 var captioncolor = 0x0;		 文字色(透明度はない)
 var captionsize = 16;		 文字サイズ
@@ -467,42 +467,42 @@ var captionalignx = 'center';	 文字表示位置(leftcenterright)
 var captionaligny = 'center';	 文字表示位置(topcenterbottom)
 var color = 0x80ffffff;		 背景色(ホントはsetterにしてupdate()
 var graphic = void;		 画像ファイル名(voidで画像なし)
-hitThreshold = 256;	 デフォルトでは当たり判定なし
+hitThreshold = 256;  默认情况下无碰撞判定
 super.update();		 次回描画する
 graphic = void;	 loadImages()で設定したgraphicが
 this.graphic = void;	 "" だと他で困るので除く
 callOnPaint = true;	 次回描画する
 hasImage = 0;	hasImage = 1;	 これで画像を一度無効化する
 var lines = caption.split();  改行で配列に変換
-var animinfo;			 アニメーション情報ファイル(.adf)
+var animinfo;			 动画信息文件(.adf)
 super.restore(dic);	 この中で setOptions(dic) を実行する
 var sy = str2num(elm.sy);  def=0(-imageLeftじゃない) に注意
 return elm.time;  指定時間だけ停止
 var countpage 		= true;		 タグのcountpage参照
 var repeatable          = false;	 リピート可能かどうか
-var repeattimer;			 リピート動作のタイマー
+var repeattimer;			 重复动作的计时器
 var repeatinterval1     = 500;		 リピート間隔1(初回)
 var repeatinterval2     = 100;		 リピート間隔2
-var onclick;		 押された時に実行する動作
-var clickse;		 押された時に鳴らす音
+var onclick;		 被按下时执行的动作
+var clickse;		 被按下时播放的音效
 var clicksebuf = 0;	 押された時に鳴らす音のバッファ
-var clickstorage;	 押された時にジャンプするシナリオファイル
-var clicktarget;	 押された時にジャンプするシナリオラベル
-var onrelease;		 離された時に実行する動作
-var releasese;		 離された時に鳴らす音
+var clickstorage;	 被按下时跳转的剧本文件
+var clicktarget;	 被按下时跳转的剧本标签
+var onrelease;		 被松开时执行的动作
+var releasese;		 被松开时播放的音效
 var releasesebuf = 0;	 離された時に鳴らす音のバッファ
-var releasestorage;	 離された時にジャンプするシナリオファイル
-var releasetarget;	 離された時にジャンプするシナリオラベル
-var onenter;		 ポインタが入った時に実行する動作
-var enterse;		 ポインタが入った時に鳴らす音
+var releasestorage;	 被松开时跳转的剧本文件
+var releasetarget;	 被松开时跳转的剧本标签
+var onenter;		 指针进入时执行的动作
+var enterse;		 指针进入时播放的音效
 var entersebuf = 0;	 ポインタが入った時に鳴らす音のバッファ
-var enterstorage;  ポインタが入った時にジャンプするシナリオファイル
-var entertarget;   ポインタが入った時にジャンプするシナリオラベル
-var onleave;		 ポインタが出た時に実行する動作
-var leavese;		 ポインタが出た時に鳴らす音
+var enterstorage;  指针进入时跳转的剧本文件
+var entertarget;   指针进入时跳转的剧情标签
+var onleave;		 指针离开时执行的动作
+var leavese;		 指针离开时播放的音效
 var leavesebuf = 0;	 ポインタが出た時に鳴らす音のバッファ;
-var leavestorage;  ポインタが出た時にジャンプするシナリオファイル
-var leavetarget;   ポインタが出た時にジャンプするシナリオラベル
+var leavestorage;  指针离开时跳转的剧情文件
+var leavetarget;   指针离开时跳转的剧情标签
 focusable = true;	 フォーカスを得られる
 if (elm.exp !== void)	 onreleaseはexpと全く同じ
 super.restore(dic);	 この中で setOptions(dic) を実行する
@@ -510,65 +510,65 @@ var Butt_imageLoaded    = false;	 画像が読み込まれたか
 var Butt_mouseOn        = false;	 レイヤ内にマウスがあるか
 var Butt_mouseDown      = false;	 マウスボタンが押されているか
 var Butt_captionColor   = 0x000000;	 キャプションの色
-s = 1;  押されている
+s = 1; 被按住了
 super.restore(dic);	 この中で setOptions(dic) を実行する
-var animinfo;		 アニメーション定義ファイル名
+var animinfo;		 动画定义文件名
 var maxpatternnum = 1;	 現在のアニメーションセル最大数
 startAnim(, '*onclick');	 "*onclick"からアニメ開始
 startAnim(, '*onenter');	 "*onenter"からアニメ開始
 startAnim(, '*normal');	 "*normal"からアニメ開始
 var sy = str2num(elm.sy);  def=0(-imageLeftじゃない) に注意
-setImagePos(imageLeft, -(sy));	 ここも横方向は変更しない
+setImagePos(imageLeft, -(sy));	 这里也不改变横向方向
 return elm.time;  指定時間だけ停止
 super.restore(dic);	 この中で setOptions(dic) を実行する
-var oncheck;		 check された時に呼ばれる TJS 関数
-var checkse;		 check された時に鳴らす音
+var oncheck;		 被 check 时调用的 TJS 函数
+var checkse;		 被 check 时播放的音效
 var checksebuf = 0;	 押された時に鳴らす音のバッファ
-var checkstorage;	 check された時に呼ばれる KAG ストレージ
-var checktarget;	 check された時に呼ばれる KAG target
-var onuncheck;		 uncheck された時に呼ばれる TJS 関数
-var uncheckse;		 check された時に鳴らす音
+var checkstorage;	 被 check 时调用的 KAG 存储
+var checktarget;	 被 check 时调用的 KAG target
+var onuncheck;		 被 uncheck 时调用的 TJS 函数
+var uncheckse;		 被 check 时播放的音效
 var unchecksebuf = 0;	 押された時に鳴らす音のバッファ
-var uncheckstorage;	 uncheck の時に呼ばれる KAG ストレージ
+var uncheckstorage;	 uncheck 时调用的 KAG 存储
 var unchecktarget;	 uncheck の時に呼ばれる KAG target
-if (checked)	 押されてた時は何もしない
-checked = true;	 強制チェック時にも呼ぶのでフラグon必要
-if (!checked)	 押されてなかった時は何もしない
-checked = false; 強制チェック時にも呼ぶのでフラグoff必要
-onUncheck(...);  チェックが解除された
+if (checked)	 被按下时什么都不做
+checked = true;	由于强制检查时也会调用，需要将标志置为开启
+if (!checked)	 未被按下时什么都不做
+checked = false; 强制勾选时也会调用，所以需要将标志置为off
+onUncheck(...);  已解除勾选
 startAnim(, "*onenter");  チェック時のみ*onenter開始
 startAnim(, "*oncheck"); チェック時のみ*oncheck開始
 super.restore(dic);	 この中で setOptions(dic) を実行する
-focusable = false;	 これはフォーカスされない(親がされる)
+focusable = false;	 该元素不会被聚焦（由父元素被聚焦）
 parent.onCheck(...);	 親も呼ぶ
 parent.onUncheck(...);	 親も呼ぶ
 parent.onMouseDown(...);	 親も呼ぶ
 parent.onMouseUp(...);		 親も呼ぶ
 parent.onMouseEnter(...);	 親も呼ぶ
 parent.onMouseLeave(...);	 親も呼ぶ
-setOptions(elm);  トグルと自身を設定するために別で呼ぶ
+setOptions(elm);  为了设置开关和自身而另行调用
 delete e.left;	 XY座標は0,0固定なので削除
 super.restore(dic);  この中で setOptions(dic) を実行する
 var dragging = false;	 ドラッグ中フラグ
 var clickx=0, clicky=0;	 クリックされた時の座標保存用
-return;	 drag中でなければ終了
+return;	 如果不在 drag 中则结束
 parent.onKeyDown(...);	 親を呼ぶ
 super.restore(dic);	 この中で setOptions(dic) を実行する
 var vval = 0.0;		 縦の現在値(0～1.0)
 var hval = 0.0;		 横の現在値(0～1.0)
 var vstep = 0;		 縦の刻み幅(0で無段階)
 var hstep = 0;		 横の刻み幅(0で無段階)
-var tab;		 スライダーのタブ部分レイヤ
-var timer;		 スライダータブ外を押した時のリピートタイマ
-var hdst, vdst;		 タブ外クリック時の自動移動時の目標場所
-var onchange;		 変更された時に実行するTJSスクリプト
-var onchangefunc;	 変更された時に実行するTJSスクリプト(関数)
-var onchangestorage;	 変更された時に実行するKAGストレージ
-var onchangetarget;	 変更された時に実行するKAGラベル
+var tab;		 滑块标签部分的图层
+var timer;		 按下滑块标签外部时的重复计时器
+var hdst, vdst;		 点击标签外部时自动移动的目标位置
+var onchange;		 变更时执行的 TJS 脚本
+var onchangefunc;	 变更时执行的 TJS 脚本(函数)
+var onchangestorage;	 变更时执行的KAG存储
+var onchangetarget;	 变更时执行的KAG标签
 super.KLayer(window, parent, i_name);  まだelmは設定しない
 timer.enabled = false;		 最初は falseに
-setOptions(elm); updateState() はこの中で実行されるので不要
-updateState();	 スライダー位置更新
+setOptions(elm); updateState() 在这个里面执行所以不需要
+updateState();	 更新滑块位置
 dic.tab = tab.store();	 dic.tab.*にセーブ、dic.tab*は使わぬ
 timer.enabled = false;		 タイマを止める
 super.restore(dic);	 この中で setOptions(dic) を実行する
@@ -581,63 +581,63 @@ var buttontop   = 0;		 第一ボタンの左上Y座標
 var pushed      = -1;		 押されているボタン(初期状態では-1)
 var buttons     = ;		 RadioButtonItem(ボタン)配列
 var ibuttonopts = ;		 ボタン個別のオプション
-var oncheck;			 押された時の動作
+var oncheck;			 按下时的动作
 var oncheckfunc;		 押された時の動作(関数)
-var onuncheck;			 離された時の動作
+var onuncheck;			 松开时的动作
 var onuncheckfunc;		 離された時の動作(関数)
 elm.pushed = 0;	 最初の一回は必ずpushed=0を指定
-setSize(max, pos-space);  画像サイズは変更しない
-setSize(pos-space, max);  画像サイズは変更しない
-return;			 二度押しなら何もしない
-makeUncheck(pushed);	 以前のボタンを解除
+setSize(max, pos-space);  不改变图像尺寸
+setSize(pos-space, max);  不改变图像尺寸
+return;			 如果是重复按下则不做任何事
+makeUncheck(pushed);	 解除之前的按钮
 dic.buttonnum     = buttons.count;	 restore()で使う
 pushed = -1;		 先に pushed を別ボタンにしておく
 super.restore(dic);	 この中で setOptions(dic) を実行する
-var window;		 親ウインドウ
-var name;		 名前。セーブの時に使うので必須
+var window;		 父窗口
+var name;		 名字。保存时会用到所以必需
 var foreparent;		 表画面の親
 var backparent;		 裏画面の親
 var foreary = ;	 表画面の子クラス配列
 var backary = ;	 裏画面の子クラス配列
-em("search_one()で対象レイヤが複数発見されました。"+
-return dic;	 子クラスのために返す
+em("search_one()中发现了多个目标图层。"+
+return dic;	 为了子类而返回
 var withmessage     = true;	 メッセージ画面と一緒に隠すかどうか
 var foreary_visible = ;	 隠した時の fore の layer の表示状態
 var backary_visible = ;	 隠した時の back の layer の表示状態
 var anytimeenabled  = false;	 常にenableか。通常はstable状態でのみenable
 elm.absolute = 1100000;	メッセージレイヤ100枚目と同じ
-return dic;	 子クラスのために返す
-var w;			 ウィンドウ(普通kagしかないけど)
+return dic;	 为了子类而返回
+var w;			 窗口（通常只有kag）
 var gotostartstop = true;	 「最初に戻る」を停止するかどうか
 var storestop     = false;	 storerestore を停止するかどうか
 var sestop        = true;	 SEを停止するかどうか
 var bgmstop       = true;	 BGMを停止するかどうか
 var fore, back;			 画像表示用レイヤ(表裏)
-var onKeyDown_org;		 オリジナルのonKeyDownを保存
+var onKeyDown_org;		 保存原始的onKeyDown
 var running   = false;		 現在ママキタ中かどうか
 var bgmvolume = ;		 BGMのボリュームを覚える配列
 var sevolume  = ;		 SEのボリュームを覚える配列
 var bgmpaused = ;		 BGMの停止状態を覚える配列
 var sepaused  = ;		 SEの停止状態を覚える配列
 var caption;			 window captionを覚える
-var maincond_interrupted;	 コンダクタのinterruptedを覚える
-var extracond_interrupted;	 コンダクタのinterruptedを覚える
-var storeEnabled;		 KAG のセーブ可能状態を覚える
-var restoreEnabled;		 KAG のロード可能状態を覚える
+var maincond_interrupted;	 记住指挥器的interrupted
+var extracond_interrupted;	 记住指挥器的interrupted
+var storeEnabled;		 记住KAG的可保存状态
+var restoreEnabled;		 记住KAG的可读取状态
 var startAnchorEnabled;		 KAG の「最初に戻る」可能状態を覚える
 var onCloseQuery;		 KAG の onCloseQuery を覚える
 var current_onCloseQuery;	 KAG の現在の onCloseQuery を覚える
 fore.loadImages('企画書');	 全ルート終了で企画書.jpgpng 読み込み
-fore.loadImages('ダンス');	 ダンス.jpgpng 読み込み
+fore.loadImages('ダンス');	 读取ダンス.jpgpng
 fore.visible = back.visible = false;	 最初は非表示
 onCloseQuery = w.onCloseQuery;	 最初のCloseQueryを覚える
 w.setTitle("舞・舞・舞");
-!(shift & ssRepeat)) {  キーリピートしてたら無視
+!(shift & ssRepeat)) {  如果在按键重复则忽略
 var chose_novel = 1;	選択肢ありか, 前の選択肢に戻るを表示
 var in_scene_mode_button_mark = 0; 回想モード
-var clickse, clicksebuf;	 クリックされたときに再生する効果音のファイル名とバッファ番号
-var enterse, entersebuf;	 ボタンの上にマウスカーソルが乗った時に再生する効果音のファイル名とバッファ番号
-var leavese, leavesebuf;	 ボタンの上からマウスカーソルが出て行った時に再生する効果音のファイル名とバッファ番号
+var clickse, clicksebuf;	 点击时播放的效果音文件名和缓冲区编号
+var enterse, entersebuf;	 鼠标光标移到按钮上时播放的效果音文件名和缓冲区编号
+var leavese, leavesebuf;	 鼠标光标从按钮上移开时播放的效果音文件名和缓冲区编号
 var foreSeen = false;  表画面のボタンが可視か
 var backSeen = false;  裏画面のボタンが可視か
 var foreButtons = ;  表画面のボタンの配列
@@ -657,11 +657,11 @@ obj.hint = '进入设置界面';
 obj.hint = '返回标题画面';
 if (sf.menu_mode == 1) 右クリックメニューでは画面を暗くする
 if(poschanged) realign();  表示位置の変更
-{ 安定時は、回想モードかどうかで有効にするボタンを変える
-{ 回想モード
-{ 動きだしたら非表示に, 走行中は各ボタンを無効にする
+{ 稳定时，根据是否为回想模式来切换启用哪个按钮
+{ 回想模式
+{ 开始移动后隐藏，运行中禁用各按钮
 if (kag.bgm.buf1.position == 0) 停止ボタンで停止しているかどうかを判断
-kag.process('music_mode.ks', '*randomplay'); 聞いていて、再生中じゃないものがでるまで繰り返す
+kag.process('music_mode.ks', '*randomplay'); 循环直到找到一个正在听但未在播放的文件
 music.base = 'mizu7x'; 背景画像、透明部分がある場合は、直前のゲーム画面が見える
 music.slider_base = 'slider_base';	スライダーの背景画像
 music.slider_tab = 'slider_tab';	スライダーのつまみ用ボタン画像
@@ -678,11 +678,11 @@ music.page_basex = 500; ページボタンの初期x座標
 music.page_basey = 0;   ページボタンの初期y座標
 music.page_width = 50;  ページボタン間の幅
 music.page_height = 0;  ページボタン間の高さ
-music.page_cg = ;  	ページボタンに使用するボタン画像, この配列が空なら文字そうでないなら画像を表示する
-music.nowpage_cg = ;	ページボタンに画像を使用するときはここに現在のページの画像を指定する
-music.page_font = %;  ページボタンに文字を使うときのフォント
+music.page_cg = ;  	页面按钮所使用的按钮图片，若此数组为空则显示文字，否则显示图片
+music.nowpage_cg = ;	当页面按钮使用图片时，在此指定当前页面的图片
+music.page_font = %; 页面按钮使用文字时的字体
 music.music_caption_font = %;	曲タイトルのフォント
-music.music_panel_cg = ;  	操作用リンクに使用するボタン画像, この配列が空なら文字そうでないなら画像を表示する
+music.music_panel_cg = ; 	用于操作链接的按钮图片，若此数组为空则显示文字，否则显示图片
 music.music_panel_font =%;	操作用リンクに文字を使うときのフォント
 music.music_panel_nofont = %;	操作用リンクに文字を使うときのフォント
 music.music_panel_pos = [	操作用リンクの位置, 前から順に前の曲再生(停止)ランダム次の曲戻るループ連続再生
@@ -690,8 +690,8 @@ music.volumeslider_pos   = ;	音量調整スライダーの位置
 music.positionslider_pos = ;	再生操作スライダーの位置
 music.position_pos = ;		再生位置表示の位置
 music.music_position_font = %;			再生位置表示のフォント
-]; 音楽ファイル名を入れる
-]; ミュージックモードに表示されるタイトルを入れる
+]; 填入音乐文件名
+]; 填入音乐模式中显示的标题
 music.music_cg_on = 1; 曲に合わせて背景を変更するか
 music.music_cg = [ 表示するCG
 music.complete = function (){ 全ての曲を聞いたことにする
@@ -707,7 +707,7 @@ save.base_x = 30; サムネイル初期x座標
 save.base_y = 80; サムネイル初期y座標
 save.width  = save.thumbnail_width + 68; サムネイルの列の幅
 save.height = save.thumbnail_height + 40; サムネイルの行の幅
-save.message_only = 0; セーブファイルの情報をサムネイルごとに表示するか、ひとつだけにするか
+save.message_only = 0; 保存文件的信息是随缩略图逐一显示，还是仅显示一个
 save.message_only_x1 = 10; セーブファイルの見出しのx座標
 save.message_only_y1 = kag.scHeight - 100; セーブファイルの見出しのy座標
 save.message_only_x2 = 10; セーブファイルの日付のx座標
@@ -718,21 +718,21 @@ save.message_x2 = -160 + save.thumbnail_width; セーブファイルの日付の
 save.message_y2 = -5 + save.thumbnail_height; セーブファイルの日付のサムネイルからの相対y座標
 save.message_font = %;  情報表示のフォント
 save.new = 'new'; 最新のセーブに表示するマーク画像
-save.new_x = 0; マークのサムネイルからの相対x座標
-save.new_y = 0; マークのサムネイルからの相対y座標
+save.new_x = 0; 相对于标记缩略图的x坐标
+save.new_y = 0; 标记缩略图上的相对y坐标
 save.page_basex = kag.scWidth-100; ページボタンの初期x座標
 save.page_basey = 100;   ページボタンの初期y座標
 save.page_width = 0;  ページボタン間の幅
 save.page_height = 50;  ページボタン間の高さ
-save.page_cg = ;  	ページボタンに使用するボタン画像, この配列が空なら文字そうでないなら画像を表示する
-save.nowpage_cg = ;	ページボタンに画像を使用するときはここに現在のページの画像を指定する
-save.page_font = %;  ページボタンに文字を使うときのフォント
+save.page_cg = ; 页面按钮所使用的按钮图片，若此数组为空则显示文字，否则显示图片
+save.nowpage_cg = ;	当页码按钮使用图片时，在此指定当前页面的图片
+save.page_font = %;  页面按钮使用文字时的字体
 save.autosave = 1; 選択肢でオートセーブをするか
 save.close_x=kag.scWidth-150; 閉じるのx座標
 save.close_y=kag.scHeight-40; 閉じるのy座標
-save.close_button = '';	閉じるにボタン画像を使用するなら指定する。空のときは文字を使う
-save.close_font = %;	閉じるに文字を使用するときのフォント
-save.change = 1; セーブロード画面で他方に移動するボタンを表示するか
+save.close_button = '';	若关闭按钮要使用按钮图片则在此指定。为空时使用文字
+save.close_font = %;	使用“关闭”文字时所用的字体
+save.change = 1; 是否在存档读取界面显示切换到另一方的按钮
 save.change_to_save_button = '';	ボタン画像を使用するなら指定する。空のときは文字を使う
 save.change_to_load_button = '';	ボタン画像を使用するなら指定する。空のときは文字を使う
 save.maxpage = 7; ページ数
@@ -740,49 +740,49 @@ var saveDate = kag.getBookMarkDate(n);   セーブデータの日付を取得し
 var d = new Date(saveDate);   セーブデータの日付を持つ Date クラスのオブジェクトを生成します
 sf.checkread = new Dictionary(); 一度でもシーンを見たかどうか
 sf.checklink = new Dictionary(); 一度でも選択したかどうか
-既読シーンです、スキップしますか？
+已读场景，要跳过吗？
 戻る
 var foreSeen = false;  表画面のレイヤが可視か
 var backSeen = false;  裏画面のレイヤが可視か
-var foreLay;   表画面用のレイヤ
-var backLay;   裏画面用のレイヤ
+var foreLay;   用于表画面的层
+var backLay;   用于里画面的层
 foreLay = new Layer(kag, kag.fore.base);   表画面の背景レイヤを親レイヤにします
 backLay = new Layer(kag, kag.back.base);   裏画面の背景レイヤを親レイヤにします
-invalidate foreLay;   表画面用のレイヤを無効化します
-invalidate backLay;   裏画面用のレイヤを無効化します
+invalidate foreLay;   禁用用于表画面的层
+invalidate backLay;   禁用用于里画面的层
 var foreSeen = false;  表画面のレイヤが可視か
 var backSeen = false;  裏画面のレイヤが可視か
-var foreLay;   表画面用のレイヤ
-var backLay;   裏画面用のレイヤ
-var storage;  使用している枠画像
+var foreLay;   用于表画面的层
+var backLay;   用于里画面的层
+var storage;  正在使用的边框图片
 foreLay = new Layer(kag, kag.fore.base);   表画面の背景レイヤを親レイヤにします
 backLay = new Layer(kag, kag.back.base);   裏画面の背景レイヤを親レイヤにします
-invalidate foreLay;   表画面用のレイヤを無効化します
-invalidate backLay;   裏画面用のレイヤを無効化します
+invalidate foreLay;   禁用用于表画面的层
+invalidate backLay;   禁用用于里画面的层
 function setImage(elm) 画像を呼び込む
-System.inform("予想していない状況です。なにをロードしたか作者に伝えてください");
+System.inform("出现了预期之外的情况。请告诉作者加载了什么");
 var foreSeen = false;  表画面のレイヤが可視か
 var backSeen = false;  裏画面のレイヤが可視か
-var foreLay;   表画面用の枠レイヤ
+var foreLay;   用于表画面的边框层
 var forebackLay;   表画面用の黒レイヤ
-var backLay;   裏画面用の枠レイヤ
+var backLay;   用于里画面的边框层
 var backbackLay;   裏画面用の黒レイヤ
-var storage;  使用している枠画像
+var storage;  正在使用的边框图片
 var backstorage;  使用している黒画像
 foreLay = new Layer(kag, kag.fore.base);   表画面の背景レイヤを親レイヤにします
 backLay = new Layer(kag, kag.back.base);   裏画面の背景レイヤを親レイヤにします
-invalidate foreLay;   表画面用のレイヤを無効化します
-invalidate backLay;   裏画面用のレイヤを無効化します
+invalidate foreLay;   禁用用于表画面的层
+invalidate backLay;   禁用用于里画面的层
 function setImage(elm) 画像を呼び込む
-System.inform("予想していない状況です。なにをロードしたか作者に伝えてください");
-if (obj instanceof "Function") {  先にチェックする必要あり
+System.inform("这是预料之外的情况。请把加载了什么告知作者");
+if (obj instanceof "Function") {  需要先检查
 printedObject.add(obj);	 表示済みにする
 else if (^.test(keyary))  数値は特別扱い
 if (^.test(keyary))  数値の時は特別扱い
 var s = "n(sf.emtypeを定義すると表示されなくなります)";
-var org_ch;		 オリジナルのタグを保存
-var org_hch;		 オリジナルのタグを保存
-var org_graph;		 オリジナルのタグを保存
+var org_ch;		 保存原始标签
+var org_hch;		 保存原始标签
+var org_graph;		 保存原始标签
 var org_showLineBreak;	 オリジナルのkag.showLineBreakを保存
 var org_showPageBreak;	 オリジナルのkag.showPageBreakを保存
 var org_showPageBreakAndClear;	 オリジナルのkag.showPageBreakAndClearを保存
@@ -5088,15 +5088,15 @@ w.autoModePageWait = backup;		 待ち時間を元に戻す
 剧本（主要）・总指挥
 效果音・背景等素材收集
 演出・脚本・程序
-かわいいフリー素材集いらすとや
-商用フリーで使える影絵素材サイト シルエットデザイン
+可爱免费素材集Irasutoya
+可用于商用免费的剪影素材网站 Silhouette Design
 戦場に猫
 写真素材　足成
-WinddorfBlog | フリー背景絵と、マラソンカメラン
-素材屋「みにくる
-フリー効果音素材 くらげ工匠
-小森平の使い方
-効果音ラボ
+WinddorfBlog | 免费背景图与，马拉松相机跑
+素材屋「Minical
+免费音效素材 水母工匠
+小森平的使用方法
+音效实验室
 On-Jin ～音人～
 提供帮助的诸位（名称略）
 各位素材提供者及制作援助网站运营者

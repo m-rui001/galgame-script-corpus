@@ -5520,7 +5520,7 @@ Hachiroku: "On the other hand, Hachiroku only has one driver stand. In other wor
 Sotetsu: "That's true. 8620 has a front and back while Kiha 07 has two front sides."
 *Hachiroku and Paulette nod almost at the same time.*
 Hachiroku: "8620 is able to run backward. However, it makes visibility a problem, and it's simply more dangerous."
-Sotetsu: "I see. So that's why Ohitoyo Station has a turn table." 
+Sotetsu: "I see. So that's why Ohitoyo Station has a turn table."
 *I saw that gigantic, round turning table on the tracks at the display event. *
 *Placing 8620 on that and spinning it around will allow it to turn to anywhere it wants as the "front". *
 Paulette: "On the other hand, 8620 was able to go between Ohitoyo and Yunoi because of the turntable."
@@ -8670,7 +8670,7 @@ Hachiroku: "Is there some sort of connection between Kumamoto News and Kumamoto 
 Sotetsu: "Most likely, or else they wouldn't be able to write such a detailed article in such a short time."
 *But that can't simply be everything. The one with the connection might be Urakami-san. *
 *"Ohitoyo City, Ohitoyo Railways, Kumamoto Bank, and Aircra Company to have a meeting", it says. *
-Sotetsu: "If the article is right, Kumamoto Bank or Aircra Company prioritized rebuilding the southern line to Yoshimatsu?" 
+Sotetsu: "If the article is right, Kumamoto Bank or Aircra Company prioritized rebuilding the southern line to Yoshimatsu?"
 Hachiroku: "Perhaps. The section between Ohitoyo and Yoshimatsu also has the Okoba Station, so it's good for tourism."
 Sotetsu: "Okoba Station?"
 Hachiroku: "It's the only station in Japan that has both a loop line and switchback. It's popular among train-riding enthusiasts and train-photo enthusiasts."
@@ -9776,7 +9776,7 @@ Hibiki: "Nii-nii... So you want to see completely honest faces..."
 Sotetsu: "I suppose. A railway engineer that you use daily ultimately becomes more of a device or background than an actual person."
 *So no one will mind me. They won't feel the need to put on a facade, so I'll be able to see who they truly are. *
 *The Ohitoyo that Hibiki sees is different than the one that I see—and I can learn from that. *
-Sotetsu: "It's better to have as many perspectives as possible. That way, I can have a deeper understanding of Ohitoyo." 
+Sotetsu: "It's better to have as many perspectives as possible. That way, I can have a deeper understanding of Ohitoyo."
 Hibiki: "I understand. I get it!"
 *Hibiki says half-jokingly before rounding her shoulders and looking at Paulette. *
 Paulette: "I think... I understand, too. It'll be embarrassing if I'm mistaken, but..."
@@ -9787,7 +9787,7 @@ Sotetsu: "Yes. I think that's one thing that's possible."
 *Even if I did work as the secretary, I seriously doubt I'd be of any help. *
 Sotetsu: "On top of that, if 8620 can be run as a business operation, the load on Kiha 07 can be divided."
 *Reina softly nods to that.*
-Reina: "Reina guesses so. If you could switch every once in a while... the longer maintenance exams would be practically cut in half." 
+Reina: "Reina guesses so. If you could switch every once in a while... the longer maintenance exams would be practically cut in half."
 Paulette: "You're right, Reina."
 *A soft voice. A soft gesture. Paulette gently brushes Reina's hair. *
 Sotetsu: "By working in the field, I'll be able to learn the most."
@@ -10165,7 +10165,7 @@ Hachiroku: "Correct. That is why only the one location for combustion is necessa
 Hachiroku: "And then the coal is shoveled into the firebox—and only the firebox—to combust. That's why cleaning the firebox is extremely hard work."
 Fukami: "Oh... So let's say the front door opens; if the middle section is blocked up..."
 Nagi: "You'll have to go in from the front or you can't clean everything."
-Hachiroku: "Yes, but when doing a full cleaning of the firebox, you must go inside it." 
+Hachiroku: "Yes, but when doing a full cleaning of the firebox, you must go inside it."
 Nagi & Fukami: "How do you do that? How do you do that?"
 *She giggles. Hachiroku withholds the answer briefly to build up the tension. *
 Hachiroku: "You lie down face up and climb through the small hinged door, where you throw in the coal."
@@ -10296,7 +10296,7 @@ Hachiroku: "Granted, America has become a wonderful country since the war. Its p
 Sotetsu: "If you say that, then you have to say the same for Great Britain. Their queen's known to be the epitome of a lady."
 *However, that's exactly why I'm surprised. The Imperial University's karate club would do something like that to rile up the team members... *
 *An older western woman gave her a slap as a compliment of sorts. *
-Hibiki: "I'm not entirely sure... but maybe it was a 'tip' instead of a 'slap'." 
+Hibiki: "I'm not entirely sure... but maybe it was a 'tip' instead of a 'slap'."
 Nagi: "Yeah! That's it! They gave you an allowance!"
 Sotetsu: "Oh. Why didn't you say that from the beginning?"
 Fukami: "Because both of you looked so serious about it..."
@@ -10998,7 +10998,7 @@ Hibiki: "Thanks for waitin— Did something happen here?"
 *It's Hibiki. She came back at just the right time. *
 Sotetsu: "I want to hear your opinion, Hibiki. It's about the stove, but I'm thinking of controlling the smoke with more smoke."
 *I try to borrow Hachiroku's words, but Hibiki's eyes just widen. *
-Hibiki: "Smoke with smoke? Nii-nii... Ahem. Nii-san, are you serious? It's summertime in Ohitoyo and the internal space is huge." 
+Hibiki: "Smoke with smoke? Nii-nii... Ahem. Nii-san, are you serious? It's summertime in Ohitoyo and the internal space is huge."
 *Fukami nods to Hibiki's doubts. Nagi turns her head in confusion as if she weren't following. *
 Nagi: "What are you all talking about?"
 Sotetsu: "In other words, if we light up the stove, the smoke coming out of there can prevent smoke from coming in."
@@ -11061,7 +11061,7 @@ Sotetsu: "You, too."
 *She gives a tickled look briefly, but then quickly straightens up her hat and expression. *
 Hachiroku: "Just as Hibiki said: this is the commemorative number-one train."
 *A clear declaration. Hibiki's also standing up straight. *
-Hachiroku: "As we continue to do test runs, Sotetsu-sama and Hibiki, you both have matured quite well." 
+Hachiroku: "As we continue to do test runs, Sotetsu-sama and Hibiki, you both have matured quite well."
 *I'm about to nod but decide against it. I shouldn't get cocky, but I'd like to think I'm getting better. *
 *The smoke deflector, venting chimney, and fan. Every single problem that came up trained me to be better. *
 Hachiroku: "In the later stages of the test, we will be drawing a full passenger car. However..."
@@ -11625,7 +11625,7 @@ Hachiroku: "Not noticing the distortion is much more dangerous. The heavier load
 *She is shaking in short bursts as if she's enduring the cold. *
 *Then I'll have to make the decision.*
 Sotetsu: "Even so."
-Hachiroku: "If the danger has surfaced, all we need to do is deal with it. And I have the ability to do so." 
+Hachiroku: "If the danger has surfaced, all we need to do is deal with it. And I have the ability to do so."
 Sotetsu: "...?!"
 *Hachiroku is talking faster. She continues on as if she doesn't want me to speak. *
 Hachiroku: "The Yunoi Line has tracks that do not have heavy loads. The vibration occurs only from the locomotive side."
@@ -12220,7 +12220,7 @@ Hachiroku: "Oh..."
 *My statement comes out naturally.*
 *Though, because I also said it rather unexpectedly, Hachiroku freezes up. *
 Sotetsu: "What's the matter, Hachiroku?"
-Hachiroku: "No, I... I believe I've come regarding that thing." 
+Hachiroku: "No, I... I believe I've come regarding that thing."
 Sotetsu: "...!"
 Hachiroku: "Is that all right? You seemed to be in, well, terrible pain earlier..."
 Sotetsu: "Ah..."
@@ -13296,7 +13296,7 @@ Kisaki: "The transport of heavy objects problem cannot be solved easily. The rev
 Sotetsu: "Yes. The aircra and railway can coexist. And railways are what can contribute the most to tourism."
 *When the railways are revived, diesel trains and electric trains, being more convenient, will be revived as well. *
 *However, steam locomotives have their own charm. People must not want the steam locomotives to go extinct. *
-Sotetsu: "We will create a model where the railways will be revived with the steam locomotive of Ohitoyo in the center." 
+Sotetsu: "We will create a model where the railways will be revived with the steam locomotive of Ohitoyo in the center."
 Paulette: "I see... We'll focus on the facilities and human resources with the railways to Ohitoyo."
 Sotetsu: "And we'll make Ohitoyo the starting point of steam-locomotive tourism. You can tour all around Kyushu with the steam locomotive. That's the future we want to create."
 *When it comes to that, the maintainability will rise. The know-how will accumulate and be put to use. *
@@ -13452,7 +13452,7 @@ Reina: "For grandmas going to the hospital and students going to school, Reina i
 Sotetsu: "Yes."
 *The face of tourism. The face of daily use. *
 *One is not better than the other. Reina taught me something that's supposed to be common sense. *
-Sotetsu: "We'll have to fix 8620 soon so that you and it can work together." 
+Sotetsu: "We'll have to fix 8620 soon so that you and it can work together."
 Reina: "Yes! Reina will work hard at it!"
 Kon: "Yip!"
 Sotetsu: "Yes, you too, Kon."
@@ -13509,7 +13509,7 @@ Hachiroku: "You're mistaken, Sotetsu-sama. When she said 'third-class', it wasn'
 Sotetsu: "Oh, is that what you meant."
 *If this is in reference to shochu, it points at a different method of distilling. So there is something similar with transport as well. *
 Sotetsu: "Then... should it be first-class shipping? Second-class shipping refers to railways, right?"
-Hachiroku: "That is correct, Sotetsu-sama. First-class and second-class both use railways." 
+Hachiroku: "That is correct, Sotetsu-sama. First-class and second-class both use railways."
 *She has a serious tone, but I can see that she's still somewhat grinning. *
 Hachiroku: "When transporting vehicles, first-class shipping refers to having the freight train tow it by the driving wheel."
 Sotetsu: "Hm. With your own driving wheel. All right. Then second-class shipping means to place it on top of freight."
@@ -13521,7 +13521,7 @@ Sotetsu: "That's amazing. The tracks going this distance are still live?"
 Paulette: "That is Nago-tetsu. After the track network of the Imperial Railway became dilapidated, their relative values shot up."
 Sotetsu: "This is the line that passes through the mountain valley. Or perhaps there are some impassable regions, too."
 Hachiroku: "Sotetsu-sama."
-Sotetsu: "Sorry. I digressed. Let's see." 
+Sotetsu: "Sorry. I digressed. Let's see."
 Paulette: "They said that they don't mind using first- or second-class shipping to the port."
 Sotetsu: "Hm. What do you think, Hachiroku? First or second? And regarding the shipment in general, too."
 Hachiroku: "Well... The cost of first or second shipping is..."
@@ -13912,7 +13912,7 @@ Sotetsu: "Yes."
 Paulette: "Sotetsu-kun. Can we speak for a little when you have time?"
 *I hear Paulette-sama's voice from the entrance. The temperature rises in Sotetsu-sama's face when he hears that. *
 *Ah... Sotetsu-sama's face had grown pale without me even knowing... *
-Sotetsu: "Ah... Sure. Excuse me, Fuchi-san." 
+Sotetsu: "Ah... Sure. Excuse me, Fuchi-san."
 Craftsman: "We're fine. Go on."
 Sotetsu: "Thank you. Hachiroku, can I leave this with you for now?"
 Hachiroku: "Yes. You can rest assured, Sotetsu-sama."
@@ -14420,7 +14420,7 @@ Sotetsu: "Is that true?"
 Paulette: "Yes. When the mining company closed, they donated it because the large size caused high property taxes and maintenance costs."
 Sotetsu: "I see."
 Kisaki: "The city assembly right now is very friendly toward Ohitoyo Railway. If a redevelopment proposal is drafted, it will likely pass."
-Hachiroku: "Redevelopment... And that is what your investigation is for." 
+Hachiroku: "Redevelopment... And that is what your investigation is for."
 Kisaki: "Yes. I think that Great Kyushu Steam Locomotive plan you touted has some weight to it."
 *She's emphasizing "I" a lot. My doubt naturally focuses in on that part. *
 Sotetsu: "Is the Kumamoto Bank against it?"
@@ -15033,7 +15033,7 @@ Minokasa: "Today? She had her regular school bag..."
 *He gets up to that point, and then Minokasa-san groans. *
 Minokasa: "No, a few days ago, she said she's preparing for a slumber party and started taking out her sleeping bag... She hasn't brought that back yet."
 Sotetsu: "I see."
-Paulette: "The taxi companies around Yunoi all said that Hibiki-chan and the others didn't get a taxi, together or separately." 
+Paulette: "The taxi companies around Yunoi all said that Hibiki-chan and the others didn't get a taxi, together or separately."
 Sotetsu: "Thank you. So I'm sorry, but can you call Seki-san?"
 Makura: "Ah!"
 *Makura-nee figured it out, too.*
@@ -17539,7 +17539,7 @@ Paulette: "But..."
 *I knew this would happen, but Paulette still has a troubled look. *
 Sotetsu: "Paulette. Please show her how. For this is when Hibiki must learn how."
 *A convinced sigh comes from the driver's stand. *
-Hachiroku: "In Hibiki's case, it is quicker for her to learn by seeing someone perform whatever it is she is learning?" 
+Hachiroku: "In Hibiki's case, it is quicker for her to learn by seeing someone perform whatever it is she is learning?"
 Sotetsu: "Exactly."
 *Despite knowing each other less than two months, Hachiroku has already realized that. Hibiki's ability to learn is most honed when she watches and emulates another. *
 Sotetsu: "Hibiki having the opportunity to practice with the brake is something that would be nice to have."
@@ -19304,7 +19304,7 @@ Paulette: "Yes. That's why they tried to protect it against the elements with th
 Sotetsu: "If we consider that, it makes sense why everything is in this state."
 *Around the closed Jutsusen Coal Mine Station...*
 *Near the areas where there was still traffic right when the mines closed down, somebody's stolen the tracks and crossties. *
-Paulette: "The people who worked with the mines hadn't given up on reviving the mines. That's why they left behind this baton for us." 
+Paulette: "The people who worked with the mines hadn't given up on reviving the mines. That's why they left behind this baton for us."
 Sotetsu: "Ah."
 *The race was stopped short. The abandoned tracks are buried under the weeds. *
 *But the baton they preciously laid before us... is just waiting for someone to pick it up. *
@@ -19575,7 +19575,7 @@ Sotetsu: "I'm sorry for making you do this."
 Sotetsu: "I understand your dissatisfaction, Hachiroku. Even I have doubts about why we'll be on a boat together."
 Hachiroku: "...!"
 *Her open eyes look to me. That by itself tells me that my inference is true. *
-Sotetsu: "8620 wouldn't be satisfied with pulling an empty passenger car. This is a necessary first step in order to revive it in the true sense of the word." 
+Sotetsu: "8620 wouldn't be satisfied with pulling an empty passenger car. This is a necessary first step in order to revive it in the true sense of the word."
 Hachiroku: "A necessary first step..."
 *A small nod.*
 Hachiroku: "This is to allow it to draw a filled passenger car with lots of happy people."
@@ -22946,7 +22946,7 @@ Fukami: "Hey, Nagi-chan?!"
 *Her belly's completely exposed. I get curious and rewind a little. *
 Nagi: "...So this goes here, and they pull on each other, and we had a little match."
 Fukami: "You really did it? So who won?"
-Nagi: "The spaghetti! Grandpa started slurping his udon while looking down." 
+Nagi: "The spaghetti! Grandpa started slurping his udon while looking down."
 Fukami: "Haha. Your family is so funny, Nagi-chan. Oh... Hm..."
 Nagi: "Fukami-chan?"
 Fukami: "No, it's nothing. Nothing at all."
@@ -23299,7 +23299,7 @@ Sotetsu: "Hm... Hm?"
 *(I see... So this is how scary the river can be.)*
 *I feel like I learned my lesson from Fukami's training as I return to the shore. *
 Sotetsu: "Here."
-Nagi: "Thanks! Free booze is the best!" 
+Nagi: "Thanks! Free booze is the best!"
 Fukami: "But you're drinking cream of corn soup."
 *Nagi and Fukami each hold the hot can of soup I gave them with both hands. *
 Fukami: "Um, are you sure it's okay to treat us?"
@@ -24570,7 +24570,7 @@ Hibiki: "Huh?"
 Sotetsu: "Taito-san took me to meet her before. Back when I was just adopted."
 *Though, I don't remember it at all.*
 *When I add that tidbit, Hibiki exhales a big sigh. She then takes another deep breath. *
-Hibiki: "Nii-nii... Nii-san, if you don't remember, then how did you...?" 
+Hibiki: "Nii-nii... Nii-san, if you don't remember, then how did you...?"
 Sotetsu: "How I knew Hosho Mototada?"
 Hibiki: "Of course. It's Kisaki-senpai's father."
 Sotetsu: "Mototada told me. And after Kisaki told me, too, I finally remembered."
@@ -24664,7 +24664,7 @@ Sotetsu: "Do you have some tea paraphernalia? And if possible, I'd like to get s
 Reina: "If you're going to make green tea, there's some inside the kitchen cupboard in a stainless steel tin."
 Sotetsu: "Got it."
 *I open the cupboard just as I was told and find a wooden box that looks like it. *
-Sotetsu: "It's the weaker kind of tea. That's good. Reina's here, too, so this should be enough." 
+Sotetsu: "It's the weaker kind of tea. That's good. Reina's here, too, so this should be enough."
 *I boil some water and pick out two tea cups. I brew the light tea and then froth it up with a tea whisk. *
 **slush* *slush* *slush* *slush**
 *I smooth out the unsightly bubbles... It's a far cry from proper, but at least it's done. *
@@ -26444,7 +26444,7 @@ Sotetsu: "I see."
 *It didn't move all that much, but it looks like he's thinking really hard. *
 Sotetsu: "You don't like being laughed at, Hibiki?"
 Hibiki: "Yeah."
-Sotetsu: "Then what about being complimented? How would you like your art to be called 'good'? 
+Sotetsu: "Then what about being complimented? How would you like your art to be called 'good'?
 Hibiki: "If they compliment for real, I'd be happy. But I don't like it if it's a fake compliment."
 Sotetsu: "I see. I see."
 *Hm. Nii-nii goes quiet for a little.*
@@ -26676,7 +26676,7 @@ Hibiki: "Yes, I'm fine. I'm sorry for making you worry."
 Sotetsu: "I heard you had a nice dream."
 Hibiki: "Y-Yes! Um... It's a dream of Kumakuma."
 Sotetsu: "Kumakuma-kun. That brings back memories. I haven't seen him in a while, though."
-Hibiki: "He's all patched up and kind of tired." 
+Hibiki: "He's all patched up and kind of tired."
 Sotetsu: "Yeah."
 Hibiki: "That's why he's in the closet now as the guard bear of my clothes."
 Sotetsu: "That's nice. He's a reliable one. I'm sure it's a job worth doing for Kumakuma-kun."
@@ -26824,7 +26824,7 @@ Sotetsu: "...!"
 *My concentration for stopping at the exact location is interrupted by a sharp voice. *
 Hachiroku: "At this distance, it's better for the customers to go off by a step or two."
 Sotetsu: "Is that how it is?"
-Hachiroku: "The coupler is completely stretched out right now. There should be no shock in departure." 
+Hachiroku: "The coupler is completely stretched out right now. There should be no shock in departure."
 Sotetsu: "I get it!"
 *Moving a little and then stopping will be a sudden brake.*
 *The passenger car wouldn't absorb the inertia and cause the coupler to compress. *
@@ -27300,7 +27300,7 @@ Nagi: "What happened with the smoke in the passenger car?"
 Fukami: "N-Nagi-chan!"
 *Shaking away Fukami's restraint, Nagi throws out a very simple question. *
 Nagi: "With that much smoke puffing in, you can't tell if it's tourism or a coal mine."
-Fukami: "Don't say it so bluntly... Oh! I'm so sorry." 
+Fukami: "Don't say it so bluntly... Oh! I'm so sorry."
 *Fukami makes matters worse, but Paulette responds calmly and gently. *
 Paulette: "Yes. The smoke issue must be solved in order for tourism restoration to occur centered around 8620."
 *Her line of sight moves smoothly over. Paulette's blue eyes turns to the side. *
@@ -27685,7 +27685,7 @@ Kisaki: "At the very least, I'm not part of it. What sort of project is that?"
 Ichikawa: "Oh, it's not made public yet, so I'm sure the chances of it happeneing are low."
 *Considering how he knows about unannounced things, I should be impressed at him as a reporter. *
 *I had underestimated him as a mere sycophant. It makes me reflect on my shallowness. *
-Ichikawa: "Well, that's the plan. It's quite a well-made one, so I thought maybe Kumamoto Bank proposed it." 
+Ichikawa: "Well, that's the plan. It's quite a well-made one, so I thought maybe Kumamoto Bank proposed it."
 Kisaki: "No..."
 *It's not me. Not Urakami either.*
 *And it's impossible for my father to purposely help them reduce the chances of bringing in the factory. *
@@ -27757,7 +27757,7 @@ Hachiroku: "But... Although Hosho Kisaki is the enemy, she takes good strategies
 *Before considering that it's between people and things, she prioritizes the fact that Kisaki's the enemy. *
 *She has completely forgone the use of "-sama" but Hachiroku still compliments Kisaki. *
 Hachiroku: "That city model... I hate to admit it, but I cannot help but look at it."
-Sotetsu: "It's true that I was overwhelmed by it, too. That was beautiful, and it must have taken an abundant amount of time to make." 
+Sotetsu: "It's true that I was overwhelmed by it, too. That was beautiful, and it must have taken an abundant amount of time to make."
 Reina: "Reina thinks so, too. Reina wants Kiha 07 to run through that miniature Ohitoyo city, too."
 Fukami: "Oh! I think, um, think so, too. It's the worst future for us, but I couldn't help but look."
 Nagi: "What are you all saying?! Fukami-chan, too!"
@@ -27836,7 +27836,7 @@ Nagi: "Fukami-chan, we don't need that right now!"
 Hibiki: "Mm..."
 *I hear her swallow. Her warm breath tickles my skin. *
 *I reach for Hibiki's hair. I stroke it gently as I try to soothe her. *
-Sotetsu: "You said you couldn't draw. Did you mean the poster that you said was to be the key art?" 
+Sotetsu: "You said you couldn't draw. Did you mean the poster that you said was to be the key art?"
 Hibiki: "Yeah."
 *It should have been done for the candidacy announcement. A town with 8620 running through it, colored by the railways and Kuma River. *
 *Hibiki was to draw out the Ohitoyo that we all envisioned. *
@@ -29013,7 +29013,7 @@ Sotetsu: "After Hibiki's speech and Kiskai's speech wrap up, they'll go on to a 
 Nagi: "Then...!"
 *Nagi interrupts, panic in her voice.*
 Nagi: "We should move the layout before the debate starts."
-Fukami: "Y-Yeah. I think that's a good idea, too. Yes." 
+Fukami: "Y-Yeah. I think that's a good idea, too. Yes."
 Sotetsu: "That's true. We will have to move it out eventually."
 *If it's left there for the speeches by other candidates besides Kisaki, that layout will just turn into an eyesore. *
 *Moving it in this situation might be misconstrued as a retreat. Even so, it's better than doing nothing. *
@@ -29379,7 +29379,7 @@ Sotetsu: "Hm."
 Sotetsu: "There will be two main choices on the schedule. Before the election and after."
 Nagi: "Of course it should be before!"
 Reina: "That could be good. It will be good advertisement of the passenger car repair project."
-Fukami: "And that can in turn be used as PR for Hibiki-san's policies." 
+Fukami: "And that can in turn be used as PR for Hibiki-san's policies."
 *Fukami turns to Makura-nee. Makura-nee's lips don't move. *
 Makura: "If the test run goes well, but only if that happens..."
 *Perhaps she's thinking of Hibiki, because her answer seems ambiguous. *
@@ -29427,7 +29427,7 @@ Sotetsu: "If we can begin operation in the best condition, it will increase the 
 *If the test run leads to Hibiki winning the election, and that leads to the business operation being successful, we'd have the perfect chain reaction on our hands. *
 *But we don't have any time. Even if we can do it, we'll only have one chance. *
 Sotetsu: "Campaign activities like roadside speeches can only be done until eight at night, right?"
-Hibiki: "Yes. Campaigning will end tonight at eight." 
+Hibiki: "Yes. Campaigning will end tonight at eight."
 Sotetsu: "You sound reluctant at that."
 *When I ask, Hibiki laughs.*
 Hibiki: "It was just fun. But... It's the same kind of fun as preparing for the school festival."
@@ -30165,7 +30165,7 @@ Sotetsu: "Hm?"
 Hibiki: "Doesn't a line extension cost a lot of money? And if that's the case, then why now?"
 *Hibiki maintains her focus to the front, and I maintain the shoveling pace. *
 *Normally, this wouldn't be a good time for a conversation. For us, though, it's okay. After all, we've built up enough experience to do that. *
-Sotetsu: "You said it yourself, Hibiki. The tracks are meant to continue everywhere." 
+Sotetsu: "You said it yourself, Hibiki. The tracks are meant to continue everywhere."
 Hibiki: "That's... only if the passenger car business goes well and the rest of the regions recover."
 *After becoming mayor, the realities that Hibiki sees must've changed a little. *
 *The Hibiki of right now is much more mature than the one who gave that election speech. If nothing else, she chooses her words far more carefully now. *
@@ -30183,7 +30183,7 @@ Hibiki: "Does that benefit match the cost put in? I think the financial load is 
 Hachiroku: "Naturally, we will be splitting it. It's not just with the railway companies we are extending to, but self-governing bodies along the lines as well."
 *That would be the typical thing to do. Hachiroku easily states what I was thinking. *
 Hibiki: "But the regional self-governing bodies around here are all short on money."
-Sotetsu: "If we can show them an even bigger benefit through development... No, we need to have them consider it an investment in turning things around." 
+Sotetsu: "If we can show them an even bigger benefit through development... No, we need to have them consider it an investment in turning things around."
 *In fact, Ohitoyo was the same. We chose to turn a blind eye to the negatives because we were in favor of the factory. *
 *Hibiki understood the reasons behind it, but just couldn't accept them. *
 Hibiki: "I understand, but would they really feel like it would be that beneficial to them—to the point that it would make the giant investment worthwhile, I mean?"
@@ -30905,7 +30905,7 @@ Sotetsu: "That's how it's safer, because the brakes are applied when the air run
 Makura: "Ahh."
 *She sounds impressed. I get that from her long and heated sigh. *
 Makura: "Really... It's well made! That's interesting!"
-Sotetsu: "That's good to hear. The scenery out the window is going to get interesting." 
+Sotetsu: "That's good to hear. The scenery out the window is going to get interesting."
 Makura: "Huh? Wow!"
 *After finishing the curve, we'll be out of the forest.*
 *As the view opens up, we see peaceful farmland. After a while, we'll arrive at the river and railway bridge. *

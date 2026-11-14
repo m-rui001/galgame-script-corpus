@@ -1,4 +1,4 @@
-﻿chapter13_0|姫を抱き上げて
+chapter13_0|姫を抱き上げて
 protagonist:「力、抜いて……」
 heroine:「ぁ、わ……ん……」
 narrator:先端の位置を合わせる。

@@ -1,4 +1,4 @@
-﻿*Regardless, Ada went back to her uncle's house even though she promised to come back to you from time to time.*
+*Regardless, Ada went back to her uncle's house even though she promised to come back to you from time to time.*
 *Francis' portfolio has started to move and he's told you he'll start getting work soon.*
 *It is clear that she likes you and you like her.*
 *In the near future you could have something more serious.*
@@ -579,7 +579,7 @@ Ada: "..."
 Ada: "All right, when do we start?"
 Francis: "Give me some time to get everything ready."
 Francis: "In the meantime, why don't you go down to the store, here."
-*The man hands you a card, it's signed with a red marker.* 
+*The man hands you a card, it's signed with a red marker.*
 Francis: "Give this card to the clerk, he'll give you a discount on anything you buy."
 Ada: "Wow! Did you hear <USER>!?"
 You: "I'm still right here Ada..."
@@ -7759,7 +7759,6 @@ You: "..."
 *But then the nightmares came back stronger.*
 *That's when you decided to move to the city, escaping the memories of your old town.*
 *Even knowing that the mansion would be closer.*
-*No doubt you have fond memories with Ursula, you wonder what happened to her.*
 *No doubt you have fond memories with Ursula, you wonder what happened to her.*
 *No doubt you have fond memories with Ursula, you wonder what happened to her.*
 *You will never forget poor Rick, you must do something to find out what happened that night....*

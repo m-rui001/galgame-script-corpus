@@ -148,6 +148,3 @@
 優しく光っていた……。
 $g_fa_update_particle
 $g_fa_update_particle
-$g_fa_update_particle
-$g_fa_update_particle
-$g_fa_update_particle

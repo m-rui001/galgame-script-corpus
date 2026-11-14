@@ -944,7 +944,7 @@ Riki: "She's still saying it..."
 Riki: "It's not okay!"
 Masato: "You're nitpicking like a teacher..."
 Masato: "Okay, how about this?"
-Masato: "Ore Saitou ssu (I'm Saito)." 
+Masato: "Ore Saitou ssu (I'm Saito)."
 Riki: "She's not Saito..."
 Masato: "Say it quickly. It'll definitely sound like "ohayou gozaimasu.""
 Rin: [Can I go ahead?]
@@ -5029,7 +5029,7 @@ Riki: "Isn't this different from the original mission!?"
 Kyousuke: "We should treat everything as a mission."
 *I'm sure I'm just getting tricked...*
 Sasami: "I'll definitely make you eat dirt this time..."
-Sasami: "Don't expect me to hold back this time..." 
+Sasami: "Don't expect me to hold back this time..."
 Sasami: "You are holding up unexpectedly well."
 Sasami: "Well then, I shall take you on myself."
 Sasami: "To think you can't even beat these novice underclassmen. You're a hundred years too early to be thinking of challenging me!"
@@ -7081,7 +7081,7 @@ Riki: "I didn't say anything yet..."
 Sasami: "You finally made it."
 Sasami: "Well then, I shall take you on myself."
 Sasami: "I'll definitely make you eat dirt this time..."
-Sasami: "Don't expect me to hold back this time..." 
+Sasami: "Don't expect me to hold back this time..."
 Sasami: "You are holding up unexpectedly well."
 Sasami: "Well then, I shall take you on myself."
 Sasami: "To think you can't even beat these novice underclassmen. This isn't even worth talking about."
@@ -9924,7 +9924,7 @@ Rin: [I'll try.]
 *A dull sound of impact came over from the cellphone.*
 Kyousuke: "It's started!"
 Kyousuke: "What happened?"
-Rin: [I was winning, but it managed to run away.] 
+Rin: [I was winning, but it managed to run away.]
 Rin: "Riki, this is for you. A can of salmon."
 Riki: "Thanks..."
 Kyousuke: "Rin, are you okay?"
@@ -9932,7 +9932,7 @@ Rin: [I'll be fine... Over...]
 Riki: "No, you don't need to do that anymore, Rin!"
 *I shouted into the phone.*
 Riki: "This is going to be dangerous, a few guys have already been hurt by it!"
-Rin: [But, the cans...] 
+Rin: [But, the cans...]
 Riki: "I'll give you some!"
 Rin: [Okay, I'll be right back. Over.]
 Masato: "What a snap decision!"
@@ -10963,7 +10963,7 @@ Saigusa: "I'm grateful to thee!"
 Komari: "Uwooooh!"
 *...She was revolving back and forth while getting slashed by the two.*
 Riki: "That's just sad..."
-Kud: "The path of the sword is soaked in blood..." 
+Kud: "The path of the sword is soaked in blood..."
 Kud: "And I see an opening."
 Riki: "Whoa."
 *I parried her attack.*
@@ -12518,7 +12518,7 @@ Sasami: "You finally made it, weren't you bored?"
 Sasami: "Well then, I shall take you on myself."
 Sasami: "For me... to lose four battles out of four... is unthinkable."
 Sasami: "I'll definitely make you eat dirt this time!"
-Sasami: "Don't expect me to hold back this time..." 
+Sasami: "Don't expect me to hold back this time..."
 Sasami: "You are holding up unexpectedly well."
 Sasami: "Well then, I shall take you on myself."
 Sasami: "To think you can't even beat these novice underclassmen. This isn't even worth talking about."
@@ -13173,7 +13173,7 @@ Komari: "A simple donut can really bring out the taste of the dough."
 Riki: "Hoo..."
 *It was utterly delicious, I'd gladly have another.*
 Riki: "Then, I'll take the chocolate one."
-Komari: "Chocolate is yummy, isn't it?" 
+Komari: "Chocolate is yummy, isn't it?"
 Riki: "It's because this striped pattern looks very appealing."
 Komari: "It's fun when they have different patterns~."
 Riki: "Then, this one."
@@ -13354,7 +13354,7 @@ Sasami: "Ah geez, this time I'll make you eat dirt for sure!"
 Sasami: "Just you watch!"
 Sasami: "For me... to lose four battles out of four... is unthinkable."
 Sasami: "I'll definitely make you eat dirt this time!"
-Sasami: "Don't expect me to hold back this time..." 
+Sasami: "Don't expect me to hold back this time..."
 Sasami: "You are holding up unexpectedly well."
 Sasami: "Well then, I shall take you on myself."
 Sasami: "To think you can't even beat these novice underclassmen. This isn't even worth talking about."
@@ -13560,7 +13560,7 @@ Sasami: "Ah geez, this time I'll make you eat dirt for sure!"
 Sasami: "Just you watch!"
 Sasami: "For me... to lose four battles out of four... is unthinkable."
 Sasami: "I'll definitely make you eat dirt this time!"
-Sasami: "Don't expect me to hold back this time..." 
+Sasami: "Don't expect me to hold back this time..."
 Sasami: "You are holding up unexpectedly well."
 Sasami: "Well then, I shall take you on myself."
 Sasami: "To think you can't even beat these novice underclassmen. This isn't even worth talking about."
@@ -14069,7 +14069,7 @@ Sasami: "Ah geez, this time I'll make you eat dirt for sure!"
 Sasami: "Just you watch!"
 Sasami: "For me... to lose four battles out of four... is unthinkable."
 Sasami: "I'll definitely make you eat dirt this time!"
-Sasami: "Don't expect me to hold back this time..." 
+Sasami: "Don't expect me to hold back this time..."
 Sasami: "You are holding up unexpectedly well."
 Sasami: "Well then, I shall take you on myself."
 Sasami: "To think you can't even beat these novice underclassmen. This isn't even worth talking about."
@@ -17286,7 +17286,7 @@ Rin: [Uugh...]
 *Seems like Kurugaya-san had a tight grasp on her.*
 Kurugaya: [Umu, let's go then.]
 Rin: [Whoa, help me!]
-Kurugaya: [Who do you keep asking for help?] 
+Kurugaya: [Who do you keep asking for help?]
 Kurugaya: [Mm.]
 Kurugaya: [I see, is that it?]
 Rin: [Ah.]
@@ -30313,7 +30313,7 @@ Elder: "Sure. Thank you."
 *And people who were hard of hearing.*
 *I still tried my best to communicate with them.*
 *If I could make them happy by only chitchatting a little, that was surely something worth doing.*
-Riki: (...I think I can understand why she does this.) 
+Riki: (...I think I can understand why she does this.)
 *I recalled Komari-san's spiral of happiness theory.*
 Riki: "Oh..."
 *I found a room whose door was closed.*
@@ -31741,7 +31741,6 @@ Komari: "Um, well, do... do you have any plans for this Saturday?"
 *For reasons unknown, she seemed tense as a flag pole.*
 Riki: "Well, no, I don't..."
 Komari: "Then..."
-Komari: "......"
 Komari: "......"
 Komari: "......"
 *She never bored me, this one.*
@@ -42852,7 +42851,7 @@ Kyousuke: "That's because you don't understand most of it and could do something
 Riki: (Had it been Kyousuke...?)
 *I can't think of anyone else.*
 *But why...?*
-Riki: (Doesn't Kyousuke want to force her to be independent...) 
+Riki: (Doesn't Kyousuke want to force her to be independent...)
 *I guess... I should regard Komari-san and me as a concession from him...*
 *But Komari-san can't use her phone anyway...*
 Komari: "Riki-kun."
@@ -48525,7 +48524,6 @@ Masato: "Oe..."
 *Whatever it was, it seemed to be too late to get it.*
 *Isolation...*
 *Isolation...*
-*Isolation...*
 Young Boy: "Are you Inohara?"
 *And then he appeared in front of me.*
 *There he stood on the fence, the sunlight on his back, just like a savior.*
@@ -49441,7 +49439,7 @@ Riki: "So, let me go on."
 Rin: "What...!"
 Riki: "He used his left hand to pick up the eraser."
 Masato: "...And ate it?"
-Riki: "I hate to say this, knowing how badly you want to make him eat an eraser, but he just picked it up." 
+Riki: "I hate to say this, knowing how badly you want to make him eat an eraser, but he just picked it up."
 Masato: "Don't mind it. So, what does that tell you?"
 Riki: "You forgot? His left arm is injured right now."
 Riki: "Furthermore, he quickly switched to the right hand and picked it up again."
@@ -49513,7 +49511,7 @@ Rin: "Yes, so what?"
 Riki: "I felt like you were just doing a live coverage on the events. You sounded far from being worried about your own child."
 Rin: "That's right."
 Rin: "Ah, that's right!"
-Riki: "Your sudden fancy of agreeing twice like that is most interesting, but I need you to play your role like I'm telling you next time." 
+Riki: "Your sudden fancy of agreeing twice like that is most interesting, but I need you to play your role like I'm telling you next time."
 *Her bell chimed again.*
 Riki: "Now, the wall is moving. Shout."
 Rin: "Oh my, the wall's moving!! Lawrence!!"
@@ -59186,7 +59184,6 @@ Riki: "This room is pretty humid..."
 *I try to set the explosives.*
 **Rumble*...*
 **Rumble*...*
-**Rumble*...*
 *A hot spring appeared before us.*
 Riki: "Ah, it's a hot spring."
 Riki: "So? Was there some kind of mechanism?"
@@ -64381,7 +64378,7 @@ Kud: "I think you can talk it out with them."
 *That's why I decided to say it.*
 Haruka: "I doubt talking will fix it."
 Kud: "Eh...?"
-Haruka: "Since when are you a family issue expert?" 
+Haruka: "Since when are you a family issue expert?"
 Haruka: "I wish my family relationship were as healthy as yours."
 Kud: "......!"
 *She went all pale.*
@@ -74752,7 +74749,7 @@ Riki: "..."
 *It was embarrassing to think that she could feel my pulse through her right hand pressed against my chest.*
 *My heart was hammering.*
 Haruka: "If it's what Riki-kun desires..."
-Haruka: "..."If it's what you desire, I will do anything."" 
+Haruka: "..."If it's what you desire, I will do anything.""
 Haruka: ""That's how much I love you.""
 Riki: "W-what are you talking about?"
 Haruka: "It's a line from a foreign drama."
@@ -75900,7 +75897,7 @@ Futaki: "You're such a good Samaritan. Not like this is news to me, though."
 Futaki: "So, shall we begin?"
 *The three of us started working on the workbook together.*
 *We went through and solved every problem.*
-Kud: "Teuana, uoua, tenua, aua, nimaua. (One, two, three, four, five.)" 
+Kud: "Teuana, uoua, tenua, aua, nimaua. (One, two, three, four, five.)"
 *Kud was counting the correct answers at a strange tempo.*
 Kud: "Onoua, itua, wanua, ruaiwa, tebwina. (Six, seven, eight, nine, ten.)"
 *Maybe it was a counting song from some foreign country.*
@@ -76063,7 +76060,7 @@ Kud: "Yes, that's right."
 *She then started to pour the contents into my cup.*
 Riki: "...?"
 *A light scent of soup wafted in the air.*
-Riki: "...Kud, inside the bottle... is that..." 
+Riki: "...Kud, inside the bottle... is that..."
 Kud: "Did you figure it out already?"
 *She opened another flask whose lip was a tad wider than the previous one's.*
 *I heard the clacking together of ice cubes within.*
@@ -77011,7 +77008,7 @@ Riki: ""In a certain place there are two villages: one in which the birds live, 
 *More precisely, it seemed to be a notebook used to store the owner's ideas for stories.*
 *There were some rough images sketched in with colored pencils.*
 *The two villages have always been on bad terms, and they finally start fighting each other.*
-What caused the fight is a small reason: the question "which village is better?" 
+What caused the fight is a small reason: the question "which village is better?"
 *The bat does not know which side to join.*
 *The bat and the duckbill share the same feeling and are hiding in a cave together.*
 *The duckbill is feeling sad, being at a loss for what to do.*
@@ -95581,7 +95578,7 @@ Nishizono: "I happen to be quite fond of things like this."
 Riki: "Well, I don't really mind then..."
 *Seems like she just acquired some powerful back-up...*
 Suzuki: "I almost forgot, you have to bear one thing in mind."
-Suzuki: "SIP has biorhythms. The exact period is not yet discovered." 
+Suzuki: "SIP has biorhythms. The exact period is not yet discovered."
 Suzuki: "You won't be able to use cyber weapons to their full potential when the SIP value is too low."
 Suzuki: "And also, please call us the Science Club Corps from now on."
 Suzuki: "We'll be watching all of your battles."

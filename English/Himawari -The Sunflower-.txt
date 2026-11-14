@@ -9492,8 +9492,6 @@ Youichi: "...Hinata Souichirou and Amamiya Daigo, huh."
 *Huh? A guest this late?*
 *ding-dong*
 *ding-dong*
-*ding-dong*
-*ding-dong*
 *Jesus, tone it down! I'll be there in a sec!*
 *I hurried to the door, a towel still covering my wet hair.*
 *Shirt, check. Pants, check.*
@@ -24472,8 +24470,6 @@ Youichi: "Okay, okay!"
 *...Good grief.*
 *ding-dong*
 *ding-dong*
-*ding-dong*
-*ding-dong*
 *Shit, I better hurry.*
 Youichi: "Sorry, I'll be there in a second!"
 *creak*
@@ -26070,7 +26066,6 @@ Youichi: "N-Nothing."
 Aries: "Perfect!"
 *And then she licked it up.*
 Aries: "Delicious!"
-*Poured and licked.*
 *Poured and licked.*
 *Poured and licked.*
 Youichi: "H-Hey!"
@@ -37827,28 +37822,28 @@ Ghah?!"
 *The amount of time left to me.*
 *I believed that becoming an adult meant gradually expanding my
 world.*
-*And so I thought to embrace this world and make it my own... 
+*And so I thought to embrace this world and make it my own...
 ...piece by piece.*
 *But I was wrong.*
-*Becoming an adult meant 
+*Becoming an adult meant
 losing more and more of the time left to me.*
-*With each passing second, 
+*With each passing second,
 a potential future vanished into nothingness.*
-*For example, getting up five minutes later in the morning. 
+*For example, getting up five minutes later in the morning.
 300.*
-*Or staying home from school with a fever. 
+*Or staying home from school with a fever.
 86,400.*
-*Repeating your first year in high school. 
+*Repeating your first year in high school.
 31,536,000.*
 *It had always been on a gradual decline, a constant substraction.*
-*Trickling down, slowly but surely... 
+*Trickling down, slowly but surely...
 ...until it reached zero.*
-*A number large enough to be thought infinite... 
+*A number large enough to be thought infinite...
 ...was very much finite.*
-*What would happen once it reached zero? 
+*What would happen once it reached zero?
 What would be waiting for me there?*
 *...I couldn't tell.*
-*After all, I still-- 
+*After all, I still--
 I still belonged to this world.*
 *I lived as an ordinary person who knew her lifespan was steadily edging toward zero.*
 *I was not special or unique in any way.*
@@ -37857,209 +37852,209 @@ I still belonged to this world.*
 *Even now, my time was running out...*
 ====================EX_CB.json====================
 *It was a hot day.*
-*The morning news were talking about 
+*The morning news were talking about
 record-level heat waves reaching certain parts of Japan.*
 *There had been heated discussions*
 *of rapid global warming ever since I was born.*
-"Still... at the very least, 
+"Still... at the very least,
 this planet will live longer than me."
 *I first started suspecting there to be something wrong with my
 body around the time I entered middle school.*
 *...I would spend every P.E. class sitting on the sidelines, watching
 the others.*
 *...At lunch, I would get unique food made specifically for me.*
-*...I missed my finals, 
+*...I missed my finals,
 but I didn't have to take any supplementary classes or exams.*
-*Despite that, I still believed 
+*Despite that, I still believed
 that I was no different from other people.*
 *...I wanted to believe it.*
-*Soon enough, I entered high school... 
+*Soon enough, I entered high school...
 And during my third summer...*
-*I realized that 
+*I realized that
 all my classmates were studying for their entrance exams.*
 *I did the same.*
 *I never hated studying.*
-*With each new thing I learned, 
+*With each new thing I learned,
 I felt my whole world expanding.*
 *...At the time, I still believed the finite to be infinite.*
 "...That won't be any use to you."
-*My father's blunt comment really made me angry. 
+*My father's blunt comment really made me angry.
 I didn't talk to him for a whole week after that.*
-*...I still didn't fully understand 
+*...I still didn't fully understand
 what his words truly meant.*
 *Next spring--*
-*I studied really hard, 
+*I studied really hard,
 and managed to be accepted to Tokyo's largest private academy.*
 *When I later realized it was the same university my father
 graduated from, I felt a little sad.*
 *...When I learned the school was under the jurisdiction of my
 father's company, I was even more discouraged.*
-*But there would be neither lunch breaks nor P.E. classes here. 
+*But there would be neither lunch breaks nor P.E. classes here.
 And you'd have to attend classes to get credits.*
 *...So I figured I could easily make new friends.*
 *I was a little scared of talking to boys, though.*
-*So the first person I talked to 
+*So the first person I talked to
 ended up being a girl sitting in front of me.*
 "I'm glad I took this class..."
-*When I asked her why, 
+*When I asked her why,
 she answered with a smile.*
 "Because we could become friends like this."
-*I smiled back at her. 
+*I smiled back at her.
 I was happy to have come to this univeristy.*
-*The rainy season was nearing its end, 
+*The rainy season was nearing its end,
 with summer right around the corner...*
 ====================EX_CC.json====================
 "I want to build an unsinkable ship!"
 *...said Chiaki.*
-*She pressed the importance of aquatic resources, 
+*She pressed the importance of aquatic resources,
 especially in our present age of such advanced global warming.*
-*I didn't quite understand everything she told me, 
+*I didn't quite understand everything she told me,
 but I knew she was thinking of the future.*
-*...That she cared deeply about 
+*...That she cared deeply about
 where the future of this planet was headed.*
 "So that's why I dislike people who don't take their university
 studies seriously."
 *I followed Chiaki's gaze around the room.*
-*We were in the most elite private school in Japan... 
+*We were in the most elite private school in Japan...
 ...yet no one here really had that aura of a student.*
-*I studied so hard to pass the exam, 
+*I studied so hard to pass the exam,
 so how did they manage to get in...?*
 *They must have been born geniuses.*
-*A droplet of innate talent meant more than all the 
+*A droplet of innate talent meant more than all the
 painstaking effort of an ordinary person.*
 *But... that was also a little bit sad.*
-*Both Chiaki and I must have been ordinary people 
+*Both Chiaki and I must have been ordinary people
 just trying to do their very best.*
 "What do you plan to study here?"
 *...I was drawing a blank.*
 *Why did I come to this university?*
-*The direct reason why I originally chose this university 
+*The direct reason why I originally chose this university
 was merely to rebel against my father.*
-*But what initially pushed me 
+*But what initially pushed me
 to begin earnestly pursuing my studies?*
 *...And then I remembered.*
-*I see. 
+*I see.
 Because it made me feel like my world was opening up.*
 "...Oh, I guess you're kind of a seafarer."
-*Chiaki smiled as she uttered the words -- 
+*Chiaki smiled as she uttered the words --
 I wasn't sure what shewas getting at.*
 "The sailors and seafarers of old boarded ships and embarked
 upon the vast seas to make the whole world their own."
 "But there wasn't anyone who could conquer the whole of the
 seas."
-"Those who embark upon the seas, 
+"Those who embark upon the seas,
 are fated to be perish among its waves."
 *So, in other words... their ships sank?*
-"The seas of our planet are vast and wide. 
+"The seas of our planet are vast and wide.
 They continue to expand even now."
-*I had heard about that. 
+*I had heard about that.
 Something about the melting ice caps up in the Arctic.*
-"So rationally speaking, conquering the seas... 
+"So rationally speaking, conquering the seas...
 ...should be impossible."
-"But if you had an unsinkable ship, 
+"But if you had an unsinkable ship,
 maybe then..."
-*Just maybe... 
+*Just maybe...
 Could one travel around the world, seeing all its sights?*
 "You're from Miyaura, right?"
 *Chiaki told me how she loved sunflowers.*
 *I didn't really know what to make of that.*
-*After all, where I lived... 
+*After all, where I lived...
 ...sunflowers had always been around.*
 "Sunflowers originate from North America."
 "At one point someone took the seeds to Europe."
-"They crossed over to Asia, and after a long, long journey, 
+"They crossed over to Asia, and after a long, long journey,
 finally arrived in Japan."
 "...I wonder where they will pop up next?"
-*That conversation with Chiaki 
+*That conversation with Chiaki
 made me interested in sunflowers.*
-*Maybe I could come to love them. 
+*Maybe I could come to love them.
 That's what I believed.*
 "Alright, my mind is made!"
-"I'm going to build a ship... 
+"I'm going to build a ship...
 ...just for you!"
 *I wondered if it would be a regular ship or maybe a steamboat.*
 *Or maybe even an ark.*
-*I wondered if Chiaki had already thought up in her mind 
+*I wondered if Chiaki had already thought up in her mind
 what it would look like.*
 *At the time...
 I hadn't the faintest idea.*
 ====================EX_CD.json====================
 *I heard the voice of the newscaster on TV.*
-"Tonight, the experimental test flight 
+"Tonight, the experimental test flight
 of a high-altitude airliner is scheduled to--"
 *Around the time the summer heat was at its strongest...*
 *I once again returned to Miyaura.*
 *White walls, white ceiling, and white bed.*
-*It felt like the world had been thoroughly scorched 
+*It felt like the world had been thoroughly scorched
 by the scalding rays of the sun.*
 *The buzz of cicadas rang painfully in my ears.*
-"Still... at the very least, 
+"Still... at the very least,
 I'll live longer than a cicada."
 *A cicada's lifespan is generally said to be about two weeks.*
-*I did my usual calculations. 
+*I did my usual calculations.
 I could easily do it in my head.*
 *60x60x24x14 equals 1,209,600.*
 *...Hm, that's pretty short.*
-*Even the time I spent calculating that 
+*Even the time I spent calculating that
 put me just a bit closer to zero.*
 *But the cries of the cicadas would never die down.*
-*They grew stronger and stronger, 
+*They grew stronger and stronger,
 as we headed toward the end of summer.*
 "Why do they try so hard...?"
-*Their best efforts would still amount to nothing. 
+*Their best efforts would still amount to nothing.
 A sad state of affairs, but that's how the world worked.*
-*My cellphone buzzed alive, 
+*My cellphone buzzed alive,
 signaling that I'd received an e-mail from Chiaki.*
-*Cellphones are strictly forbidden in here, 
+*Cellphones are strictly forbidden in here,
 but I was an exception.*
 "Everything smooth sailing?"
 *...That was all she wrote.*
-*She used to contact me every day, 
+*She used to contact me every day,
 But recently, she had begun only sending an e-mail every few days.*
 *It had already been a month and a half since I left Tokyo...*
-*I suppose in her mind, 
+*I suppose in her mind,
 I was already a faraway existence, out at sea.*
 *I see... I was different from the rest. A special case.*
-*My finger stopped mid-way through sending my reply. 
+*My finger stopped mid-way through sending my reply.
 I had nothing I could say to her in response.*
 "...Well, I *am* a seafarer, after all."
-*Instead, I replied with Chiaki's own words from a 
+*Instead, I replied with Chiaki's own words from a
 long time ago.*
-*If it was possible, 
+*If it was possible,
 I wished I could've boarded an unsinkable ship.*
-*I wanted to see all the world's sights 
+*I wanted to see all the world's sights
 aboard the ship Chiaki would build me.*
-*Unfortunately... 
+*Unfortunately...
 The ship I ended up boarding was a bit of a defect.*
 *Its hull was pockmarked with holes,
 allowing the water to come seeping in.*
-*And eventually... 
+*And eventually...
 ...the waves would inevitably swallow me whole.*
-*I would be lost in the depths, 
+*I would be lost in the depths,
 before I even had the chance to glimpse land...*
 ====================EX_CE.json====================
-*It happened that night. 
+*It happened that night.
 Right around midnight, as one day shifted into the next.*
 *I witnessed the very ends of this world with my own eyes.*
-*I spotted something beyond my window. 
+*I spotted something beyond my window.
 The very horizon, dividing Heaven and Earth...*
 *...burned a bright hue of crimson.*
-*The bluish white glow of the still switched-on TV 
+*The bluish white glow of the still switched-on TV
 illuminated the room as a disturbed newscaster made his report
 on its screen.*
-"We have yet to confirm the status of the passangers. 
+"We have yet to confirm the status of the passangers.
 The flames surrounding the crash site are showing no signs of--"
 *A full list of all the passengers filled the screen.*
-*Dozens upon dozens on names, all in alphabetical order, 
+*Dozens upon dozens on names, all in alphabetical order,
 accompanied by a wide range of ages--*
-*One person was... 
+*One person was...
 60x60x24x365x18.*
-*Another person was... 
+*Another person was...
 60x60x24x365x24.*
 *A truly enormous loss.*
 *...I felt no pity.*
 *I simply kept counting and counting, completely emotionless.*
-*These people 
+*These people
 all traveled to the far side of the chasm, to the place beyond zero.*
 *A truly massive ship sank that day...*
 *Ah, that's right -- I need to reply.*
@@ -38067,99 +38062,99 @@ all traveled to the far side of the chasm, to the place beyond zero.*
 "A storm came."
 *Sent.*
 *Please, Chiaki.*
-*Hurry up and build your ship. 
+*Hurry up and build your ship.
 One that will never sink.*
 *Otherwise, I might end up the same way as those people...*
 *No reply came from Chiaki that day.*
 ====================EX_CF.json====================
-*The next morning, 
+*The next morning,
 the hospital suddenly became busier than usual.*
-*It didn't take long to figure out why. 
+*It didn't take long to figure out why.
 After all, I had been watching the news.*
 *I got up from bed and went to look around,
 but not simply out of sheer curiosity.*
-*I wanted to see him. 
+*I wanted to see him.
 The boy who managed to return from the very precipice of this
 world.*
 "Um... "
-*I inspected the nameplate on the door. 
+*I inspected the nameplate on the door.
 I was at the right place.*
 *I entered...*
 *...and immediately regretted it a moment later.*
-*Apparently, 
+*Apparently,
 the surviving boy was in his third year of middle school.*
 *At least that's what the news report said.*
 *However--*
-*The boy in the room, staring absentmindedly into the air, 
+*The boy in the room, staring absentmindedly into the air,
 didn't look like a middle schooler at all.*
-*He seemed younger, say... fifth or sixth grade. 
+*He seemed younger, say... fifth or sixth grade.
 Maybe even third or fourth.*
 "Who're you...?"
-*Our eyes met. 
+*Our eyes met.
 But the boy seemed oddly out of focus...*
-*At that moment, I understood. 
+*At that moment, I understood.
 That there were something off about him.*
-*It only took me a few seconds 
+*It only took me a few seconds
 to remember what I'd heard on the news.*
 *Amnesia.*
 "Ah, there's someone new...!"
 *My defensive instincts must have kicked in right there.*
-*I spoke up in a voice cheery enough 
+*I spoke up in a voice cheery enough
 to surprsise even myself.*
-*Almost like... 
+*Almost like...
 Like I was talking to a toddler.*
 "Ah... I, um, I..."
 *He looked back at me with a panicked expression.*
-*So I drew closer to him, 
+*So I drew closer to him,
 slowly enough so as not to alarm him.*
 "What's your name?"
 "My... name...?"
 *It was a silly question.*
-*After all, I knew more about him 
+*After all, I knew more about him
 than he did himself.*
 "...Youichi."
 "Huh...?"
 "Your name. It's Youichi."
 "That's... my name?"
 *...Ah, I see.*
-*This boy was the only survivor of the accident that claimed 
-over five hundred lives. 
+*This boy was the only survivor of the accident that claimed
+over five hundred lives.
 The only one to escape that tremendous substraction.*
 *...It must have been a miracle.*
-*The miracle I would never experience, 
+*The miracle I would never experience,
 no matter how much I wished for it.*
 The miracle of "addition."
-*In that moment, 
+*In that moment,
 what overcame my heart was not envy...*
 *Nor pity, nor compassion...*
 "I'm Asuka, by the way!"
 *...But a firm desire to protect him. To look after him.*
-*I was aboard a sinking ship. 
+*I was aboard a sinking ship.
 My fate was set in stone.*
 *But my remaining time had yet to reach zero.*
 *...And I just so happened to chance upon the survivor of a
 shipwreck.*
-*If I could make it far enough to 
+*If I could make it far enough to
 carry this boy to the next ship...*
 *If I could at least accomplish that... I...*
 ====================EX_CG.json====================
-*Ever since then, 
+*Ever since then,
 I spent every day playing with Youichi.*
-*Or rather, we spent time playing inside the hospital, 
+*Or rather, we spent time playing inside the hospital,
 seeing how I was forbidden from going outside.*
 "Come back here, you two...!"
 "Uh-oh! Youichi, let's get outta here!"
 "W-Wait up, Asuka...!"
-*There was no need to even play tag. 
+*There was no need to even play tag.
 The nurses chased us around on a daily basis, after all.*
-"So this here is an IV." 
+"So this here is an IV."
 "Did you ever have one?"
 "No... this my first time seeing it."
-*I taught him plenty of things. 
-And Youichi's eyes would glitter with excitement 
+*I taught him plenty of things.
+And Youichi's eyes would glitter with excitement
 each and everytime.*
 *Step by step, Youichi...*
-*learned more and more about the world, 
+*learned more and more about the world,
 almost like a dry sponge soaking up water.*
 *...He learned a year's worth in just a day.*
 *...There was no need to even do the substraction.*
@@ -38167,14 +38162,14 @@ almost like a dry sponge soaking up water.*
 *Time stops for no man, and so...*
 "Huh? Youichi, where'd you go?"
 *Youichi eventually disappeared from that hospital room.*
-*A nurse then told me that he had been released 
+*A nurse then told me that he had been released
 from the hospital just a short while ago.*
-*His memories had yet to return, 
+*His memories had yet to return,
 but he was deemed fit to lead a normal life regardless.*
 *...And with that, my role had come to an end.*
-*He exited the building 
+*He exited the building
 and was handed over to a relative of his.*
-*I was up in my room alone, gazing out the window 
+*I was up in my room alone, gazing out the window
 as he left the hospital for good...*
 ====================EX_CH.json====================
 *...My days kept ticking down.*
@@ -38183,7 +38178,7 @@ as he left the hospital for good...*
 *That biting snippet of cynicism came from my father.*
 "Would you like to come home with me?"
 *It took me moments to figure out what he had meant.*
-*This hospital, too...  
+*This hospital, too...
 ...was being managed by my father's company.*
 *His word basically superceded even that of the doctors'.*
 *Which is exactly why I would never give him a nod.*
@@ -38200,32 +38195,32 @@ subtractions--*
 *Even as my ship sank,
 I would never even considering fleeing to land.*
 "Chiaki..."
-*I wondered how she was doing right now. 
+*I wondered how she was doing right now.
 Did she manage to build that unsinkable ship of hers?*
 *As I glanced out the window, I noticed it had begun snowing.*
 *How many years had it been since the last snowfall in Miyaura?*
 *...Could it also be snowing back in Tokyo?*
 "..."
-*...Soon enough, 
+*...Soon enough,
 I found myself wearing a thinly-layered coat.*
 ====================EX_CI.json====================
-*It takes about a day and a half 
+*It takes about a day and a half
 to reach Tokyo from Miyaura with a ferry passing through
 Tokushima.*
 *This also inevitably means that one has to spend the night on
 board.*
-*It would've taken less than two hours to 
+*It would've taken less than two hours to
 board a morning flight, but...*
 *...I was going to visit Chiaki.*
 *As such, I felt it almost necessary to go by boat.*
 "Brr, I'm freezing..."
 *The ferry soared through the ocean waves at the speed of 21.5
 knots.*
-*I made my way outside; 
+*I made my way outside;
 the deck was under a steady onslaught of rain mixed with ice.*
 *Miyaura's lights had long since flickered their last on the
 horizon.*
-*Apart from the occasional coastline glitter, 
+*Apart from the occasional coastline glitter,
 I was enveloped by complete darkness.*
 *It made me imagine the ship embarking upon the open sea,
 never to return.*
@@ -38233,76 +38228,76 @@ never to return.*
 "An unsinkable ship, huh..."
 *I wonder how Chiaki got that idea.*
 *A ship that never sinks -- basically a ghost ship.*
-*Even if it never sank, 
+*Even if it never sank,
 there was a limit to the crew's lifespans.*
-*I couldn't help but wonder why she 
+*I couldn't help but wonder why she
 wanted to build me an unsinkable ship...*
 *But I felt like I was starting to understand why.*
 *I wasn't special or unique.*
-*I simply had far less time given to me 
+*I simply had far less time given to me
 compared to other people.*
 *After all, everyone's life was a never-ending countdown...*
 ====================EX_CJ.json====================
 *Christmas morning.*
 *The ferry momentarily stopped at the port of Tokushima.*
-*After parting with much of its cargo and passengers, 
+*After parting with much of its cargo and passengers,
 it once again set out.*
-*Almost like... 
+*Almost like...
 Santa Claus in a hurry.*
 "Am I really... a seafarer?"
-*My ferry traversed a predetermined route 
+*My ferry traversed a predetermined route
 at a predetermined rate.*
-*The open seas stretched freely as far as the eye could see, 
+*The open seas stretched freely as far as the eye could see,
 yet the ferry would never stray from its invisible rails.*
-*I wanted to learn so many things. 
+*I wanted to learn so many things.
 I wanted to expand my world further and further--*
-*I had tried this hard, yet in the end... 
+*I had tried this hard, yet in the end...
 I was powerless beyond measure.*
 "Me, a seafarer? What a joke..."
-*Come summer, Miyaura's streets will once again 
+*Come summer, Miyaura's streets will once again
 be showered by the gold of sunflowers.*
-*But...those sunflowers have made a 
+*But...those sunflowers have made a
 tremendously long journey to get there.*
 *That can't be the final stop of their journey.*
-*I wanted to meet Chiaki as soon as possible. 
+*I wanted to meet Chiaki as soon as possible.
 To understand what her words meant back then.*
 *To have her smile at me the way she used to.*
 ====================EX_CK.json====================
 *The university had already closed down for the holidays.*
-*I began heading toward Chiaki's house, 
+*I began heading toward Chiaki's house,
 just relying on my mental map.*
-*She would definitely be at home, 
+*She would definitely be at home,
 as I knew she lived with her parents.*
-*I still remember how kind her parents were 
+*I still remember how kind her parents were
 whenever I visited her.*
-*But when I finally reached her house, 
+*But when I finally reached her house,
 It wasn't quite how I remembered it.*
-*An ominous silence fell upon the house. 
+*An ominous silence fell upon the house.
 No bright lights, no lively chatter filled its rooms.*
 *Nor was I greeted by a friend.*
 "Why... why did you come back?"
-*I lied... and told her I'd be attending university again, 
+*I lied... and told her I'd be attending university again,
 having just been released from the hospital.*
-"How dare you show your face again here... 
+"How dare you show your face again here...
 ...after taking everything from me?!"
 *Her ship had long since sunk to the bottom of the ocean.*
 *My father would explain the details to me later.*
 *Chiaki's parents were both employed at my father's company.*
-*They were engineers 
+*They were engineers
 working on ships.*
-*They were hired  
+*They were hired
 to work on a spaceship.*
-*And both of them were aboard  
+*And both of them were aboard
 that fated high-altitude airliner.*
 *An unsinkable ship...*
-*That wasn't just Chiaki's dream. 
+*That wasn't just Chiaki's dream.
 It was her parents', too.*
 *And yet...*
-"Get out of my sight! 
+"Get out of my sight!
 I don't want to see your face ever again!!"
-*I knew it. The world was built upon a myriad of losses. 
+*I knew it. The world was built upon a myriad of losses.
 A myriad of subtractions.*
-*Those who had passed beyond the chasm of zero 
+*Those who had passed beyond the chasm of zero
 would no longer return.*
 *...There was no such thing as an unsinkable ship.*
 ====================EX_CL.json====================
@@ -38310,67 +38305,67 @@ would no longer return.*
 *I wandered aimlessly amidst the crashing waves.*
 *Simply letting the endless wave of people guide me along...*
 *Before I realized it,*
-*I found myself wandering the night streets. 
+*I found myself wandering the night streets.
 Just aimlesly going in circles, without any particular
 destination in mind.*
-*Searching for something that was never there... 
+*Searching for something that was never there...
 Like a fool grasping for gold dust among the sands of a desert.*
 *People were passing me by at a quick pace.*
-*What were they searching for?  
+*What were they searching for?
 And where were they headed?*
-*There was no port waiting for them. 
+*There was no port waiting for them.
 Their ships will sink before they could reach it.*
-*...I had finally understood that. 
+*...I had finally understood that.
 Painfully well.*
 *Despite all that, the oceans of this planet kept expanding.*
 *Alongside an explosive growth in human population.*
-*People cling onto their short lives 
+*People cling onto their short lives
 all the while devouring the very lifespan of this planet.*
-*Just like I was clinging onto my remaining time 
+*Just like I was clinging onto my remaining time
 as I kept calculating subtraction after subtraction.*
 *Dreaming of a miracle--*
 "Wait..."
 *I spotted a certain someone.*
-*Within that massive sea of people... 
+*Within that massive sea of people...
 Someone refusing to be swept up by their ever-swaying waves.*
 *I ran toward him.*
-*Pushing my way through the waves, 
+*Pushing my way through the waves,
 wading through their collage to reach him.*
-*As I feigned surprise, 
+*As I feigned surprise,
 just like I did that day--*
 "Youichi? Is that you?"
 *I spoke up to address him.*
 *That was the day I reunited with a boy I knew once.*
 ====================EX_CM.json====================
-*157,680,000. 
+*157,680,000.
 ...or 60x60x24x365x5.*
 *The amount of time I had left.*
-*There were no miracles. 
+*There were no miracles.
 Even now, my ship was slowly but surely sinking deeper and
 deeper into the ocean.*
-*I believed that growing up would mean 
+*I believed that growing up would mean
 gradually expanding my world.*
-*To embrace this world and make it my own... 
+*To embrace this world and make it my own...
 ...piece by piece.*
 *...But I was wrong.*
 *I was no longer calculating subtractions.*
 *Because I had already found what lied beyond the chasm of zero.*
 "So, um, you see... I'm in my third month now..."
-*Growing up meant... 
+*Growing up meant...
 ...embarking upon a voyage you won't ever return from.*
 *At least it did for me.*
-*Even if the countdown ended and I reached zero, 
+*Even if the countdown ended and I reached zero,
 the voyage itself would continue to what lied beyond.*
 *...Toward the limitless future.*
 *Almost like... an unsinkable ship.*
 *I had to carry this seed forward.*
-*I received it from someone a long, long time ago, and now... 
+*I received it from someone a long, long time ago, and now...
 ...I had to pass it on to someone else.*
 *...If I did that, it could reach its destination.*
 "A name? How about..."
-*That unseen land hiding beyond the horizon. 
+*That unseen land hiding beyond the horizon.
 It may still be a barren wasteland...*
-*But one day... 
+*But one day...
 The bright summer sun will shine down upon it...*
 "...Sunflower."
 *...as their golden host blooms in full colors.*
@@ -47143,12 +47138,7 @@ Aqua: "What...?"
 *What--*
 *I don't want to die.*
 *I don't want to die.*
-*I don't want to die.*
-*I don't want to die.*
 *What in the world was this?*
-*Help*
-*Help*
-*Help*
 *Help*
 *Help*
 Aoi: "KYAAAAAAAAAAAAAAAAAAAA...!!!"

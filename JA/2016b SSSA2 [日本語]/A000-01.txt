@@ -1,4 +1,4 @@
-﻿chapter1_1|あしたの国
+chapter1_1|あしたの国
 narrator:帰り道、まこちゃんは花束を抱える僕を見てにこにこしていた。
 (scene change)
 heroine:「おかくんは、詩人ですねえ」

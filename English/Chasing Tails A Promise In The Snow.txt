@@ -2823,7 +2823,6 @@ June:  "Wha-"
 *{i}There will be no safe havens for you anymore.{/i}*
 *...*
 *...*
-*...*
 *If only I had listened to Fukuyama...*
 *Fukuyama!*
 *Her note is still in my pocket.*

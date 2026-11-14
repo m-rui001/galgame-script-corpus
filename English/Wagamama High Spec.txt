@@ -1,4 +1,4 @@
-﻿====================!体験版_共通01.ks.json====================
+====================!体験版_共通01.ks.json====================
 Kouki: "......"
 Kouki: "Huh...?"
 *My computer screen lets out an ominous noise before going dark.*
@@ -3196,7 +3196,7 @@ Yukari: "Okay, everyone listen up."
 *Iwakuma-sensei lifts Saru up with one hand, his body limp.*
 *His eyes are rolled back in his head.*
 Yukari: "This punk was caught shooting an airsoft gun on school grounds during lunch."
-Yukari: "I was called in right away and had to drag him off."　
+Yukari: "I was called in right away and had to drag him off."
 *Masato holds his head in his hands, muttering, "...Right. Saru was bragging about his new airsoft gun."*
 *Ah. I guess he couldn't contain himself until after school.*
 Yukari: "Obviously, airsoft guns are not allowed on school premises. I hope none of you brought anything weird to school like Sarukawa here."
@@ -4069,7 +4069,7 @@ Ashe: "Mihiro should know how to cook it, and I'm sure she could prepare other t
 Mihiro: "Sure! Thing is, it takes quite some time to prepare."
 Kouki: "Hmm. We don't want to keep the customers waiting too long."
 Mihiro: "Do you have any suggestions, Senpai?"
-Kouki: "Me?"　
+Kouki: "Me?"
 *Not off the top of my head.*
 *Let's just compile what we have so far.*
 *Clothes... Something girls can enjoy... Rest... Food...*
@@ -5657,7 +5657,7 @@ Kouki: "We have to put everything away by tomorrow."
 Mihiro: "What do you do at the closing ceremony?"
 Kaoruko: "Well, there's a concert done by volunteers. A play. There's a bingo competition, too, among other things."
 Mihiro: "I see. So we have to help prepare for that too, then..."
-Ashe: "Anything we can do to help, yeah." 
+Ashe: "Anything we can do to help, yeah."
 Mihiro: "Huh...? That makes it sound like they only call in the council when it's convenient."
 Kaoruko: "The committee conducts most of the activities. I'm giving a speech since I'm the Student Council President and that's about it."
 Kouki: "The committee... I'm a bit worried."
@@ -6852,7 +6852,7 @@ Kaoruko: "Kouki-kun... Potato Salad saved my life."
 Kouki: "That sounds like a big deal to me."
 Kaoruko: "I told you not to make this harder than it already is!"
 Kouki: "But Pres, your choice of words..."
-Chitose: "Narumi-san. Let her finish." 
+Chitose: "Narumi-san. Let her finish."
 *I zip my mouth shut.*
 *To me, Takatsuka-san's words might as well be orders you give while playing truth or dare.*
 Kaoruko: "I come from a line of nobles. At least, that's what the locals call us. Everyone behaved similarly, but my grandfather was particularly strict."
@@ -8188,7 +8188,7 @@ Kaoruko: "You're leaving?!"
 *The best excuse I can think of for leaving is that someone else might discover us here.*
 *I'd be okay if it were a girl, but if some shameless asshole walks in on us, that'd be the worst.*
 *...Although I'm a bit creeped out by how worried I am about Pres, so I'll come up with a better excuse.*
-Kouki: "Getting in for a quick splash is fine and all, but you'll get bored quickly." 
+Kouki: "Getting in for a quick splash is fine and all, but you'll get bored quickly."
 Kouki: "This is kind of like a festival. The preparation is the most enjoyable part."
 Kaoruko: "I've heard that before. I'm the type who enjoys the big event, though."
 *Pres says these optimistic things from time to time.*
@@ -9188,7 +9188,7 @@ Kouki: "What's up?"
 Kaoruko: "We, uh... Nothing happened today, right?"
 *Pres slips up at the most important part.*
 Kaoruko: "No, I... Why would I say that?"
-Kouki: "Yes, you're right. Nothing happened at all." 
+Kouki: "Yes, you're right. Nothing happened at all."
 Kaoruko: "K-Kouki-kun, that's terrible!"
 *Pres beats on me like a character in an old manga. I take every hit.*
 Kaoruko: "Ooooh!"
@@ -11035,7 +11035,7 @@ Kouki: "Well, one day..."
 Kaoruko: "The Rokuonji program translates 'one day' into 'tomorrow'."
 Kouki: "Someone really messed up the vocabulary algorithm."
 Kaoruko: "Are you going to 'one day'?"
-Kouki: "Under the normal definition, sure." 
+Kouki: "Under the normal definition, sure."
 Kaoruko: "To propose?"
 Kouki: "I'd need to look even better than I do now."
 Kaoruko: "I dunno about that. You're not very good at creating atmosphere, Kouki-kun."
@@ -11646,7 +11646,7 @@ Kouki: "Hm...?"
 Kouki: "Impossible."
 *I find a portion of egg congee inside.*
 *There's no way that Toa made this... Who could it be?*
-Kouki: "Thank you for the food." 
+Kouki: "Thank you for the food."
 *I still don't have much of an appetite, but it's hard to resist the simple charm of egg congee.*
 *I scoop some up and put it in my mouth.*
 Kouki: "Slurp..."
@@ -11742,7 +11742,7 @@ Chitose: "Coupled with your synergy, you're the perfect match. You've done well 
 Chitose: "I didn't think you'd arrive at this conclusion."
 Kouki: "Well..."
 Kouki: "Okay, let's think about the draft. Oruko-san, you got anything?"
-Kaoruko: "You want to know something? I love the manuscripts and storyboards you send me." 
+Kaoruko: "You want to know something? I love the manuscripts and storyboards you send me."
 Kaoruko: "There's so many notes on them. I feel like you really paid attention to what I was drawing."
 Kaoruko: "Especially when we first started. I felt nervous and excited. It felt like I was reading a love letter every week."
 ====================かおるこルート20.ks.json====================
@@ -11871,7 +11871,7 @@ Ashe: "Hold it... Just where are you looking?"
 Kouki: "A mountaineer once said: 'Why do we climb mountains? Because they are there.'"
 Ashe: "Hmm... So how tall is that mountain?"
 Kouki: "F, I guess."
-Ashe: "I wasn't talking about bust size, you know?! Geez! You're the worst!"　　
+Ashe: "I wasn't talking about bust size, you know?! Geez! You're the worst!"
 Kouki: "N-No! It was an abbreviation for 'feet'!"
 Ashe: "Liar! I bet the fan letter you were talking about came from some girl, so you got all swoony while reading it, huh?! I'll tell Kaoruko-senpai!"
 Kouki: "Why do you need to tell Pres?!"
@@ -12394,7 +12394,7 @@ Kaoruko: "Kouki-kun, was it really that easy?"
 Kouki: "It was. I know since I wrote the reflections and evaluation."
 Kaoruko: "But wasn't it hard to come up with?"
 Kouki: "I managed because someone was keeping an eye on me like a slave-driver editor."
-Ashe: "Ho-Hold it! Don't say weird things to Kaoruko-senpai! I wasn't like that!"　
+Ashe: "Ho-Hold it! Don't say weird things to Kaoruko-senpai! I wasn't like that!"
 Kaoruko: "......"
 Kaoruko: "Heehee. Getting Kouki-kun to work, that's impressive of you, Ashe-chan."
 Toa: "Just what you'd expect from the next presidential candidate. Gets work done fast and doesn't neglect keeping an eye on servants."
@@ -12495,7 +12495,7 @@ Ashe: "'What's up?' You didn't show up so I came to fetch you."
 Kotarou: "Um..."
 Kouki: "Oh, I have some business to do with Sakuragi after this."
 Kouki: "So sorry about that, Kotarou. See you next time."
-Kotarou: "Yes! Please excuse me!"　
+Kotarou: "Yes! Please excuse me!"
 Ashe: "I see... So this is the publishing company."
 *We were swaying inside a train for 30 minutes.*
 *Sakuragi and I seat ourselves inside the company's meeting room.*
@@ -17236,13 +17236,13 @@ Mihiro: "'That'? Gotcha."
 Kaoruko: "Oh, it's a secret keyword!"
 Toa: "No, no, it's just 'that'. Nothing to do with onii-chan at all."
 Toa: "...Is it safe? Can we start the onii-chan meeting?"
-Mihiro: "The restaurant isn't busy at the moment, and dad's eating. There isn't even a mouse around to overhear us." 
+Mihiro: "The restaurant isn't busy at the moment, and dad's eating. There isn't even a mouse around to overhear us."
 Mihiro: "So? Just what's up with Senpai...?"
 Toa: "I've got a suspicion, though I'm not entirely sure yet."
 Mihiro: "I knew he'd pull it off eventually, but this is quicker than expected."
 Mihiro: "Senpai's finally eaten your panties, huh?"
 Toa: "......"
-Mihiro: "What's with the silent treatment?! Tell me I'm wrong!" 
+Mihiro: "What's with the silent treatment?! Tell me I'm wrong!"
 Toa: "I already told you, didn't I? I'm just not sure."
 Mihiro: "Oh dear heavens... Senpai was this thirsty? This starved for women? I should've been nicer to him."
 Toa: "...Sorry, but you, Mihiro?"
@@ -18006,7 +18006,7 @@ Kouki: "And how many years will that take?"
 Toa: "If all goes well, it won't even take one year!"
 Kouki: "Okay, even your onii-chan isn't that patient, so let's start getting you changed first."
 Toa: "Mentally speaking, my body weight is just one-sixths that of a normal person, so changing is really hard for me."
-Kouki: "Just get changed already. Otherwise I'm going to make you eat a stapler." 
+Kouki: "Just get changed already. Otherwise I'm going to make you eat a stapler."
 Toa: "Energy ready, let's do this."
 *In contrast to our usual little performances, even though I try to get a little excitement in, this is the state of things.*
 *I suppose that's why things are like this.*
@@ -18174,7 +18174,7 @@ Kouki: "Your cuteness is absolute, and nothing could ever change that."
 Toa: "Is that... true...?"
 Kouki: "You see, little sisters are unconditionally cute, just by being little sisters."
 Kouki: "I'd already known of how cute and lovely little sisters could be all along!"
-Kouki: "This adoration for little sisters... selfish and mischievous... I'm going to write it out, loud and proud! Full of my love and emotion!" 
+Kouki: "This adoration for little sisters... selfish and mischievous... I'm going to write it out, loud and proud! Full of my love and emotion!"
 Toa: "I-I see... Good for you... would be the right thing to say, I guess?"
 Kouki: "Do you mean my manga? I've already dealt with that. This and that are two different things."
 *...I've only accomplished half of what I wanted to do today.*
@@ -18670,7 +18670,7 @@ Kouki: "...Thanks."
 *Unfortunately, as the discussion goes on, the burger patties have mostly been cleared out.*
 *I really wanted to get a better taste... Damn, why is it so much fun talking with these two?*
 Toa: "What's with the long face...? Do you want to have another? Of the burgers, I mean."
-Kouki: "Are there still more?" 
+Kouki: "Are there still more?"
 Toa: "There will be if I form up and fry some more."
 Kouki: "...Well then, I'd like seconds, please!"
 Toa: "Just a minute, then."
@@ -18768,7 +18768,7 @@ Ashe: "I-I'm sorry..."
 Kaoruko: "Third place! And that means that if that manga that was last published three-and-a-half years ago weren't there, then it'd be in second place!"
 Toa: "...In that sense, wouldn't it be a case of bad luck?"
 Kaoruko: "Which means... we'll get second place next week! Ahh... I'm so nervous..."
-Kouki: "Apparently they said that manga isn't going to be published again." 
+Kouki: "Apparently they said that manga isn't going to be published again."
 Mihiro: "Going on a hiatus again, huh?"
 *Your readers are still a-waitin'.*
 Mihiro: "Well, 'Two Piece' is also on hiatus, so I guess the max is really third place, right?"
@@ -19796,7 +19796,7 @@ Yukari: "It's just so annoying, right? Not being able to go to a mixer, or just 
 Kouki: "...I-I'll do my best in the next exams."
 Yukari: "'Yeah, do your best' is the only thing I can say, in my position."
 *She places the graded exam papers on my desk, then combs her hair up.*
-Yukari: "Don't hold it all in. If it comes down to it, helping out my students is covered by my salary." 
+Yukari: "Don't hold it all in. If it comes down to it, helping out my students is covered by my salary."
 Yukari: "If anything happens, just know that you've got someone willing to lend you an ear. It'll make things a little easier for both of us, after all. Just keep that in mind."
 Yukari: "You took the supplementary classes seriously; what's important is that you're still on the straight and narrow."
 Kouki: "...Th-Thank you very much for everything thus far."
@@ -21773,7 +21773,7 @@ Toa: "Do you know the pain I had to go through while making this? You're not the
 Kouki: "Well, you totally deserved it! You shouldn't have made it in the first place."
 Toa: "Curiosity got the best of me..."
 Ashe: "I'm the only victim here! I got dragged into this for no reason!"
-Kaoruko: "Gimme back my phooone!" 
+Kaoruko: "Gimme back my phooone!"
 *I feel like some kind of Swiss roll with these three surrounding me like this.*
 *These situations have been happening more often lately. I'm amazed I adapted to it so fast.*
 Mihiro: "Hello... Oh, that looks fun."
@@ -22990,7 +22990,7 @@ Kinjirou: "Why so blue, Kouki? Having one of those days?"
 Kouki: "...I'm so jealous that you don't have anything to worry about, Saru."
 Kinjirou: "What?! I have problems too, you know!"
 Kouki: "Really? Like what?"
-Kinjirou: "Like, what should I jerk off to today?" 
+Kinjirou: "Like, what should I jerk off to today?"
 *...Yep, he's a moron. I'm glad that you're still the same as ever, Saru.*
 Kinjirou: "What’s wrong? Do you want me to share my fap material?"
 Kouki: "No. I'm not in the mood."
@@ -24144,7 +24144,7 @@ Mihiro: "Yes, let's!"
 *I swear, I have the cutest girlfriend.*
 Mihiro: "Hey, Senpai. Do you know about the shortcut that's around here?"
 Kouki: "Shortcut? No, I've never heard of it."
-Mihiro: "What a greenhorn. You have a long way to go to being the shopping district's Back Alley Master." 
+Mihiro: "What a greenhorn. You have a long way to go to being the shopping district's Back Alley Master."
 Kouki: "Do we even have those in our shopping district...?"
 Mihiro: "Yes. I'm a first-degree black belt. My mother is third-degree."
 Kouki: "That's impressive, but I've never heard of it. Who certifies you, anyway?"

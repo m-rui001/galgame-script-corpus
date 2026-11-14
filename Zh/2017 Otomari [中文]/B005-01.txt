@@ -1,4 +1,4 @@
-﻿chapter10_0|存在の底
+chapter10_0|存在の底
 protagonist:「等了很久吗？」
 (scene change)
 heroine:「没有哦，我也刚刚才到呢。」

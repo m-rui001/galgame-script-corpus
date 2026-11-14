@@ -1,4 +1,4 @@
-﻿Sayori: "Heeeeeeeyyy!!"
+Sayori: "Heeeeeeeyyy!!"
 *I see an annoying girl running toward me from the distance, waving her arms in the air like she's totally oblivious to any attention she might draw to herself.*
 *That girl is Sayori, my neighbor and good friend since we were children.*
 *You know, the kind of friend you'd never see yourself making today, but it just kind of works out because you've known each other for so long?*
@@ -1392,7 +1392,6 @@ Natsuki: "She started it!"
 *{cps=*2}So, of course that's going to be...!{/cps}{nw}*
 Monika: "..."
 Monika: "..."
-Monika: "..."
 Monika: "Um..."
 Monika: "Hey, <USER>..."
 Monika: "Why don't westep outside fora little bit?"
@@ -1409,7 +1408,6 @@ Natsuki: "..."
 *She quickly runs away.*
 Monika: "Oh dear..."
 Monika: "...Well, it looks like they're done..."
-Yuri: "I didn't mean it..."
 Yuri: "I didn't mean it..."
 Yuri: "I didn't mean it..."
 *Yuri is rocking back and forth in her desk with her palms on her forehead.*
@@ -4735,8 +4733,6 @@ Monika: "Don't strain yourself~"
 *I can never take it back.*
 *Never.*
 *Never.*
-*Never.*
-*Never.*
 *Never...*
 Natsuki: "Ugh...!"
 *I hear Natsuki utter an exasperated sigh from within the closet.*
@@ -6413,7 +6409,6 @@ Yuri: "Can you feel it, <USER>?"
 Yuri: "I feel like I'm losing my mind..."
 Yuri: "I just want..."
 Yuri: "...at you."
-Yuri: "...Haah..."
 Yuri: "...Haah..."
 Yuri: "...Haah..."
 Monika: "U-Um..."

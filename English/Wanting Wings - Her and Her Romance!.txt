@@ -1,55 +1,55 @@
 ====================a00_op_01.rpy====================
-Hina: "I saw the angel when I was six, on Christmas Eve. It was a white Christmas, which was a rarity in that area." 
-Hina: "In that warm living room, I cared not for turkey or cake, but was focused entirely on the toy camera I'd gotten as a present." 
-Hina: "Due to an unfortunate encounter at my bedside the year before, I no longer believed in Santa and was handed the present directly from my dad." 
-Hina: "Waving away the help my dad was trying to give me, I struggled for some time, but eventually managed to get the film inserted." 
-Hina: "And when I raised my head in search of a subject to photograph—an angel met my eye." 
-Hina: "I tugged on my sister's sleeve! But she didn't seem to be able to see the angel. And not just her, but my mom and dad couldn't, either." 
-Hina: "The angel picked up the strawberry from my half-eaten Christmas cake and asked," 
-Hina: "Red," I answered, and snapped a picture for the first time in my life." 
+Hina: "I saw the angel when I was six, on Christmas Eve. It was a white Christmas, which was a rarity in that area."
+Hina: "In that warm living room, I cared not for turkey or cake, but was focused entirely on the toy camera I'd gotten as a present."
+Hina: "Due to an unfortunate encounter at my bedside the year before, I no longer believed in Santa and was handed the present directly from my dad."
+Hina: "Waving away the help my dad was trying to give me, I struggled for some time, but eventually managed to get the film inserted."
+Hina: "And when I raised my head in search of a subject to photograph—an angel met my eye."
+Hina: "I tugged on my sister's sleeve! But she didn't seem to be able to see the angel. And not just her, but my mom and dad couldn't, either."
+Hina: "The angel picked up the strawberry from my half-eaten Christmas cake and asked,"
+Hina: "Red," I answered, and snapped a picture for the first time in my life."
 ====================a00_op_02.rpy====================
-Fumi: "I saw the angel when I was six, on Christmas Eve. It was a white Christmas, which was a rarity in that area." 
-Fumi: "That evening, I picked up a Christmas cake at the bakery where my father worked and headed home with it." 
-Fumi: "I enjoyed the crunch of the snow underfoot with each step I took." 
-Fumi: "But suddenly, I stopped. I was missing one shoe. It must have come off in the snow somewhere." 
-Fumi: "I'd gotten these shoes for Christmas the year before, and they were my absolute favorite pair." 
-Fumi: "I probably shouldn't have worn such important shoes out in the snow, but at the time, going to my father's bakery felt like visiting a castle." 
-Fumi: "As my surroundings began to darken, I grew more and more anxious, tears threatening to spill from my eyes at any moment." 
-Fumi: "I looked up at the voice—and there the angel was." 
-Fumi: "The angel was pointing down, where the heel of a red shoe was sticking up out of the snow. I ran to her and picked up my shoe." 
-Fumi: "Thank you!"—but when I looked back up at her, the angel was gone." 
+Fumi: "I saw the angel when I was six, on Christmas Eve. It was a white Christmas, which was a rarity in that area."
+Fumi: "That evening, I picked up a Christmas cake at the bakery where my father worked and headed home with it."
+Fumi: "I enjoyed the crunch of the snow underfoot with each step I took."
+Fumi: "But suddenly, I stopped. I was missing one shoe. It must have come off in the snow somewhere."
+Fumi: "I'd gotten these shoes for Christmas the year before, and they were my absolute favorite pair."
+Fumi: "I probably shouldn't have worn such important shoes out in the snow, but at the time, going to my father's bakery felt like visiting a castle."
+Fumi: "As my surroundings began to darken, I grew more and more anxious, tears threatening to spill from my eyes at any moment."
+Fumi: "I looked up at the voice—and there the angel was."
+Fumi: "The angel was pointing down, where the heel of a red shoe was sticking up out of the snow. I ran to her and picked up my shoe."
+Fumi: "Thank you!"—but when I looked back up at her, the angel was gone."
 ====================a00_op_03.rpy====================
 Rin: "I saw the angel when I was nine, on Christmas Eve. It was a warm winter that year, and I hadn't seen any snow yet."
-Rin: "I was sitting in bed again that day, wrapped up in blankets and reading a book. It didn't matter that it was Christmas." 
-Rin: "For dinner, I heated up some frozen pilaf in the microwave, and got some fried chicken from a convenience store, too." 
-Rin: "My parents had been gone for the last three days at some academic conference in Germany. They wouldn't be back until after New Year's." 
-Rin: "They'd given me money to buy a cake, but I'd spent it on a book instead." 
-Rin: "I'd gotten cash for both Christmas and New Year's, and I'd spent that on books, too." 
-Rin: "School was on break starting tomorrow. I could spend the whole time reading books, just like this. Books would stay with me, in exchange for making my eyesight worse." 
-Rin: "I heard a voice out of nowhere and jumped. When I looked up—there was an angel there." 
-Rin: "I screamed and threw the book I was holding." 
-Rin: "The book went right through the angel and hit the wall behind her." 
+Rin: "I was sitting in bed again that day, wrapped up in blankets and reading a book. It didn't matter that it was Christmas."
+Rin: "For dinner, I heated up some frozen pilaf in the microwave, and got some fried chicken from a convenience store, too."
+Rin: "My parents had been gone for the last three days at some academic conference in Germany. They wouldn't be back until after New Year's."
+Rin: "They'd given me money to buy a cake, but I'd spent it on a book instead."
+Rin: "I'd gotten cash for both Christmas and New Year's, and I'd spent that on books, too."
+Rin: "School was on break starting tomorrow. I could spend the whole time reading books, just like this. Books would stay with me, in exchange for making my eyesight worse."
+Rin: "I heard a voice out of nowhere and jumped. When I looked up—there was an angel there."
+Rin: "I screamed and threw the book I was holding."
+Rin: "The book went right through the angel and hit the wall behind her."
 ====================a01_comn_01.rpy====================
-Hina: "Get up, Rin!" 
+Hina: "Get up, Rin!"
 *The girl was small, but her voice carried.*
 *Her obvious displeasure was directed at another girl who was dozing off on a bed, her back against the wall.*
-Hina: "Who goes back to sleep after putting on her uniform?! And that's my bed!" 
+Hina: "Who goes back to sleep after putting on her uniform?! And that's my bed!"
 Rin: "Nnuhh?"
 *The girl on the bed—Rin—turned against the wall with no regard for the wrinkling of her skirt.*
 Rin: "Just three more hours."
-Hina: "It'll be lunch by then! This is 'cause you stay up so late reading books! Come on, just get out of bed already!" 
+Hina: "It'll be lunch by then! This is 'cause you stay up so late reading books! Come on, just get out of bed already!"
 *The short-haired girl reached into the bed and grabbed the wrists of the grumbling Rin.*
-Hina: "Come on!" 
+Hina: "Come on!"
 *She pulled hard, trying to drag Rin from the bed—however...*
 Rin: "Ugh?!"
 *With both of her hands captive, Rin ended up hitting her forehead against the bed's frame.*
-Hina: "Ah, sorr—" 
+Hina: "Ah, sorr—"
 Fumi: "A-Are you okay? That was kind of a loud noise." (show_name="Pigtailed Girl")
 *Another girl who'd been placing mugs in the draining basket next to the sink hurried over.*
 Rin: "Uhh... who are you? I think the impact jumbled my memories..."
 Fumi: "Fumi! I'm Fumi! Your roommate, Fumi Asou!"
 Rin: "Unh... my head hurts... I'm... taking the day off..."
-Hina: "You are not!" 
+Hina: "You are not!"
 Rin: "Aaah!"
 *Rin tried to lie down again, but this time, the short-haired girl's forehead collided with hers.*
 Rin: "That hurt, Hina! What are you doing?!"
@@ -400,7 +400,7 @@ Hina: "Did you put your handout in your bag?"
 Rin: "Not yet~"
 Fumi: "You're gonna forget it again. You should put it in now."
 Rin: "What~? Can't I just wait until morning?"
-Hina & Fumi: "You can't."n"You shouldn't." 
+Hina & Fumi: "You can't."n"You shouldn't."
 Rin: "Ugh, and I just got warm in here."
 *Rin slid out from under her covers, trying not to let any warmth escape.*
 *Her handout was sitting on her desk.*
@@ -1119,7 +1119,7 @@ Rin: "Maybe. My dad and my school both wanted me to go somewhere else."
 Hina: "Was your dad mad?"
 Rin: "Not really. He was just like, 'Oh yeah?'"
 Rin: "I was kind of in a mood when I applied. I didn't care where I went as long as it had a dorm. I regret it now."
-Hina & Fumi: "...You regret it?"n"...You do?" 
+Hina & Fumi: "...You regret it?"n"...You do?"
 *Rin went pale at the sad looks the other two sent her way.*
 Rin: "No, uhh, I didn't really mean it that way."
 Hina & Fumi: "......"
@@ -1279,7 +1279,7 @@ Fumi: "Ahaha... I tend to gain weight as soon as I let my guard down~"
 Hina: "That sounds rough. Nom nom."
 Rin: "Mhmm. Nom nom."
 Fumi: "U-Umm... have you two ever had to diet before...?"
-Hina & Rin: "Nope."n"Nuh-uh." 
+Hina & Rin: "Nope."n"Nuh-uh."
 Fumi: "Wh-What?!"
 Rin: "I don't really gain weight no matter what I eat."
 Hina: "Ah, same here~"
@@ -2458,13 +2458,13 @@ Hina: "...Whoa!"
 Hina: "There we go—"
 *She stopped, just as she was about to close the diary.*
 Hina: "...This is... about me."
-Fumi: "_Hina told me it was okay to believe in angels today._" 
-Fumi: "_She said it was impressive to believe in something for so long. But it was starting to get hard._" 
-Fumi: "_Angels do exist. But no matter how many times I assert it, I still feel insecure. I don't know anymore whether I'm trying to convince other people, or just keep fooling myself._" 
-Fumi: "_I've been all alone, clinging to an old memory with no proof. So I was all the more insistent when I found that feather._" 
-Fumi: "_But today, Hina said we could believe together._" 
-Fumi: "_I was so happy. How does she understand me so well?_" 
-Fumi: "_I don't have to stop believing. I can keep believing in angels forever, with Hina._" 
+Fumi: "_Hina told me it was okay to believe in angels today._"
+Fumi: "_She said it was impressive to believe in something for so long. But it was starting to get hard._"
+Fumi: "_Angels do exist. But no matter how many times I assert it, I still feel insecure. I don't know anymore whether I'm trying to convince other people, or just keep fooling myself._"
+Fumi: "_I've been all alone, clinging to an old memory with no proof. So I was all the more insistent when I found that feather._"
+Fumi: "_But today, Hina said we could believe together._"
+Fumi: "_I was so happy. How does she understand me so well?_"
+Fumi: "_I don't have to stop believing. I can keep believing in angels forever, with Hina._"
 Hina: "Fumi..."
 Rin: "Hey, reading somebody's diary is in pretty poor taste."
 Hina: "Oh... y-yeah."
@@ -3711,7 +3711,7 @@ Hina: "So that's why they're so crisp!"
 Rin: "......"
 Hina: "Hey, you're avoiding the peppers again! Fumi's dressing is really good, you know?"
 Rin: "...Listen."
-Hina & Fumi: "Hm?"n"Yes?" 
+Hina & Fumi: "Hm?"n"Yes?"
 Rin: "Is there anything you two want to tell me?"
 *Hina and Fumi shared a look.*
 Hina: "Did something happen?"
@@ -4483,7 +4483,7 @@ Hina: "Rin feels the same way!"
 Rin: "H-Hina?!"
 Fumi: "Umm... oh! Congratulations!"
 Hina: "Thank you!"
-Hina & Fumi: "Yay! Heheheheh!"n"Wow! Eheheheh!" 
+Hina & Fumi: "Yay! Heheheheh!"n"Wow! Eheheheh!"
 Rin: "Huh? What's going on?"
 *Before Rin knew it, the other two were holding hands and jumping up and down together.*
 *Rin was the only one left out of the happy atmosphere.*
@@ -5651,9 +5651,9 @@ Rin: "Yeah. And I was a kid."
 Fumi: "Huh..."
 Fumi: "Rin, why don't you tell me about it before you forget?"
 *Rin nodded and started to explain.*
-Rin: "_I heard a voice out of nowhere and jumped. When I looked up—there was an angel there._" 
-Rin: "_I screamed and threw the book I was holding._" 
-Rin: "_The book went right through the angel and hit the wall behind her._" 
+Rin: "_I heard a voice out of nowhere and jumped. When I looked up—there was an angel there._"
+Rin: "_I screamed and threw the book I was holding._"
+Rin: "_The book went right through the angel and hit the wall behind her._"
 Rin: "I threw all the books near me, but the angel didn't disappear, and all of a sudden, she was sitting next to me."
 Rin: "By then, I wasn't scared of her anymore, and we just quietly read a book together."
 Rin: "I feel like she kind of looked like someone I know, but that part's all foggy. I can't remember it."
@@ -6480,7 +6480,7 @@ Rin: "Isn't that a little harsh on the first day of school?"
 Hina: "And who was it who slept in until the last minute on the first day of school?!"
 Fumi: "Alright, let's get going~"
 Hina: "Okay—"
-Miyako: "Hwahh..." 
+Miyako: "Hwahh..."
 Rin: "Ah..."
 Fumi: "Huh...?"
 Hina: "Aaah!!"
@@ -6489,11 +6489,11 @@ Hina & Rin & Fumi: "We forgot~!!"
 Sachiko: "Oh, I forgot..."
 ====================a07_comn_02.rpy====================
 *—Christmas Eve.*
-Sachiko: "Chaaarge!!" 
+Sachiko: "Chaaarge!!"
 *The door crashed open and there was a series of deafening pops.*
 Fumi: "Aaah?!"
 Hina: "What's going on?!"
-Sachiko: "Merry Christmas!! This room is now under the control of the armed group 'December Christmas'!" 
+Sachiko: "Merry Christmas!! This room is now under the control of the armed group 'December Christmas'!"
 *The only one who would do something like this was, of course...*
 Fumi: "Sachiko...?!"
 *Sachiko fired her weapons—several party poppers held skillfully between fingers.*
@@ -6513,12 +6513,12 @@ Fumi: "Cough, cough... Hm?"
 *Beyond the slowly dissipating smoke, a girl stood in the doorway.*
 *She was wearing the Seiyou uniform, but she wasn't in their class or their dorm. Fumi had never seen her face before.*
 Fumi: "Umm... who's this?"
-Miyako: "......" 
+Miyako: "......"
 *The girl smiled meekly in response to Fumi's timid question.*
 Sachiko: "That's Miyako. I came to introduce her."
 Fumi: "Miyako...?"
 Hina & Rin: "Who?"
-Miyako: "......" 
+Miyako: "......"
 *The girl merely continued to smile.*
 Sachiko: "Miyako Takaoka. She's my cousin."
 Rin: "Cousin? Not niece?"
@@ -7329,7 +7329,7 @@ Miyako: "Sure, I don't mind..."
 Rin: "Umm. These two have plans after this. Right?"
 *She turned back to them and gave them a wink.*
 *Hina and Fumi exchanged a look, then:*
-Hina & Fumi: "Yeah."n"Yes." 
+Hina & Fumi: "Yeah."n"Yes."
 *They replied together.*
 Miyako: "Alright. Thanks for inviting me, Ogata."
 *Fumi and Hina gave appreciative bows behind Rin. Miyako smiled back at them.*
@@ -9275,7 +9275,7 @@ Fumi: "Probably. We've got a little bit of time before the bus leaves."
 Sachiko: "That's good."
 Hina: "Why?"
 Sachiko: "Because there's snow on the ground."
-Hina & Rin: "Really?!"n"Really~?" 
+Hina & Rin: "Really?!"n"Really~?"
 *Clearly one was happier to hear that than the other.*
 Sachiko: "It's probably only up to your ankles at the most, though. But it's still dangerous to run."
 Fumi: "That's true. We'll be careful."
@@ -9337,7 +9337,7 @@ Rin: "What do you mean, 'See!'? What was the point of the first half?!"
 Hina: "Oh, you're right!"
 Fumi: "Ahaha. It'd be fun to go swimming with everyone, though."
 Rin: "We'd have to travel to get to the beach from here. You don't just want to go to the pool?"
-Hina & Fumi: "No way."n"I don't think so." 
+Hina & Fumi: "No way."n"I don't think so."
 Rin: "Oh yeah? Trips take time and money, you know."
 Fumi: "Let's save up for summer♪"
 Rin: "O-Okay..."
@@ -9479,7 +9479,7 @@ Miyako: "Wawah!"
 *But she lost her balance on the frozen ground just before enemy territory.*
 Sachiko: "Ah... Whoa!"
 *Sachiko reached out to prevent Miyako from falling, but the ground was too slippery to hold them both up.*
-Miyako & Sachiko: "Waaah!"n"Whoooa!" 
+Miyako & Sachiko: "Waaah!"n"Whoooa!"
 *Sachiko fell over on top of Miyako. The two stared at each other.*
 Miyako: "It's the opposite of what happened before."
 Sachiko: "Before?"
@@ -13026,7 +13026,7 @@ Hina: "That's pretty impressive. Asou's better than idols, huh?"
 Rin: "You noticed, eh? A non-idol who's cuter than idols. That's like a miracle that only happens once every thousand years."
 Hina: "Alright, you've stopped making sense."
 Rin: "And who's the super lucky girl dating this cuter-than-idols beauty? Ready?"
-Hina & Rin: "It's Rin Ogata!"n"......" 
+Hina & Rin: "It's Rin Ogata!"n"......"
 Rin: "Join in!"
 Hina: "No way!"
 Rin: "But what really gets me about Fumi is..."
@@ -13315,7 +13315,7 @@ Rin: "What? What is it—"
 Fumi: "Audition? To be an idol?!"
 Rin: "Wha?!"
 ====================a09_cou4_01.rpy====================
-Sachiko: "..." 
+Sachiko: "..."
 *The roof. Sachiko opened her eyes.*
 ====================a09_cou4_02.rpy====================
 Sachiko: "Cold...!"
@@ -13645,9 +13645,9 @@ Fumi: "W..."
 *They'd held each other's hands and planned to go through the rest of their lives hand in hand. That was completely natural to them.*
 *But what if it wasn't natural to everyone else?*
 *That one drop of doubt had stained the purity of their relationship and was slowly beginning to spread.*
-Hina & Fumi: "Listen..."n"U-Umm..." 
+Hina & Fumi: "Listen..."n"U-Umm..."
 *They said at the same time, then there was another stretch of silence.*
-Hina & Fumi: "You deserve somebody—"n"You deserve someone—" 
+Hina & Fumi: "You deserve somebody—"n"You deserve someone—"
 *After working up to it, they spoke at the same time again, but both stopped, sensing what the other was trying to say.*
 *They were both worried about the other being vilified for being in an unnatural relationship.*
 Hina: "Can we still be friends after we graduate?"
@@ -13745,7 +13745,7 @@ Miyako: "......"
 *Miyako had listened silently to the whole thing. She slowly opened her mouth now.*
 Miyako: "So, are you alright with that, Fumi?"
 Fumi: "I..."
-Hina & Fumi: "I want Fumi to be happy."n"I want Hina to be happy." 
+Hina & Fumi: "I want Fumi to be happy."n"I want Hina to be happy."
 Rin: "What? Is she gonna be unhappy with you?"
 Hina: "I dunno. But it's not natural."
 Rin: "Not natural? Says who?"
@@ -14023,7 +14023,7 @@ Fumi: "I want to change for you, too. I think if we do, we'll end up being more 
 Hina: "Yeah, yeah. What we're like is something we get to decide for ourselves, and we don't need to worry about how other people feel about us."
 Fumi: "I'm glad I met you, Hina. And that will be my conclusion!"
 Hina: "I am, too!"
-Hina & Fumi: "It has to be you, Fumi."n"It has to be you, Hina." 
+Hina & Fumi: "It has to be you, Fumi."n"It has to be you, Hina."
 *After a long, long kiss, their hearts and bodies were more than heated enough.*
 *They stripped completely, with no hesitation. Right now, even one layer of cloth was too much distance between them.*
 *They kicked their underwear and shirts off of the bed and pressed their skin together.*
@@ -14044,7 +14044,7 @@ Hina: "Your face is dirty, Fumi."
 Fumi: "Dirty...?!"
 Hina: "I don't mean it in a bad way... It made me excited."
 Fumi: "Th-Then..."
-Hina & Fumi: "Ahn?!n"Agh?!" 
+Hina & Fumi: "Ahn?!n"Agh?!"
 *They both yelped at the same time.*
 *To be more precise, Fumi first, which then set Hina off.*
 Fumi: "U-Umm... something hot hit me down there..."
@@ -14065,7 +14065,7 @@ Hina: "It's the most honest place on our bodies."
 Fumi: "...Just do what you want to do."
 *They looked at each other and nodded.*
 *Their most heated areas naturally drew closer.*
-Hina & Fumi: "Hya?!"n"Hwah?!" 
+Hina & Fumi: "Hya?!"n"Hwah?!"
 *They both yelped at the same time again.*
 *This time, it really was simultaneous.*
 Hina: "Hot..."
@@ -14247,9 +14247,9 @@ Miyako: "Eheheh. I wonder if they just can't keep their hearts or their feet sti
 *Miyako peered up at them as if they were too bright to look at.*
 Hina: "It's 'cause we've got wings on our shoes♪"
 Fumi: "Yep♪"
-Hina: "These are our precious Christmas present shoes. But we don't mind anymore if they get dirty or worn down." 
-Fumi: "Now we know that we'll be able to make as many memories as we want from now on." 
-Hina & Fumi: "Puddles, mud, school rules... We'll run through them all in these shoes!" 
+Hina: "These are our precious Christmas present shoes. But we don't mind anymore if they get dirty or worn down."
+Fumi: "Now we know that we'll be able to make as many memories as we want from now on."
+Hina & Fumi: "Puddles, mud, school rules... We'll run through them all in these shoes!"
 *Before their youth, ten years and eternity were the same "forever" to them.*
 *The future they looked toward now stretched on infinitely before them, no matter how far they reached their arms toward it.*
 *You don't have to just believe in the future you can see.*
@@ -14536,7 +14536,7 @@ Rin: "A-Arthur?!"
 *The shadow Rin had been talking to, that she'd thought was Hina, was actually the Asous' dog, Arthur.*
 Rin: "W-Wait... Don't lick me so much! Aaaah, stop panting! S-Stay, stay~!"
 *Arthur was merely excited and playing, but Rin was finding it difficult to escape from directly under him.*
-Hina: "Stay! Down!" 
+Hina: "Stay! Down!"
 *Two sharp commands came from the back of the chapel.*
 *Arthur quickly leapt off of Rin and lay down on the floor, waiting.*
 Rin: "...?!"
@@ -15057,7 +15057,7 @@ Hina: "I'm saying it because I know you don't get it."
 *Luckily, Hina had been there to smooth things over.*
 *Rin was annoyed when Hina scolded her for it, and Fumi was flustered and apologetic watching them.*
 Fumi: "I'm sorry. This is all because I couldn't figure out how to end the conversation."
-Hina & Rin: "It's not your fault, Asou."n"It's not your fault, Fumi." 
+Hina & Rin: "It's not your fault, Asou."n"It's not your fault, Fumi."
 Hina & Rin: "......"
 *They spoke at the same time and then exchanged a look.*
 Fumi: "Anyway, we're going to see what they have to say tonight."
@@ -15928,7 +15928,7 @@ Hina: "Seyah!"
 Rin: "Gfh?!"
 *Rin's knees buckled as Hina hit them from behind with a low kick.*
 Fumi: "Anyway..."
-Hina & Rin & Fumi: "She's like an angel." 
+Hina & Rin & Fumi: "She's like an angel."
 *They all said together.*
 Sachiko: "...Oh yeah?"
 Hina & Rin: "It's hard to believe she's your cousin!"
@@ -16114,7 +16114,7 @@ Miyako: "You're Noel. And I'm seeing..."
 *Miyako watched Noel nostalgically and listened to her voice.*
 Noel: "Yeesh. It really took you long enough. Talk about last-minute."
 *While Miyako was catching on to the situation, the illusion was muttering to herself, alternately breathing out smoke and sighs.*
-Sachiko: "M... Mmh..." 
+Sachiko: "M... Mmh..."
 Noel: "Hm? You awake?"
 Miyako: "Huh? There's someone else?"
 *She turned around at the voice and closed the curtains. As she walked back, she picked up a blanket thrown over a chair.*

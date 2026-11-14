@@ -1,5 +1,5 @@
 ====================seen01003-str.txt====================
-﻿October 3rd (Sunday)
+October 3rd (Sunday)
 ...as punishment for that half-hearted lifestyle, a certain someone summoned me on Sunday night.
 Rikako_Trial: "Kotori hasn't come home yet."
 Rikako_Trial: "So..."
@@ -239,7 +239,7 @@ Kotarou_Trial: ".................."
 I immediately faint.
 ...this is a dream...right...?
 ====================seen01003_m00-str.txt====================
-﻿I start up an application called Mappie.
+I start up an application called Mappie.
 A map appears on my phone.
 This thing's kinda like the people version of a satnav.
 It came bundled with the phone.
@@ -408,7 +408,7 @@ Kotarou: "You'll hide your form so people won't freak out? Well, if you insist..
 Then it vanishes in an instant.
 Kotarou: "...am I dreaming...?"
 ====================seen01004-str.txt====================
-﻿October 4th (Monday)
+October 4th (Monday)
 Morning.
 Kotarou_Trial: (Huh...?)
 What happened last night...?
@@ -981,7 +981,7 @@ No one's ever laughed at that gag before.
 Schoolgirl_Chihaya_Trial: "A-anyway, you're a boy, so you should help me!"
 Kotarou_Trial: "So it's okay if I see them?"
 Schoolgirl_Chihaya_Trial: "N-no!"
-Kotarou_Trial: "Okay then. 
+Kotarou_Trial: "Okay then.
 Nice panties!
 "
 Schoolgirl_Chihaya_Trial: "I-I get the poooint!"
@@ -1592,7 +1592,7 @@ No matter how much I think about it, I can't remember him.
 Kotarou_Trial: (Oh well...)
 I decide to head home after that...
 ====================seen01004_m00-str.txt====================
-﻿Kazamatsuri is an experimental afforestation city.
+Kazamatsuri is an experimental afforestation city.
 There are lots of research institutions and companies throughout the city.
 And a lot's being done to deal with environmental issues.
 It's a blessed town.
@@ -1789,7 +1789,7 @@ Kotarou: "...it's not that clever."
 You are now friends with Giovanni!
 Kotarou: "Amigooo!"
 ====================seen01004_m01-str.txt====================
-﻿Kotarou: "This is the bus heading for the station. Kazamatsuri has a lot of buses."
+Kotarou: "This is the bus heading for the station. Kazamatsuri has a lot of buses."
 Kotarou: "I wonder if I'll ever leave this town."
 Kotarou: "There are a lot of shops here."
 Kotarou: "Half of them aren't open yet...it's far from complete."
@@ -1860,7 +1860,7 @@ Kotarou: "I can be friends with this orc-like human."
 Kotarou: "He's human...but he left before I could talk to him..."
 Kotarou: "Role-playing the hero by myself is pretty lonely, but my life has only just begun."
 ====================seen01005-str.txt====================
-﻿October 5th (Tuesday)
+October 5th (Tuesday)
 The alarm clock rings.
 Half-asleep, I unleash an attack upon the source of the noise, and it stops.
 Kotarou_Trial: "........."
@@ -2258,8 +2258,8 @@ She pulls her hand back.
 Kotarou_Trial: "It's safer if I hold onto you."
 Ohtori_Trial: "Wh-wh-wha...?"
 Ohtori_Trial: "Wh-what makes you say that!?"
-Kotarou_Trial: "① You get lost by walking in a straight line. 
-② You fall all the way down the stairs for no apparent reason. 
+Kotarou_Trial: "① You get lost by walking in a straight line.
+② You fall all the way down the stairs for no apparent reason.
 ③ You've done similar things before."
 Kotarou_Trial: "Seems like plenty of justification to me."
 Kotarou_Trial: "Besides, we haven't seen anyone this whole time, so there's nothing to be embarrassed about."
@@ -2403,17 +2403,17 @@ This is embarrassing the earth in front of the entire universe.
 It's best I don't get involved.
 But I can't hold back my curiosity.
 «List of suspicious people:
-Third-year "Witch" Senri Akane 
+Third-year "Witch" Senri Akane
 President of the Occult Research Club. Has tremendous authority, far beyond that of a normal student.
 Extremely dangerous to approach (Need a careful plan!)
-Second-Year "Gray Boy" Tennouji Kotarou 
-Many suspicious details in his history. No one seems to be backing him. 
+Second-Year "Gray Boy" Tennouji Kotarou
+Many suspicious details in his history. No one seems to be backing him.
 Direct investigation may be effective.
-Second-Year "Messiah" Tanuma Imako 
+Second-Year "Messiah" Tanuma Imako
 Might be the messiah.
-Is there a gag law in effect? 
+Is there a gag law in effect?
 Need to question his doctors.
-First-Year "Scissor Girl" Shinsaibashi Hitomi 
+First-Year "Scissor Girl" Shinsaibashi Hitomi
 Might have been held back a year. Has high athletic ability but refuses to join any sports teams.
 →Transferred on September 1st (No explanation given)
 »
@@ -2453,7 +2453,7 @@ Kotori_Trial: "I don't get it."
 Kotarou_Trial: "It's just stupid. There's no reason for it."
 Kotori_Trial: "But I know the witch on top."
 Kotarou_Trial: "The witch? You mean Senri Akane?"
-Third-year "Witch" Senri Akane 
+Third-year "Witch" Senri Akane
 President of the Occult Research Club. Has tremendous authority, far beyond that of a normal student.
 Kotori_Trial: "Yeah."
 Kotori_Trial: "She's actually infamous."
@@ -2919,10 +2919,10 @@ Farther down, it says this:
 RITUAL MAGIC #47
 »
 «Written By
-: 
+:
 Kazamatsuri Academy Occult Research Club»
 «Published By
-: 
+:
 Astral Plane 2nd District 3rd Street #15    Temple Leader    Solor Soran»
 «Telephone Number
 : XXX-XXX-XXXX
@@ -3343,7 +3343,7 @@ Kotarou_Trial: "......"
 Kotarou_Trial: "........."
 Kotarou_Trial: "..................eh?"
 ====================seen01006-str.txt====================
-﻿October 6th (Wednesday)
+October 6th (Wednesday)
 I wake up...and feel very strange.
 Kotarou_Trial: "Last night..."
 I think something happened.
@@ -3384,7 +3384,7 @@ Kotarou_Trial: "...as in "super" or "special?""
 Ohtori_Trial: "Seriously, who...?"
 Jawbone Super...
 Probably better as "Super Jawbone."
-«Heart-pounding, jaw-dropping thrills are coming to a theater near you! 
+«Heart-pounding, jaw-dropping thrills are coming to a theater near you!
 The number one movie in America, "Super Jawbone!"
 Run to the theater now!»
 Odds are no one would run to the theater after reading that. It has 'B-movie comedy' written all over it.
@@ -3392,8 +3392,8 @@ Makes me wonder why America liked it so much.
 Kotarou_Trial: "What about "special...?""
 Ohtori_Trial: "I have no idea."
 Jawbone Special...yeah, definitely better to put the s-word in front.
-«Heart-pounding, jaw-dropping thrills are coming to a theater near you! 
-The number one movie in America, "Special Jawbone!" 
+«Heart-pounding, jaw-dropping thrills are coming to a theater near you!
+The number one movie in America, "Special Jawbone!"
 We'll be waiting for you!»
 Odds are everyone will just let them wait, so now I feel sorry for them.
 This isn't working. I need to come up with a more appealing translation for Japanese people.
@@ -3442,11 +3442,11 @@ I could just ask her, but...what'll happen if I ignore her?
 My curiosity forces me to leave while pretending not to notice her.
 ??_Shizuru_Trial: "......!"
 *fff*―――
-*fffwe* 
+*fffwe*
 *ffffwee*
 *ffff!*
- 
-*ffff!!* 
+
+*ffff!!*
 *FFFFFF!!!*
 She frantically tries to blow her whistle.
 ??_Shizuru_Trial: "........."
@@ -4508,7 +4508,7 @@ No human can walk on walls like that.
 Kotarou_Trial: ".........I have a really strong sixth sense."
 I recite a line I think I've heard somewhere before, then faint.
 ====================seen01007-str.txt====================
-﻿October 7th (Thursday)
+October 7th (Thursday)
 Kotarou_Trial: "........."
 Kotori_Trial: "You look sad."
 Kotarou_Trial: "I'm disheartened..."
@@ -4641,7 +4641,7 @@ Kotarou_Trial: "........."
 These look right.
 Kotarou_Trial: "I see..."
 Ohtori_Trial: "See?"
-She sounds proud. 
+She sounds proud.
 Kotarou_Trial: "........."
 *scribble* *scribble* *scribble*
 I decide to copy her.
@@ -4677,11 +4677,11 @@ She translated some of the lines way too literally.
 Kotarou_Trial: "See? Aren't you glad you showed it to me? Scratch my back and I scratch yours."
 Ohtori_Trial: "If you're so good at this why didn't you do it yourself?"
 Kotarou_Trial: "It's fine, it's fine."
-I'm just busy. 
+I'm just busy.
 Oh well...I'd probably get them all wrong anyway.
 Lunch break.
 Today I'm going to have lunch at the cafeteria.
-But my plans have been thwarted. The cafeteria is too crowded. 
+But my plans have been thwarted. The cafeteria is too crowded.
 That was dumb. Apparently this is the big day.
 Apparently our school's kitchen is run by a chef who once held the title of pâtissier.
 Sometimes he makes use of that wealth of experience to produce luxurious desserts far beyond what any normal cafeteria would offer.
@@ -4772,7 +4772,7 @@ Kotarou_Trial: "Oh-ho. Then I'll have to eat more than one bite."
 Kotarou_Trial: "What if I eat a whole third of it?"
 Kotarou_Trial: "If nothing happens after I eat that much, you have to eat the rest. Do you accept!?"
 Yoshino_Trial: "........."
-I want to make Yoshino eat this über-spicy parfait so badly! 
+I want to make Yoshino eat this über-spicy parfait so badly!
 I wanna see Yoshino stand up, scream for water and writhe around on the floor!
 But my enemy is cautious. It seems I cannot break his bones without being willing to cut my own flesh.
 If I can eat a third, I'll still make Yoshino eat two thirds.
@@ -4781,7 +4781,7 @@ I can handle this. But Yoshino should be caught off-guard.
 I want to get a third of this down and make Yoshino have the rest!
 ......but this parfait is so spicy it feels like it'll melt my spoon when I try to eat it.
 Maybe......I'm digging my own grave......?
-No...no pain, no gain! 
+No...no pain, no gain!
 Do not fear a third of this beast. I shall eat. I shall eat it! Believe in yourself. Believe! This is a sweet, delicious parfait. It is sweet and delicious!
 Yoshino_Trial: "Why is your face going all red and sweaty over eating a parfait?"
 Kotarou_Trial: "Nothing, I just have a weird illness called sweatinfrontofparfaitis."
@@ -4792,7 +4792,7 @@ No, don't be afraid, fight the spiciness...! Believe in the sweetness...!
 I've been told the human senses can be easily manipulated into behaving differently.
 Take that to its logical extreme, and it means we have total control over our subjective sensibility.
 It's sweet, it's sweet, sweet, sweet, sweet, this parfait is sweet...!
-I've decided it must be so, therefore this parfait is sweeeet...!! 
+I've decided it must be so, therefore this parfait is sweeeet...!!
 Uuuoooooooooooooooooooooooooooooooooo!
 Kotarou_Trial: "Wh-what...the......?"
 This can't be...it's supposed to be an extremely concentrated super-spicy parfait...
@@ -4814,7 +4814,7 @@ Let's retrace our steps. I slid the super spicy parfait toward Yoshino.
 Then Yoshino slid it down the table...
 ......wait.
 And then, my gray matter informs me of the truth.
-That's it! The murderer did a bait and switch on himself without even realizing it! 
+That's it! The murderer did a bait and switch on himself without even realizing it!
 The parfait Yoshino slid to one side ended up in front of a girl who ordered her own parfait...
 Kotarou_Trial: "They got switched...!?"
 Kotarou_Trial: "No! You, over there!! Don't eat that parfaaaaaaaaait!!"
@@ -4854,7 +4854,7 @@ Old Woman_Trial: (I have no idea...! I put the whole bottle into that thing!!)
 Upon eye contact, the lunch lady holds an empty bottle of hot sauce upside down as proof.
 That's right, I even tasted it, so I know how spicy it is!
 And yet, she's demolishing it with such a happy look on her face...
-*lick* *lick* *smack* *smack* *munch* *munch* 
+*lick* *lick* *smack* *smack* *munch* *munch*
 *bam!*
 Her parfait glass flies toward me and embeds itself in my face.
 Lucia_Trial: "......i-is it that comical...w-watching me eat a parfait...?"
@@ -4949,7 +4949,7 @@ My name has already been filled in.
 Kotarou_Trial: "...guess she wants me to answer this."
 I pick up a pen and face the questionnaire.
 Question 1: Is your life easier than it was last year?
-A) Yes    B) No 
+A) Yes    B) No
 Kotarou_Trial: (No, it's not. B.)
 Question 2: Answer if you chose B for Question 1. Do you think next year will be better than this year?
 Kotarou_Trial: (Next year...umm, I'll be in my third year, prepping for exams...doubt I'll be able to hold down a job...I won't have much time at all, actually...)
@@ -5235,7 +5235,7 @@ Anyway, I'd better hurry down to the tree she's stuck in.
 Ohtori_Trial: "I-I'm gonna fall! Save meee!"
 Kotarou_Trial: "This is bad, Ohtori! The whole world can see your cherries this time!"
 Ohtori_Trial: "Gyaaaaaaaaa!!!"
-*rustle!* 
+*rustle!*
 *fwump!*
 She falls down.
 Kotarou_Trial: "...a-are you all right?"
@@ -5383,7 +5383,7 @@ Ohtori_Trial: "Didn't you say it was normal to ask? So, this is normal."
 Kotarou_Trial: "The answer wasn't normal."
 Ohtori_Trial: "...it's normal for me."
 Kotarou_Trial: "I see..."
-What is "normal?" "Normal" to who? 
+What is "normal?" "Normal" to who?
 Things most people would consider normal are all abnormal to someone, somewhere.
 ...is that just us being insensitive?
 Ohtori_Trial: "What about you, Kotarou?"
@@ -5843,7 +5843,7 @@ Dependable scraps of paper who will protect me from evil spirits.
 I have no choice but to trust them tonight.
 Kotarou_Trial: "I'm counting on you, Keitarou, Saburou, Tomoko..."
 ====================seen01007_m00-str.txt====================
-﻿Kotarou_Trial: (She told me to infiltrate through here...)
+Kotarou_Trial: (She told me to infiltrate through here...)
 I'd expect the school to lock everything properly at night, but maybe they don't check this part?
 She specified this exact window.
 I'll just have to assume it's okay.
@@ -5907,7 +5907,7 @@ I got suspended.
 A
 M
 E
-　
+
 O
 V
 E
@@ -6158,7 +6158,7 @@ The Game King leaves.
 Kotarou: "...oh well."
 You became friends with the Game King!
 ====================seen01008-str.txt====================
-﻿October 8th (Friday)
+October 8th (Friday)
 That night, I had a weird dream.
 Girl_Tomoko_Trial: "...Tennouji-san."
 Kotarou_Trial: "What? Who are you?"
@@ -6187,7 +6187,7 @@ Make sure you enjoy it!
 Ah, and you'll only see this once so don't rely on the old guy's autosaves.
 If you wanna see this again, save right now!
 Let's begin the story of love and tears! Hyahaaaaaaaaa!!
-　　　
+
 【A Story of Love and Tears - The Final Battle of Shikigami Tomoko】
 At night, Kagari came.
 Tomoko: "There you are, ghost."
@@ -6240,9 +6240,9 @@ Since she didn't haunt him for very long, Kotarou didn't have any nightmares.
 Tomoko's efforts weren't for nothing.
 Thank you, Tomoko. Farewell, Tomoko.
 By the way, Kagari follows Kotarou around because the part of her aurora implanted in Kotarou's body draws her to him.
-　　　
+
 【A Story of Love and Tears - The Final Battle of Shikigami Tomoko - End】
-　
+
 Then my dream ended.
 Kotarou_Trial: "...what a refreshing morning."
 I feel reinvigorated.
@@ -6712,7 +6712,7 @@ A single white uppercut allows me to kiss both the ceiling and the floor.
 This cafeteria has a huge variety of foods, but I'm probably the only one here who's ever learned what the ceiling tastes like...
 Lucia_Trial: "How could you be so rude...!? Enemy of women! Tennouji Kotarooooooooooou!"
 Class rep burns with indignation as she leaves my corpse behind to go return her tray.
-......it's impossible. 
+......it's impossible.
 If she said something like "How dare you make me eat this curry!" then I could accept it.
 But that uppercut was clearly directed at my improper speech, and was utterly unconcerned with the spiciness of the curry.
 Maybe there really was another strange accident that swapped her curry with someone else's?
@@ -7075,7 +7075,7 @@ Kotarou_Trial: "?"
 Akane_Trial: "There's still time."
 Akane_Trial: "Tennouji, you can try investigating as much as you like."
 ====================seen01009-str.txt====================
-﻿October 9th (Saturday)
+October 9th (Saturday)
 ...morning.
 Kotarou_Trial: (.........)
 Nothing in particular happened to me...
@@ -7524,7 +7524,7 @@ Inoue_Trial: "Wa! My notes are getting wet!"
 Kotarou_Trial: "That's invasion of privacy! Don't do that!"
 Inoue_Trial: "I can't. I look these things up unconsciously."
 Kotarou_Trial: "Are you the devil...?"
-This must be the type of person who leaks the names of murderers. 
+This must be the type of person who leaks the names of murderers.
 Inoue_Trial: "But...it's not enough..."
 Her eyes suddenly harden.
 Inoue speaks with an emotionless face, and a mechanical yet bizarre voice.
@@ -7801,7 +7801,7 @@ And that's the worst part.
 «Feel free to bring your own food and tea! Be sure to have fun!»
 Kotarou_Trial: "...so this is Shouwa."
 Not only the writing style, but the self-portrait in the corner feel extremely old-fashioned.
- 
+
 This is what really old shoujo manga is like.
 It's like I've gone back in time...
 Kotarou_Trial: "This is fun...?"
@@ -8126,11 +8126,11 @@ Akane_Trial: "...get a room...you're like animals..."
 She presses fingers to her forehead.
 Kotarou_Trial: "Let's read it!"
 Kotori_Trial: "Fu~!"
-Poster: Mission Impossible, Year: 1, Class: Secret 
+Poster: Mission Impossible, Year: 1, Class: Secret
 Title: A test
-What's this, a fortune-telling club? (lol) 
+What's this, a fortune-telling club? (lol)
 Lemme try taking this seriously... (lol)
-Tell me a spell that'll make me ace my test! (lol) 
+Tell me a spell that'll make me ace my test! (lol)
 But I don't wanna study! (lol)
 Push me to the top of my class without any studying, you study occultists! (lol)
 Kotarou_Trial: "......"
@@ -8181,11 +8181,11 @@ Kotarou_Trial: "Prepare me a touch pen to celebrate my victory, Kotori."
 Kotori_Trial: "Yep, no problem."
 Kotarou_Trial: "Okay, time to reply."
 I type it in and reply immediately.
-Poster: Mission Chief 
+Poster: Mission Chief
 Title: Re: A test
-Thank you for posting! 
+Thank you for posting!
 But we're not that kind of club~
-Improve your grades with your own hard work! 
+Improve your grades with your own hard work!
 But if a ghost attacks you while you study, then we can help you!
 Kotori_Trial: "Now that's adult. I'm impressed~"
 Kotarou_Trial: "Well, you know, I can be mature sometimes."
@@ -8197,13 +8197,13 @@ Kotori_Trial: "I think it's the same guy."
 "Mission Impossible" is the default name for some reason, so he's basically anonymous.
 And since he didn't enter a class that defaults to "secret".
 Kotarou_Trial: "This guy's fast. Is his face plastered to this thread or something?"
-Poster: Mission Impossible, Year: 1, Class: Secret 
+Poster: Mission Impossible, Year: 1, Class: Secret
 Title: Re: Re: A test
-If a ghost attacks me... (lol) 
+If a ghost attacks me... (lol)
 Are you stupid? (lol)
-I told you to give me a spell that'll boost my test scores (lol) 
+I told you to give me a spell that'll boost my test scores (lol)
 And you deluded morons can't do that, can you? (lol)
-Just come clean and tell everyone you can't do it (lol) 
+Just come clean and tell everyone you can't do it (lol)
 Do you even understand Japanese? Would English be better? (lol)
 Your stupidity is the real mystery here (lol)
 Kotarou_Trial: "........."
@@ -8214,9 +8214,9 @@ Kotarou_Trial: "This just means the difficulty level has gone up."
 Kotarou_Trial: "But I can still be adult about this, no problem..."
 Though I can feel my forehead twitching...
 Kotarou_Trial: "...I will write the most peaceful reply you've ever seen."
-Poster: Mission Chief 
+Poster: Mission Chief
 Title: Re: Re: Re: A test
-Ummm, first of all, could you please stop with that (lol) thing? 
+Ummm, first of all, could you please stop with that (lol) thing?
 It just makes thi smore unpleasant for all of us.
 Also, on the subject of using a spell to help with your test...
 I really don't think that's a good idea.
@@ -8232,19 +8232,19 @@ Kotarou_Trial: "Oooh, you're right, let's go. Back to that safe house of tranqui
 Akane_Trial: "Tennouji, there's another post."
 Akane says mockingly, watching the site from her own laptop.
 Kotarou_Trial: "Again!?"
-Poster: Mission Impossible, Year: 1, Class: Secret 
+Poster: Mission Impossible, Year: 1, Class: Secret
 Title: Re: Re: Re: Re: A test
-Huh? (lol) 
+Huh? (lol)
 Are you one of those people who's so dumb others pity you? (lol)
-Don't talk shit about other people's writing habits (lol) 
+Don't talk shit about other people's writing habits (lol)
 I never intended to make anyone feel unpleasant (lol)
-That's just your personal bias (lol) 
+That's just your personal bias (lol)
 I use (lol) because I want to. That's my right (lol)
-You have no right to tell me not to do it (lol) 
+You have no right to tell me not to do it (lol)
 Someone should teach you better manners.
-　
+
 >It just makes thi smore unpleasant for all of us.
-What the hell is "thi smore"? (lol) 
+What the hell is "thi smore"? (lol)
 smore (lollollollollollollollollollollollollol)
 Kotarou_Trial: "........."
 Kotori_Trial: "No, Kotarou-kun, don't let it control you!"
@@ -8280,13 +8280,13 @@ Kotori_Trial: "They'd probably be much nicer if you met them in real life."
 Kotarou_Trial: "You're right, he was a first-year...he hasn't learned how to interact with people yet."
 Akane_Trial: "Another post."
 In this brief span of time, another comment has been posted.
-Poster: Mission Impossible, Year: 1, Class: Secret 
+Poster: Mission Impossible, Year: 1, Class: Secret
 Title: Did I scare you? (lol)
-Ah, you aren't responding anymore (lol) 
+Ah, you aren't responding anymore (lol)
 Did I scare you a bit too much? (lol)
 Sorry, sorry, you're just so fun to tease (lol)
 I'm pretty strong so whenever I see small fry like you I can't help but attack (lol)
-Well, running away is the right move (lol) 
+Well, running away is the right move (lol)
 So, now that you've surrendered to me, don't do anything irritating like that again (lol)
 If you do, I'll talk to a yakuza in my family and make sure you really regret it (lol)
 Kotarou_Trial: "........."
@@ -8322,12 +8322,12 @@ I slowly activate my computer.
 I login to the Occult Club's site.
 I gaze slowly at his declaration of victory.
 Kotarou_Trial: "........."
-Poster: Mission Chief 
+Poster: Mission Chief
 Title: Re: Did I scare you? (lol)
 I will kill you.
 ...hate begets more hate.
 ====================seen01010-str.txt====================
-﻿October 10th (Sunday)
+October 10th (Sunday)
 Today is Sunday.
 It's a precious off-day before a test, but Kotori's coming over.
 Kotori: "Hello~"
@@ -8631,7 +8631,7 @@ Kotarou: "........."
 Kotarou: "Gyaaaaaaaaaaaaaaaaaaaaaaan!"
 It didn't work.
 ====================seen01011-str.txt====================
-﻿October 11th (Monday)
+October 11th (Monday)
 Kotarou_Trial: (Not many people here today...)
 Kotarou_Trial: (Are they all cutting?)
 The door's locked.
@@ -9112,7 +9112,7 @@ Obtained Info: "The Seven Wonders: #2 - The Unopenable Door"!
 It sounds like she actually respects me now...
 You earned Inoue's respect!
 ====================seen01011_m00-str.txt====================
-﻿Third-Year Girl_Trial: "This is the fourth floor. The third-year floor."
+Third-Year Girl_Trial: "This is the fourth floor. The third-year floor."
 Third-Year Girl_Trial: "Today's a day off, so no club activities."
 Third-Year Boy_Trial: "Midterms tomorrow! We must study!"
 Third-Year Boy_Trial: "The school's open even on days off so people can come study here."
@@ -9225,7 +9225,7 @@ Yoshino_Trial: "Forgive someone who..."
 He isn't facing me.
 So I can't read his emotions.
 Yoshino_Trial: "........."
-He leaves his sentence unfinished. 
+He leaves his sentence unfinished.
 We continue walking down the dry corridor, leaving an awkward atmosphere between us.
 Kotarou_Trial: "...nothing here."
 Kotarou_Trial: (I can't see anything eye-catching.)
@@ -9313,10 +9313,10 @@ The board was lying perfectly horizontal.
 It's right where a thirteenth stair would be.
 I look around, and find several other boards leaning against the wall.
 I have no idea what they're being used for, but they've just been left here on the landing.
-So, during the day, someone puts a fallen board back up against the wall. 
-Then at night it falls again. 
-People coming to school at night encounter a thirteenth stair. 
-The process repeats. 
+So, during the day, someone puts a fallen board back up against the wall.
+Then at night it falls again.
+People coming to school at night encounter a thirteenth stair.
+The process repeats.
 A legend is born.
 Kotarou_Trial: "...that's a bit of a stretch."
 But that's what happened.
@@ -9843,7 +9843,7 @@ Yoshino: "...oooooh!?"
 He overreacts backwards.
 Apparently the green traumatized him.
 ====================seen01012-str.txt====================
-﻿
+
 BS_DT_A
 October 12th (Tuesday)
 Kotarou_Trial: "........."
@@ -9888,7 +9888,7 @@ Teacher_Trial: "Okaaay, everyone, that's enough test prep~"
 The teacher arrives, and the classroom fills with regretful groans.
 The test begins.
 ====================seen01013-str.txt====================
-﻿
+
 BS_DT_A
 October 13th (Wednesday)
 Huh? ...it's morning.
@@ -9903,7 +9903,7 @@ Kotarou_Trial: "No..."
 Ohtori_Trial: "You still aren't bored of this topic..."
 Okay, more tests today.
 ====================seen01014-str.txt====================
-﻿
+
 BS_DT_A
 October 14th (Thursday)
 Kotarou_Trial: (.........)
@@ -10034,114 +10034,114 @@ Kotarou_Trial: "The scroll bar isn't even moving..."
 That shows just how many new comments there are.
 Poster: Mission Impossible, Year: 1, Class: Secret
 Title: Death Threat!
-Look at that! (lol) 
-Deluded people like you always love making death threats! (lol) 
+Look at that! (lol)
+Deluded people like you always love making death threats! (lol)
 And now you've done it! (lol)
-Ah, but make sure you don't get yourself hurt (lol) 
+Ah, but make sure you don't get yourself hurt (lol)
 My friends are far stronger than you (lol)
-Poster: Mission Impossible, Year: 3, Class: Secret 
+Poster: Mission Impossible, Year: 3, Class: Secret
 Title: A death threat...?
->I will kill you 
+>I will kill you
 Aaah, I think this is a bit much (lol)
-You need to get better at dealing with trolls. 
-Too bad for you! 
+You need to get better at dealing with trolls.
+Too bad for you!
 ...does a two week suspension sound right?
-Poster: Mission Impossible, Year: 2, Class: Secret 
+Poster: Mission Impossible, Year: 2, Class: Secret
 Title: Isn't that going a bit far?
 Ummm, the Occult Research Club just started up again, right?
 It's not good to start fighting with people after your very first post.
 His attitude was terrible, but you're supposed to ignore people like him.
-Poster: Mission Impossible, Year: 2, Class: Secret 
+Poster: Mission Impossible, Year: 2, Class: Secret
 Title: How stupid are you?
 I dunno what kind of an idiot you are, but you get riled up way too easily (lol)
 Who would take such blatant trolling seriously? Do you live in the middle of nowhere or something?
 Be grateful only people at this school can see it.
 But you've still embarrassed yourselves in front of all your classmates.
-Poster: Mission Impossible, Year: 1, Class: Secret 
+Poster: Mission Impossible, Year: 1, Class: Secret
 Title: lol what?
-Sorry, I probably shouldn't laugh at this. 
+Sorry, I probably shouldn't laugh at this.
 But "I'll kill you" was so sudden it was just hilarious.
 Your leader must be very pure at heart.
-But he'll have to be suspended or arrested. 
+But he'll have to be suspended or arrested.
 Have fun atoning for your sin~
 (*^_^*)
 Kotarou_Trial: "........."
 There's countless more where that came from...
 Read More
 That's Enough
-Poster: Mission Impossible, Year: 3, Class: Secret 
+Poster: Mission Impossible, Year: 3, Class: Secret
 Title: Too funny
-That was great (lol) 
+That was great (lol)
 Now it's just funny.
-I was pretty tired after all that studying, so laughing at this felt great. 
+I was pretty tired after all that studying, so laughing at this felt great.
 Thanks.
-Poster: Mission Impossible, Year: 2, Class: Secret 
+Poster: Mission Impossible, Year: 2, Class: Secret
 Title: Isn't this bad?
-Isn't this kinda bad? 
+Isn't this kinda bad?
 Death threats are a crime.
-People have been arrested for doing this on normal message boards. 
+People have been arrested for doing this on normal message boards.
 I don't think the school would be okay with this.
-Poster: Mission Impossible, Year: 3, Class: Secret 
+Poster: Mission Impossible, Year: 3, Class: Secret
 Title: That's the teacher's problem
-The teachers will decide if it's really that bad. 
+The teachers will decide if it's really that bad.
 But first, Occult Club leader, you should really apologize for this.
-Poster: Mission Impossible, Year: 2, Class: Secret 
+Poster: Mission Impossible, Year: 2, Class: Secret
 Title: The teachers?
-I can't agree with you on that. 
+I can't agree with you on that.
 This is a comment thread for a school club. Shouldn't this be managed primarily by the students?
-And it's obviously not acceptable, so why wait for a teacher's decision? If you were on a train where someone punched someone 
-else, would you wait for the conductor to decide it was bad before intervening? 
-Poster: Mission Impossible, Year: 1, Class: Secret 
+And it's obviously not acceptable, so why wait for a teacher's decision? If you were on a train where someone punched someone
+else, would you wait for the conductor to decide it was bad before intervening?
+Poster: Mission Impossible, Year: 1, Class: Secret
 Title: That's just wrong
 Are all third-years this inhuman?
-Poster: Mission Impossible, Year: 3, Class: Secret 
+Poster: Mission Impossible, Year: 3, Class: Secret
 Title: Don't flame me
-Why are you insulting me? 
-I didn't say anything wrong. 
+Why are you insulting me?
+I didn't say anything wrong.
 You're the ones who don't know how the world works!
-Poster: A Kendou Team Member, Year: 3, Class: Secret 
+Poster: A Kendou Team Member, Year: 3, Class: Secret
 Title: Don't get so mad
-To the guy who said the teachers should decide if it's a problem. As a fellow third-year, I have to disagree. 
-What you said was wrong, and you shouldn't get mad at him for criticizing you. 
-Judgments of right and wrong should be done fairly and objectively. 
+To the guy who said the teachers should decide if it's a problem. As a fellow third-year, I have to disagree.
+What you said was wrong, and you shouldn't get mad at him for criticizing you.
+Judgments of right and wrong should be done fairly and objectively.
 It isn't about what any specific person thinks.
 Of course teachers are often better at making these judgments than us, but relying on them in an obvious case like this is just irresponsible.
-Poster: Mission Impossible, Year: 1, Class: Secret 
+Poster: Mission Impossible, Year: 1, Class: Secret
 Title: The Occult Club's in the wrong
-They are. 
-How could they start this and then ignore it? 
+They are.
+How could they start this and then ignore it?
 Go apologize already, stop ignoring the problem.
-Poster: A Random Handicrafts Club Member, Year: 2, Class: Secret 
+Poster: A Random Handicrafts Club Member, Year: 2, Class: Secret
 Title: Apologize
-You really should. 
+You really should.
 No organization should make statements like that.
 Not only that first-year, but everyone using this site,
 If you looked at some past blogs before starting your own, you'd see that stuff like this has happened several times before...
-Poster: Mission Impossible, Year: 1, Class: Secret 
+Poster: Mission Impossible, Year: 1, Class: Secret
 Title: Stop demanding an apology
-That's not right. 
+That's not right.
 It's up to him whether he apologizes or not.
 You're the ones feeding the troll by overreacting to this.
-Poster: Mission Impossible, Year: 3, Class: Secret 
+Poster: Mission Impossible, Year: 3, Class: Secret
 Title: Kids these days
-You have no sense of morals, do you? 
+You have no sense of morals, do you?
 When you do something wrong, you apologize.
 You're required to take a class on this in elementary school. Did you forget it already?
-Poster: Mission Impossible, Year: 2, Class: Secret 
+Poster: Mission Impossible, Year: 2, Class: Secret
 Title: It's a wank fest!
-This is getting good, I like it~ (lol) 
+This is getting good, I like it~ (lol)
 Has the Occult Club still not responded?
 Please don't ignore this, that's just lame (lol)
-Poster: Mission Impossible, Year: 2, Class: Secret 
+Poster: Mission Impossible, Year: 2, Class: Secret
 Title: Still?
-They aren't doing anything. 
+They aren't doing anything.
 Maybe that Mission Chief guy is busy with tests?
-Poster: Mission Impossible, Year: 3, Class: Secret 
+Poster: Mission Impossible, Year: 3, Class: Secret
 Title: Stop
-You'd better dissolve that club of yours. 
+You'd better dissolve that club of yours.
 That's the only way to save face after this.
-You guys have no right to run a club in Kazamatsuri Academy. 
-What the hell is "occult research" anyway? 
+You guys have no right to run a club in Kazamatsuri Academy.
+What the hell is "occult research" anyway?
 ...
 You stupid―
 That's enough.
@@ -10210,11 +10210,11 @@ Kotarou_Trial: "It's not a festival from our point of view..."
 I refresh the page immediately.
 Poster: It's me! (Level 30 Troll), Year: 1, Class: Secret
 Title: So you finally apologized
-It's me again (lol) 
+It's me again (lol)
 About damn time you posted an apology (lol)
-You sound like you mean it, but it's still pretty stiff (lol) 
+You sound like you mean it, but it's still pretty stiff (lol)
 You'd better fix that (lol)
-If you fear me now, you'd better keep up that attitude (lol) 
+If you fear me now, you'd better keep up that attitude (lol)
 I like it when my victims learn some manners (lol)
 Kotarou_Trial: "........."
 Kotori_Trial: "K-Kotarou-kun..."
@@ -10240,9 +10240,9 @@ Kotori_Trial: "So try to forgive him."
 Kotarou_Trial: "Okay...but still...I hope he gets sick of it after this."
 Akane_Trial: "New post, Tennouji."
 Kotarou_Trial: "Daaa!"
-Poster: It's me! (Level 30 Troll), Year: 1, Class: Secret 
+Poster: It's me! (Level 30 Troll), Year: 1, Class: Secret
 Title: Okay, time's up
-Come on, I know you little bugs are weak but stop being so slow (lol) 
+Come on, I know you little bugs are weak but stop being so slow (lol)
 Get over it already (lol)
 Anyway, your time limit's up, so all the little bugs in that shitty club of yours need to punch each other ten times (lol)
 Report back once you're done, then I'll give you your next order (lol)
@@ -10312,7 +10312,7 @@ Kotori_Trial: "We'd better stay on her good side."
 I write down the guy's name and head out right away.
 Kotarou_Trial: "Yoshino, it's battle time."
 School's already over, but Yoshino's still sitting in his seat.
-He doesn't like getting up the instant homeroom ends. 
+He doesn't like getting up the instant homeroom ends.
 The crowds are a pain.
 He likes leaving slowly, by himself, after all his classmates have dispersed.
 Apparently that's part of being a badass.
@@ -10416,7 +10416,7 @@ Yoshino_Trial: "...don't drag innocent people into your tricks."
 Kotarou_Trial: "H-he's not innocent..."
 Yoshino_Trial: "He's got nothing to do with me."
 Kotarou_Trial: "Wait, listen..."
-Yoshino × Kotarou ＝ Deep Friendship 
+Yoshino × Kotarou ＝ Deep Friendship
 Kotarou × Egashira ＝ Score to Settle
 ↓↓↓
 Not Complete Strangers ＝ Yoshino × Egashira
@@ -10457,7 +10457,7 @@ Kotarou_Trial: "Too quiet. I can't hear you."
 Egashira_Trial: "U-umm! What do you...want...!?"
 Kotarou_Trial: "Isn't it obvious?"
 I observe the first-year closely.
-My plans are ruined but he's still scared. This should work out fine. 
+My plans are ruined but he's still scared. This should work out fine.
 Kotarou_Trial: "I'm a little bug."
 Egashira_Trial: ".........eh?"
 Kotarou_Trial: "You know, little bug. You're the one who called me that, remember?"
@@ -11124,7 +11124,7 @@ Kotori_Trial: "Salt tea, salt tea..."
 Kotori brings us multiple teacups while chanting something ominous.
 I get ready to flee on a moment's notice.
 ====================seen01015-str.txt====================
-﻿
+
 BS_DT_A
 October 15th (Friday)
 Kotarou_Trial: "........."
@@ -11659,7 +11659,7 @@ Kotarou_Trial: "Yep."
 Prez is just being shy.
 I check on the blog at home.
 Kotarou: "......it's not that bad."
-The info turned out to be false, but I think it's still pretty fun to read. 
+The info turned out to be false, but I think it's still pretty fun to read.
 This could work.
 And I can recruit even more members.
 Kotarou: "Tomorrow's Saturday..."
@@ -11667,7 +11667,7 @@ No need to rush.
 Let's enjoy each and every day.
 Which is why I will now sleep.
 ====================seen01016-str.txt====================
-﻿
+
 BS_DT_A
 October 16th (Saturday)
 I open my eyes.
@@ -12244,7 +12244,7 @@ Kotarou: "...I'm sad now."
 Kotori: "Ah, a Matsusaka beef bentou! I love these."
 Kotarou: "Mine's a fried bean sprout bentou..."
 Most of it is bean sprouts fried in sesame oil...
-On the side are various boiled grasses in soy sauce. 
+On the side are various boiled grasses in soy sauce.
 Kotori: "Ah, delicious♪ So satisfied♪"
 Kotarou: "........."
 The quick-fried bean sprouts have a certain sweetness to them. The fact that they almost taste good makes me feel even more insulted.
@@ -13073,7 +13073,7 @@ Kotarou: "Okay, let's use this."
 Kotori: "Eeeh!?"
 We continue that stupid conversation until it's time to go home...
 ====================seen01016_m00-str.txt====================
-﻿Dogashaaaaaaaaaaaaaaaaaaan!!!
+Dogashaaaaaaaaaaaaaaaaaaan!!!
 Lucia: "Haaaaaaaaaaaaaaaaaaa!!!"
 Kotarou: "Gueeeeeeeeee..."
 Kotarou: "Eh? What did I do this time?"
@@ -13290,7 +13290,7 @@ Kotarou: (Oh yeah, Kotori asked me to plant some seeds...)
 Kotarou: (There's already a lot of plants around here, but we might as well add some more.)
 I plant some seeds in the flower pot.
 ====================seen01017-str.txt====================
-﻿
+
 BS_DT_A
 October 17th (Sunday)
 I had a dream.
@@ -13548,7 +13548,7 @@ I feel dizzy.
 Kotarou: "Crap..."
 This is what it looks like when you wear glasses that aren't meant for you.
 Kotarou: "This is..."
-I tried to make a very slight adjustment. 
+I tried to make a very slight adjustment.
 And it probably is very slight, biologically speaking.
 But...
 Kotarou: "Uuu...I feel sick..."
@@ -13981,7 +13981,7 @@ I haven't done anything for the Occult Research Club.
 I didn't manage to find anything for it.
 Guess I'll just get a shower and go to bed...
 ====================seen01017_m00-str.txt====================
-﻿Kotarou: "Oh, is that...?"
+Kotarou: "Oh, is that...?"
 Chihaya: "K-Kotarou...?"
 Kotarou: "What're you doing here, Chihaya?"
 Chihaya: "N-nothing in particular."
@@ -14346,7 +14346,7 @@ Man: "That was dangerous."
 Kotarou: "Yes...but who are you?"
 Man: "I am a wandering man. I am always wandering from one place to the next."
 Wandering Man: "Don't make your mother worry now. Farewell."
-The man's cloak swings around as he turns away. 
+The man's cloak swings around as he turns away.
 Kotarou: "Wait!"
 Wandering Man: "...what is it?"
 Kotarou: "Could we swap phone numbers?"
@@ -14377,7 +14377,7 @@ I scatter some seeds on the roof.
 Kotarou: "Sorry..."
 But I still planted them!
 ====================seen01018-str.txt====================
-﻿
+
 BS_DT_A
 October 18th (Monday)
 I walk down the hallway during break time, and...
@@ -15095,7 +15095,7 @@ Kotarou: "At this rate we'll never complete any real quests..."
 But I still need to keep my eyes out for more information.
 No slacking off now.
 ====================seen01019-str.txt====================
-﻿October 19th (Tuesday)
+October 19th (Tuesday)
 Oh, it's Yoshino.
 Yoshino: "........."
 ...he's hanging his head in front of the vending machine...
@@ -15877,7 +15877,7 @@ Shizuru_Trial: "........."
 Shizuru_Trial: "We can do it!"
 She likes that phrase.
 ====================seen01020-str.txt====================
-﻿
+
 October 20th (Wednesday)
 A weird girl appeared in my dreams last night.
 Girl_Yasuko: "...Kotarou-chan."
@@ -16057,7 +16057,7 @@ Kotarou: "It's pretty."
 Shizuru: "........."
 Kotarou: "Pretty."
 Shizuru: "........."
-Her reactions amuse me so I keep saying it. 
+Her reactions amuse me so I keep saying it.
 Shizuru: "........."
 Kotarou: "You're cute, Shizuru."
 Shizuru: ".........!!!"
@@ -16241,9 +16241,9 @@ We're each surrounded by a circle of ten tin cans. We got them out of the dumpst
 They act as our life points.
 Neither of us can enter the other's circle.
 So we have to use rocks to knock them down!
-*bang!* 
+*bang!*
 *bam!*
-　
+
 *tink* *tink!*
 A cacophony of sharp metallic noises.
 At the beginning we acted like this was a tense duel, but now we're more like little kids having a snowball fight.
@@ -16596,7 +16596,7 @@ I pick up a nicer cat.
 Kotarou: "Look at this guy, he's much more expressive than..."
 Sakuya: "!!"
 Sakuya: "Haaaaa!!!"
-*shupa!* 
+*shupa!*
 *bam* *bam* *bam* *bam!!*
 He executes a perfect backflip and moon somersault, getting even farther away.
 Sakuya: "........."
@@ -16972,7 +16972,7 @@ Gen-san: "Anyway, take care boy!"
 Kotarou: "Yes, thank you very much."
 There are some good people in this town.
 ====================seen01021-str.txt====================
-﻿
+
 October 21st (Thursday)
 The bell rings. It's the start of class.
 I can hear the sounds of chairs moving back as people stand up to greet the teacher in various classrooms.
@@ -17288,7 +17288,7 @@ Kotarou: "Okay...I need someone with real superpowers!"
 After going home, I head out in the evening to look for more information.
 Kotarou: (There's gotta be something out here...)
 As I think about it, I end up in an unfamiliar place.
-I see stands and carts scattered around the streets. 
+I see stands and carts scattered around the streets.
 Kotarou: (Ah, that's right, that ramen stand...)
 Those things can move around, so it may very well be here today...
 I look around for a bit, but I can't see that particular stand.
@@ -17310,7 +17310,7 @@ I'm overpowered by the sudden bourgeoisie atmosphere.
 Though this is to be expected from a shop that handles pieces of art.
 It looks like a study in some old movie, but made a couple times bigger.
 Even the thick rug in the entrance looks expensive. I wonder if I should take my shoes off.
-There isn't a huge number of actual antiques, so they're all spaced out. 
+There isn't a huge number of actual antiques, so they're all spaced out.
 I guess they aren't selling that well.
 A middle-aged couple walks past me, out the door.
 This clearly isn't the kind of store high-school kids go to.
@@ -17594,7 +17594,7 @@ First, we need to increase our level.
 Kotarou: "I hope I can keep finding leads like this..."
 And hopefully I'll gain more from doing all this than just my part-time job salary.
 ====================seen01021_m00-str.txt====================
-﻿Kotarou: "Umm, have you seen any drunks around here?"
+Kotarou: "Umm, have you seen any drunks around here?"
 Pedestrian: "Eh? I remember seeing a lot during flower-viewing season..."
 Pedestrian: "But now that you mention it, I think I've seen a bunch of drunk old men a few times recently."
 Kotarou: "Yes, that's them. Do you know where they are?"
@@ -18170,7 +18170,7 @@ Kotarou: "It's an urban miracle..."
 I scatter some seeds in that alleyway.
 These plants will also be holy when they bloom.
 ====================seen01022-str.txt====================
-﻿October 22nd (Friday)
+October 22nd (Friday)
 I wake up.
 Kotarou: "Friday..."
 Apparently lots of schools have Saturday off completely.
@@ -18187,7 +18187,7 @@ Yoshino: "Uuoooooooooooooooooooooooooooooooooo!"
 Yoshino: "Uuuuuuuuuuuuuu...not bad at all."
 Kotarou: "Come, it's your turn now!"
 Yoshino: "Here I come Tennouji, take mine all the waaaaaaaaaaaay!"
-*kabam!* 
+*kabam!*
 ......uu, oooooooooooooo, that was passionate...
 Kotarou: "Not bad...but I know you can do better than this..."
 Yoshino: "Same to you! Put all your strength into it. I can take anything you can dish out!"
@@ -18270,7 +18270,7 @@ Yoshino: "Geez, it's your ball. Go pick it up already and leave."
 Student A: "What!? Yoshinooo!"
 Kotarou: "Aaah, none of that, please. Yoshino-kun, no provoking them."
 Kotarou: "Okay, I'll get your ball~ Would you like a potato with that?"
-I enter the pansy bush, pick up the ball, and throw it over to them. 
+I enter the pansy bush, pick up the ball, and throw it over to them.
 This fight annoys the hell out of me, so I want it to end right now.
 Kotarou: "Keep it up and a teacher might come. Just go already."
 Yoshino: "Hmph, fools. I'll show you just how terrible that shot was. Try and stop me!"
@@ -18736,7 +18736,7 @@ Akane: "Yes."
 Kotarou: "...so the club room?"
 I'll have to avoid prying into her business from now on...
 ====================seen01023-str.txt====================
-﻿
+
 October 23rd (Saturday)
 The weekend.
 Once again, we only have morning class today.
@@ -19484,7 +19484,7 @@ Chihaya: "If we were friends I'd try to help her with that."
 Chihaya: "Isn't it sad to be born a girl but never get to touch flowers or animals?"
 I wonder if Chihaya has any similar experiences. This feels like more than just sympathy.
 But I do know one thing now.
-Ohtori Chihaya seems like a short-tempered, unpleasant girl at times, but she also has plenty of kindness and consideration. 
+Ohtori Chihaya seems like a short-tempered, unpleasant girl at times, but she also has plenty of kindness and consideration.
 That's why I'm sure.
 Despite their fighting and all the awkwardness between them, Chihaya never wanted that to happen.
 She wants to be friends with her...and she can be nice to her even in this situation.
@@ -19539,7 +19539,7 @@ We knew this was coming. Chihaya explains herself quickly. None of us want class
 Lucia: "......I-I appreciate the thought, but..."
 Chihaya: "I was told you actually like flowers. Even from here, the flowers I can see in your apartment look lovely."
 The part of the apartment we can see behind class rep is very neatly arranged.
-It's also beautifully decorated with fake flowers, making it extremely clear how much she really loves flowers. 
+It's also beautifully decorated with fake flowers, making it extremely clear how much she really loves flowers.
 After seeing this, no one would ever believe she avoided those pansies because she thought they were filthy.
 But she's stepping back now because of the living flowers Chihaya brought...
 Kotori: "You really don't like live flowers..."
@@ -20297,7 +20297,7 @@ Sometimes it felt like they could start arguing at any moment.
 But at least it's okay now.
 I send Shizuru a congratulatory reply.
 ====================seen01024-str.txt====================
-﻿
+
 October 24th (Sunday)
 Kotori stops by in the afternoon.
 She brings a pet.
@@ -21114,7 +21114,7 @@ There are a lot of mysteries hidden in this world.
 Kotarou: "........."
 For the first time...that thought scares me.
 ====================seen01024_m00-str.txt====================
-﻿Kotarou: "...no good."
+Kotarou: "...no good."
 I keep going and going, but I still can't see anything familiar.
 Evidently I should've followed Kotori.
 Kotarou: (Still, this is a really lonely street.)
@@ -21418,7 +21418,7 @@ Kotarou: "You risked your life for me and Kotori..."
 My friendship with Chibimoth deepens.
 Kotarou: "Crap, we've gotta keep running."
 ====================seen01025-str.txt====================
-﻿
+
 October 25th (Monday)
 Kotarou: "Aaauuuu..."
 Another week begins.
@@ -22176,7 +22176,7 @@ It hurts.
 But I can see love in Kotori's reply.
 Kotarou: "Kotori's nice..."
 ====================seen01025_m00-str.txt====================
-﻿As I walk around, I bump shoulders with a staggering middle school girl.
+As I walk around, I bump shoulders with a staggering middle school girl.
 Middle School Girl: "Ah...my anemia..."
 The middle school girl collapses.
 Kotori: "Can you stand? Should we take you to a doctor?"
@@ -22347,7 +22347,7 @@ Kotori: "Aaa-*munch*!"
 Kotarou: "Ah? Is it good? Is it gooood? Do you admit it?"
 Kotori: "...it's not good...how can something with such a crunchy outside and fluffy inside possibly be good...!?"
 Kotarou: "Come on, eat it. There's tons of special ketchup on it. Enjoy the harmony of curry, cheese, potatoes and some kind of sauce woven together!"
-Kotori: "I won't lose! This evil croquette will not defeat me...brave souls of fallen warriors, lend me your strength! 
+Kotori: "I won't lose! This evil croquette will not defeat me...brave souls of fallen warriors, lend me your strength!
 It's soooooooo gooooood!"
 Feeding accomplished.
 Kotori: "It's so good I don't care about anything anymore."
@@ -22475,7 +22475,7 @@ Kotarou: "This miraculous assortment of items has allowed me to restore the seed
 Kotori: "I think you could've just planted them without worrying about all that preparation."
 Kotarou: "Don't say that."
 ====================seen01026-str.txt====================
-﻿
+
 October 26th (Tuesday)
 Kotarou: "Okaaaay, I'm gonna give it my all todaaaay!"
 Kotarou: "I'm gonna act high-strung all morning, follow some TV program's exercise routine then go to school! Woooo! What a wonderful morning!"
@@ -22893,7 +22893,7 @@ Kotarou: "Besides, why was he even at school this late? He was clearly waiting f
 Kotori: "I look forward to the day where Kotarou-kun and Yoshino-kun can walk home side-by-side."
 ...shortly after that, we head home.
 ====================seen01027-str.txt====================
-﻿
+
 October 27th (Wednesday)
 It started with a question.
 Akane: "Have you ever heard of Laplace's Demon?"
@@ -23191,8 +23191,8 @@ Yoshino: "...h-how did you...see my stance in this darkness...?"
 Kotarou: (Crap...)
 Kotarou: "Wait, Yoshino. I'm fine with fighting...but not right now."
 Yoshino: "Why not, Tennouji? Give me a good reason."
-Kotarou: "The reason is I can't be bo-...I mean... 
-Ummm...well... 
+Kotarou: "The reason is I can't be bo-...I mean...
+Ummm...well...
 That's right, your kindness has moved my heart."
 Kotarou: "Do you really want to fight me while my fists are dulled by emotion?"
 Yoshino: "...hu! ...you talk a lot."
@@ -23315,13 +23315,13 @@ But it's only a short sprint to the school.
 Kotarou: "The window's open, and no one's inside."
 Kotarou: "We just need to wait until no one's around, and rush into the room..."
 Yoshino: "Agreed. On your mark."
-Kotarou: "Ready, set... 
+Kotarou: "Ready, set...
 GO!"
 We start racing toward the school.
 Sports Team Girls: "Kazamatsuri, let's go! Let's go! Let's go!"
 Kotarou: "The softballers! The most aggressive of all sports teams!"
 Yoshino: "We can't let them capture us! Run!"
-Yoshino and I just barely manage to slip inside before anyone calls attention to us. 
+Yoshino and I just barely manage to slip inside before anyone calls attention to us.
 However...
 Sports Team Girls: "Kyaaaaaaa! There are perverts in the school!"
 A huge group of girls is doing push-ups inside.
@@ -23485,7 +23485,7 @@ First, the texture.
 The bread feels soft and plump, like an angel's wings, and the sense of biting into the fresh lettuce feels as exhilarating as snapping bamboo.
 In addition, the seasoning of the eggs is marvelous! It's assaulting my sense receptors! Following that up like a pair of Dellingers is the rich, thick flavor of the ham!
 This is the true king of sandwiches!
-　
+
 King of the Sandy Wiiiiiiiitch!!
 Chihaya: "That was delicious."
 Sakuya: "I am glad you enjoyed it."
@@ -24520,7 +24520,7 @@ Gil: "So the two of them died together, and that was part of showtime..."
 Kotarou: "The actual sentence is much happier than that."
 This guy is totally useless...
 ====================seen01028-str.txt====================
-﻿
+
 October 28th (Thursday)
 Kotarou: "Okaaaay! What's the Occult Club gonna do today?"
 Akane: "........."
@@ -24805,7 +24805,7 @@ Kotarou: "It's incredible. No one else would ever write this. You'll be complete
 Gil: "Not like this!!! This isn't cool at all!!! Gyaaaaaaaaaaaaan!!"
 And thus, Gil spent the rest of the night rubbing his wing in desperation.
 ====================seen01029-str.txt====================
-﻿
+
 October 29th (Friday)
 Kotarou: "A quiz on Old Japanese..."
 I should've found the time to study it yesterday...
@@ -25207,7 +25207,7 @@ Shizuru: "Mm."
 She pulls on my sleeve.
 She's telling me we should get going.
 Kotarou: "Okay then."
-I'm a little confused, but I follow Shizuru anyway... 
+I'm a little confused, but I follow Shizuru anyway...
 Kotarou: "So where are we going?"
 Shizuru: "Used goods store."
 Kotarou: "For the CD we talked about?"
@@ -25307,7 +25307,7 @@ Kotarou: "It feels good to be thanked, that's all."
 Shizuru: "Yes, it does feel good."
 Well, that's probably all there is to it.
 ====================seen01030-str.txt====================
-﻿
+
 October 30th (Saturday)
 The long-awaited day has come.
 Kotarou: "Today...we embark on a quest!"
@@ -25518,7 +25518,7 @@ Inoue_Phone: «So maybe Kazamatsuri City was built where the followers of that r
 Kotarou: "........."
 There's no way...
 ====================seen01030_m00-str.txt====================
-﻿Kotarou: "This room..."
+Kotarou: "This room..."
 Kotarou: "I can see the stairs through the window, but the door won't open. The wood and rocks down here seem to be blocking it."
 Kotarou: "I've checked most of the first floor, but didn't see anything interesting."
 Kotarou: "We're gonna have to find a way through here."
@@ -25680,7 +25680,7 @@ Kotarou: "Wow...the reader contribution page has letters from back when Kazamats
 You obtained Info: "The Seven Wonders: #6 - Something in the Physics Room...?"!
 Kotarou: "This lead is from the old Kazamatsuri. I dunno if it's still any good...but it's definitely super rare."
 ====================seen01031-str.txt====================
-﻿
+
 October 31st (Sunday)
 The unfamiliar parts of the forest have an endless depth to them.
 Overbearing tree trunks. Spots of sunlight breaking through the tree cover. Rocks covered in moss. Moist ground.
@@ -25734,7 +25734,7 @@ Downstream it gets wider as it goes.
 It probably merges with a bigger river eventually.
 Whatever creature this is, would it really want to cross that?
 If it just flowed down the river there's no way to track it.
-The whole point of spending my Sunday on this was to follow actual tracks on the ground. 
+The whole point of spending my Sunday on this was to follow actual tracks on the ground.
 If I don't have those, it's all a waste.
 Which is fine when the whole group is here.
 But I came out here alone today because I couldn't let this go.
@@ -26116,7 +26116,7 @@ Kotarou: "Crap, I've gotta go home."
 It feels weird leaving all by myself, but that's unavoidable.
 Kotarou: "Oh well..."
 ====================seen01101-str.txt====================
-﻿
+
 November 1st (Monday)
 I decided to ask Kotori to walk to school with me today.
 Though she might be tired after what we did Saturday...
@@ -26742,7 +26742,6 @@ Shizuru: "...Kotarou?"
 I can hear Shizuru's voice outside.
 Kotarou: "Why did you have to do that!? You made a mess of my room and wasted time when I'm supposed to be getting this to Shizuru!!"
 Pani: "Idiooot!!"
-*bam*
 *bam*
 *bam*
 Gil: "N-nooo!! I give!! I give, I give!!"
@@ -27614,7 +27613,7 @@ Kotarou: "Really!? Do I have to name my daughter Kaname-chan to make my life rom
 Pani: "So many dreams for the future~"
 We wasted all night on stupid conversations like that...
 ====================seen01102-str.txt====================
-﻿
+
 November 2nd (Tuesday)
 Some housewives are chatting on the side of the road.
 Housewife: "...but wasn't it a crime? So many police showed up..."
@@ -27871,7 +27870,7 @@ I have no memories like that.
 Kotarou: (Oh well...)
 Kotarou: "Class rep, are you gonna buy more mizuame?"
 Lucia: "Wh-why do I have to...!?
- 
+
 Well, yes..."
 Chihaya: "This is our last chance, we should eat anything that looks interesting."
 Akane: "........."
@@ -28013,7 +28012,7 @@ Akane: "But let's stick to the school. Going any farther away would just be a pa
 Kotarou: "You know you just collapsed your own argument, right?"
 Do I have any leads that Akane and I can investigate within the school...?
 ====================seen01103-str.txt====================
-﻿
+
 November 3rd (Wednesday)
 I wake up to my phone ringing.
 Kotarou: "What is it...?"
@@ -28035,7 +28034,7 @@ Kotarou: "Sorry, sorry, I overslept!!"
 Yoshino: "I'll kill you."
 　　　　　　　　　　　　!?
 *bash!!* *crack!!* *thud!!* *twist!!*
-　　　　　　　　　　　
+
 DEAD END...
 Kotarou: "This is bad."
 That's way too gory. Everything after the «!?» is unacceptable.
@@ -28119,7 +28118,7 @@ Kotarou: "I might as well hold your hand too."
 Yoshino: "Guaaaaaaaa! Screw you! I'll kill you!"
 Kotarou: "Wahahahaha."
 Yoshino: "Stop running! Wait up, dammit! I'm gonna murderize you!!"
-And thus we head for the Ohtori house while playing a rousing game of tag. 
+And thus we head for the Ohtori house while playing a rousing game of tag.
 We soon arrive.
 Kotarou: "Okay, here we are."
 Yoshino: "Haa, haa..."
@@ -28390,11 +28389,9 @@ Lucia: "If we cannot use the Chihaya bomber, we'll all have to start pulling the
 Shizuru: "Oooh!"
 Kotori: "Let's get started!"
 Sakuya: "Haaaaaaaaaaaaaaaaa!!"
-*slash* 
-*slash* 
-*slash* 
-*slash* 
-*slash!!* 
+*slash*
+*slash*
+*slash!!*
 We finish in thirty minutes (Sakuya performed sixteen times as much work as the rest of us).
 It seemed like his slashes emitted shock waves that sliced nearby weeds apart too. But that was probably my imagination.
 Kotori: "Next we put a rope around the flowerbed and dig twenty to thirty centimeters down."
@@ -28404,7 +28401,7 @@ Again, we finish in thirty minutes (Sakuya performed a hundred times as much wor
 It seemed like muzzle flashes were coming from the tip of his shovel. But that was probably my imagination.
 Kotori: "Since there's time, let's split the lumber too."
 Sakuya: "Seiyaaaaaaaaaaaaaaaaaaa!!!"
-*chop* *chop* 
+*chop* *chop*
 *rumble* *rumble* *rumble*
  Ooooooooh!!
 Same as before.
@@ -28970,7 +28967,7 @@ Kotori: "He might actually be okay with that."
 That aside...
 I just can't do what he does.
 ====================seen01105-str.txt====================
-﻿
+
 November 5th (Friday)
 On the way to school...
 Kotarou: "Oh..."
@@ -29752,7 +29749,7 @@ Akane: "........."
 Akane: "...let's begin our voyage of discovery."
 Kotarou: "Yes...let us go forth, and solve another mystery!"
 ====================seen01106-str.txt====================
-﻿
+
 November 6th (Saturday)
 Kotarou: "........."
 Kotarou: "Morning."
@@ -30091,7 +30088,7 @@ Kotarou: "...hm?"
 It must be something about her family situation.
 I remember Lucia's words.
 What do I know about Shizuru?
-Will my embarrassing preteen years compare to her problems at all? 
+Will my embarrassing preteen years compare to her problems at all?
 But, right now...
 I'm just happy that Shizuru wants to tell me something like that.
 Kotarou: "Okay."
@@ -30224,7 +30221,7 @@ Shizuru: "But I don't want you to ignore it."
 Kotarou: "Well, sorry about that."
 Kotarou: "But I don't like being told I suck at things."
 Shizuru: "It's just individuality."
-Individuality...such a nice word. It makes you feel proud of your defects. 
+Individuality...such a nice word. It makes you feel proud of your defects.
 Only for a moment though.
 Nishikujou: "Shizuru-chan knows so much about Tennouji-kun."
 Shizuru: "There's far more I don't know."
@@ -30295,7 +30292,7 @@ Shizuru: "?"
 "What?" She looks at me.
 Kotarou: "...nothing."
 Shizuru: "Okay..."
-They said I'd know when I saw it, so let's keep going. 
+They said I'd know when I saw it, so let's keep going.
 But...Shizuru's legs feel heavier and heavier.
 Shizuru: "........."
 She's just looking straight ahead, never turning toward me.
@@ -30587,7 +30584,7 @@ There were some other people walking around doing the same thing.
 We looked at a lot of flowers.
 As night fell, more and more people headed home.
 I was a little tired.
-A gray, very uninteresting building next to us. 
+A gray, very uninteresting building next to us.
 I asked her why Dad went somewhere similar earlier.
 She told me something.
 Something Dad said.
@@ -30626,7 +30623,7 @@ I couldn't speak at all, as if someone had just hit me in the gut.
 It hurts...
 ...suddenly, I remembered.
 When I was in kindergarten.
-A lot of kids were taught to say "Pain, pain, fly away" whenever something hurt, and my friends always said it actually worked when I did that. 
+A lot of kids were taught to say "Pain, pain, fly away" whenever something hurt, and my friends always said it actually worked when I did that.
 ......fly away......
 I couldn't speak, so I thought it.
 ......fly away......
@@ -30825,7 +30822,7 @@ No one made fun of me after that.
 No one approached me at all.
 I don't want to remember that time in detail.
 Dad was released from the hospital.
-He seemed happy, but Mom never improved. 
+He seemed happy, but Mom never improved.
 Dad ended up doing much of the housework in Mom's place.
 When he tried to cook saury for me, Mom freaked out.
 I wanted to eat it, but it wasn't an option anymore.
@@ -31863,7 +31860,7 @@ Kotarou: "Hahaha..."
 For some strange reason, I feel the need to laugh.
 The Moon looks beautiful tonight.
 ====================seen01106_m00-str.txt====================
-﻿After following the map for a short while, we reach a river.
+After following the map for a short while, we reach a river.
 We're still in picnic territory at the moment.
 Kotori: "That's a nice river."
 The water's clear and sparkling.
@@ -32524,7 +32521,7 @@ Kotarou: "That's enough colorful characters..."
 I wasted a lot of my free time on that.
 You obtained the title of Sukumon Champion!
 ====================seen01107-str.txt====================
-﻿
+
 November 7th (Sunday)
 The phone wakes me up today.
 Kotarou: "...hello."
@@ -32844,7 +32841,7 @@ Kotarou: "I've...done it..."
 Kotarou: "This is all because I was born in a world with supernatural phenomena."
 Kotarou: "Three cheers for the paranormal!"
 ====================seen01108-str.txt====================
-﻿
+
 November 8th (Monday)
 Kotori: "So...what happened?"
 Shizuru and Lucia are absent today.
@@ -33601,7 +33598,7 @@ Voice: "Farewell."
 Akane: "...huu."
 Akane: "...this really is...such a pain..."
 ====================seen01110-str.txt====================
-﻿
+
 November 10th (Wednesday)
 During break time, a girl I don't know talks to me.
 Second-Year Girl: "You're Tennouji-kun, right?"
@@ -33672,7 +33669,7 @@ I wonder if they'll find her...
 There's a lot I'd like to say to her, but I'm a little worried too.
 ...just a little.
 ====================seen01112-str.txt====================
-﻿November 12th (Friday)
+November 12th (Friday)
 Prez calls us together during lunch break.
 Kotarou: "A termination request?"
 Akane: "Yes."
@@ -34265,7 +34262,7 @@ Just the two of us going alone is too risky.
 We have to abandon the plan.
 In the end, I couldn't do anything...
 ====================seen01113-str.txt====================
-﻿
+
 November 13th (Saturday)
 We all head straight for the club room that morning without going to class.
 If we went, we probably wouldn't have enough time.
@@ -34801,7 +34798,7 @@ Kotarou: "It worked..."
 The glowing strips sliced right through the branch.
 Cutting tofu with a knife is harder than that.
 These cut terrifyingly well.
-This has to be illegal. 
+This has to be illegal.
 I had no idea I had this power...no...
 I didn't until just now.
 This doesn't feel like part of my body at all.
@@ -35654,7 +35651,7 @@ The one thing I can tell is...
 Those two are gone now.
 Today...the Occult Club fell apart.
 ====================seen01301-str.txt====================
-﻿Kotarou: "How about this..."
+Kotarou: "How about this..."
 «Recently waste has started flying around and causing problems, even in quiet alleys with no wind whatsoever...where are these things coming from?»
 Kotarou: "Unidentified flying objects...!?"
 Conveniently, the guy attached an image and a map.
@@ -36080,7 +36077,7 @@ Kotori: "Okay, let's head home."
 Kotarou: "Yeah."
 Kotori and I walk back home together.
 ====================seen01302-str.txt====================
-﻿Okay, decision made. Now I just have to wait for everyone to arrive.
+Okay, decision made. Now I just have to wait for everyone to arrive.
 Kotarou: "Behold! If you put plum jam inside an umaibou, it gets even more delicious!"
 Shizuru: ".........!!"
 Chihaya: "Actually that sounds kinda bad..."
@@ -36387,7 +36384,7 @@ Shizuru holds up a pointy plastic thing.
 Kotarou: "That's a shuriken, Shizuru."
 Shizuru: "Mmm."
 Kotarou: "It's pretty painful if it hits you."
-This takes me back. 
+This takes me back.
 Kotarou: "Oh, and this is..."
 Shizuru: "A sword?"
 Kotarou: "It's Excalibur."
@@ -36726,7 +36723,7 @@ I plug my hot cell phone into the charger.
 Kotarou: "Okay, time to sleep."
 I'll try again tomorrow.
 ====================seen01303-str.txt====================
-﻿Kotarou: "The Legendary Treeman..."
+Kotarou: "The Legendary Treeman..."
 Kazamatsuri has a huge number of UMA sightings.
 This is one of them, but it feels different from the usual monster or ancient creature stories I hear.
 Kotarou: "Okay, I've made my decision!"
@@ -36930,7 +36927,7 @@ I fiddle with the knob to magnify it.
 Kotarou: "......"
 Kotarou: "O―..."
 Kotarou: "Owwwwwwwwwwwww!!!"
-*rustle* *rustle* *rustle* *rustle* 
+*rustle* *rustle* *rustle* *rustle*
 *crash!!*
 I fall all the way down the tree.
 Kotori: "Uwa...Kotarou-kun, are you okay?"
@@ -37188,7 +37185,7 @@ Inoue: «The lameness of the ending is the most impressive part.»
 Kotarou: "Uuoooooooo..."
 She didn't like it at all...
 ====================seen01304-str.txt====================
-﻿Kotarou: "Let's do this one."
+Kotarou: "Let's do this one."
 Kotarou: "Paranormal activity..."
 Well, first I've gotta wait for everyone to show up.
 Akane: "The red letters are just some brat's graffiti."
@@ -37218,7 +37215,7 @@ Lucia: "Let's try to get back to the point."
 Akane: "Right. There've been a number of posts already about that rumored paranormal activity."
 Kotarou: "Oh yeah, I forgot about those."
 I go look at the blog comments.
-Poster: Mission Anonymous, Year: 2, Class: Secret 
+Poster: Mission Anonymous, Year: 2, Class: Secret
 Title: HaUnTeD hOuSe
 It'S iN a FoReSt NeAr My HoUsE.
 I HeArD a MuRdErEr WaS LoCkEd Up ThErE.
@@ -37226,11 +37223,11 @@ HaVe FuN iNvEsTiGaTiNg LoL.
 (＾o＾*)
 Kotarou: "Am I the only one who finds all those random capital letters really annoying?"
 Kotori: "It's still good information. Just deal with it."
-Poster: Mission Anonymous, Year: 1, Class: Secret 
+Poster: Mission Anonymous, Year: 1, Class: Secret
 Title: Re: HaUnTeD hOuSe
-You mean that building near ○○, right? I live near there! 
+You mean that building near ○○, right? I live near there!
 I remember hearing the boys talk about it when I was a kid!
-They said something about paper talismans plastered over all the walls. 
+They said something about paper talismans plastered over all the walls.
 With curses written on them...
 I'd appreciate it if the Occult Club looked into it.
 I'm too scared to go myself...
@@ -37279,8 +37276,8 @@ Kotori: "If I unleash my gag power you'll all be too busy laughing to investigat
 Kotarou: "Yeah, go for one that'll do that." (unimpressed)
 Kotori: "Then..."
 Kotori: "I will imitate PE teacher Washizuka-sensei's orders during gymnastics."
-Kotori: "Akatsuka standard... 
-Gymnastic formation... 
+Kotori: "Akatsuka standard...
+Gymnastic formation...
 Deploy!" (hoarse)
 Lucia: "...what does that mean?"
 Shizuru: "........."
@@ -37541,7 +37538,7 @@ It feels like it...
 Kotarou: (This won't be a very occult article...)
 Maybe I can cram these lingering questions into it. That might help it sound at least a little mysterious...
 ====================seen01305-str.txt====================
-﻿Kotarou: "This one..."
+Kotarou: "This one..."
 This is the lead I'm most confident in.
 It suggests there might be dinosaurs that survived into the modern era.
 How is that not exciting?
@@ -37950,7 +37947,7 @@ Kotarou: "I hate this."
 Gen-san: "Be a man, don't give up so easily! You've gotta give it your all next time!"
 Gen-san's words make me feel a little better.
 ====================seen01310-str.txt====================
-﻿Kotarou: "Guwaaa! I have no leaaaads!"
+Kotarou: "Guwaaa! I have no leaaaads!"
 Akane: "........."
 Prez silently opens her laptop and puts on headphones.
 Kotarou: "Umm...sorry..."
@@ -38217,7 +38214,7 @@ Kotarou: "Eh? How so?"
 Akane: "Clowns can be useful sometimes..."
 Kotarou: "Why do you have to be so rude!?"
 ====================seen01315-str.txt====================
-﻿Kotarou: "Guwaaa! I have no leaaaads!"
+Kotarou: "Guwaaa! I have no leaaaads!"
 Akane: "Then no searching for today."
 Kotarou: (I should've taken this more seriously...)
 «#1 - Entrance to an Alternate Dimension»
@@ -38710,7 +38707,7 @@ Evidently her authority and Inoue's investigations have something to do with eac
 A new legend about meal tickets that grant your every wish might just stick around.
 Kotarou: (Since corruption feels so unreal to young people like us...it might as well be a supernatural phenomenon...)
 ====================seen01400-str.txt====================
-﻿Kotarou
+Kotarou
 After a while...
 Before I realized it, everyone was gone.
 Akane. Chihaya.
@@ -38727,7 +38724,7 @@ No lyrics, and no music...just a gentle melody.
 As I doze off, the last thing I feel is a vision of a mother caressing her child.
 Then I...we...
 ====================seen02000-str.txt====================
-﻿
+
 Kotori
 An ordinary Monday.
 Apparently I spent all of yesterday asleep.
@@ -38924,7 +38921,7 @@ This guy's scary!
 Cop: "You know...my job...is to protect the peace!"
 Kotarou: "Y-yes."
 Cop: "If you insult me...you're insulting the entire town."
-Kotarou: "That's not how......... 
+Kotarou: "That's not how.........
 Actually yes, you're right."
 Cop: "If you fight back, I might have to use my firearm."
 Kotarou: "You're not supposed to use it that casually..."
@@ -39287,7 +39284,7 @@ It's been ages since I went this long without talking to people.
 I guess it's kind of nice once in a while...?
 No, it's not.
 Not a single problem is getting resolved.
-This feels like the part after running a marathon when you don't have the energy to do anything for a while. 
+This feels like the part after running a marathon when you don't have the energy to do anything for a while.
 I haven't seen my parents recently either.
 That's not unusual, but at times like this I don't know what to do with the house all to myself.
 Kotarou: "........."
@@ -39931,7 +39928,7 @@ Kotori: "...if I just wandered aimlessly you might get mad at me."
 Kotarou: "I'm not that restrictive."
 Kotarou: "...though restricting you in other ways might be nice, haha!"
 Kotori: "What did you say?"
-Low Voice ＋ Smile 
+Low Voice ＋ Smile
 = Terror
 Kotarou: "N-nothing."
 Kotori: "Good."
@@ -39977,7 +39974,7 @@ Something to do with Akane.
 After a while, I finally remember.
 Her secretary.
 Akane's secretary.
-She said she worked for the school. 
+She said she worked for the school.
 ...what subject does she teach?
 Kotarou: "Excuse me, my name is Tennouji."
 Male Teacher: "Oooh, Tennouji."
@@ -40296,7 +40293,7 @@ I check the drawer I've been keeping them in.
 They've been shredded.
 The whole pile of shikigami is in tatters.
 I thought each of them lasted one night, but evidently not.
-It must be putting more effort into its attacks so it could destroy all of them. 
+It must be putting more effort into its attacks so it could destroy all of them.
 Kotarou: "Not good..."
 I can only see a handful of intact shikigami.
 Since Akane's gone, there's no way to get any more.
@@ -40445,7 +40442,7 @@ Then Kotori goes to the club room and I kill some time.
 Kotarou: (I wasn't expecting to have all this time...what should I do with it?)
 I'm still planning to go to the festival with Kotori this evening.
 Maybe I should rehearse that by looking around for interesting places.
-All the town's resources are focused on this festival. 
+All the town's resources are focused on this festival.
 There are tents and stands set up in front of the station. Adults are running around shouting.
 When the festival starts tomorrow, a huge crowd of people will rush forward here.
 Cars, bicycles, motorbikes...
@@ -40783,8 +40780,8 @@ Kotarou: "Maybe I should do some werfing..."
 I haven't seen many other people abbreviate "web surfing" like that.
 I text Kotori.
 Subject: "Morning"
-"I successfully woke up early! 
-Werfing is so fun~ 
+"I successfully woke up early!
+Werfing is so fun~
 So much fun~ (＊＾_＾＊)"
 As always the net world is swirling with the trivial joys and sorrows of countless people.
 I skim through several sites.
@@ -40952,7 +40949,7 @@ Kotarou: "It's only a single-lens reflex camera, but it's still digital."
 Kotarou: "I think when I was a kid these things still used film."
 Inoue: "...have you taken a picture of this? I think it'd look nice."
 She points to the park and tilts her head.
-Come to think of it, the tranquil park does look pretty good from this angle. 
+Come to think of it, the tranquil park does look pretty good from this angle.
 Clearly Inoue still has her old instincts.
 Kotarou: "Yeah...but I'm still not quite sure how to use it. Getting the focus and everything right takes a while."
 Kotarou: "I'm practicing with it every day though."
@@ -41494,7 +41491,7 @@ Now I can kill some time investigating this...
 .........
 ...sorry, I have to write more.
 There are people here.
-A robed man. 
+A robed man.
 Like the ones I saw on the first day.
 The mysterious group controlling the monsters.
 He passed by me as I was writing that last part.
@@ -41509,7 +41506,7 @@ What situation am I even in?
 ・Hypothesis 1: I'm dreaming → Too cheesy
 ・Hypothesis 2: It's all an illusion → Also too cheesy
 ・Hypothesis 3: I'm already dead → Too forced
-・Hypothesis 4: I've lost my mind → 
+・Hypothesis 4: I've lost my mind →
 Number four seems the most plausible.
 A city of robed men hidden in the forest that no one knows about.
 Night doesn't fall there, and the sky is always a cloudy gray.
@@ -42636,12 +42633,9 @@ A dwarf mammoth. Maybe a pigmy mammoth.
 Chibimoth.
 ...stabbing pain.
 Chibimoth is a mammoth.
-...*stab* 
-*stab* 
-*stab* 
-*stab* 
-*stab* 
-*stab* 
+...*stab*
+*stab*
+*stab*
 Kotarou: "Chibimoth isn't a dog. He's a mammoth."
 The moment I say that, I feel a violent urge to vomit.
 Kotarou: "......!"
@@ -45453,7 +45447,7 @@ Guns would probably be more effective.
 Considering how little time it takes for bullets to reach a target, that's just obvious.
 And you can't exactly snipe anything with that string.
 In a dense forest like this with so many trees in the way, the only way to use it is to make a wide vertical swing like he just did.
-It doesn't feel like a weapon I'd want to use. 
+It doesn't feel like a weapon I'd want to use.
 Still, there are some positives to it.
 Since carrying guns and swords around is illegal, in some places that string would be the most powerful option.
 And once it manages to touch something, that something will get cut. For an otherwise unarmed human, that's a hell of a lot better than punching.
@@ -45829,7 +45823,7 @@ The hysteric crying.
 The complaints from the neighbors.
 She gave herself headaches taking care of him, but she was never rewarded for it in any way.
 And yet...that familiar voice hits both Kotori and I hard.
-Chibimoth: "Woof! 
+Chibimoth: "Woof!
 Woof!"
 Kotori: "...Pero?"
 Chibimoth: "...*whimper*"
@@ -46044,7 +46038,7 @@ Kotarou: ".........you brought a gun...out here? ...you idiots..."
 We're just students.
 What's wrong with you?
 Kotori: "...Kotarou...kun?"
-Kotori's eyes stop focusing for a moment. 
+Kotori's eyes stop focusing for a moment.
 Then she glares at the man holding the rifle.
 Suddenly, the surroundings change.
 Familiars leap out into the clearing from nowhere in particular.
@@ -46140,7 +46134,7 @@ We stop so she can drink some water.
 The Key looks fine.
 I assume she won't have any stamina problems.
 After she recovers, we start moving again.
-I can feel things nearby in several directions. 
+I can feel things nearby in several directions.
 I can't tell which ones are familiars or humans.
 But they're all enemies to us right now.
 I think the strongest threats are behind us.
@@ -47562,7 +47556,7 @@ Kotarou: "I'm on my way to see you――"
 On this day, we begin our journey.
 Pink flower petals float in the wind and brush against my cheek, telling me that spring has come.
 ====================seen03000-str.txt====================
-﻿Chihaya
+Chihaya
 I remembered an ordinary story.
 When I was walking through town, I passed by a parent and child.
 A few seconds later, the girl started crying behind me.
@@ -49737,12 +49731,12 @@ It's impossible not to wonder about that.
 Kotarou: "Hmm..."
 I think about it.
 So if Sakuya actually is a rival...
-Looks: Sakuya >>> Me 
- 
-        Trustworthiness: Sakuya >>>> Me 
-Housework: Sakuya >>>> Me 
+Looks: Sakuya >>> Me
+
+        Trustworthiness: Sakuya >>>> Me
+Housework: Sakuya >>>> Me
   Physical Strength: Sakuya >>>> Me
-　
+
 Occupation: Student = Unemployed
 Kotarou: "........."
 Crap...I can't beat Sakuya at anything...!!!
@@ -49779,7 +49773,7 @@ Kotarou: "Some people disappeared there, so there might be something."
 Hopefully not a giant snake.
 Kotarou: "........."
 Without the light of day, the park feels disturbingly quiet.
-I can tell that the areas with more trees seem darker than usual. 
+I can tell that the areas with more trees seem darker than usual.
 But the weak light from the street lamps still helps a lot.
 ...I'm remembering how dark the depths of the forest were.
 Kotarou: "...you know..."
@@ -51880,9 +51874,9 @@ Tenma: "Resist if you like. Run if you like. But you will be crushed either way.
 Kotarou: "........."
 What should I do...?
 If I'm gonna live through this...
-1) He's just a big show off, and I can actually beat this thing 
-2) It's as slow as it looks, so I can run away 
-3) A hero appears and kills it for me 
+1) He's just a big show off, and I can actually beat this thing
+2) It's as slow as it looks, so I can run away
+3) A hero appears and kills it for me
 4) ......
 Tenma: "It is too late for you to escape anywhere...I will crush you."
 Kotarou: "Dammit!"
@@ -53117,7 +53111,7 @@ Chihaya and I wake up and go to school together.
 When we get home, I do some weird training with Sakuya.
 At night, we try going to the forest.
 ...nothing happens there.
-Or the next day, or the day after that. Several ordinary days pass by. 
+Or the next day, or the day after that. Several ordinary days pass by.
 Sakuya: "The extremists have been exposed."
 Kotarou: "...what?"
 He suddenly tells us one morning.
@@ -53850,7 +53844,7 @@ Midou has a contract with that lava familiar...so that's probably why he can run
 So we can both keep fighting until the gym burns down...!!
 Midou: "I'll say it again! I will kill you!! If you don't like it, then kill me first!!"
 Kotarou: "I'm not gonna do what you tell me to!"
-Midou: "Hyahahahaha!! 
+Midou: "Hyahahahaha!!
 Let's see you try!!"
 Kotarou: ".........!!"
 There's nothing I can do besides dodge these...!!
@@ -54311,7 +54305,7 @@ I'm basically being dragged out. I force my eyes to stay open, trying to keep my
 At that moment, I feel relief, and my eyelids fall.
 ...I won...right...?
 ====================seen03001-str.txt====================
-﻿I'm carried away in an ambulance.
+I'm carried away in an ambulance.
 Kotarou: "...is this okay? ...I shouldn't be able to survive a fire like that..."
 Chihaya: "We're going to one of Gaia's hospitals."
 Kotarou: "I see..."
@@ -54491,7 +54485,7 @@ Chihaya: "There isn't anything I really want though."
 Sakuya: "Mm, I see...I thought I could simply keep playing until I won..."
 Kotarou: "...be more careful with your money."
 All the people here are smiling.
-As if everyone's concentrating all their energy here, since there's no longer a large-scale festival to participate in. 
+As if everyone's concentrating all their energy here, since there's no longer a large-scale festival to participate in.
 Normally there are tons of dangerous guys around here, but today plenty of normal people are coming too.
 An old man is running around shouting "Festivaaaaaaaaaaaaaaaaaal!" with a beer in one hand.
 It's one of Kazamatsuri's famous old festival men.
@@ -56226,7 +56220,7 @@ And now he's living as a familiar.
 Through that branch, Sakuya appeared before Chihaya.
 Calm, pleasant days.
 Chihaya growing up.
-Sakuya slowly regained his identity as he watched her. 
+Sakuya slowly regained his identity as he watched her.
 But...who he used to be.
 What he failed to protect.
 Why that fact was burned so deep into his memory.
@@ -57571,7 +57565,7 @@ If whoever's seeing this...isn't my daughter, Chihaya...
 Please give this to her if you can.
 If you can't, please burn this.
 ...to Chihaya.
-These memories only appear as text. 
+These memories only appear as text.
 This only brings back feelings I didn't like.
 I didn't like school that much.
 I've infiltrated several of them by "transferring".
@@ -58844,7 +58838,7 @@ A petal...
 A single white petal falls past my eyes.
 Kotarou: "...took you long enough."
 ====================seen04000-str.txt====================
-﻿Akane
+Akane
 A normal Monday.
 Apparently I was asleep all day yesterday.
 I'm not going to school to attend classes.
@@ -59013,7 +59007,7 @@ It's probably been abandoned for a long time.
 I close it behind me, and head inside.
 The rooms are a mess.
 There's junk and garbage strewn everywhere. It's in no condition for people to live here.
-I know it's rude, but I start looking through all the stuff on the floor. 
+I know it's rude, but I start looking through all the stuff on the floor.
 I find a toy box, and underneath all the sketchbooks full of scribbles, I find a photo album.
 It has tons of pictures in it.
 Many of them were taken outside.
@@ -59312,7 +59306,7 @@ Akane: "And he said you were a suspicious boy trying to trespass on someone's ro
 Akane: "...he assumed you were trying to steal someone's panties."
 Kotarou: "Are you sure that was a cop?"
 There's no way his uniform would look completely black...
-My eyesight is better than that. 
+My eyesight is better than that.
 Kotarou: "...anyway, it's been ages since we last talked."
 Akane: "Aaah, and there wasn't even any need to come here...what a waste."
 She laments dramatically.
@@ -60262,7 +60256,7 @@ The man hadn't fainted at all.
 He stands back up, gasping for air, and glares at me with a bloody face.
 This time he's standing defenseless, without lowering his center of gravity.
 Something's not right.
-Takasago's always smiling. 
+Takasago's always smiling.
  But now it looks dark.
 There's something wrong with him.
 Akane: "...stop, Takasago."
@@ -61437,18 +61431,18 @@ There are plenty of computer games lying around, but I can't imagine a little gi
 Akane seems to like some really bloody games. Maybe that helps her relieve stress.
 Kotarou: "...uuu...nothing."
 Kotarou: "We'll need to play something that doesn't require toys."
-Kotarou: "How about shiritori? I'll start. Shaft." 
+Kotarou: "How about shiritori? I'll start. Shaft."
 Shimako: ".........?"
 She looks at me with innocent eyes.
 Kotarou: "...sorry, that was inappropriate. You can't talk anyway."
 Kotarou: "Ah, that's right, the old Occult Club should have..."
 Kotarou: "There it is!"
-Kotori unearthed these board games in the pile of cardboard boxes from the previous club. 
+Kotori unearthed these board games in the pile of cardboard boxes from the previous club.
 They probably used this stuff to kill time.
 Pocket shogi, Othello, playing cards, tarot cards, hanafuda...lots of stuff like that.
 Kotarou: "Okay, let's go through these one by one."
 Shimako_Unneeded: "......"
-She looks down at the worn-out, dusty toys. 
+She looks down at the worn-out, dusty toys.
 Then she runs off.
 Kotarou: "Ah, no, not that way."
 Shimako flies toward the door to the hallway.
@@ -61753,7 +61747,7 @@ Kotarou: "Look, here's your doll."
 Shimako: "......"
 She grabs the doll and calms down.
 Kotarou: "It's ugly but it's also kinda cute."
-*smack* 
+*smack*
 *kick!*
 A ferocious kick lands in my calf.
 Kotarou: "Owowow, stop that!"
@@ -61787,9 +61781,8 @@ It hurts so bad my eyes tingle.
 Shimako falls back to the ground, and follows up with a spinning jump.
 Her hurricane kick gets a combo on my face.
 Kotarou: "
-Ow! 
-Ow! 
-Ow! 
+Ow!
+Ow!
 OWWW!"
 Kotarou: "How the hell can you do thaaaaaaaaaat!?"
 I force her down to the ground.
@@ -62010,7 +62003,7 @@ I listen.
 ???
 "Anyway, split up and search the building."
 Apparently someone's missing.
-One of those people starts rushing over, so I move away. 
+One of those people starts rushing over, so I move away.
 After rounding a corner, I bump into someone and almost scream.
 An old lady.
 In a white kimono.
@@ -62751,7 +62744,7 @@ Every time my feet hit the ground, I feel it in my wound.
 But I run anyway.
 I reach my limit quickly.
 I fall over.
-My blood pressure's so low my limbs are all weak. 
+My blood pressure's so low my limbs are all weak.
 The Key hardly weighs anything at all, but I can barely even pick it up anymore.
 Kotarou: (Is this it...?)
 I lean back against a tree, since I'd at least like to see whoever attacks me.
@@ -62791,20 +62784,15 @@ But he still reacts quickly.
 He immediately jumps back.
 He disappears back into the forest.
 At the edge of my vision, a vividly glowing membrane writhes around.
-*peck* 
+*peck*
 *peck*
 Kotarou: "........."
-*peck* 
-*peck* 
+*peck*
+*peck*
 *peck!*
 Kotarou: "...owwww."
-*peck* 
-*peck* 
-*peck* 
-*peck* 
-*peck* 
-*peck* 
-*peck* 
+*peck*
+*peck*
 *peck!*
 Kotarou: "Owwwwwwwwwww! That really hurts!"
 There's a bird violently pecking at my forehead.
@@ -62838,7 +62826,7 @@ I carry the Key for a while, but my stamina is definitely suffering.
 It feels like I'm carrying a boulder.
 The leaf bird pulls up on the bag, trying to make it easier for me.
 It doesn't help at all.
-I can tell I'm moving slower and slower. 
+I can tell I'm moving slower and slower.
 The forest grows darker, until I feel like I'm at the bottom of an ocean.
 Kotarou: "...Akane-san, I smell blood."
 Humans stand out in the forest.
@@ -63237,7 +63225,7 @@ Then I fling him against a tree trunk.
 Then pull him back, and fling him forward again.
 I was focused.
 I never considered being merciful.
-Eventually, I feel his resistance less and less. 
+Eventually, I feel his resistance less and less.
 But since I can still see him holding his weapon, my terror doesn't let up.
 I push my whole body weight against him, through my right hand.
 All the blades run deeper into him.
@@ -63551,7 +63539,7 @@ Akane: "I wasn't expecting anywhere near this much from you."
 Akane: "You did everything you possibly could...I wish I could say the outcome doesn't matter, but..."
 Akane: "I'm grateful for what you did."
 ====================seen04001-str.txt====================
-﻿We lay several of the summoners down on white sheets.
+We lay several of the summoners down on white sheets.
 They're quietly carried away on stretchers.
 Kotarou: "Are they...dead?"
 Akane: "They used up their lives controlling that familiar."
@@ -63692,7 +63680,7 @@ She falls heavily into her chair.
 Her mind sinks as far as it can go, as disappointment reveals itself in her face.
 Kotarou: "......"
 I don't know what to say to her.
-To Akane, Kashima Sakura probably felt like part of her family. 
+To Akane, Kashima Sakura probably felt like part of her family.
 I know I shouldn't make any jokes, but I can't tell if I should try to console her.
 Akane: "How are your injuries?"
 Kotarou: "I'm fine. The marks were all gone this morning."
@@ -63788,7 +63776,6 @@ The tension inside her finally gives way.
 She clings to me.
 As tight as she can.
 I hold her tight.
-...
 ...
 ...
 someone wakes me up with a punch.
@@ -64003,7 +63990,7 @@ It's filled with elite summoners and guards.
 Machines have to be carried there.
 Everything is scheduled around it.
 Working together with Tsukuno-san and the other disciples is important.
-When Akane goes outside, I always follow her. 
+When Akane goes outside, I always follow her.
 She can't even buy a can of juice by herself now.
 Sometimes Akane laments it.
 No matter how hard she has to work, her schedule is always packed with more trips and appointments.
@@ -64302,7 +64289,7 @@ Anything can become normal if it goes on long enough.
 Everyone still looks fine.
 Akane: "We're used to persecution. This has been a problem for religions since ancient times."
 Akane says with a calm face.
-We have more time together now. I'm happy about that. 
+We have more time together now. I'm happy about that.
 It was hard to make this time in the past.
 The Martel witch hunt hasn't changed much, though it has started to target Akane's personal acquaintances too.
 The latest magazine has my public debut.
@@ -64798,7 +64785,7 @@ They say idiots like tall places. So do I.
 But this building doesn't have roof access.
 I want some fresh air.
 I notice a door to some emergency stairs.
-I look outside. The staircase is wrapped in a metal fence. 
+I look outside. The staircase is wrapped in a metal fence.
 The wind blowing through it is so cold my skin hurts.
 Kotarou: "...hm?"
 I feel something strange from the roof.
@@ -65046,7 +65033,7 @@ Kotarou: "...I wasn't doubting that..."
 Akane: "Then what's the problem? Let's enjoy ourselves."
 Kotarou: "........."
 ====================seen04002-str.txt====================
-﻿Kotarou: "........."
+Kotarou: "........."
 Akane: "........."
 On Akane's suggestion, we head up to the school roof.
 She stays silent for a long time, unable to say what she wants to tell me.
@@ -65235,7 +65222,7 @@ Her knees go limp, so I have to hold her up.
 No matter what memories Akane inherited, they have nothing to do with her.
 She's afraid of sins she never committed.
 There's only one thing I can do.
-Support her. 
+Support her.
 Until the very end.
 I'll do everything I can to help her.
 Akane: "But Kotarou...
@@ -65363,7 +65350,7 @@ Still, I can hear the song much better from here.
 It feels like the singers are right next to me.
 Kotarou: (...did you really just leave me here, Akane-san?)
 Kashima Sakura hated life, and Akane inherited her anger...
-But that's not Akane's own anger. 
+But that's not Akane's own anger.
 Those sins are none of her concern.
 She shouldn't have to worry about them.
 And yet, she disappeared.
@@ -66274,7 +66261,7 @@ The girl's face looks pained.
 But I can't take her with me.
 She shakes herself free and runs toward me.
 Kotarou: "...sorry."
-I run away, fast enough that no child should be able to catch me. 
+I run away, fast enough that no child should be able to catch me.
 I think I hear a scream from far behind me.
 Kotarou: "What the..."
 It hasn't even been half a day since I went underground.
@@ -66757,7 +66744,7 @@ Everyone fights to get inside.
 Which only makes it impossible for anyone to get in at all.
 Mothers reach over the crowd to try and get their children inside.
 That only heightens the confusion.
-Insane shrieks. 
+Insane shrieks.
 People so terrified they lose bodily control and vomit.
 People swinging metal pipes around.
 People climbing on top of the garage.
@@ -67445,7 +67432,7 @@ They praise me.
 I search for a response.
 Kotarou: "No, I..."
 I'm not like that.
-I'm responsible for making the world end this way. 
+I'm responsible for making the world end this way.
 What I helped bring about is worse than any genocide.
 But I can't say that.
 Teacher: "Tennouji-kun, you saved my life."
@@ -68330,9 +68317,9 @@ That's the answer to everything.
 Humans are only in the right from the point of view of humanity.
 The arguments take place all over the city.
 Even between people as they play shogi, go, or darts.
-Before long, there are lots of traditional taverns, salons, and other places where people play games like that. 
+Before long, there are lots of traditional taverns, salons, and other places where people play games like that.
 Kind of like the gentlemen's clubs from places like 18th-century England.
-With no internet or huge companies, and no industries built up around leisure, people's lives start to revolve around those places again. 
+With no internet or huge companies, and no industries built up around leisure, people's lives start to revolve around those places again.
 The government holds its first election.
 The person elected as mayor is a hard-headed old man.
 When asked about his policies, he always said he would do what Edo did.
@@ -69265,7 +69252,7 @@ To a land where we'll never cause trouble for anyone.
 To a world without society.
 There, we'll continue searching for hope.
 ====================seen05000-str.txt====================
-﻿Shizuru
+Shizuru
 Kotarou: "........."
 I wake up.
 Kotarou: "........."
@@ -69294,7 +69281,7 @@ I get the feeling that going there doesn't make any real sense after what just h
 What should I do first?
 I decide to sort out my feelings a bit.
 Everyone in the Occult Club did something very strange yesterday.
-Maybe Shizuru lives in a world where such abnormal things are common. 
+Maybe Shizuru lives in a world where such abnormal things are common.
 In which case, so does class rep.
 She probably has strange powers herself, and has known Shizuru for a long time.
 It would make sense if they were connected like that.
@@ -69457,7 +69444,7 @@ Yoshino: "I don't remember the others' names, but a strange third-year and a fir
 He's right.
 That's everyone in the Occult Club.
 Kotori, Chihaya, class rep, Prez...I mean Akane, and Shizuru.
-That's weird. I can barely remember who they are. 
+That's weird. I can barely remember who they are.
 What happened to Shizuru...?
 Yoshino: "Don't tell me..."
 Yoshino: "You don't remember anything?"
@@ -70060,7 +70047,7 @@ The truth is, my worst fears have become reality.
 And I might never see her again...
 Kotarou: "........."
 Everyone in the Occult Club did something very strange yesterday.
-Maybe Shizuru lives in a world where such abnormal things are common. 
+Maybe Shizuru lives in a world where such abnormal things are common.
 In which case, so does class rep.
 She probably has strange powers herself, and has known Shizuru for a long time.
 It would make sense if they were connected like that.
@@ -70997,8 +70984,7 @@ I walk a bit faster.
 Kotarou: "Hm?"
 I turn around at the noise.
 Kotarou: "......?"
-*bang* 
-*bang* 
+*bang*
 *bang*
 Rough, metallic noises.
 Kotarou: "What is that?"
@@ -71562,7 +71548,7 @@ Kotarou: "Come to think of it, this happened back when we first met."
 That day I'd agreed to go to the student council meeting in someone else's place, since he was sick.
 Then I found a first-year who needed help.
 I asked, and she said she was heading to the same meeting.
-But Kazamatsuri Academy was huge, and she was new to it, so she kept getting lost. 
+But Kazamatsuri Academy was huge, and she was new to it, so she kept getting lost.
 I showed her where to go.
 After doing all that, I decided that was enough and tried to walk away without attending the meeting myself.
 Kotarou: "...then you guessed I was about to do that, and made me participate anyway."
@@ -72401,7 +72387,7 @@ We wave goodbye and she runs off.
 Kotarou: "Guess I should start up the washing machine."
 I need to do something while I'm here at home.
 Pani: "Good luck~"
-I toss all the clothes in the washroom into the washing machine. 
+I toss all the clothes in the washroom into the washing machine.
 Kotarou: "Shizuru's clothes are all the same..."
 She could at least get different versions of something.
 Though my wardrobe is no different.
@@ -72892,7 +72878,7 @@ Shizuru: "I know how to get songs on the iPod."
 Kotarou: "No, no, it's okay, let me do it."
 Shizuru: "Mmm..."
 I move Shizuru aside and start converting the tracks.
-While we wait, we listen to some of them. 
+While we wait, we listen to some of them.
 Kotarou: "80's pop...?"
 I already know where she got these.
 This is just like what Nishikujou-sensei was listening to...
@@ -72941,7 +72927,7 @@ And the most common tricks, such as forged authenticity certificates and decorat
 When I started checking for those things and looking carefully at furniture and other antiques on a regular basis, I rapidly became far more precise with my judgments.
 Being able to judge items is the most important skill in this business.
 A huge number of the vases and swords up for sale are blatant frauds.
-Even Esaka-san has been burned a number of times in the past. 
+Even Esaka-san has been burned a number of times in the past.
 If you make a big purchase and it turns out to be fake, that heavily damages your bottom line. There's an element of gambling to it.
 It's a tough business. If you underestimate it, you'll go bankrupt in no time.
 But there are a lot of appealing things about it.
@@ -73232,7 +73218,7 @@ Kotarou: "Ah! Crap, I'm gonna be late if we keep talking!"
 Pani: "See you later~"
 The mystery creatures watch me leave.
 I rush to Esaka-san's shop at full speed.
-...I'm still learning how to properly balance my job with my private life. 
+...I'm still learning how to properly balance my job with my private life.
 Work ends without any problems.
 Kotarou: "...now then..."
 Given my situation, I can't wander around late at night.
@@ -74019,7 +74005,7 @@ And my mind is erased.
 As if the wavering light is burning my mind away.
 Wrapping around me, and burning me away...
 ====================seen05001-str.txt====================
-﻿Kotarou: "........."
+Kotarou: "........."
 I remember.
 I remember everything now.
 It's all my fault.
@@ -76159,7 +76145,7 @@ Who threw away everything they have to search for happiness...
 And an idiot who wants to follow her in that search...
 I'm an idiot, but...
 Isn't that a beautiful, precious thing!?
-Why would you want to wipe those things off the face of the Earth!? 
+Why would you want to wipe those things off the face of the Earth!?
 What's so bad about us living here, hoping to find happiness!?
 ...I hear a sound.
 Key_Kagari: "...good memories must not be sad."
@@ -76179,7 +76165,7 @@ Kotarou: "Damn iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiit!!!!!!"
 The vibrations are too large and slow to call it an earthquake.
 The Earth is beating.
 Shizuru: ".........!"
-Shizuru shoots several more times. 
+Shizuru shoots several more times.
 Nishikujou: "It's no good..."
 Nishikujou: "........."
 Nishikujou: "But I'd like to give this my best shot..."
@@ -76824,7 +76810,7 @@ We'll go out into the garden together...
 And grill saury.
 While talking about all sorts of stupid things...
 And watching TV while eating the saury.
-And telling each other we felt parts of the show were funny or amazing. 
+And telling each other we felt parts of the show were funny or amazing.
 Together...
 If we could just live together...
 That's what I want to do in the future.
@@ -76893,9 +76879,9 @@ Does that mean records of it were left behind somewhere?
 If so, they must have been written by a previous intelligent species.
 After looking at the facilities in this shelter, it's impossible to doubt that the previous humanity was a far more advanced civilization than our own.
 So there's a message we have to leave behind.
-I pray 
-that the next humanity 
-can create better memories. 
+I pray
+that the next humanity
+can create better memories.
 How many days has it been?
 I kept a diary for part of it, but I stopped at some point so I lost count.
 I feel like it was a long time.
@@ -76920,7 +76906,7 @@ We really did meet again.
 ...yeah.
 Welcome back.
 ====================seen06000-str.txt====================
-﻿Lucia
+Lucia
 I check all the new emails.
 Kotarou: "Spam...spam..."
 I can count the number of actual submissions on one hand.
@@ -77547,7 +77533,7 @@ Kotarou: "Last night my phone broke so I couldn't call any of them, but I'm gonn
 Lucia: "......I don't understand this at all..."
 Lucia: "But I do see why you don't want me to tell Yoshino about this."
 Kotarou: "Thanks......he's seriously scared about this thing. It'd be really bad if he knew."
-Kotarou: "And class rep, please forget everything I just told you. 
+Kotarou: "And class rep, please forget everything I just told you.
 "Or else, class rep will"......"
 Lucia: "Do not make stupid threats..."
 Lucia: "Though it's true that I don't want to stick my neck into this myself."
@@ -77757,7 +77743,7 @@ What...!?
 The first side should be blank...obviously. She's not doing a two-sided copy, so of course one side should be blank.
 But it isn't.
 Instead, it says "Boo!"
- 
+
 When I look closer, it's clearly written with a fountain pen. It wasn't printed on there.
 .........eh? ...so that means.........really?
 Nishikujou: "For recycling purposes, we try to use both sides of paper whenever possible. See that notice there?"
@@ -77777,7 +77763,7 @@ Nishikujou: "But, was it written on the front or the back side?"
 Lucia: "I-I don't remember..."
 So now we know the truth.
 For whatever reason, in the past someone copied this creepy message, and it ended up in the recycling box.
-Then someone put it back in the copier so the other side would get used, and when I used it, the copier grabbed that page by accident...! 
+Then someone put it back in the copier so the other side would get used, and when I used it, the copier grabbed that page by accident...!
 Kotarou: "So...the first copy came out normally...and I picked that up."
 Lucia: "Then the copier realized it had an extra piece of paper in there, so it had to get rid of it..."
 Nishikujou: "And it came out of the copier without anything being printed on it. But it was recycled paper."
@@ -77985,7 +77971,7 @@ Lucia: «...you're right, enthusiasm is important.»
 Kotarou: "If we're both ready, let's get started."
 Kotarou: "Once we're done we'll exchange information."
 Lucia: «All right, understood.»
-I knew I could count on class rep. She got prepared very early, so she could get started whenever I called. 
+I knew I could count on class rep. She got prepared very early, so she could get started whenever I called.
 No reason not to start now. We've got just over ten people each to call.
 I have no idea how much information we'll get out of them.
 Come to think of it, it might not be possible to call everyone tonight...though it seems unlikely we'll end up stuck in long, unrelated conversations.
@@ -78096,7 +78082,7 @@ Kotarou: "......is this what you meant when you said to watch out if glass break
 Yoshino: «............yes.»
 That was the first thing Yoshino told me.
 "If glass breaks near you, watch out."
-Yesterday evening, everyone in Class 1 saw a window or lightbulb break. 
+Yesterday evening, everyone in Class 1 saw a window or lightbulb break.
 ......this means Yoshino accurately predicted one of the creepy coincidences.
 If someone tries to look into Asahi Haruka...glass breaks.
 Because of Yoshino's warning, I now know that statement is a fact...
@@ -78296,13 +78282,13 @@ Lucia: "I wash before going to bed and after I wake up. I wash before going to s
 Lucia: "I'm always, always, always washing them! So they aren't filthy! They can't be!!"
 So you've forgotten......just how filthy you are.
 ――All right. I'll help you remember what it felt like back then.
-I'll 
-teach 
-you 
-my 
+I'll
+teach
+you
+my
 curse
 .
-The girl grabs Lucia's arms, then puts the palms of her hands on the back of Lucia's. 
+The girl grabs Lucia's arms, then puts the palms of her hands on the back of Lucia's.
 ...as if infecting her with her own curse.
 Lucia: "N-no......stop...stop, stop, stop......!"
 ――No. I'll teach you my suffering.
@@ -78338,11 +78324,11 @@ Lucia: "N-no.........this can't be......this isn't happening...!"
 She pulls out all the other flowers...so violently that the vase falls over and the water spills.
 What about the flowers? Are they dropping? They can't possibly be wilting...!?
 *plop*
-A filthy noise, like diseased bubbles floating up out of a swamp. 
+A filthy noise, like diseased bubbles floating up out of a swamp.
 The part of the bouquet she touched has a big black region in the shape of her hand...and it's slowly rotting, melting away...
 Lucia: "That's...no......this can't...no......nooo......"
 Lucia: "...m-my hands...a-aren't......filthy......anymore......"
-The flowers are just a puddle in her hands now, dripping very slowly down to the floor. 
+The flowers are just a puddle in her hands now, dripping very slowly down to the floor.
 ......the filthy muck falls on the floor like a drunk man's vomit...
 Who would believe that filth used to be a beautiful bouquet of flowers only a few moments ago...?
 Lucia shakes......then looks at the source of that pollution......her own hands......
@@ -78691,14 +78677,11 @@ Employee: "......she......showed me......proof of that."
 Manager: "Showed you what exactly? Just spit it out..."
 Employee: "......it's hard to describe..."
 Employee: "......b-but..."showed" isn't the right word......she put a mark on me......
-I 
-can 
-still 
-see 
+I
+can
+still
+see
 it
-.
-.
-.
 .
 .
 ."
@@ -78790,11 +78773,11 @@ D
 o
 n
 '
-t 
+t
 w
 a
 k
-e 
+e
 me.
 Along with those words, something suddenly grabs my arm from behind.
 The arm holding me is cold, and it hurts in a prickly way...it feels like touching dry ice.
@@ -79053,7 +79036,7 @@ And I've been hearing a girl's pained breathing this whole time.
 She must be suffering from a high fever.
 Woman: "Haruka-chan suddenly developed a terrible fever......"
 That girl is lying on a bed, looking up at the ceiling, her mind still hazy.
-The woman must have decided first aid wasn't enough. She's on the phone, probably calling a doctor... 
+The woman must have decided first aid wasn't enough. She's on the phone, probably calling a doctor...
 Who is that woman?
 Her mother? ...no, too distant, too formal. But she can't be a stranger.
 For now, she decided to think of her as a schoolteacher.
@@ -79130,7 +79113,7 @@ The blanket falls down, exposing her white skin and underwear.
 Kotarou: "...ah, d-don't freak out or anything! I just thought you might catch a cold if I left you in those rain-soaked clothes..."
 Lucia: "............"
 Her uniform is so wet that water pours out if you squeeze it.
-I couldn't let her keep wearing that, so...well, I removed it. 
+I couldn't let her keep wearing that, so...well, I removed it.
 I thought about giving her some pajamas instead...but since she was unconscious doing anything else seemed indecent, so I decided a blanket would be enough.
 I was expecting her to start blushing and shouting at me......but she just looks indifferent.
 Kotarou: "......anyway, drink some. I'll get some clothes."
@@ -79233,7 +79216,7 @@ I furiously scratch my head, then make a statement toward the girl who I'm sure 
 Kotarou: "I've had enough! I surrender!"
 Kotarou: "I know you can hear me, Asahi Haruka! You win! Now change class rep's hands back to normal...!!"
 Lucia: ".........Tennouji..."
-I expected her to break another light as an answer, 
+I expected her to break another light as an answer,
 ...but nothing happens this time.
 Stop toying with us! Answer me! I'll stop now! I said I surrender!
 I've given up already...so please fix her hands!
@@ -79410,7 +79393,7 @@ But wilted ivy curls all around it, so it clearly hasn't been opened in several 
 Kotarou: "It's completely sealed now..."
 I had a vague hope that I might find someone here who could tell me what happened.
 ...but according to the ghost story, the orphanage was ruined.
-So this definitely looks like the right place, 
+So this definitely looks like the right place,
 And there should be an abandoned orphanage past this fence...
 I leave my bike next to a tree, jump onto the fence and climb over it.
 Kotarou: "I haven't climbed a fence since I was a little kid..."
@@ -80135,7 +80118,7 @@ Class rep's eyes look serious, so that promise is enough for me.
 For now, I'll do as she asks and forget that name.
 After making me agree to come in for an examination every so often, they finally let me go......
 ====================seen06001-str.txt====================
-﻿It's been a few days since then.
+It's been a few days since then.
 But my life has been so ordinary I still can't believe it.
 That's probably my "reward" for not telling anyone the secrets I learned.
 ......Guardian, I think it was?
@@ -80186,7 +80169,7 @@ Coming to a girl's house to eat food she cooked for me...after everything that's
 I've never seen something that amazing happen outside of a game.
 Hmmm, I really shouldn't be this nervous.
 Room 204. Konohana......this is the one.
-*ding-dong* 
+*ding-dong*
 *ding-dong*
 After a short while, I can hear her through the intercom.
 But her voice is strained.
@@ -80196,7 +80179,7 @@ Lucia: «I-I can see that it's you! N-no one else is with you, right...!? No one
 Kotarou: "Wh-why are you so worried? Fine, fine, I'll check..."
 She's definitely very tense.
 I was getting excited about eating here, but that mood is gone now.
-Evidently this isn't the time to act playful... 
+Evidently this isn't the time to act playful...
 ......that's right, Lucia's in a secret society.
 Maybe something bad happened.
 Wait......maybe she wanted to talk to me about something serious today...and this was never about her cooking for me to begin with...
@@ -80690,7 +80673,7 @@ Lucia: "Out of the way, Tennouji Kotarouuuuuuuuuuuuuuuu!!"
 Kotarou: "I'm not in the way, Shizuru's just running around me."
 Shizuru: "There, there. Don't get mad. I'll tell someone."
 Lucia: "Don't teeeeeeeeeeeeeeeeeeeeeeeeeeeeeeell!!"
-*bam!* 
+*bam!*
 *riiiing*
 She grabs Shizuru by the collar, but the fist meant for Shizuru's face hits mine instead.
 Stars all around. Static everywhere...
@@ -81554,7 +81537,7 @@ Lucia: "Th-......thank you......"
 Lucia became interested in makeup for the first time in her life after deciding to go on a date.
 Something any normal girl would learn over the course of years, she learned in a matter of days, as if cramming for a test.
 She'll get the knowledge, but she won't have the experience.
-She must have tried out her new makeup at home several times over the past few days until it looked right. 
+She must have tried out her new makeup at home several times over the past few days until it looked right.
 She's probably still fuzzy on the basics, but she miraculously managed not to embarrass herself with it on the important day.
 It turned out well this time, but who knows if she'd be able to do it again.
 Lucia: "D-do not stare so much...it's embarrassing..."
@@ -82088,7 +82071,7 @@ The subject is "Shizuru-chan's collapsed".
 Just as my eyes grow wide, the phone's LCD screen flashes again, and it plays a ringtone.
 ......the ringtone for Nishikujou-san.
 ====================seen06002-str.txt====================
-﻿
+
 Lucia called me to say Shizuru's been taken to a hospital.
 I got the call right after I got out of the bath.
 ......I'm sure Lucia is blaming herself now.
@@ -82360,7 +82343,7 @@ Nishikujou: "Can you really keep that promise for the rest of your life?"
 Kotarou: "I don't care if it's the rest of my life or a thousand years. I'll protect her forever."
 Nishikujou-sensei looks somewhere far away and sighs deeply, before smiling gently.
 Somehow, that smile makes me feel at ease.
-It almost looks as if something's been lifted from Nishikujou-sensei's shoulders for the first time in years...... 
+It almost looks as if something's been lifted from Nishikujou-sensei's shoulders for the first time in years......
 Nishikujou: "Once this is settled, I'll have Lucia-chan expelled from Guardian."
 Nishikujou: "She doesn't need to worry about the Earth's future or the fight with Gaia any more."
 Nishikujou: "I'll make it so you two can live all by yourselves without anyone bothering you. And I'll make sure she gets plenty of that medicine too."
@@ -82439,7 +82422,7 @@ Kotarou: «I'll get it for you. I'll have Nishikujou-sensei send it to you.»
 Lucia: "Okay...thank you...Kotarou......"
 Lucia: "......Kotarou? Kotarou...!?"
 "Please recharge the battery"
-That's what my cell phone says...... 
+That's what my cell phone says......
 I hang my head dejectedly, and start sobbing again...
 Compared to Kotarou's dark room, this room is so white it hurts my eyes.
 The walls, ceiling and floor are all pure white. They feel cold.
@@ -82470,7 +82453,7 @@ Cop A: "......it's......unlocked."
 Cop B: "Hello...? Is anyone in there...?"
 One of the cops slowly opens the door.
 They can hear the wind blowing through the apartment, and the curtains fluttering.
-It's late autumn, so the nights are getting quite cold......it's hard to imagine anyone leaving the window open as they slept. 
+It's late autumn, so the nights are getting quite cold......it's hard to imagine anyone leaving the window open as they slept.
 The cops quickly realize something must have happened here.
 Cop A: "Yamada-saaan, are you in there......?"
 Cop B: "The living room..."
@@ -82624,7 +82607,7 @@ I can't die here...!!
 If I die, who will support Lucia?
 For Lucia's sake, I can't die here!!
 Kotarou: "Uuuuuuuuuuuuuuuuoooooooooooooooooo!!"
-Suddenly I feel on equal footing with that thing. My body must be getting desperate and doing everything it can to stay alive. 
+Suddenly I feel on equal footing with that thing. My body must be getting desperate and doing everything it can to stay alive.
 I glare back at the monster biting through the chair. It wants to bite my throat so badly.
 If Lucia had come home normally tonight...it would've gotten the jump on her.
 ......damn you...that's not a fair fight...
@@ -82641,7 +82624,7 @@ Nishikujou: "That's what you get for entering a girl's house without permission.
 Kotarou: "......you've got some amazing timing. Thanks."
 Nishikujou: "It took a while to get your cell phone number."
 Nishikujou: "I decided to come here right away instead of looking up your address."
-I see, she made that phone call while she was driving over here... 
+I see, she made that phone call while she was driving over here...
 If Nishikujou-sensei hadn't made that quick judgment, I'd be dead by now......
 Nishikujou: "This is Lucia-chan's cell phone charger. I'll be sure to give it to her."
 Kotarou: "Thank you......"
@@ -82795,7 +82778,7 @@ Researcher A: "Ah......I left the mic on......"
 Researcher B: "......you......idiot......"
 ......Lucia......was standing on the other side of the glass.
 ......her expression was somewhere between anger, sadness and indifference...and her face was wet with cold tears.
-She hit the glass window as hard as she could. But it was ten centimeters thick, so they couldn't hear her do that. 
+She hit the glass window as hard as she could. But it was ten centimeters thick, so they couldn't hear her do that.
 But their merciless words had come through the speakers.
 ......Lucia responds to them with her own words...
 Lucia: «......just......send me to the future.»
@@ -82841,8 +82824,8 @@ As she screams, all the lights in the room shatter.
 The researchers run around like headless chickens. When she sees that, Lucia cries silently.
 Even one of her tears is enough to kill someone now...
 And yet, that poisonous tear is clearer than any other in this world......
-In the corner of the isolation room is her phone, plugged into the charger Nishikujou brought for her. 
-......she said Kotarou went to get it just after their last phone call. 
+In the corner of the isolation room is her phone, plugged into the charger Nishikujou brought for her.
+......she said Kotarou went to get it just after their last phone call.
 Her phone is already fully charged.
 But......Lucia doesn't have the courage......to put the batteries back in.
 She's sure Kotarou sent a text of some kind. She'd receive it immediately.
@@ -83114,7 +83097,7 @@ They'll probably use one of their monsters to start a panic on the very last day
 The DIA believes over a hundred summoners are in Kazamatsuri already.
 When they summon over a hundred monsters...they will blot out the sun. The world will truly be over.
 This year's harvest festival is going to be Gaia's finale.
-We can't even imagine the scale of the panic. All public institutions will be helpless. Guardian Japan and the other parishes will be far too late to help. 
+We can't even imagine the scale of the panic. All public institutions will be helpless. Guardian Japan and the other parishes will be far too late to help.
 By the time the world admits you were right, the Key will be eating sushi with Gaia's higher-ups.
 I can't do anything to help you. I really wish I could.
 If I ever come to Japan, I'd love to see that sushi bar you like so much.
@@ -83259,7 +83242,7 @@ Or are they just going to quietly freeze Lucia-chan and leave it at that...?
 Nishikujou's determined not to let them toy with her anymore.
 The harvest festival starts tomorrow.
 There's also a mini-festival tonight, so you could say it's already starting.
-In class, it feels like summer vacation is just around the corner. 
+In class, it feels like summer vacation is just around the corner.
 But ever since that day, I haven't felt like doing anything...
 Kotori's been down a lot lately, and today she's absent.
 Chihaya's also absent.
@@ -83616,7 +83599,7 @@ Kotarou: "Don't worry about that, we can always come back."
 She finally has her sense of taste back, but we leave the shop without even trying our parfait.
 I walk her home.
 But when we reach the park, she says she wants to take a break.
-Lucia's that weak right now... 
+Lucia's that weak right now...
 As she sits down on a bench, as if falling into it, I can see sweat on her forehead.
 ......we're so close to her apartment, but she doesn't even have the energy to finish walking over there...?
 Kotarou: "......you look really bad...should I call an ambulance...?"
@@ -83894,7 +83877,7 @@ My vision rapidly turns dark......and I fall to the ground, incapable of even at
 I roll around briefly, no different from a doll someone dropped...
 I can't even hold out my hand to Lucia......as she slowly walks away through the field of black sunflowers.........
 ====================seen06003-str.txt====================
-﻿I can hear a sad breeze......from far away.
+I can hear a sad breeze......from far away.
 Maybe it's waves.
 ......eventually, I realize it's the sound of my blood.
 ...with a hazy mind, I remember what a heartbeat is......
@@ -84611,7 +84594,7 @@ I came all this way because I wanted to support her, to never hurt her again.
 But that final question......isn't something I can answer, no matter how hard I press the accelerator.
 I know where Lucia would be.
 So I'll go to her in person and make another attempt to persuade her.
-Still.........how can I save her when she's in such deep despair? 
+Still.........how can I save her when she's in such deep despair?
 I still don't know the answer to that...
 Pilot: "I can't land on the roof! But I can get you down on that parking garage!"
 Nishikujou: "That's good enough. Please do it. We don't have much time."
@@ -84954,7 +84937,7 @@ Why does Lucia want a reason for Asahi Haruka to live!?
 What answer does she want from me!? Dammit, why don't I get it!?
 By now, the fight's risen above the tenth floor.
 They bounce off the eleventh- and twelfth-floor walls, the thirteenth-floor escalator and a fourteenth-floor balcony.
-Then the skylight above the atrium breaks, sending a beautiful rain of glass toward us. 
+Then the skylight above the atrium breaks, sending a beautiful rain of glass toward us.
 It was broken by Lucia's sword. She's still heading up to retrieve it, with Shizuru hot on her heels.
 Shizuru: "Kotarou came here to save you! What more could you want!?"
 Lucia: "He came for Lucia! Not for Haruka!!"
@@ -84999,7 +84982,7 @@ Shizuru: "He understands that! Kotarou won't make that mistake again!"
 Lucia: "Stop it, stop it, stop it!!"
 Lucia: "Stop telling me Kotarou can understand meeeeeeeeeeeeeeeeeeeeeeeeeeeee!!"
 Shizuru: "Stupid Luciaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!!"
-Lucia makes her sword vibrate, and it begins making noises somewhere between a grinder and a chainsaw. 
+Lucia makes her sword vibrate, and it begins making noises somewhere between a grinder and a chainsaw.
 ......Lucia's sword slowly eats its way through Shizuru's knives.
 Lucia: "This is it, Shizuruuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu!!"
 Shizuru: "You idiooooooooooooooooooooooooooooooooooooooot!!"
@@ -85714,7 +85697,7 @@ Instead of admitting she's happy, she finds fault with something and pretends to
 I hold her hand and pull her through the rest of the field.
 Before long, we were hidden behind the tall sunflowers......
 ====================seen07000-str.txt====================
-﻿【Moonlit Stroll】
+【Moonlit Stroll】
 Kotarou_Needed
 ...I can't sleep tonight.
 Kotarou_Needed
@@ -86144,7 +86127,7 @@ No doubt she'll react this way.
 Prey: (This man has a heart of gold. He will never betray me!)
 Does it feel fake?
 Maybe it does.
-But saying only what springs to mind in the moment is just primitive, right? 
+But saying only what springs to mind in the moment is just primitive, right?
 Isn't acting out a role like that part of civilization?
 I learned something today.
 I should think of words that might move her.
@@ -86327,7 +86310,7 @@ She says nothing.
 She looks down at me with cold eyes.
 She almost looks scornful.
 I have nothing left anymore.
-Not even the love I was showing with fake smiles, scripted words, and bad acting. 
+Not even the love I was showing with fake smiles, scripted words, and bad acting.
 I've lost everything.
 Kotarou: "What do you want...?"
 Kotarou: "What the hell are you!?"
@@ -86346,7 +86329,7 @@ It's downright ugly. Just look at it.
 There's not a single beautiful thing in it.
 Everything is living for selfish reasons.
 The place is littered with icky arthropods and annelids.
-Of course their masters, mankind, are no better. 
+Of course their masters, mankind, are no better.
 They can all rot from cercospora for all I care.
 Kotarou: "...uuuuu!"
 My mind transforms.
@@ -86722,7 +86705,7 @@ Kagari, you're not some incomprehensible, supernatural being.
 I think that, without saying it.
 I feel that with every fiber of my being.
 ====================seen07001-str.txt====================
-﻿【Miracle Adventure】
+【Miracle Adventure】
 Kagari: "........."
 Kagari continues her research, and I continue watching from the side.
 The theory is too advanced for me.
@@ -87337,7 +87320,7 @@ An energy which assists the formation of life. Normally it's affected by gravity
 The Omnipotent Power
 When under control, it is possible to liquify it at the right temperature.
 The Omnipotent Power
-Because a certain portion of gravity leaks into redundant dimensions, it is thought that the omnipotent power spread through dimensions, including our own, the same way (mesh evolution theory). 
+Because a certain portion of gravity leaks into redundant dimensions, it is thought that the omnipotent power spread through dimensions, including our own, the same way (mesh evolution theory).
 The Omnipotent Power
 Based on records of past activity, we know it tends to replicate. As a result, the tendency of the omnipotent power to spread acts like an instinct――
 R E E V O L U T I O N
@@ -87580,7 +87563,7 @@ Kotarou: "I think that building over there will work."
 Kotarou: "Kagari, can we fly over there?"
 Kagari: "......"
 For some reason I feel like we can.
-I climb up the fence surrounding this roof, and pull Kagari up after me. 
+I climb up the fence surrounding this roof, and pull Kagari up after me.
 Then I lean forward, and push off.
 My body floats through the air.
 We land on an adjacent building as softly as dust settling.
@@ -88045,7 +88028,7 @@ Kotarou: "What do we do? ...isn't it obvious?"
 Kotarou: "...we get the club back together."
 Kotarou: "One last time."
 ====================seen07002-str.txt====================
-﻿Kotori: "...Kotarou-kun, Kotarou-kun."
+Kotori: "...Kotarou-kun, Kotarou-kun."
 Someone shakes me awake.
 Kotarou: "Hm? ...where am I?"
 This looks like my room.
@@ -88294,7 +88277,7 @@ I can feel the enemies approaching.
 But this familiar...
 Kotarou: (...we might lose someone to that.)
 The familiars are moving at the speed of a motorbike.
-Some of them are probably that dinosaur-type from last time. 
+Some of them are probably that dinosaur-type from last time.
 ...but don't be afraid.
 I tell myself that, and prepare my power.
 Kotarou: "...uu."
@@ -88506,7 +88489,7 @@ Akane: "I-I was never good at ball sports..."
 Akane: "And touch controls aren't that great. Make it a mouse and I can aim better."
 She starts giving irritating excuses.
 Kotarou: "Getting rid of the Moon seems to have changed the environment a lot..."
-Without the gravity of the Moon, the Earth has no tides, and it ends up rotating extremely fast. 
+Without the gravity of the Moon, the Earth has no tides, and it ends up rotating extremely fast.
 Kotarou: "...so the surface is covered in unending storms..."
 Just to be sure, I move a few hundred million years ahead.
 Life doesn't develop very quickly without the Moon.
@@ -89247,7 +89230,7 @@ Kotarou: "...at least you've got plenty of things to fight now."
 Yoshino: "Dammit! You owe me a hundred times over for this!"
 Yoshino grabs a new spear and disappears into the forest again.
 The attacks become more intense.
-New waves continue arriving at fixed intervals. This is doing more damage to our morale than it is to our stamina. 
+New waves continue arriving at fixed intervals. This is doing more damage to our morale than it is to our stamina.
 Familiars charge through holes in our defenses.
 They don't even care if we've laid traps.
 The traps probably are working, but it doesn't feel like it.
@@ -89286,7 +89269,7 @@ I swing my aurora in a wide arc and harden it in midair.
 The whip-like blade slices through several familiars.
 Kotarou: "How do you like that!?"
 I disconnect the blade immediately.
-That used up so much energy I feel dizzy for a moment. 
+That used up so much energy I feel dizzy for a moment.
 I make a new blade and hide behind a tree.
 Four left.
 One bites into the trunk.
@@ -89716,7 +89699,7 @@ Then I lose my all-important right arm.
 The familiars swarm me.
 Several black shadows bear down on me.
 They devour me.
-But just when countless fangs dig into my body... 
+But just when countless fangs dig into my body...
 The world is covered with red and green light.
 【The Truth No One Knows】
 I hear kind words.
@@ -89827,7 +89810,7 @@ The Earth trembles from this sudden bounty.
 Now, first let's fill the world with life.
 And then...
 ====================seen08000-str.txt====================
-﻿Kotarou_Needed: "...ow!"
+Kotarou_Needed: "...ow!"
 Man_Louis: "Are you okay?"
 Luis, sitting next to me, speaks to me in broken English.
 He's twenty-five years old, with dark skin and a sharply defined face.
@@ -90015,7 +89998,7 @@ Classmate: "Me! Me!"
 Classmate: "I'll come too!"
 Kotarou_Needed: "......"
 I was clearly failing to become part of the world around me.
-And that never changed. 
+And that never changed.
 I grew up.
 A few years passed.
 I moved on to middle school, but still nothing changed.
@@ -90038,7 +90021,7 @@ Kotarou_Needed: (...I can't do that.)
 After failing once, I can't recover.
 Unless I entered another school or something.
 The noise during break time never stopped.
-I was the only one not talking. 
+I was the only one not talking.
 The world is imbalanced, unfair and disharmonious. I knew that.
 I knew that...but I still hated it.
 I didn't want to blame anyone for it.
@@ -90760,7 +90743,7 @@ The only daughter of a family that moved in near us.
 I've spoken to her parents before, but not Kotori herself.
 She always looks bored to death.
 A small bus pulls up.
-It's heading for cram school. So they just finished too. 
+It's heading for cram school. So they just finished too.
 I'm not sure what to do about it, so I end up leaving without saying a word.
 I think about why she would look at me so coldly.
 Nothing comes to mind.
@@ -91889,7 +91872,7 @@ Imamiya: "I know several people here have a lot of pride even if they don't show
 Imamiya: "The fact that they're like that is probably why they feel they can do anything if they set their minds to it, and then tada! They discover they have superpowers!"
 Kotarou_Needed: "........."
 Now that he mentions it, everyone here does seem kinda like that.
-They naturally become the center of attention anywhere they go. They give off that air of confidence. 
+They naturally become the center of attention anywhere they go. They give off that air of confidence.
 But I...
 Imamiya: "I get it. You act cool, but you're burning with passion on the inside, right? I like that. Guys like you are cool. Should I go buy juice for you or something?"
 Kotarou_Needed: "Don't do that..."
@@ -92557,7 +92540,7 @@ Instead, we have our training behind us, and our improved skills.
 The food's not that great, so there must not have been much money for this.
 But given what we've been eating for the last few weeks, it all tastes delicious.
 I didn't talk much with anyone, but it was still kinda fun.
-After that, we each get our assignments so we can start participating in real operations. 
+After that, we each get our assignments so we can start participating in real operations.
 We'll be able to take more advanced training while doing missions.
 We need to improve our powers and get results in the field.
 That's what our life will be like as hunters.
@@ -93054,7 +93037,7 @@ Kotarou_Needed: (Does that mean as pure as a child or baby?)
 Our mission is to secure or "destroy" what they call the Key.
 The meaning of those words feels like a blow to my chest.
 The next day.
-They've finished assembling the war room. 
+They've finished assembling the war room.
 Communications equipment, cords running all around the floor, and laptops scattered around, some open and some closed.
 There are several operators in here using them.
 It's quite imposing.
@@ -93805,13 +93788,13 @@ o
 w
 l
 y
- 
+
 m
 e
 l
 t
 s
- 
+
 a
 w
 a
@@ -94198,7 +94181,7 @@ I spend my breaks with the children.
 They're the only friends I have other than Luis.
 The poor children are always smiling.
 Eventually I learn their names and faces, and I start to recognize them individually.
-When the UN aid allowed them to reopen their elementary school, they were all happy about it. 
+When the UN aid allowed them to reopen their elementary school, they were all happy about it.
 Though I'm sure many of them were just happy about the free lunches it offered...
 Some of them really love learning.
 One of the girls has an interest in computers. She says she wants to be a programmer someday and escape poverty that way.
@@ -94944,7 +94927,7 @@ Their history goes all the way back to an order of knights in the Crusades era.
 The organization has changed dramatically since then, but it's always been a group of superhumans meant for combat.
 He made the decision to break that up.
 Apparently everyone agreed, since many of the knights were getting old, and there was no one good enough to replace them.
-Esaka-san will remain in the organization to train new recruits. 
+Esaka-san will remain in the organization to train new recruits.
 Kotarou_Needed: "So you'll stick to commanding now."
 Esaka: "Something like that."
 Kotarou_Needed: "That's a shame...but congratulations."
@@ -95986,7 +95969,7 @@ Leaf bird.
 A familiar made entirely out of leaves.
 Three of them can fit in a small tube.
 It can send and receive information over short distances using pheromones.
-I can use one by itself, or a group of several. 
+I can use one by itself, or a group of several.
 In exchange the sensitivity of each individual is a bit low, but they can assist each other.
 This does sound pretty impressive.
 When I first saw how life energy could be used to manufacture these things, I felt a possibility.
@@ -96499,7 +96482,7 @@ Kotarou_Needed: (No, I should still talk to her.)
 I know all my summoner peers have already talked to her.
 Apparently they met her at the meetings, not at HQ.
 I haven't attended the meetings since I became a summoner, but now I have a reason to go again.
-I hear Kashima values long-time believers. 
+I hear Kashima values long-time believers.
 Many of the people in the meetings have known about the holy woman's authority for a long time.
 They're religious followers who don't know about the summoners.
 I try to act like them.
@@ -96630,7 +96613,7 @@ Kotarou_Needed: "Just as no superhuman can destroy a tank by themselves."
 Kagari: "Tank. That is a weapon created by Homo sapiens, yes?"
 Kotarou_Needed: "There's a limit to how strong any individual can be. What really matters is finding a situation where it can win."
 Kotarou_Needed: "And that's not something we can see with our own eyes. Just like you."
-Kagari: "Kagari has a good idea." 
+Kagari: "Kagari has a good idea."
 Kagari: "If tanks are stronger than any superhuman, why not procure those?"
 Kotarou_Needed: "......"
 I know she's always like this, but still...
@@ -96903,7 +96886,7 @@ Suzaki: "That's odd. Why did the Key come up in mere small talk?"
 Suzaki: "I find that hard to believe."
 Suzaki: "Does this mean you knew about the Key already?"
 Yes, he noticed it on his own.
-If I had to point that out, it would be too obvious I planned this. 
+If I had to point that out, it would be too obvious I planned this.
 Kotarou_Needed: "I can...prove I didn't."
 I recorded my conversation with Kashima Sakura.
 With the tiny recorder in my inside pocket.
@@ -97226,7 +97209,7 @@ Kotarou_Needed: "Anyway, carry these with you at all times from now on."
 I take out a number of transmitters from my pocket.
 All of them illegally obtained.
 All meant for little kids.
-These things were originally designed to allow parents to keep track of their children. 
+These things were originally designed to allow parents to keep track of their children.
 Kagari: "Oooh, Homo faber. The creation of devices for one's own convenience is one of the greatest virtues of man."
 Kotarou_Needed: "Thank you for the exceedingly rare compliment."
 Kotarou_Needed: "I brought a bunch of them, so you can choose one you like."
@@ -98600,7 +98583,7 @@ That's the passageway it uses to reach the Earth's surface.
 Except it spits out invisible energy rather than magma.
 Energy that makes life grow in the earth.
 For that reason, the plants around the spot are all overgrown.
-The place where I first saw Kagari was right on top of the power spot. 
+The place where I first saw Kagari was right on top of the power spot.
 Kotori tells me she was using its power to maintain her barrier.
 And that most of the druids' techniques were made on the assumption of having a power spot.
 It is an important place, but right now Suzaki's summoners have total control of it.
@@ -100067,7 +100050,7 @@ Gaia's familiars have taken up positions at the station and all the main roads.
 Everyone trying to escape the town ends up seeing them firsthand.
 Having nowhere to run gives them even more terror.
 I know what Gaia's after now.
-This is Kashima Sakura's way of keeping people away from the temple. 
+This is Kashima Sakura's way of keeping people away from the temple.
 It's only a delaying tactic.
 Putting summoners and civilians between us and her to buy time.
 And with their transmissions jammed, Guardian can't mount an organized attack.
@@ -100155,7 +100138,7 @@ Kotarou_Needed: (There's probably something really bad down here.)
 I'd like to rush this and try to break through...but I can't risk dying.
 I could send my familiars ahead...
 But then I realize I could easily let someone else do that, so I hide.
-Within five minutes, a car pulls up with Imamiya and some other superhumans. 
+Within five minutes, a car pulls up with Imamiya and some other superhumans.
 They're fully armed.
 Including firearms.
 They split into teams of four and head down.
@@ -100365,7 +100348,7 @@ All the women are dead.
 There's over a hundred of them.
 They must have taken turns singing, so that each one who died would be quickly replaced.
 There is one seat at the very top, too simple to call a throne.
-Someone's sitting in it, with a hood pulled down over her eyes, and a body as slender as a willow. 
+Someone's sitting in it, with a hood pulled down over her eyes, and a body as slender as a willow.
 Kotarou_Needed: "...Kashima?"
 No one reacts, so I move closer.
 The old woman is definitely Kashima Sakura.
@@ -100727,13 +100710,7 @@ Kagari opens her arms wide.
 My body moves on its own, to fulfill its final duty.
 I Can't Do That
 I Can't Do That
-I Can't Do That
-I Can't Do That
-I Can't Do That
 Do It
-I Can't Do That
-I Can't Do That
-I Can't Do That
 I Can't Do That
 I Can't Do That
 Kagari smiles, embracing me.
@@ -101038,7 +101015,7 @@ Shizuru: "It'd be cool if he could...though he might be lying."
 Akane: "Pochi, how long will that take? Though you're clearly lying."
 ?_Kotarou: "...what do you mean? That'll take no time at all."
 ====================seen08100-str.txt====================
-﻿What do I do...?
+What do I do...?
 I've never been this excited in my life...
 This excitement could change my life.
 This excitement in my chest for other chests.
@@ -101260,7 +101237,7 @@ Everyone: "Hooray for boobs! Hooray for boobs! Hooray for boobs!"
 And thus, the world became peaceful through everyone's love of boobs...
 That's enough.
 ====================sysny_ef00-str.txt====================
-﻿On that day,
+On that day,
 Lucia was definitely the Key.
 In which case......what on Earth is the real Key?
 Lucia is still suffering from the guilt of killing two hundred thousand people.
@@ -101278,4 +101255,3 @@ That's why I pray......that by the time the next Key comes,
 the world will be good enough......that she won't make that decision.
 　　　　　　　　　　　　　　――South American parish, Girasol-7 Shelter
 　　　　　　　　　　　　　　　　　　　November 20th, 2011, Tennouji Kotarou
-　

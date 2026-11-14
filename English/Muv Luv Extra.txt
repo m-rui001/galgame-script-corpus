@@ -6979,11 +6979,9 @@ Takeru: "............"
 *I thought about not showing up, but she was......just so happy.*
 *......I felt sorry for her, so......I came anyway.*
 Voice: "Takeru-chaaan."
-*����!?*
 *Don't run toward me while calling my name!! Everyone's watching!!*
 Sumika: "Here I am......huh? What's wrong?"
 Takeru: "......you dumbass."
-Sumika: "Is that really the first thing you should say�`?"
 Takeru: "Don't do something so embarrassing. I almost ran away!"
 Sumika: "Then I'd chase after you."
 Takeru: "That's why I didn't run away. Anyway, don't do anything embarrassing like that!"
@@ -7013,7 +7011,6 @@ Sumika: "It's still 11 AM."
 Takeru: "Your clock's slow."
 Sumika: "......you scared? Aaah......you're scared? Ha-haaaan......you're scared!?"
 Takeru: "Hu-hu......I won't fall for that."
-Sumika: "I see, I see. So much for Ultra-something and Space-something. What happened to the brave Takeru-chan of the past�`?"
 Takeru: "Shut up......"
 Sumika: "If that's all you've got, then no wonder you keep losing to Yoroi-kun at that game."
 Takeru: "......what?"
@@ -7047,7 +7044,6 @@ Takeru: "Dunno......"
 Child: "............"
 Sumika: "D-do you need help?"
 Child: "............"
-Sumika: "What's wrong? You wanna talk about it�`?"
 Takeru: "What happened to your mom and dad?"
 Child: "Uu............"
 Sumika: "Ah......"
@@ -7081,30 +7077,15 @@ Takeru: "The old lady will be right back, and we'll find your mom and dad, so do
 Child: "Old man, who are you?"
 Takeru: "I'm not old."
 Sumika: "I'm back."
-Child: "Ah! Old lady!! Did you find mama and papa�`?"
 Sumika: "EH......?"
-Child: "Hey�`! Hey�`! Did you find them�`�`?"
-Sumika: "I'm......I'm sorry�`......not yet�`"
-*��������You idiot! Don't answer so honestly!!*
 Child: "Uu........."
-*��������Crap, he's going to start crying again!!*
-Child: "UUAAAA��������"
-*����*kiiin**
 Sumika: "Kya!!"
-Takeru: "Wh-what the����!?"
-*����This amusement park already belongs to us, the Neo-Gezunders!!*
-*����Our goal is to alter the common sense of the world! First we will remake every last one of you into sensible Neo-Gezunders!!!*
 Sumika: "What in the world?"
 Takeru: "Th-this is a blessing from the gods!!"
-*����We're in trouble! The Neo-Gezunders have us cornered!!*
 Takeru: "Let's go, kid!!"
 Child: "Aauu......"
 Sumika: "Ah!! Takeru-chan!!"
-*����Wait!!!*
 Strange Person: "Who's there!?"
-*����Neo-Gezunders! We won't let you get away with this!*
-Strange Person: "Th-that voice����!!"
-Sumika: "......haa...haa...Takeru-chan, what's going on�`?"
 Takeru: "Shut up! This is the good part!!"
 Red: "Red Porter!"
 Blue: "Blue Bermuda!"
@@ -7112,15 +7093,12 @@ Yellow: "Yellow Ekt!"
 Green: "Green Circle!"
 Brown: "Brown Dowser!!"
 Red: "Supernatural!"
-*����Race Rangers!!!*
-Sumika: "Wh-......what is this�`�`!?"
 Takeru: "It's the Race Rangers. Haven't you heard of them?"
 Sumika: "I haven't."
 Takeru: "It's an American remake of an old show called 'Supernatural Squadron Racemen.'"
 Sumika: "Haa......"
 Takeru: "And that got reverse-imported or something, so now it's being broadcast in Japan too."
 Sumika: "I......see......"
-Takeru: "Wow�`�` Watching this really gets me fired up�`�`!!"
 Sumika: "Given your age, you seem to know a lot about this."
 Takeru: "I don't watch it myself or anything, but age doesn't matter. You really like stuffed animals at your age, don't you? Besides, look at the kid!!"
 *The kid isn't saying anything, just paying very close attention to the stage. His mouth is wide open, and his eyes are sparkling.*
@@ -7129,10 +7107,8 @@ Takeru: "Yes he does, yes he does."
 Strange Person: "Okay then, this calls for a hostage! Go kidnap a hostage!!"
 Takeru: "Ah?"
 Sumika: "Eh?"
-Child: "Eh...? ......ah! Uwa�`�`"
 Sumika: "Kyaaa!!"
 *A drove of black warriors come out of nowhere and snatch Sumika and the kid.*
-*......have fun up there�`�`*
 Red: "You cowards!"
 Blue: "We can't touch them like this!"
 Strange Person: "Wahahahaha!! Finally, the Race Rangers have met their end! Take them down!!"
@@ -7169,15 +7145,12 @@ Strange Person: "Uu......uwaaaaaaaaaaaaa!!!"
 Voice: "Victory!"
 *tap* *tap* *tap* *tap*............*
 *Hm? There seem to be one......two......three......four of the same guy......*
-Voice: "Wh-what are you doing!! Release me! Release me�`�`!!"
 *tap* *tap* *tap* *tap*............*
-Voice: "Ex-excuse us for a moment�`�`�`"
 *......*
 *............*
 *Wh-what the hell was that......?*
 Strange Person: "Nowaaaaaaaaaaaaaaa!!!"
 CO: "T-today's Race Rangers show is now over......"
-Sumika: "Haa.........I'm really tired now�`"
 Takeru: "Good thing they didn't alter you into a sensible person."
 Sumika: "Haa......that's true."
 *The kid's parents found him after he got dragged onto the stage, and I had fun, so everyone wins.*
@@ -7197,7 +7170,6 @@ Takeru: "......yeah......it is."
 *The sky has a faint orange tinge to it. The sunlight's reflecting off the ocean, and glittering with the little waves.*
 *Unlike what you can see from Tachibana park, it just stretches on to the horizon.*
 *I can see buildings and bridges on the far side, but it's still more than enough to make me think about how big the ocean actually is.*
-Sumika: "Uu�`�` So cold�`�`"
 Takeru: "Didn't I tell you? Sorry, but I don't have a coat to give you."
 Sumika: "That's fine, I wasn't expecting one."
 Takeru: "When you say it like that..."
@@ -7205,7 +7177,6 @@ Sumika: "Hey, hey, Takeru-chan."
 Takeru: "What?"
 Sumika: "Can we come here again next summer?"
 Takeru: "Why next summer?"
-Sumika: "But it's cold in the winter�` And everyone will be graduating during spring."
 Takeru: "But they'll all just slide right into Hakuryou University, right?"
 Sumika: "Then the first summer break after we get in."
 Takeru: "I'm saying we can come here whenever we want. As long as they don't tear it down, of course."
@@ -7235,7 +7206,6 @@ Sumika: "That's.........true......... We're nothing more than childhood friends,
 Takeru: "That's right......"
 Sumika: "Hey.........have you ever.........disliked that?"
 Takeru: "Disliked being childhood friends?"
-Sumika: "Uu�`.........not quite that......but something like it."
 Takeru: "I've......never thought about that...... we've always been together, after all......"
 Sumika: "That's true. We always have been together......"
 Takeru: "What is it?"
@@ -7247,9 +7217,7 @@ Sumika: "......something happened, and I started to realize something...........
 Takeru: "Huuuh?"
 Sumika: "And, if I'd realized it sooner......maybe I wouldn't have had anything to worry about........."
 Takeru: "That doesn't make any sense!"
-Sumika: "Ahaha......uu�`�` So cold�`�`"
 Takeru: "You really are an idiot."
-Sumika: "Why�`?"
 Takeru: "Fine, come over here."
 Sumika: "Eh.........?"
 Takeru: "Just for a little bit.........you're really thin......"
@@ -7264,7 +7232,6 @@ Takeru: "Hmmm? Did you just say something?"
 Sumika: "No, aaanyyywaaayyy, it's cold, so let's go all the way to the station like this!"
 Takeru: "To the station!?"
 Sumika: "I can do whatever I want with Takeru-chan today, so no complaining!!"
-Takeru: "H-hey! Dammit, let go!! You��!!"
 Sumika: "No way!"
 Takeru: "Cut that out!! You're gonna make people think we're a couple!!"
 Sumika: "Look at us!"
@@ -7312,7 +7279,6 @@ Takeru: "Well......never mind. Anyway, let's go."
 Meiya: "Where to?"
 Takeru: "Is there somewhere you want to go?"
 Meiya: "Is it not your role to think of that?"
-Takeru: "Wha��!? ......that's so harsh......"
 Meiya: "Tsukuyomi said to leave everything to you, Takeru."
 Takeru: "I see......then for now, let's just walk around the park."
 Meiya: "Okay......"
@@ -7387,34 +7353,23 @@ Meiya: "Now that we are here, what should we do?"
 Takeru: "Get on rides or go in buildings you might like and have fun."
 Meiya: "I see.........then let us go in there."
 Takeru: "Hm......?"
-�uChilling SFX Virtual Haunted House."
 Takeru: "............"
 Meiya: "Takeru, what is it?"
 Takeru: "Nothing...... It's just, 'chilling' and 'SFX' and 'virtual' and 'haunted house'......hey......you sure about this?"
 Meiya: "Does it not seem interesting?"
 Takeru: "I-I guess so......"
-Clerk: "......welcome�`"
 Takeru: "Uwa!!"
-Clerk: "Are you customers�`?"
 Takeru: "Wh-what are you!?"
-Clerk: "I am the woman in charge of this place�`"
 Meiya: "Are you all right? Your complexion appears unhealthy."
-Clerk: "Having no customers is terrible�`�`�`"
 Meiya: "Hmmm............ The sign read 'chilling,' but it is almost November."
 Takeru: "......you really trying to make money here?"
-Clerk: "Well, of course�`"
 Takeru: "Seriously......?"
-Clerk: "Come in, you don't even have to pay, just please come in�`"
 Takeru: "Wh-why!?"
-Clerk: "No customers come here because they don't know how fun the haunted house really is�`"
 Takeru: "Haa......"
-Clerk: "Please�` If word gets out, I'm sure it'll be popular�`"
 Meiya: "Takeru, she says we may enter for free......... so why not?"
 Takeru: "You wanna see it, Meiya?"
 Meiya: "Yes."
-Clerk: "......now, now, now, now, nooow�`!!"
 Takeru: "I get it! I get it!!"
-Meiya: "Takeru? ����If you are entering, do not leave me behind!"
 Takeru: "......I kinda rushed in here......"
 Meiya: "It is a little cold.........is the air-conditioning working properly?"
 Takeru: "A little!? It's insanely cold!!"
@@ -7461,8 +7416,6 @@ Meiya: "......it seems that the next enemy will be here shortly."
 *I wanna be human agaaaaaaaain.*
 Meiya: "Takeru! I shall defend you with my life."
 Takeru: "Hey, Meiya, what in the world are you......!?"
-Meiya: "������Have a good life with the others!"
-Takeru: "H-hey! Stop����!"
 Meiya: "Uuooooooooo!!!"
 *Me-Meiya's going to cut him!?*
 *Sh-she flew!!?*
@@ -7472,9 +7425,7 @@ Takeru: "*siiiigh* That was horrible......"
 Meiya: "......if they were fake, why did you not tell me so from the beginning? .........idiot."
 Takeru: "......eh? ......what did you just say?"
 Meiya: "N-nothing at all. It was a private matter!"
-Takeru: "......did you call me an 'idiot'?"�@*
 Meiya: "...I did not."
-Takeru: "......wow, I've never heard Meiya say something like that before�`"
 Meiya: "......"
 Takeru: "Hehehe......what's wrong? It sounds normal!"
 Meiya: "......really?"
@@ -7490,7 +7441,6 @@ Takeru: "What is it?"
 Boy: "............"
 Takeru: "Who's this kid?"
 Boy: "Mama......"
-*����Eh!?*
 Meiya: "Unfortunately, I am not your mother."
 Boy: "Uu......"
 Takeru: "Uu?"
@@ -7512,7 +7462,6 @@ Boy: "Old man, who are you?"
 Takeru: "I'm not old."
 Boy: "Old man, are you that old lady's husband?"
 Takeru: "......huh?"
-*Little kids can say the weirdest things. Ummm�`�` If Meiya is the old lady, then......what!?*
 Takeru: "......what did you just say?"
 Boy: "Ahahahaha!!"
 *......what's so funny!?*
@@ -7562,7 +7511,6 @@ Meiya: "Huhuhu......such exaggeration......"
 Yuuta: "Ahahaha......"
 Meiya: "Are you having fun, Yuuta?"
 Yuuta: "Yeah......ah!"
-*����*plop!**
 Meiya: "Ah!"
 Takeru: "A-are you okay!?"
 Yuuta: "......aauu...aauu......"
@@ -7570,7 +7518,6 @@ Meiya: "I am fine. Takeru, I am sorry, but could you go buy another one of these
 Takeru: "Ah, sure......"
 Yuuta: "......frankfurter............frankfurter......"
 Meiya: "Yuuta, there is nothing to worry about. It will be fine."
-Takeru: "I'm back�`�`"
 Takeru: "......geh!"
 Meiya: "Takeru, you have returned?"
 Yuuta: "Ah, Takeruuu!!"
@@ -7596,10 +7543,7 @@ Takeru: "Good thing you found your parents."
 Meiya: "Yuuta, would you like to see me again?"
 Yuuta: "Yeah, I would!!"
 Meiya: "Then do not say 'bye-bye,' say 'see you.'"
-*��������!?*
-Yuuta: "See you�`?"
 Meiya: "Right. Yuuta, see you."
-Yuuta: "Yeah, see you�`�`!!"
 Takeru: "............"
 Meiya: "...what is it?"
 Takeru: "N-nothing......"
@@ -7653,11 +7597,9 @@ Miki: "Haaa...haaa...haaa...!"
 *......hm? Ah, Tama!!*
 *Oooh, oooh, she's like a marathon runner about to reach the finish line......*
 Takeru: "Tama! Why're you so late? I was getting worried......"
-Miki: "Takeru-san, I'm sorry�`!"
 Takeru: "Uwawawawa. Hey, don't cry, hey now."
 Miki: "I.........I........."
 Takeru: "I'm not mad. Just tell me why you're late."
-Miki: "Waaaaaah..................I slept in�`"
 *That's a rather ordinary reason.*
 Miki: "Even after I got under the covers, I just couldn't get to sleep......... Waaaaaaaaah......"
 Takeru: "Uwa, wawawawa. ......a-anyway, stop crying!!"
@@ -7671,7 +7613,6 @@ Miki: "That hurts............"
 Takeru: "That was pretty funny."
 Miki: "Miki isn't an alarm clock."
 Takeru: "Hahaha......you're always almost late for school, and now you sleep in too...... Well, this sort of thing happens to everyone once in a while. Cheer up."
-Miki: "Thank you�` Takeru-san�` ............I'm not really that happy for some reason, but thank you�`"
 Takeru: "Now, cheer up already. Tama, what day is it today?"
 Miki: "Ummmm..................Sunday?"
 Takeru: "Ha-ha-ha-ha. You aren't wrong, but that's not the answer I wanted."
@@ -7701,7 +7642,6 @@ Takeru: "With a surface area of 105,000 square meters, it's literally the larges
 Takeru: "Is there really a fish tank thirty-six meters tall......?"
 Miki: "Grampa says there is......so you'll just have to get over it."
 *Can't win against grampa's wealth of knowledge.*
-Miki: "Fishies�` Fishies�`"
 Takeru: "What fish do you like best, Tama?"
 Miki: "Ummmm.........I really like whales and tuna."
 *Whales aren't fish, but I won't bother pointing that out.*
@@ -7714,14 +7654,10 @@ Takeru: "Sea breams I guess......they are just the best when cooked."
 *What's this strange warm feeling?*
 *There's this familiar heartful sensation, like when one's entire family shows up for a picnic.*
 Takeru: "......anyway, let's look at the fish."
-Miki: "Yeah! Fishy�`Lun! Fishies�`Lun!"
 *Miki holds both hands to her hips, starts flapping them and jogs in front of me.*
-Miki: "Ah! It's a crab�` A blue king crab, apparently."
 Takeru: "The Bearing Sea, the Kamchatka Archipelago, the Sakhalin Sea, the Sea of Okhotsk and other Northern seas......in Japan from Hokkaido's Cape Erimo to Cape Nosappu on the Pacific Coast......"
 Miki: "Boil them, and mix with two cups of vinegar or citric juice. Then they go great with Japanese foods like miso and nabe."
 Takeru: "......aquariums go into that much detail now?"
-Miki: "Look, it's written right here�`"
-Takeru: "You're kidding......the things aquariums do to draw customers these days�`"
 Miki: "It's painful to watch, and a futile effort."
 Takeru: "You know, you can be quite bitter when you want to be."
 Takeru: "Still, even if they do want to bring in more customers, it'll be a problem if they grab too many of those types. Someone might seriously ask them to cook a fish."
@@ -7751,11 +7687,9 @@ Miki: "This tank's idol, a Jinbei Shark."
 Miki: "So let's get in.......... Oooh!"
 *The capsule moves along the water's surface, then slowly begins to descend.*
 *There's nothing but water outside the window now.*
-Miki: "Uwaaa......amazing, amazing�`!"
 Takeru: "Uuoooh!"
 Takeru: "There's a school of sardines over there."
 Miki: "They'd be delicious if boiled in soy sauce."
-Takeru: "Uwaaa there's a huge squid down there�`"
 Miki: "It'd be great with somen noodles."
 Takeru: "Oooh! Tuna! They're huge......"
 Miki: "I wanna eat them."
@@ -7832,8 +7766,6 @@ Takeru: "He's gotten even more violent!?"
 Miki: "Uwawaaaa!"
 Takeru: "......then I'll have to use my last resort!"
 *Take thiiiiiiis!!*
-Takeru: "����Takeru Wiiiiiink!!!"
-*����*wink!**
 Shovel-chan: ".................."
 Miki: "Wa! Amaziiing! Shovel-chan ran away!"
 Takeru: "*sigh*......that guy was tough."
@@ -7853,7 +7785,6 @@ Takeru: "............"
 *Geez, you're giving me no choice......*
 Voice: "Whaaat!? A shark! A shark is coming this way!!"
 *I can hear someone else screaming from afar.*
-Voice: "You����! Receive the judgment of my sword!! *clang!!*"
 *............*
 Voice: "Wh-what? Flooding!? Uwaaaa!!"
 *............*
@@ -7885,7 +7816,6 @@ Takeru: "......I see."
 *She dug into one of Tama's weaknesses with her characteristic sharpness. I have no doubt that Tama participated precisely because she acknowledged that weakness.*
 *......but Tama held on to her way of thinking and doing things. She merely combined them with Yuuko-sensei's words.*
 Takeru: "......"
-*��������I'm impressed, Tama.*
 Miki: "Eheheh......"
 *rub* *rub**
 Miki: "Waaa, don't rub my head, that's embarrassing."
@@ -7938,10 +7868,7 @@ Takeru: "H-huh?"
 *......*
 *............*
 *Crap......maybe I really did piss her off.*
-*Anyway����!*
-Takeru: "����Class Reeep!!"
 Chizuru: "......"
-Takeru: "����H-hey! Wait up!!"
 Chizuru: "......what?"
 Takeru: "Nothing, just......where are we going?"
 Chizuru: "What does that have to do with you, Shirogane-kun?"
@@ -7971,7 +7898,6 @@ Takeru: "......why're you surprised?"
 Chizuru: "Why do I have to be going on a date with you, Shirogane-kun!?"
 Takeru: "Eh? What do you mean why......didn't you win the cook-off?"
 Takeru: "You said you'd throw away the prize and put a stop to Kouzuki-sensei's schemes, so the fact that you called me out here instead must......"
-Chizuru: "����This is not a date! D-don't misunderstand me!!"
 Takeru: "......the seminar outcome just became more likely."
 Chizuru: "......you keep bringing that up, what does it even mean?"
 Takeru: "If it's not a date, then where are we going?"
@@ -8020,8 +7946,6 @@ Takeru: "What the hellll!?"
 *But the buttons are real......th-they really had me!!*
 Chizuru: "............"
 Takeru: "............"
-Chizuru: "Hu! ......ahahahaha! ......Shirogane-kun, you idiot�`�` They completely had you!"
-Takeru: "What did you����!? They got me!? ME!!?"
 Chizuru: "It's because you were being lazy. Come on, let's go up the stairs."
 Takeru: "Dammit......these aren't just illusions, they're screwing with my head."
 Chizuru: "There are a lot of things like that here. Doesn't it sound fun?"
@@ -8069,7 +7993,6 @@ Chizuru: "Shirogane-kun, isn't that the exact opposite of you?"
 Takeru: "Really? I think I'm a pretty cool and nihilist guy."
 Chizuru: "............"
 Takeru: "Ah, hey! Don't just walk away! That's irritating as hell!!"
-Takeru: "Well�`�` This one really is amazing!"
 Chizuru: "Shirogane-kun, you're just getting fooled by another door picture."
 Takeru: "Mm. F-forget it, I was just pretending to be fooled."
 Chizuru: "Liar. You were about to try turning the knob."
@@ -8079,7 +8002,6 @@ Takeru: "Class Rep, you didn't need to say that."
 Chizuru: "I'm sorry, but that's just the way I am."
 Takeru: "Geez......anyway, what about lunch? You getting hungry?"
 Chizuru: "Good point......"
-*����Kyahahahaha.*
 Takeru: "Oops......"
 Woman With Boyfriend: "Ouch......ow-ow-ow-ow."
 Man With Girlfriend: "Are you okay? ......hey, watch where you're going!"
@@ -8102,7 +8024,6 @@ Chizuru: "If you don't want people to think that, then take your hands out of yo
 Man With Girlfriend: "Youuu......"
 Woman With Boyfriend: "Wh-......what the hell's with you? ......you stupid?"
 Chizuru: "If you can't understand what I'm saying, then there's something wrong with your comprehension skills. I'm not the idiot here."
-Woman With Boyfriend: "What did you����!? Don't get so full of yourself!"
 Chizuru: "Using crude words won't change facts. Anyway, apologize. And people will think badly of you if you keep speaking so coarsely, I'd recommend you stop that."
 Woman With Boyfriend: "Y-you bitch......"
 Takeru: "Hey now, let's just leave it at that."
@@ -8110,23 +8031,18 @@ Chizuru: "......Shirogane-kun."
 Takeru: "You're only making them angrier. Besides, guys can't take that kind of insult lying down when they have a girl with them!"
 Chizuru: "............"
 Takeru: "Well, sorry about this. My friend here is kinda thick-skulled and unaccommodating, that's all."
-Chizuru: "Wh����!? Why are you apo����......"
 Takeru: "It doesn't matter, just be quiet."
 Woman With Boyfriend: "Stop screwing with us! What're you trying to pull!?"
 Takeru: "No, seriously, please let this slide. No one wants to fight any more, right? I'll give my friend here an earful myself when this is over. Okay?"
 Chizuru: "Wait!! Why're you doing this!?"
 Takeru: "......didn't I tell you to be quiet?"
 Chizuru: "Uu......"
-Woman With Boyfriend: "Uwa�`�` This guy is so pathetic�`�`�`! What now�`�`? Should you just kick this little shit's ass?"
 Man With Girlfriend: "Shut up......we're going."
-Woman With Boyfriend: "Eeeh�`�`!?"
 Man With Girlfriend: "This is a waste of time, let's go."
-Woman With Boyfriend: "Wa-wait up�`�`!!"
 Takeru: "Sorry about your boyfriend."
 Woman With Boyfriend: "Idiot! Just die!"
 Chizuru: "!?"
 Takeru: "Yes, yes, now don't get mad."
-Chizuru: "����But��!"
 Takeru: "Class Rep, you're hungry and on edge right now......so let's go already."
 Chizuru: "............"
 Takeru: "What is it?"
@@ -8163,11 +8079,9 @@ Takeru: "Come on, let's get on with our date."
 Chizuru: "......don't call it a date! I just made you come with me to a place I wanted to go to anyway! That's......that doesn't have to be a date, does it!?"
 Takeru: "Fine, fine. Anyway, lunch time. Lunch time!"
 Chizuru: "Again......you just ignore me!"
-*����Uwaaaaaaaaa!! Save meee!!*
 *tap* *tap* *tap* *tap* *tap* *tap*......*
 Takeru: "What? Did a man just run past us buck naked?"
 Chizuru: "......another illusion?"
-*����Some weirdo attacked me with a katanaaaaaa!!!*
 *tap* *tap* *tap* *tap* *tap* *tap*......*
 Takeru: "A buck naked woman this time? .........I don't even care if this is an illusion......ow-ow-ow-ow-ow-ow......"
 Chizuru: "Don't look at it! We're going."
@@ -8177,11 +8091,8 @@ Takeru: "Yeah, yeah......"
 Chizuru: "Shirogane-kun............umm......"
 Takeru: "Ah?"
 Chizuru: ".........nk...yoy......"
-Takeru: "����Eh? What was that?"
 Chizuru: "..............."
-Takeru: "����What?"
 Chizuru: "......lunch! I was asking where we were going!"
-Takeru: "*sigh* I'm so tired�`�`"
 Meiya: "Takeru......you have returned?"
 Takeru: "I'm back, Meiya."
 Meiya: "Did you not say you were tired? The bath has already been prepared. Take your time and relax."
@@ -8193,7 +8104,6 @@ Takeru: "Haa......"
 Meiya: "I shall go to bed first."
 *......what's up with Meiya?*
 Takeru: "Hm......?"
-Sumika: "Yaho�`!"
 Takeru: "Yo, what's up?"
 Sumika: "I wanted to ask how today went."
 Takeru: "Hm? Well......it was pretty fun."
@@ -8215,7 +8125,6 @@ Sumika: "Ah...... N-nothing! It's nothing!!"
 Takeru: "Why're you panicking?"
 Sumika: "I'm not! I'm not!"
 Takeru: "Staaaaaaaaare......"
-Sumika: "Ah! That's right, I just remembered something I need to go do, bye�`�`"
 Takeru: "Ah, hey!"
 *......what was that?*
 *Something about Meiya and Sumika tonight...... I don't get them......*
@@ -8311,14 +8220,10 @@ Kei: "If you lose, Shirogane, you do whatever I say. If I lose, I will make Shir
 Takeru: "Okay! No man ever goes back on his word!"
 Kei: "............"
 *Ayamine slides into the cockpit.*
-*����Please sit back and fasten your seat belt. Until the seat belt is fastened, the seat will not move.*
 *Ayamine......you'll learn soon enough.*
-*����Please let your seat slide, pulling the lever ahead.*
 *You dare to challenge me at Valgernon......*
-*����Please insert coin or GR card.*
 *Sorry, but putting women and children on the battlefield won't make me hold back.*
 *You will learn your place!*
-*����We have confirmed the embarkation of the first machine. Please kindly wait until all the positions for the attack have been completed.*
 Kei: "......Shirogane."
 Takeru: "No begging for your life now."
 Kei: "......think hard......about the conditions."
@@ -8326,13 +8231,10 @@ Takeru: "Aaah?"
 *Ummm, what were they...... I'm pretty sure it went......*
 Takeru: "If I lose, I do whatever Ayamine says. If Ayamine loses, she makes me do whatever she says......"
 *............*
-Takeru: "��������Aaaaah!? You'll have your way with me whether I win or lose!!?"
 Kei: "......scatterbrain."
 Takeru: "Please! Reset the conditions!"
 Kei: "......men never go back on their word."
 Takeru: "Damn iiiiiiit!!"
-*����Positions for attack completed.*
-*����Skyscape Submerged has been decided as the battlefield.*
 Kei: "......since we're in the same mech, only skill will decide the victor."
 Takeru: "Then I'll show you just how skilled I am."
 *I have no idea how skilled Ayamine is, so I should be cautious for now.*
@@ -8353,32 +8255,25 @@ Takeru: "Charge!"
 *I don't even need to evade them.*
 *I measure the time it'll take to get to her mech by intuition.*
 *And wait for the right moment to......*
-*����Pull the trigger!*
 *The beam pierces through Ayamine's waist, wiping out over half her shields.*
 Kei: "......ow."
 *Okay, I'll finish you off in one go!*
 *Kaizer specializes in close-quarters combat, so I close in on Ayamine's mech at maximum speed.*
 *Ayamine still hasn't pulled out her saber!*
-*I'll slice through her torso in one swing����!*
 Takeru: "What!?"
 *whoosh!!**
 *My saber slices through air!*
 Takeru: "......she's gone?"
 *Impossible!?*
-*Where'd she����*
 Takeru: "Uwaaaa!!"
 *She kicked me from behind!? When!? When did she get back there!?*
 Takeru: "That's not even a glitch!"
 *My mech spins during its invincibility period. The sense of danger makes me sweat.*
-*Ayamine is����right in front of me!*
 Takeru: "You can't keep getting lucky forever......!"
 *I pull the trigger!*
-*I know for a fact mine's faster! There's no way you could����!!!?*
 Takeru: "Dodge......that......!?"
 *Ayamine evaded my saber literally by a hair's breadth. And she's readying her smart gun!?*
-*Standard shooting should be impossible at this range����which means����!?*
 Takeru: "Gatling smash!?"
-*��������That move shouldn't be able to lock on so accurately!!*
 Takeru: "Guaaaaaaaaaaaa!?"
 *My seat lurched.*
 Takeru: ".................."
@@ -8406,7 +8301,6 @@ Takeru: "Hey, Ayamine, don't be so stingy......"
 Kei: "......Imperial Park Hotel."
 *Guuuu!?*
 *The Imperial Park Hoteeeeel!?*
-*Sh-she can't mean����!?*
 *A hotel...... I have to do whatever she says......she can't be......*
 Kei: "......I desire food at the top floor."
 Takeru: "Whaaaaaaaat!?"
@@ -8470,7 +8364,6 @@ Kei: "......she can't see herself over Shirogane."
 Takeru: "Eh?"
 Kei: "......she's no enemy of mine."
 Takeru: "If Class Rep was here, she'd be throwing a fit."
-Voice: "Th-th-over thereeee����!! M-my shoeee!!"
 Takeru: "......someone's making a lot of noise."
 Kei: "......you're imagining things."
 Takeru: "It's like you have no interest in your surroundings at all."
@@ -8486,10 +8379,8 @@ Kei: "......now that you mention it......"
 *......you didn't realize it until now?*
 Takeru: "Didn't you want to go on a date with me because you liked me?"
 Kei: "Yes."
-*����*spit!**
 Voice: "No-no-not thereeee!! M-my shoeees!!"
 Kei: "......filthy."
-Takeru: "����*cough* *cough!*"
 Kei: "......just kidding."
 Takeru: "You're evil!"
 Kei: "......kekeke."
@@ -10761,7 +10652,6 @@ Meiya: "Ei!"
 *......*
 Sumika: "Kyaaa!!"
 Takeru: "Nice one Meiya!"
-*......*
 *......*
 *......*
 Takeru: "Meiya?"

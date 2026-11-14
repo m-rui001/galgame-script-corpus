@@ -6165,7 +6165,7 @@ Joseph: "Was apparently transporting a ton of cash."
 Joseph: "It’s the weirdest thing, though. No one can seem to find it."
 Mariah: "WHAT? And you’re only telling me this now? You really are a slacker, aren’t you?"
 Mariah: "C’mon, bozos, we’ve got some serious work to do! Every second counts!"
-define: dis = 
+define: dis =
 Attendant: "I’m guessin’ that’s why you girls are here too?"
 *Marina eases in towards the counter, nudging herself tightly between me and a rack, her hands creeping over to the slushie.*
 Amber: "Can’t say I follow you. I’m just heading out to California or any place. Everyone's a drum major leading a parade of hurts, marching with our bitterness."

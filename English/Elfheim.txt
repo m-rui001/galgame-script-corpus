@@ -97,7 +97,7 @@
 *Just as I suspected, the strange sounds are coming from these creatures.*
 *Now, looking more closely... are they the same kind of being as "me"?*
 *And what are they doing?*
-*They are removing the things they are covering their bodies with." 
+*They are removing the things they are covering their bodies with."
 *It seems they only have fur at the top of their heads, just like this body... except theirs are properly grown.*
 *Maybe those things they have removed are what I should be using to cover myself with.*
 *Hmmm...*
@@ -450,7 +450,6 @@ Nil:  "Aaaah..."
 Nil:  "~Kyaah~"
 **splurt**
 **splurt**
-**splurt**
 *........*
 **splurt**
 Nil:  "You made a mess again... my butt is all sticky now."
@@ -753,7 +752,7 @@ Morgana:  "Since you still have your wits, I'm sure you comprehend there's no ex
 Meriandra:  "I-I'm terribly sorry!"
 *She pokes Nil on the shoulder fiercely.*
 Nil:  "I'm s-sorry too!!"
-Morgana:  "Apology noted, but seldom accepted. Now let's move away from the corridors, this isn't the place to have a conversation." 
+Morgana:  "Apology noted, but seldom accepted. Now let's move away from the corridors, this isn't the place to have a conversation."
 Morgana:  "Now, come with me this way."
 You:  "Where are we going?"
 *I don't like how these two act around her, even if she's their superior, I feel I should be on guard around this woman.*
@@ -1346,7 +1345,7 @@ You:  "Aaaahh..."
 Morgana:  "MMMMMMmmmm..."
 *Her moan starts loud then faints away as I fill her insides.*
 Morgana:  "*huff*... such vigor..."
-You:  "Wow..." 
+You:  "Wow..."
 Morgana:  "This was your first time cumming inside the most precious place of an Elf."
 You:  "You are... great... this is incredible..."
 Morgana:  "So I take it you are enjoying yourself so far?"
@@ -1585,7 +1584,6 @@ Meriandra:  "WAH?"
 Nil:  "KYAAAAAAAAA!!"
 Morgana:  "WHOAH!!"
 Nil:  "MY EYES!"
-*...*
 *...*
 *...*
 Morgana:  "!?!?"
@@ -1902,4 +1900,3 @@ Developer:  "Welcome to the fourth and final release of the 0.5.X series! Nil an
 Developer:  "When Morgana got back she tried her best but her healing skills aren't exactly what our hero needs, something else must be done to bring him back up to shape."
 Developer:  "But not all hope is lost, there are other Elves that can help him; Nil's next task is to look for them while Meriandra's is to uncover the mysteries related to his origin..."
 Developer:  "As always, all the names you see scrolling above these words are from the lovely people that helped us shape and define this project, we would like to thank each and every one of them!"
-

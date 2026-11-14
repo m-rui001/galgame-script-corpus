@@ -1,4 +1,4 @@
-﻿Ayu: "Alright, everybody! Are you having a good time?!"
+Ayu: "Alright, everybody! Are you having a good time?!"
 Crowd: "YEAH!!!"
 Ayu: "Yay! Hearing that makes me super happy! Thank you for your continued support, from the bottom of my heart! ☆"
 Judge: "And that's game to Williams! She's taken the championship! Williams wins, with a score of 6-2! Williams wins!"
@@ -2312,7 +2312,7 @@ Hiroki: "I need to take matters into my own hands."
 Hiroki: "Yue didn't forbid me from looking around, so..."
 Hiroki: "Why don't I explore this palace?"
 *If I keep my eyes peeled, I'm sure I'll be able to find some clues that'll help guide me back home. I have to. If I don't...*
-*But I don't want to think about that." 
+*But I don't want to think about that."
 *That's too grim a possibility to even begin to contemplate.*
 *I meander aimlessly up and down the expansive hallways of Yue's palace.*
 *I pass numerous wooden doors along the way, but when I try their handles I discover most of them are locked.*

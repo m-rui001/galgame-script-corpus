@@ -16,7 +16,7 @@ Rintaro: ...No, I was just talking to someone. Everything's fine. I'm about to i
 *Looks like they just want my report.*
 *It's too dangerous to waste time talking here anyway.*
 Rintaro: Yeah, Doctor Nakabachi got the jump on us, but I'll make sure he tells us everything.
-Rintaro: What!? 
+Rintaro: What!?
 *I open my eyes wide to match my shocked tone.*
 *The girl turns towards me in surprise.*
 *I sigh, shaking my head as I rub my temples.*
@@ -201,7 +201,7 @@ Rintaro: DOOOOOCTOOOOOOOORRR!!
 Rintaro: Do you take us for fools!?
 Nakabachi: Who the hell are you?
 Rintaro: Who the hell am I!? Someone who knows you for a fraud, that's who!
-Rintaro: You stole your theory from 
+Rintaro: You stole your theory from
 Nakabachi: S-someone throw this man out!
 Rintaro: You're the one we should throw out, Doctor! Have you no shame!? You have no right to call yourself an inventor!
 Nakabachi: Shut your mouth, you little pest!
@@ -491,11 +491,11 @@ Rintaro: For it is you who are inside! Your reality is nothing but lies and shad
 Rintaro: True reality is on this side of the screen.
 Rintaro: Don't believe me? I don't blame you. Few are those who can handle the truth.
 Rintaro: But no matter. I shall speak in simpler terms, easy enough for even you to understand.
-Rintaro: This is the Future Gadget Laboratory, located in the Akihabara district of Tokyo. We call it simply... the lab. Our purpose is to shatter 
+Rintaro: This is the Future Gadget Laboratory, located in the Akihabara district of Tokyo. We call it simply... the lab. Our purpose is to shatter
 Mayuri: Really? You shouldn't do bad things, Okarin.
 Rintaro: Quiet. I'm a mad scientist, remember?
 Rintaro: From the station, head down Chuo-dori until you reach Suehirocho Station, then take a left onto Kuramaebashi-dori. In the alley before the traffic light, you'll find the run-down Ohiyama Building. The lab is on the second floor.
-Rintaro: On the first floor is a store of ill repute called the 
+Rintaro: On the first floor is a store of ill repute called the
 Rintaro: It deals exclusively in CRT monitors, of all things. Can you imagine? Even in the heart of Akihabara's Electric Town, the demand for CRTs is practically nonexistent.
 Rintaro: But the proprietor of the Braun Tube Workshop, Tennouji, is also the owner of the building.
 Rintaro: That's how he can afford to maintain his ridiculously niche hobby shop even as land value continues to rise.
@@ -505,16 +505,16 @@ Mayuri: Okarin, Okarin. You've gotta say 'lab mems',  not researchers.
 Rintaro: ...Our lab mems -- laboratory members -- are three!
 Rintaro: I am the founder of the Future Gadget Lab, Lab Mem Number 001, the insane mad scientist, Hououin Kyouma!
 Mayuri: 'Okarin' is cuter, though...
-Rintaro: Next, we have our resident 
+Rintaro: Next, we have our resident
 Mayuri: Tutturu♪ Call me Mayushii! I like making costumes more than wearing them.
-Rintaro: And last, we have our resident 
+Rintaro: And last, we have our resident
 Itaru: Stop calling me that! It's super hacker, duh.
 Rintaro: Here at the Future Gadget Laboratory, we devote ourselves to the art of invention!
 Rintaro: For details, see our lab's homepage.
 Rintaro: Our top priority, of course, is to develop weapons for the war with the Dark Dominion, but that research has spawned a number of offshoot inventions. In fact, that's all it's spawned.
 Rintaro: Our arsenal of Future Gadgets is up to eight, but this is just the beginning. I have a total of 108 inventions to create!
 Itaru: Like in that tennis manga, right? I get it.
-Rintaro: No! It's the number of earthly desires in mortals, you 
+Rintaro: No! It's the number of earthly desires in mortals, you
 Rintaro: And I thought I told you not interrupt me when I'm talking!
 Itaru: Yeah, wouldn't want to interrupt you talking to yourself.
 Rintaro: I'm not talking to myself. Can't you see? I'm talking to the person behind the monitor.
@@ -525,14 +525,14 @@ Mayuri: I don't think that's gonna work...
 Rintaro: It appears our attempts to communicate have failed. It's sad to see someone so deeply in denial of reality.
 Mayuri: Maybe they think we're in the game?
 Itaru: I doubt it's even occurred to them.
-Mayuri: But aren't your 
+Mayuri: But aren't your
 Itaru: That's different. Those girls are my wives.
 Rintaro: Nobody cares about your harem.
 Itaru: But Mayushii touched upon a very interesting theme, ya know? What if we're actually just characters in a game? Any way we can know for sure?
 Rintaro: No.
 Itaru: Come on!
 Rintaro: Such questions are meaningless. Our time is better spent thinking of ways to destroy the System.
-Itaru: Nice 
+Itaru: Nice
 *I step back from the monitor.*
 *This is a game called 'Alpacaman 2', where you speak to Alpacaman via microphone and watch him react.*
 Itaru: ugly
@@ -543,7 +543,7 @@ Rintaro: Shut it, hacka. I'm no chuunibyou patient.
 Rintaro: I am Hououin... Kyouma!
 Itaru: That's your character's name, right?
 Rintaro: Oh Daru... your communication skills are beyond repair.
-Itaru: I'll have you know I go to a ton of 
+Itaru: I'll have you know I go to a ton of
 *This fat, bespectacled guy is my brother-in-arms and right-hand man, Hashida Itaru. Nickname: Daru.*
 *He has 2D wives on whom he cheats with 3D maids. I don't agree with his preferences, but to him, anything's fine as long as it's moe.*
 *He's the reliable and skilled partner who brings my ideas to fruition. Despite his insistence that software is his forte, he shows remarkable aptitude with hardware as well.*
@@ -789,7 +789,7 @@ Itaru: 120#
 Itaru: Nice turntable, right? It's even spinning backwards.
 Rintaro: Backwards!?
 *I never noticed that!*
-Rintaro: That might have serious implications! If we look at quantum critical behavior driven by 
+Rintaro: That might have serious implications! If we look at quantum critical behavior driven by
 Itaru: Yeah! No.
 Rintaro: ...not Hund's Rule?
 Itaru: No.
@@ -948,7 +948,7 @@ Rintaro: I just want to know the truth.
 *I stare straight back at Kurisu as she trembles with anger, and lift her blouse a little higher...*
 Kurisu: What truth, you perv!? You stupid!? Wanna die!?
 *She pushes my hand away.*
-Itaru: 
+Itaru:
 *Daru shouts something silly, but I ignore him and press Kurisu.*
 Rintaro: I know what I saw!
 Kurisu: No way! Did you just see my underw...!?
@@ -1038,7 +1038,7 @@ Kurisu: It could be contradicted by the 13th model, now couldn't it?
 *Some puffed-up professors are giving me hard looks from across the room.*
 *Maybe I got too carried away.*
 *I don't want to risk losing my credits. I should back off for now.*
-Kurisu: By the way, time travel to the future is available to us right now, according to Einstein's 
+Kurisu: By the way, time travel to the future is available to us right now, according to Einstein's
 Kurisu: For example, let's say someone were to go to Haneda Airport and board a plane headed to Okinawa. Upon arrival, that person would be about one hundred millionth of a second farther into the future than I am.
 *What does that mean?*
 Kurisu: According to the special theory of relativity, time moves slower for objects as they approach the speed of light.
@@ -1071,7 +1071,7 @@ Kurisu: A cosmic string is a string-shaped 'crevice' with extreme mass.
 *A string-shaped crevice?*
 *That must be how they enter our universe.*
 *But do cosmic strings really exist?*
-Kurisu: The crevice is about as wide as an 
+Kurisu: The crevice is about as wide as an
 Kurisu: It has immense mass, so it distorts space-time. If you were to travel through that distortion, you could make a full circle around the string in less than 360 degrees.
 Kurisu: In short, you can do something resembling a warp. This is called a space-time angular deficit.
 Kurisu: When you pass through an area of angular deficit, transit time becomes zero.
@@ -1080,11 +1080,11 @@ Kurisu: According to the special theory of relativity, time will flow slower for
 Kurisu: In other words, you will arrive in the past after transit.
 Kurisu: If you use two cosmic strings, you can do a space deficit jump. If you loop back to your original location, you can return to the same time you started revolving.
 Kurisu: And that, roughly speaking, is time travel by means of cosmic strings.
-Kurisu: By the way, just so nobody misunderstands, cosmic strings are not the same as 
+Kurisu: By the way, just so nobody misunderstands, cosmic strings are not the same as
 Kurisu: Now then, you need three things in order to travel to the past with cosmic strings.
 Kurisu: First. The cosmic strings themselves. Two strings, to be exact. By the way, they are hypothesized to exist only where the universe was first formed, so they might be a little hard to find.
 Kurisu: Second. You would need the energy required to make them move them at near-light speed.
-Kurisu: How much energy do you think you'd need to accelerate something as long as the Milky Way to near the speed of light? I'm pretty sure it's a little more than 
+Kurisu: How much energy do you think you'd need to accelerate something as long as the Milky Way to near the speed of light? I'm pretty sure it's a little more than
 *This earns a few chuckles from the audience.*
 Kurisu: Third. You'd need a spaceship capable of reaching these cosmic strings and returning. With the time traveler alive, of course.
 Kurisu: What do you think, Hououin-san? Care to take on the challenge of cosmic string time travel?
@@ -1117,7 +1117,7 @@ Kurisu: First, we send the wormhole in LA all the way to the end of the universe
 *Uh... how?*
 Kurisu: According to the special theory of relativity, time slows down for objects moving at the speed of light. Meaning the hole that returned to LA would be further in the past than the Akihabara hole.
 Kurisu: So now, if Hououin-san jumped into the wormhole, he'd arrive in LA several years before he left.
-Kurisu: However, this still can't be called true time travel. It only seems that way. This is called the 
+Kurisu: However, this still can't be called true time travel. It only seems that way. This is called the
 Kurisu: The important part is to return to Akihabara from LA through the wormhole once more. Since the transit time is zero...
 Kurisu: Hououin-san will return to Akihabara several years in the past. Time travel complete.
 Kurisu: The prerequisites for wormhole travel are simpler than the ones for cosmic string travel.
@@ -1132,7 +1132,7 @@ Kurisu: I'm afraid not.
 *A firm declaration.*
 Kurisu: This is the limit of modern physics. I can't say how it might change in ten years, though.
 Kurisu: Besides, even if someone did overcome the logistical requirements, there may be other factors that prevent time travel from working.
-Kurisu: And that's because fundamental problems concerning the 
+Kurisu: And that's because fundamental problems concerning the
 Rintaro: You mean time paradoxes... and conservation of mass?
 *The mass of the entire universe is constant.*
 *If a time machine traveled from the future to the past, there would suddenly be the extra mass of the time machine and its pilot in the past.*
@@ -1214,7 +1214,7 @@ Rintaro: Lukako. That blade I gave you, what happened to it?
 *He starts fidgeting with a flushed face and tears in his eyes.*
 Luka: Um, you mean... Demon Sword Samidare?
 Rintaro: Correct. I bought it for you so you could learn to control your power.
-Mayuri: Oh yeah! You bought it at 
+Mayuri: Oh yeah! You bought it at
 Rintaro: Don't say another word! Any more and they will come to silence you!
 Mayuri: They're gonna silence me? Thanks for worrying about me, Okarin. But who are they?
 *I ignore Mayuri's question.*
@@ -1238,7 +1238,7 @@ Luka: D-did I get it right?
 Luka: Thank you.
 *Such a lovely smile.*
 *But he's a guy.*
-Mayuri: Such a beautiful master-disciple relationship. Mayushii's not a 
+Mayuri: Such a beautiful master-disciple relationship. Mayushii's not a
 Luka: Ehh!? M-Mayuri-chan, please don't imagine such things...
 *Geez.*
 *Though we do have a master-disciple relationship.*
@@ -1248,7 +1248,7 @@ Luka: Ehh!? M-Mayuri-chan, please don't imagine such things...
 *Though he does have the weaknesses of not catching on too quickly and being too shy.*
 Rintaro: What are you doing here, Mayuri?
 Mayuri: I came to see Luka-kun.
-Mayuri: 
+Mayuri:
 Luka: But, cosplaying... that's just too embarrassing for me...
 Mayuri: But I'm sure you'll look great in it!
 Mayuri: The phrase '
@@ -1272,7 +1272,7 @@ Luka: Uhh... um...?
 Rintaro: I don't know what it's called, but it's that stick with the zigzaggy paper thingies that the priest does a shaky thingy with!
 Mayuri: Ahaha! That sounded really dumb, Okarin!
 *Quite a shock to hear that from Mayuri.*
-Luka: Oh, the 
+Luka: Oh, the
 Luka: I'll go ask him.
 *Lukako makes a quick bow, then runs off towards his house, which is on the shrine grounds.*
 *Meanwhile, Mayuri takes her pocket watch out of her bag to check the time.*
@@ -1640,7 +1640,7 @@ Rintaro: Oh...
 *Nothing about a mad scientist.*
 *I'm relieved, but also disappointed.*
 *At any rate, this is the first I've heard about a phantom retro PC.*
-Rintaro: A retro PC... you mean like a 
+Rintaro: A retro PC... you mean like a
 *That's the first model that comes to mind.*
 *But are 98s really that hard to find?*
 *She shakes her head slightly... or something like a shake.*
@@ -1660,12 +1660,12 @@ Rintaro: No. I've only heard the name.
 Rintaro: This could be the choice of Steins Gate.
 Moeka: Know anyone... who might know?
 Rintaro: Daru probably knows more about it.
-Rintaro: He's my Favorite Right Arm. A super hacka capable of breaking into even 
+Rintaro: He's my Favorite Right Arm. A super hacka capable of breaking into even
 *The MI6 part is a slight exaggeration. If that ever did happen, men in black would break down our door and take us away.*
 *But the super hacka part is true.*
 *The depth of his computer knowledge is uncanny.*
 *Speaking of Daru, I'm supposed to meet him at MayQueen+Nyan⑯. I don't have time to stand and chat with some crazy lady I don't know.*
-Rintaro: Well, I'm off. Lady, 
+Rintaro: Well, I'm off. Lady,
 *I try to make a smooth exit, one-liner and everything, but she grabs my sleeve before I can disappear into the crowd.*
 Rintaro: What are you doing!?
 Moeka: Your email... please.
@@ -1711,7 +1711,7 @@ Rintaro: Very well. I accept your terms.
 *At any rate, as long as she has that photo, I have no way of knowing how it might be used.*
 *I pull up my email address and show it to her.*
 *Looking back and forth from my phone to hers, she enters my info with terrifying speed.*
-Rintaro: Of course... this woman is an 
+Rintaro: Of course... this woman is an
 *I dub her power... Shining Finger! Her magical thumb types cursed emails at 255 characters per minute. Whoever receives one dies.*
 *She's done typing my address. It took all of five seconds.*
 Moeka: ...Name?
@@ -1921,7 +1921,7 @@ Rintaro: ...You really want to know? I don't think you'd understand it.
 *Hell, even I didn't get most of it.*
 Itaru: Ah, the usual...
 Itaru: Your conversations are too much for regular otaku. You guys exude an aura or something, you know?
-Itaru: It's like you too have your own 
+Itaru: It's like you too have your own
 Mayuri: I think Feris-chan likes Okarin, nya.
 Mayuri: Of all the maids and masters here, nya, the only one who can keep up with Feris-chan is you, Okarin.
 *I'm not even close to keeping up with her.*
@@ -1976,10 +1976,10 @@ Itaru: The stupidly expensive kind.
 Itaru: Back when it came out, computers were so expensive that average people couldn't get their hands on them.
 Itaru: It was full of proprietary IBN technology, and was a pretty powerful computer for its time.
 Itaru: Then six years later, in 1981, IBN launched the popular IBN PC series. Now that's more famous.
-Itaru: Anyway, it's not like I'm an expert. This is just stuff I read on a 
+Itaru: Anyway, it's not like I'm an expert. This is just stuff I read on a
 Rintaro: Have you heard the urban legend that there's one in Akiba?
 Itaru: You bet I have. Just last month there was big talk about it on the net.
-Itaru: Some @channelers heard the rumors and went searching for it. My friend on 
+Itaru: Some @channelers heard the rumors and went searching for it. My friend on
 Itaru: Even the legendary 'Neidhardt der Blitzschnelle' joined the fray, but they still couldn't find it.
 Rintaro: So it was just a hoax?
 Itaru: Who knows? There are tons of underground shops in Akiba. It wouldn't be strange if an IBN 5100 suddenly turned up in some hole in the wall.
@@ -2108,10 +2108,10 @@ Itaru: new
 *It's high time I figure out what's going on with that thing.*
 *Earlier, I asked Daru to connect the PhoneWave (name subject to change) to the computer.*
 *He finished setting it up yesterday, and now he's about to do the quick wire work in the development room.*
-Rintaro: Hey, Daru. What's with the 
+Rintaro: Hey, Daru. What's with the
 *I mean, it's a 20-year-old machine with specs lower than my cellphone.*
 Itaru: It's cool. Duh.
-Rintaro: So, it's like the reason why some protagonists are 
+Rintaro: So, it's like the reason why some protagonists are
 Itaru: Not getting you, bro.
 Rintaro: It's cool.
 Itaru: If it's cool, then it's cool.
@@ -2125,10 +2125,10 @@ Rintaro: Yeah, at the university this morning.
 *Why would a banana gelify? What kind of science are we dealing with here?*
 Rintaro: I examined a sample under a microscope and found it was shredded at the molecular level.
 Itaru: Shredded?
-Rintaro: It's not a mere 
+Rintaro: It's not a mere
 Itaru: Could it have rotted? ...Nah. There's no way 2 minutes in the microwave could do that.
-Rintaro: Then I remembered about 
-Itaru: The 
+Rintaro: Then I remembered about
+Itaru: The
 Rintaro: Yeah. It looked like something drilled holes into the banana. An infinite number of holes in a fractal pattern, right down to the nano level.
 Itaru: Whoa. What could do something like that?
 Rintaro: I have one hypothesis...
@@ -2447,14 +2447,14 @@ Kurisu: You said that was condition one. So there's gotta be a second one, right
 Rintaro: The second condition is...
 Rintaro: That you'll overlook all past acts of molestation I may or may not have committed!
 Kurisu: ...
-Itaru: Okarin, you're so petty! You're the pettiest person I've ever met! 
+Itaru: Okarin, you're so petty! You're the pettiest person I've ever met!
 Rintaro: Shut up, Daru. You have no right to talk. By the way, Daru's perverted acts aren't included. You two can work it out yourselves.
 Itaru: What the hell, man!
 Rintaro: Those are the conditions! If you can't accept them, then you must leave at once!
 Rintaro: Heh heh heh. So what'll it be? I don't think it's a bad deal at all.
 Kurisu: You mean for you.
 *Kurisu puts her fingers to her brow and shakes her head in an exaggerated gesture.*
-Kurisu: Geez... I feel like I'm hypersecreting 
+Kurisu: Geez... I feel like I'm hypersecreting
 Rintaro: I don't care about your dislocated jaw! Do you accept the conditions or not? Answer me, Christina!
 Kurisu: Stop adding -tina! My name's Kurisu!
 *Kurisu looks up at the ceiling to calm herself down.*
@@ -2475,7 +2475,7 @@ Kurisu: Come on! No more saying 'perv'! I won't treat you like a perv either! So
 Rintaro: As long as you understand. Now for the issue at hand. Daru, give Christina--
 Kurisu: No '-tina' either.
 Rintaro: Give Kurisu-kun an explanation on our experiments so far.
-Itaru: 
+Itaru:
 Rintaro: ...
 *In the end, I'm the one who has to explain. Along the way, I also relate the tale of my heroic deeds -- which enrages Kurisu, of course -- but I finally tell her everything about the bananas and the PhoneWave (name subject to change).*
 *Kurisu doesn't ask any questions. She's quick to understand, as expected of a genius.*
@@ -2526,7 +2526,7 @@ Kurisu: ...
 *She furrows her brow and crosses her arms, tapping her right foot as she mutters to herself.*
 Kurisu: Teleportation... is that even possible?
 Kurisu: It did move... No matter how unbelievable that may be...
-Kurisu: Could it be 
+Kurisu: Could it be
 Rintaro: Don't avert your eyes from the truth! What you've seen with your own eyes is everything!
 *She gives me a sharp look.*
 *Her eyes are like a sniper's, hard and keen.*
@@ -2914,7 +2914,7 @@ Itaru: Sure thing. My SERN folder is smoking hot!
 *Daru strikes his keys with renewed passion.*
 *He goes to the My Pictures folder and opens a folder literally called SERN.*
 Itaru: SERN is the world's largest particle physics research institution. It's popularly called the 'European Laboratory for Particle Physics', or the 'European Organization for Nuclear Research'.
-Itaru: It's close to the border of Switzerland and France, on the outskirts of Geneva. It's famous as the birthplace of 
+Itaru: It's close to the border of Switzerland and France, on the outskirts of Geneva. It's famous as the birthplace of
 Rintaro: The World Wide Web? You mean the internet?
 Itaru: Bingo. That thing at the beginning of most URLs.
 *SERN invented that?*
@@ -3201,7 +3201,7 @@ Suzuha: What!? No fair!
 Rintaro: I see everything, Amane Suzuha! Resistance is futile.
 Suzuha: Kuh!
 Suzuha: Anyway, the IBN 5100 has a hidden function!
-Suzuha: It can decipher IBN's proprietary programming language, which was written before 
+Suzuha: It can decipher IBN's proprietary programming language, which was written before
 *Now I remember. John Titor said the same thing in 2000. And right after that, an IBN engineer officially admitted to that function's existence.*
 Suzuha: Now it's a dead programming language that can only be deciphered with an IBN 5100.
 *The reason Titor traveled to 1975 to obtain an IBN 5100 was because he needed that function.*
@@ -3259,7 +3259,7 @@ Rintaro: Excellent. Good job.
 *Though, to be accurate, it wasn't two nights in a row. I took an afternoon nap yesterday.*
 *Mayuri starts fishing through her convenience store bag.*
 *And then she takes out...*
-Mayuri: Tada! 
+Mayuri: Tada!
 *The canned oden is still warm when she gives it to me.*
 *I open the lid right away and eat the beef.*
 *Mayuri and I have been together for a long time, so she knows what I like.*
@@ -3341,7 +3341,7 @@ Itaru: Yeah, yeah, I'll do it. But let me eat this oden can first.
 Itaru: The question is who this password belongs to.
 Mayuri: Why is that?
 Itaru: I went into SERN's database and got a data table.
-Itaru: From there, I focused on people with simple passwords like 
+Itaru: From there, I focused on people with simple passwords like
 Itaru: It'd be awesome if this turns out to be the server admin's logon, but I don't think we're that lucky.
 Mayuri: In Japanese please?
 Rintaro: Same.
@@ -3365,7 +3365,7 @@ Mayuri: Oh no... that makes Mayushii's head hurt...
 *Hmph. It's pathetic to flinch at the mere sight of English.*
 Rintaro: Daru, what does that say?
 Itaru: Need to translate it...
-Rintaro: This is a job for 
+Rintaro: This is a job for
 Itaru: Nah. I've got a better idea.
 *Daru boots up translation software and auto-translates the open page.*
 *Poor, unnatural Japanese shows up.*
@@ -3563,8 +3563,8 @@ Suzuha: Now it's a dead programming language only decipherable with an IBN 5100.
 *It's almost like an almighty will is pulling the strings.*
 Rintaro: Heh heh heh. No... NO, I SAY! This discovery of ours was inevitable from the start! For this is the choice of Steins Gate!!
 Itaru: Wait, so SERN has an IBN 5100 database? Those machines aren't compatible with any modern software. Why would they do something like that?
-Rintaro: Answer me this. What is the best way to secure a machine against external 
-Itaru: Well, make it 
+Rintaro: Answer me this. What is the best way to secure a machine against external
+Itaru: Well, make it
 *Daru quickly catches onto the intent of my question.*
 Itaru: If only IBN 5100s can read it, then I guess that's kind of standalone...
 Rintaro: Which means that SERN's keeping their most important secrets hidden there!
@@ -3682,7 +3682,7 @@ Tennouji: Hah? What're you talking about?
 Rintaro: I like the look in your eyes, you Part-Time Warrior. They shine with the radiance of the beast unseen in modern men.
 Rintaro: Never forget those eyes of yours, and you shall surely change class from Part-Time Warrior... to True Warrior.
 Suzuha: But I'm already a warrior!
-Rintaro: Stay diligent in your training, and you shall have a place at my side on the field of 
+Rintaro: Stay diligent in your training, and you shall have a place at my side on the field of
 Suzuha: Ragnarok?
 *Suzuha looks confused.*
 Suzuha: What's that?
@@ -3831,7 +3831,7 @@ Rintaro: So it's another Organization cover-up! They knew I'd be at Radio Kaikan
 Kurisu: Organization? What's that?
 Rintaro: The Organization is the Organization. Its formal name is something else, but all those who know of its existence call it the Organization out of fear.
 Rintaro: They rule the world from the shadows, transcending nations, with politics, economics, religion, even science in their clutches.
-Kurisu: That's obviously a crackpot conspiracy theory, 
+Kurisu: That's obviously a crackpot conspiracy theory,
 Kurisu: ...
 *Kurisu hangs her head and blushes for some reason.*
 Rintaro: What's wrong?
@@ -4928,7 +4928,7 @@ Rintaro: SERN, and the system that rules the world.
 Kurisu: If that's what makes you happy...
 Rintaro: Happy? I do not desire happiness. Have you forgotten? I am an insane mad scientist!
 Rintaro: What I desire is chaos. The time machine exists to bring chaos to the world. MUHAHAHAHA!
-Kurisu: Never mind happiness. You're like a junkie hypersecreting 
+Kurisu: Never mind happiness. You're like a junkie hypersecreting
 Mayuri: Okarin? I don't want you doing bad things, remember?
 Itaru: But wow! I can't believe you found one. You make the impossible look easy! That's why we love you! That's why we ad--
 Kurisu: I certainly don't admire him.
@@ -5443,7 +5443,7 @@ Kurisu: That logic is dubious. Sure it ended up frozen, but did you examine the 
 *I think Mayuri ate the refrozen chicken.*
 Rintaro: Salt didn't gelify.
 Kurisu: You mean nothing changed.
-Rintaro: After the discharge phenomenon occurred last time, we spent all night experimenting with cabbage, radishes, rice, konjac, melon bread, 
+Rintaro: After the discharge phenomenon occurred last time, we spent all night experimenting with cabbage, radishes, rice, konjac, melon bread,
 Rintaro: The same thing with liquids. On that day, our success rate took a 180 degree turn.
 Rintaro: Before the discharge phenomenon, everything succeeded. After the discharge phenomenon, everything failed.
 Kurisu: Is the microwave storing electricity?
@@ -5629,7 +5629,7 @@ Rintaro: Just as I suspected. A great shadow lurks behind SERN. Most likely the 
 Kurisu: What Organization, you chuunibyou nutjob? At least try to be serious some of the time.
 Rintaro: Hmph, don't be ridiculous. My words are always grounded in truth.
 Itaru: Anyway, shouldn't it be 'the Committee' instead of 'the Organization'? That's what it says here.
-Kurisu: 
+Kurisu:
 Rintaro: The world is full of lies. It's not as beautiful as you think.
 Itaru: Listen, Okarin...
 Rintaro: I am listening. The Committee of 300 is the dark power that controls every secret society, every government, every multinational corporation.
@@ -5657,7 +5657,7 @@ Rintaro: Continue, assistant.
 Kurisu: At least show respect when you're asking a favor...
 *Though huffing out complaints, Kurisu obediently goes back to translating.*
 Kurisu: Umm...
-Kurisu: 'Stage 1: Construction and implementation of the Large Hadron 
+Kurisu: 'Stage 1: Construction and implementation of the Large Hadron
 Kurisu: 'Over the past half century, beginning with the Proton Synchrotron completed in 1959, particle accelerator technology has reached the point where standardized results may be obtained.'
 Kurisu: 'Stage 2: Implementation and testing of lifter technology.'
 Kurisu: 'The formation of more than two artificial localized singularities, as well as the formation of Kerr black holes, will become possible when this stage is complete.'
@@ -5726,7 +5726,7 @@ Itaru: And with my skills, they'll never know we were there.
 *I look Daru and Kurisu in the eye.*
 Rintaro: Alright... let's begin.
 *Kurisu gives the seat to Daru.*
-Rintaro: Henceforth, this shall be known as Operation 
+Rintaro: Henceforth, this shall be known as Operation
 Kurisu: Why Norse mythology?
 Itaru: Is that Norse mythology? Because it's cool, I guess.
 Kurisu: Anyway, what is it with men and military terms...
@@ -5858,8 +5858,8 @@ Rintaro: According to Titor, SERN finished their time machine in 2034. And then 
 Kurisu: ...
 *Kurisu closes her eyes in deep thought.*
 Kurisu: Creating Kerr black holes? That's insane. If you screw up, it could swallow the Earth... and besides, Kerr black holes are just a theoretical construct.
-Rintaro: If Titor's predictions are a reality, then that means the LHC worst case scenario video on 
-Itaru: I don't know about Titor's predictions, but I've seen the 
+Rintaro: If Titor's predictions are a reality, then that means the LHC worst case scenario video on
+Itaru: I don't know about Titor's predictions, but I've seen the
 Kurisu: The gravitational forces inside a black hole are unbelievably powerful. It's certainly possible that passing through one could allow time displacement, but there's no way a human could do that and come out alive.
 Rintaro: That must be how these people got gelified.
 Kurisu: It wouldn't just gelify you. It would tear you apart particle from particle. That's what a black hole does.
@@ -5921,11 +5921,11 @@ Itaru: Explain with cute girls.
 Kurisu: Fine. Say there are two cute girls, Mic-chan and Cro-chan.
 Itaru: Sisters are moe. Haah, haah.
 Kurisu: By feeding Mic-chan and Cro-chan electrons, you can make them do whatever you want.
-Itaru: Electric shock torture? This some sort of 
+Itaru: Electric shock torture? This some sort of
 Kurisu: ...
 Kurisu: So you force them to rotate at an extremely high velocity.
 Kurisu: And then, theoretically, Mic-chan and Cro-chan transform into Magical Girl 'Ring Singularity'.
-Itaru: Cue 
+Itaru: Cue
 *Well, it looks like these two have found a common wavelength.*
 Kurisu: The resulting black hole exhibits what's called the Kerr effect.
 Itaru: What are Kerr black holes anyway? You said they spin, but what does that mean?
@@ -5938,7 +5938,7 @@ Kurisu:  A Kerr black hole has a ring at its center, not a point.
 Kurisu: Think of it like this. Once transformed into magical girls, Mic-chan and Cro-chan's hearts spin like a ring inside their bodies, which is impossible for normal people.
 Itaru: ...I'll pass on the guro.
 Rintaro: Before, you said that such a black hole's existence would be impossible to prove. What did you mean?
-Kurisu: A black hole has what's called an 
+Kurisu: A black hole has what's called an
 Kurisu: Once you pass the event horizon, time and space switch places.
 Rintaro: Time and space switch places?
 Kurisu: Right now, we can move freely through space and into the future, but we can't move even one minute into the past. That becomes reversed.
@@ -5954,7 +5954,7 @@ Kurisu: The Kerr black hole's ring singularity. Since it's spinning, it has angu
 Itaru: Like I said, in Japanese please.
 Kurisu: Didn't I already explain how the core spins? Just think of that as having momentum.
 Kurisu: If you keep giving Mic-chan and Cro-chan electrons, they'll rotate faster and faster.
-Kurisu: And when their angular momentum exceeds a certain threshold, the event horizon will disappear, and the singularity will become a 
+Kurisu: And when their angular momentum exceeds a certain threshold, the event horizon will disappear, and the singularity will become a
 Itaru: N-naked? You mean the magical girl costumes expose a lot of skin, right? When does the anime adaptation air?
 *Kurisu and I ignore Daru's nonsense.*
 Rintaro: Naked, you mean it becomes observable.
@@ -6613,7 +6613,7 @@ Kurisu: Idiots.
 *Kurisu gives us a cold stare and shrugs her shoulders in exasperation.*
 Kurisu: As I keep saying, the real problem is what the PhoneWave uses as a lifter.
 Rintaro: That and one other thing. How come the discharge phenomenon and gelification only happen during a certain timeframe?
-Itaru: We may not understand everything, but we've perfected the art of D-Mailing. Isn't that our 
+Itaru: We may not understand everything, but we've perfected the art of D-Mailing. Isn't that our
 Mayuri: Sending mail to the past is amazing, isn't it?
 Itaru: Though I guess it's not a real time machine unless we can send people to the past.
 Kurisu: Even SERN has failed to send humans through. If you believe what Titor says, it won't be another, what, 24 years before there's a true time machine?
@@ -6634,7 +6634,7 @@ Rintaro: For on this day, we, the Future Gadget Laboratory, have developed--
 Rintaro: The first successful time machine in the history of mankind!
 Itaru: It's not the first. SERN beat us.
 Kurisu: And you can't even say we developed it. It happened by accident.
-Rintaro: Hmph! It seems that my assistant doesn't know the meaning of the word 'serendipity'. 
+Rintaro: Hmph! It seems that my assistant doesn't know the meaning of the word 'serendipity'.
 Kurisu: I guess...
 Mayuri: But Chris-chan, you said before that time machines don't exist, right? But now you admit they do!
 Kurisu: It's just that I have to admit it for now. If we investigate how the PhoneWave works, it might turn out to be something that only seems like time travel.
@@ -6999,7 +6999,7 @@ Moeka: ...
 *Even though Daru bowed his head, Moeka doesn't so much as look at him.*
 *She's now looking down at her phone -- not that she ever really looked away.*
 *Daru turns red.*
-Itaru: Wh-what magnificent ignore skill. Are you looking down on me because I'm a fatass ota? You're a 
+Itaru: Wh-what magnificent ignore skill. Are you looking down on me because I'm a fatass ota? You're a
 Rintaro: Um, Moeka, this is my Favorite Right Arm, Super Hacka Daru--
 Moeka: ...
 *Moeka lowers her chin imperceptibly. Was that supposed to be a bow?*
@@ -7205,7 +7205,7 @@ Kurisu: The name doesn't matter. Let's just start the experi--
 Moeka: ...You looked like you were having fun.
 *Mayuri smiles happily. Daru doesn't react. Kurisu turns away in a huff.*
 Kurisu: Hardly. I'm fed up with these people and their fooling around.
-Itaru: This assistant is such a 
+Itaru: This assistant is such a
 Kurisu: Who are you calling a tsundere!?
 Itaru: Oh? Makise-shi, you know what tsundere means?
 Kurisu: ...N-no.
@@ -7279,7 +7279,7 @@ Rintaro: Of course.
 Itaru: Yeah, it's like that saying. 'When the wind blows, the bucket maker gains.'
 Kurisu: Eh? No, it's kinda like that, but kinda not...
 Rintaro: A butterfly flaps its wings in Beijing and a storm happens in New York, right?
-Kurisu: Yeah, that. Part of 
+Kurisu: Yeah, that. Part of
 Kurisu: Basically, any change, no matter how small, could have a significant effect on the future.
 Kurisu: How do you plan to take responsibility for that?
 Rintaro: Titor said that the many-worlds interpretation holds true.
@@ -8014,7 +8014,7 @@ Rintaro: I'm sorry about that.
 Kurisu: Well, that's unexpected... You actually apologized.
 Rintaro: I do apologize. But I can't help it.
 Rintaro: For my brain has recorded you as my assistant, Christina, and I cannot correct it! MUHAHAHAHA!
-Kurisu: I'm gonna crack your skull open and stick electrodes in your 
+Kurisu: I'm gonna crack your skull open and stick electrodes in your
 *Right after that silly exchange, John Titor's mail arrives.*
 *I quickly open the mail.*
 Kurisu: Who are you talking to?
@@ -8342,7 +8342,7 @@ Rintaro: We removed the door. You can't heat food in it anymore.
 Mayuri: Oh, right. That makes me sad...
 Mayuri: By the way, have you had breakfast?
 Rintaro: Nope.
-Mayuri: Then let's eat together. We can eat the yakisoba bread cold, and then heat up some 
+Mayuri: Then let's eat together. We can eat the yakisoba bread cold, and then heat up some
 Mayuri: Wanna join us, Nae-chan?
 Nae: I'm okay. I ate.
 Mayuri: Okay!
@@ -8403,7 +8403,7 @@ Mayuri: Mayushii wants everyone to get along.
 *Maybe we should come up with an excuse first.*
 *To be honest, though, I don't care what he thinks.*
 *For we are at war! War against the Organization and SERN, the dark powers that rule the world from the shadows!*
-Itaru: 
+Itaru:
 Mayuri: If you give up, it's game over!
 *Unfortunately, Daru's second D-Mail fails to change the past.*
 *I get the feeling RaiNet matches are difficult to cheat your way out of like this.*
@@ -8724,7 +8724,7 @@ Kurisu: ...I don't know. No one has experienced a time paradox, after all.
 Rintaro: But before, didn't you say something like the world would disappear?
 Kurisu: All I said was that that was one theory.
 Kurisu: Maybe nothing happens, and like in a certain movie, history gets amended to accommodate the paradox.
-Kurisu: According to Dr. Hawking's 
+Kurisu: According to Dr. Hawking's
 *So all we have are theories...*
 Mayuri: Um, Mayushii doesn't really understand...
 Mayuri: But we're all fine now, right? I don't think that paradox thing happened.
@@ -8888,7 +8888,7 @@ Itaru: Oh, if it isn't Luka-shi.
 Luka: Hello, Hashida-san, Okabe-san.
 Rintaro: Lukako! You don't have Demon Sword Samidare with you! What is the meaning of this!?
 Luka: Eh, eh, eh?
-Rintaro: I even unsealed the treasured heirloom sword 
+Rintaro: I even unsealed the treasured heirloom sword
 *Actually, I didn't know he was coming.*
 Luka: I'm sorry! Um, I'll go back and get it.
 Rintaro: No, that's okay. It was not Mistilteinn's fate to encounter Samidare this day.
@@ -8940,7 +8940,7 @@ Mayuri: Okay! Don't be shy! Now take off your clothes.
 Luka: Wahh! Mayuri-chan, please don't touch me there! I'll change by myself! Please wait outside!
 Mayuri: But it's a little tricky putting this on. Mayushii will teach you all the steps♪
 Luka: Hyeeehhh, please don't undress me!
-Itaru: It's so... 
+Itaru: It's so...
 Rintaro: That's not yuri. Lukako's a guy.
 Itaru: Then it's reverse rape!? Whoa, that's downright criminal!
 *His imagination knows no bounds.*
@@ -8963,7 +8963,7 @@ Luka: I-it's so embarrassing... I'm a guy... I shouldn't be dressing like this..
 Mayuri: You know what they say. Cuteness is Justice♪
 Luka: I don't know what you mean!
 Itaru: Excellent work as usual. The clothes and the model bring out the best in each other.
-Itaru: As far as 3D goes, Faris-tan is supreme, but Luka-shi almost makes me wanna become a 
+Itaru: As far as 3D goes, Faris-tan is supreme, but Luka-shi almost makes me wanna become a
 Mayuri: What about you, Okarin?
 Rintaro: Ah, yeah, well...
 *When urged to talk, I nod vaguely.*
@@ -9057,7 +9057,7 @@ Kurisu: Wh-what do you mean?
 Rintaro: Allow me to explain. You called Lukako here a 'weak and innocent girl.'
 Rintaro: But he's not a girl at all. He's a guy!
 Kurisu: Is that some kind of joke?
-Rintaro: It's not a joke, but the naked truth as described in the 
+Rintaro: It's not a joke, but the naked truth as described in the
 *Kurisu looks at Daru and Mayuri as if seeking help, but they nod with a knowing look in their eyes.*
 *As for Lukako himself, he's just hanging his head in shame.*
 Kurisu: ...Are you guys trolling me?
@@ -9115,7 +9115,7 @@ Kurisu: S-So cute...
 Kurisu: This reminds me of something I heard once.
 Itaru: Exposition scene, go!
 Kurisu: There's a saying that if you eat a lot of meat when you're pregnant, you'll have a boy, and if you eat a lot of vegetables, you'll have a girl.
-Itaru: Source? 
+Itaru: Source?
 Kurisu: I saw it on the internet.
 Itaru: S-so that's how you reply... well played.
 Kurisu: Wh-what are you talking about?
@@ -9229,7 +9229,7 @@ Itaru: That Edison thing again?
 Rintaro: I have it.
 *All eyes focus on me.*
 *With a broad grin, I proclaim--*
-Rintaro: If we can't send it to a cellphone, then we'll send it... to a 
+Rintaro: If we can't send it to a cellphone, then we'll send it... to a
 *About 22 hours have passed since I made my mind-blowingly awesome proclamation.*
 Luka: H-hello...
 *Luka enters the lab shyly, just as he did yesterday.*
@@ -9448,7 +9448,7 @@ Faris: Humans make units to define and observe time, which is how we know this l
 Faris: But if every living thing in the universe went extinct, nothing would exist to observe the present, nya.
 Faris: In that case, where would the present go, nya?
 Itaru: Wouldn't something like God or the will of the universe observe it?
-Faris: But what if God is a 
+Faris: But what if God is a
 Rintaro: U-uh...?
 Faris: If God is the one who decides the present, then won't our present move with him, nya?
 Itaru: This is hard...
@@ -9464,7 +9464,7 @@ Faris: So how does the leaf model reflect that difference, nya?
 Faris: Anyway, if everything depends on the observer, then clocks are meaningless, nyan.
 Faris: Fun times fly, and hard times drag, nya. In other words, the flow of time changes depending on your point of view, nyan.
 Itaru: Speaking of which, as you grow older, it feels like time starts to flow faster, doesn't it?
-Rintaro: 
+Rintaro:
 Faris: Faris thinks about this stuff sometimes, nya. I think time might not be something as simple as a river, nyan.
 Itaru: Yeah, the more you think about it, the more complicated it gets.
 Itaru: Where is the self?
@@ -9632,7 +9632,7 @@ Kurisu: Eh, wha...!?
 Kurisu: How can this girl say something like that while eating a nugget...
 *Don't let it bother you. That's just Mayuri's nature.*
 *I've been with her for a long time, so I'm used to it.*
-Itaru: A yuri 
+Itaru: A yuri
 Kurisu: Please unget it.
 Mayuri: Here, Chris-chan. Have a nugget.
 Kurisu: Th-thanks...
@@ -9669,7 +9669,7 @@ Kurisu: Don't be ridiculous.
 Kurisu: SERN has the best equipment in the world, and even after nine years, they still haven't succeeded.
 Kurisu: We can't possibly hope to accomplish something like that.
 Mayuri: You'll become a GelOkarin! Ehehe!
-Itaru: Kinda sounds like 
+Itaru: Kinda sounds like
 Kurisu: This isn't a laughing matter...
 Rintaro: Isn't it too early to give up? Haven't we already succeeded with D-Mail, a first in human history?
 Itaru: But we're not the first. Didn't SERN do it before us?
@@ -9690,7 +9690,7 @@ Itaru: You set the mail address, right? Isn't that enough?
 Kurisu: Is it? I don't think a phone signal can be received from millions of kilometers away.
 Mayuri: I bet you'd get a busy signal or something!
 *I stare at my phone.*
-Rintaro: Maybe our cellphones are acting like black holes and 
+Rintaro: Maybe our cellphones are acting like black holes and
 Kurisu: You shouldn't speculate like that. You have zero basis.
 Rintaro: Is it possible that we form a wormhole?
 Kurisu: No wormholes have ever been confirmed to exist.
@@ -9735,7 +9735,7 @@ Rintaro: If we go public, we won't be able to do cool stuff with D-Mails anymore
 Kurisu: Why you...
 Rintaro: Muhahaha! No way I'm giving up such an awesome machine!
 Rintaro: I am Hououin Kyouma! The insane mad scientist who rules space and time! What I desire is -- that's right -- CHAOS!
-Kurisu: 
+Kurisu:
 Itaru: Eh?
 Rintaro: Hm?
 Mayuri: Hwe?
@@ -9780,7 +9780,7 @@ Kurisu: What? No way.
 *Honestly, so am I.*
 Mayuri: Is that amazing?
 Kurisu: It's not amazing. It's downright outrageous!
-Kurisu: Super Hacka, 
+Kurisu: Super Hacka,
 Rintaro: Hey, Christina. Are you doing that on purpose?
 Kurisu: Ugh... d-doing what?
 *She's an @channeler. No doubt about it.*
@@ -10490,7 +10490,7 @@ Rintaro: What business do you have in Nakano, anyway?
 Mayuri: Well, a Sorrow Sword doujinshi came out yesterday.
 Itaru: Porn?
 Mayuri: No, but the illustrator is Kouga Yui-san. Mayushii thinks it's finally time to get serious about costumes again.
-Itaru: Kouga Yui? She was the character designer for last year's 
+Itaru: Kouga Yui? She was the character designer for last year's
 Mayuri: Yup!
 Itaru: Buy me one too.
 Mayuri: Okey dokey♪
@@ -10616,7 +10616,7 @@ Rintaro: 12
 *For now, I'll write that mail off as a prank.*
 *It's still early -- well, I guess it's actually noon -- but Mayuri, Kurisu, and Lukako are already at the lab when I return.*
 *I greet them, trying to keep the anxiety out of my voice.*
-Rintaro: It's Sunday. 
+Rintaro: It's Sunday.
 Luka: Pardon the intrusion, Okabe-san.
 Mayuri: Good morning, Okarin♪
 *The two cute high school girls wave to me in greeting.*
@@ -10627,7 +10627,7 @@ Rintaro: What are you doing?
 *It looks like a cosplay photo album.*
 Mayuri: Yesterday I went to Nakano to buy doujinshi, remember? While I was there, I found a photo album of a super cute cosplayer!
 Mayuri: So I splurged on it♪
-Mayuri: Look, Luka-chan! This is a costume of Sedona from 
+Mayuri: Look, Luka-chan! This is a costume of Sedona from
 Luka: It is!
 Luka: reeducation.
 *To think that he was so reluctant to get involved in cosplay. Looks like Mayuri's persistence has paid off.*
@@ -10659,7 +10659,7 @@ Kurisu: ...
 *Kurisu snaps her book shut and glares at me.*
 Kurisu: Fine, I'll be blunt. There's no way I'm swimming with two perverts like you!
 Kurisu: If it's just the girl members, I'll happily go.
-Rintaro: Hmph. Be honest, Christina. You just don't want me to see the 
+Rintaro: Hmph. Be honest, Christina. You just don't want me to see the
 Kurisu: I don't have a Mongolian Spot!
 Rintaro: Anyway, if it's just the girl members, then doesn't that rule out Lukako?
 Kurisu: What's that supposed to mean?
@@ -10762,12 +10762,12 @@ Rintaro: Out of all mankind, I alone can perceive changes in causality! I am thi
 *I look around, expecting to see awe on their faces.*
 Kurisu: Sit down before I hit you again.
 *I do as I'm told.*
-Rintaro: Don't you understand? I'm the observer, the one who opens the box holding 
+Rintaro: Don't you understand? I'm the observer, the one who opens the box holding
 Mayuri: Shredding Gar?
 Itaru: Schrodinger's cat again?
 Itaru: The Japanese can't get enough of that cat.
 Kurisu: You're Japanese too.
-Itaru: I've had enough Schrodinger, thanks. I do admit that 
+Itaru: I've had enough Schrodinger, thanks. I do admit that
 Rintaro: Gh...
 *Daru's absolutely right. Whenever an anime wants to use quantum mechanics, the characters always talk about Schrodinger's Cat.*
 Rintaro: Anyway, my magic eye has the power to perceive changes in the worldline. This power is called Reading Steiner, as I've explained.
@@ -10922,7 +10922,7 @@ Suzuha: If I meet my father, I'll stop by. Then we can do a gun salute!
 *...leaving me behind.*
 Rintaro: Hey, wait! Let me on! Hey!
 *Suzuha doesn't wait, leaving me with no choice but to run back to the lab.*
-Rintaro: I shall now brief you on Operation 
+Rintaro: I shall now brief you on Operation
 *The only lab mems here today are Mayuri, Kurisu, and Lukako.*
 *I couldn't get ahold of Faris or Moeka. They must be busy.*
 *Daru, meanwhile, gave me some crap about having things to do.*
@@ -11091,7 +11091,7 @@ Itaru: I'll order pizza as insurance.
 *In less than an hour, the girls have transformed the lab into a class five disaster zone!*
 *I take out my phone and put it to my ear.*
 Rintaro: It's me. Looks like the Evil One is free. If you haven't heard from me in an hour... tell my parents I love them.
-Itaru: Okarin, that's a 
+Itaru: Okarin, that's a
 Rintaro: Is this the choice of Steins Gate? El Psy Kongroo...
 *After the storm has passed...*
 Itaru: Hwahhhh...
@@ -11555,7 +11555,7 @@ Rintaro: Really!?
 *Kurisu nods. She still hasn't smiled.*
 Kurisu: Keep in mind that this is just a hypothesis based on what we've observed.
 Kurisu: It's closely related to what you guys were just talking about -- the LHC.
-Rintaro: I believe it was you, Christina, who called the LHC the world's largest microwave. 
+Rintaro: I believe it was you, Christina, who called the LHC the world's largest microwave.
 Kurisu: Yes. Exactly. My hunch was right.
 Kurisu: You've created a monster, Okabe.
 *A monster...*
@@ -11570,7 +11570,7 @@ Kurisu: Here's the important part.
 Kurisu: connected
 Kurisu: fuse together.
 Rintaro: According to Daru's blueprints, the microwave and the phone are made to send out shared electromagnetic waves by taking their leads...
-Rintaro: And hardwiring each of them to the 
+Rintaro: And hardwiring each of them to the
 *On one hand, we have the microwave's super strong electromagnetic waves, originally a byproduct of the military's research into radar technology.*
 *On the other, we have the cellphone's standardized electromagnetic waves, a frequency now ubiquitous throughout the world.*
 Rintaro: fuse
@@ -11669,7 +11669,7 @@ Kurisu: The title of my thesis is...
 Kurisu: 'Analysis of Memory-Related Nerve Impulses in the Temporal Lobe'
 Rintaro: ...Temporal lobe? Nerve impulses?
 Itaru: What, you didn't know?
-Rintaro: No, wait. This can't be right. This title sounds like, um, 
+Rintaro: No, wait. This can't be right. This title sounds like, um,
 Kurisu: I'm a neuroscientist. Got a problem?
 *What!?*
 *I can't believe it.*
@@ -11728,7 +11728,7 @@ Kurisu: For starters, it's still not clear where personality and consciousness a
 Kurisu: So we can't convert them into data. Or at least, I can't.
 Rintaro: So we can only send memories. Where does that leave us?
 Kurisu: Your memories aren't the only thing that define you. Even if you send your memories to the past, it will be the receiving you's consciousness and personality that process them.
-Itaru: So in 
+Itaru: So in
 Kurisu: Data created with the latest OS might not work on an older OS. It might cause errors.
 Kurisu: For example, if you sent your current memories to yourself in elementary school, the gap between your memories and your body could have serious consequences.
 Rintaro: Anyway, is it correct to assume that we'll be targeting ourselves in the past?
@@ -11751,7 +11751,7 @@ Rintaro: So the phones act like black and white holes...
 *The more I think about it, the more I realize that this was meant to be.*
 Rintaro: Heh... heh heh heh... MUHAHAHA!
 *I whip out my phone and place it to my ear.*
-Rintaro: It's me. Everything is falling into place. The plan can now proceed to the final stage. I'm talking about Operation 
+Rintaro: It's me. Everything is falling into place. The plan can now proceed to the final stage. I'm talking about Operation
 Rintaro: Heh. Christina had me fooled. I never knew she was capable of this. It must have been the choice of Steins Gate that sent her here.
 Rintaro: Don't worry. I have everything under control. Nothing can stop us now. El Psy Kongroo.
 *I put away my phone and turn to Kurisu.*
@@ -12233,7 +12233,7 @@ Kurisu: Don't tell anyone else about this.
 Rintaro: What difference does it make? Daru's the most hardcore @channeler who ever lived, and Mayuri's an otaku too. Even I browse @channel regularly.
 Rintaro: There's nothing to be ashamed of! Just boldly write 'Hobbies: Browsing @channel' on your resume!
 Kurisu: Not a chance, you idiot!
-Rintaro: What!? You mean you'd rather post 
+Rintaro: What!? You mean you'd rather post
 Kurisu: Gh, I hate myself for understanding those words!
 Rintaro: Well, whatever. If it will help you focus on the time leap machine, I'll keep your secret for now. Besides, it's just a matter of time before you make another mistake and reveal your true colors.
 Kurisu: You don't have to worry about me. Remember that I represented my entire laboratory when we presented our research, even though there were men twice my age on the project.
@@ -12867,7 +12867,7 @@ Kurisu: The signal can only be received by phones. While that does limit the ran
 Kurisu: Unlike D-Mails, memory data is sent in the form of a phone call, so we will be using a phone number, not an email address, to set the destination.
 *She's explained the basics. Next, she'll explain the modifications she made to turn the PhoneWave (name subject to change) into a time leap machine.*
 Kurisu: The PhoneWave now has headgear attached.
-Kurisu: This headgear records the nerve impulses in the temporal lobe of the brain -- specifically, the 
+Kurisu: This headgear records the nerve impulses in the temporal lobe of the brain -- specifically, the
 Kurisu: Then, using VR technology, we encode the nerve impulses into electrical signal data.
 Itaru: It comes out to approximately 3.24 terabytes.
 *3.24 terabytes... It's less than I expected. We're talking about the entirety of a person's memories.*
@@ -13000,7 +13000,7 @@ Mayuri: ???
 *But that's only if the many-worlds interpretation holds in the first place.*
 Rintaro: I thought you didn't believe what Titor had to say.
 Kurisu: I'm talking hypothetically. Titor doesn't matter right now.
-Kurisu: If it's the 
+Kurisu: If it's the
 *But precise observation is impossible.*
 Rintaro: The problem is who the observer is in this case.
 Itaru: Wouldn't it be a third party? Like me, or Mayu-shi.
@@ -13152,7 +13152,7 @@ Mayuri: You don't have to show anyone, but eventually, you'll want them to see. 
 Mayuri: That reminds me. Chris-chan, you're always wearing that cute uniform. What school is it from?
 Kurisu: Oh, this?
 *Kurisu lifts up her necktie.*
-Kurisu: I attended 
+Kurisu: I attended
 Mayuri: Oh! Their uniform is really cute, but you made it even cuter! You might have really good design sense♪
 Mayuri: I'll bring the costume tomorrow, okay? Will you try it on then?
 Kurisu: Sure.
@@ -16022,7 +16022,7 @@ Suzuha: The universe is like this piece of yarn.
 Suzuha: Countless possible worldlines exist side by side, branching out to infinity.
 Suzuha: From a distance, it looks like a single string, but when you look closer, the string is actually made up of individual threads woven together.
 Suzuha: At the end, those threads converge on a single point. The paths are different, but the destination is the same.
-Kurisu: Isn't that 
+Kurisu: Isn't that
 Suzuha: Close. This model is a little looser.
 Suzuha: You could say it cherry-picks from the many-worlds interpretation and the Copenhagen interpretation.
 Rintaro: If the branches all lead to the same place, does that mean there's only one world in the end?
@@ -16078,7 +16078,7 @@ Mayuri: Oh yeah! Wow!
 Kurisu: One more question.
 *Kurisu keeps plowing ahead.*
 *I guess that's what makes her a scientist.*
-Kurisu: These worldlines aren't 
+Kurisu: These worldlines aren't
 Suzuha: No. Ultimately, they're just possibilities that exist simultaneously.
 Kurisu: Then how do you observe the differences between worldlines? Wouldn't you need a god's eye view to do that?
 Suzuha: Normally. However...
@@ -16147,7 +16147,7 @@ Itaru: We really jumped in the deep end, huh...
 Mayuri: Mayushii's good at the breaststroke!
 Itaru: Alright, then do a sexy underwater pose.
 Rintaro: But how did they intercept our email? Hundreds of millions of emails are sent around the world each day.
-Suzuha: SERN uses the 
+Suzuha: SERN uses the
 Rintaro: Echelon!? It really exists!?
 *As an expert on conspiracies, I understand the implications, and they terrify me. No one else seems to get what Suzuha's saying, though.*
 Suzuha: Echelon sees everything. Any transmission that even hints at time travel is filtered and sent to SERN.
@@ -16623,7 +16623,7 @@ Rintaro: Assistant? It's me.
 Rintaro: What are you saying? It's me, Hououin Kyouma.
 Rintaro: Would you prefer to be called 'KuriGohan and Kamehameha'?
 *I hear rattling from the other side of the phone.*
-Rintaro: Before I time leaped, you made a tearful confession. You said, 'I'm an @channeler, a 
+Rintaro: Before I time leaped, you made a tearful confession. You said, 'I'm an @channeler, a
 Rintaro: And I, of course, replied...
 Rintaro: 'You may be an @channeler, a Nicojunkie, and a camwhore who posts tits, but you're still a member of this lab.
 Rintaro: And that makes you my assistant, now and forever. So wipe your tears, for there is still much--'
@@ -17343,7 +17343,7 @@ Rintaro: ...
 *But with all this evidence laid out in front of me, I can't deny it either.*
 *Everyone's jaw drops again, only this time we're staring at Daru and Suzuha.*
 Mayuri: I think she looks just like her father♪
-Kurisu: That could just be the 
+Kurisu: That could just be the
 Rintaro: Nice work, Mayuri! You'll make a great detective one day.
 Mayuri: A d-detective? Ehehe! That's the first time anyone's said that.
 *She's such a ditz most of the time, but maybe she's more perceptive than anyone knows.*
@@ -17510,9 +17510,6 @@ Itaru: Seriously? Why did he have it?
 *I'll get right to the point.*
 *I failed I failed I failed I failed I failed I failed I failed I failed I failed*
 *I failed I failed I failed I failed I failed I failed I failed I failed I failed*
-*I failed I failed I failed I failed I failed I failed I failed I failed I failed*
-*I failed I failed I failed I failed I failed I failed I failed I failed I failed*
-*I failed I failed I failed I failed I failed I failed I failed I failed I failed*
 *The date is June 14th, the year 2000.*
 *About nine or ten years before you will read this.*
 *I failed.*
@@ -17558,7 +17555,6 @@ Itaru: Seriously? Why did he have it?
 *I promised Dad.*
 *This was his dream.*
 *I want to change the future.*
-*I'm sorry.*
 *I'm sorry.*
 *I'm sorry.*
 *My life was meaningless.*
@@ -19880,12 +19876,12 @@ Faris: Just look, nya.
 *This is the closest I've ever been to Faris. I'm captivated by the beauty of her features.*
 *Wow... her eyelashes are really long.*
 Faris: Nervous, nya?
-Rintaro: O-of course not. I'm busy solving 
+Rintaro: O-of course not. I'm busy solving
 Faris: In other words, you're nervous, nya.
 Faris: The truth is, Faris has only one power, nya.
 Rintaro: Your power? Do you mean...
 Faris: It's a secret, but I'll make an exception for Kyouma. Truth is, Faris can read people's minds, nyan.
-Faris: I call my power 
+Faris: I call my power
 Faris: Whatcha think, nya? Awesome, nyan?
 Rintaro: ...I'm an exception? But the Virals knew about it too, didn't they?
 Faris: I had no idea the cat was out of the bag, nya.
@@ -20779,7 +20775,7 @@ Rintaro: Daru! There you are.
 *Daru doesn't try to hide his displeasure.*
 Itaru: Hey, what's your relationship to Faris-tan?
 Rintaro: What?
-Itaru: I've seen you somewhere before. Where was it... Anyway, you're being way too familiar with Faris-tan. Are you a filthy 
+Itaru: I've seen you somewhere before. Where was it... Anyway, you're being way too familiar with Faris-tan. Are you a filthy
 Rintaro: Woah, Daru. Just what are you...
 *I shut up as soon as I start talking.*
 *Given how Mayuri and Faris are acting, it's entirely possible that my relationship with Daru has changed too.*
@@ -21896,7 +21892,7 @@ Mayuri: Okarin! How'd it go?
 Mayuri: Did you apologize to Luka-chan?
 Rintaro: Uh, yeah. So put the Juicy Chicken Number One in the microwave and nuke it so that the D-Mail's basically ABC and...
 Mayuri: Huwha?
-Rintaro: The microwave was developed by knights of the 
+Rintaro: The microwave was developed by knights of the
 Mayuri: Waaah, Okarin's broken!
 *I mutter incoherently as I set up the Time Leap Machine.*
 Mayuri: What are you doing?
@@ -22275,7 +22271,7 @@ Low-Angler　A: P-please, let me take just one photo.
 Low-Angler　B: That cosplay is super moe. I've never seen such a cute miko cosplayer before.
 Luka: Th-this isn't cosplay...
 Low-Angler　A: If you could make a cute pose, I'd be su-super happy.
-Low-Angler　B: D-do that thing, you know, that thing Megumi-tan does in 
+Low-Angler　B: D-do that thing, you know, that thing Megumi-tan does in
 Low-Angler　A: Yeah! That would be awesome! You know Megumi-tan, right? Can you do it for us?
 Luka: I-I don't know, sorry...
 Low-Angler　B: What's wrong? If you come to Akiba in cosplay, that means you want people to take your picture, right?
@@ -22293,7 +22289,7 @@ Low-Angler　A: Wh-what's with this guy?
 Low-Angler　B: He's nuts.
 Rintaro: Stop right there. This miko clearly does not want your attention!
 Low-Angler　A: G-get out of here, chuunibyou!
-Low-Angler　B: You trying to be cool and save a girl for 
+Low-Angler　B: You trying to be cool and save a girl for
 Rintaro: Look in the mirror when you say that. You're the ones harassing this frail girl, forcing her to take perverted pictures. Have you no otaku pride?
 Luka: Um, I'm a...
 Rintaro: A cameraman who frightens a sacred miko is no cameraman at all! He's nothing but lowlife scum, unfit to walk the holy streets of Akiba!
@@ -22558,7 +22554,7 @@ Mayuri: Hey, Luka-chan. If you come to the cosplay area, I'm sure you'll change 
 Mayuri: It's not embarrassing at all, see? 'Cause everyone's having fun!
 Mayuri: Kaede-chan and Fubuki-chan are there wearing Mayushii's costumes! I'll introduce you, okay?
 Mayuri: You should come tomorrow too! I'll bring costumes for you and we can cosplay together!
-Mayuri: I think Okarin would be perfect as 
+Mayuri: I think Okarin would be perfect as
 Mayuri: You'll cosplay if Okarin does it with you, right, Luka-chan?
 Mayuri: You will, won't you? Mayushii thinks it's a great idea!
 Rintaro: Not a chance.
@@ -23776,7 +23772,7 @@ Mayuri: Oh, great! Thanks, Okarin.
 Rintaro: So, Christina.
 Kurisu: I'm not going to ComiMa.
 Rintaro: You said 'again' just now. We've talked like this before, just the two of us?
-Kurisu: Losing your memory now? Does our little mad scientist have an 
+Kurisu: Losing your memory now? Does our little mad scientist have an
 Rintaro: I'm being serious.
 Kurisu: You're acting weird today. What's going on?
 Rintaro: Please. I need to know.
@@ -24810,7 +24806,7 @@ Rintaro: Where are you now?
 Rintaro: Set up the machine. I'm sending another D-Mail.
 Rintaro: ...July 31st, 11 AM.
 *While Kurisu calculates the hours, I type the mail.*
-Kurisu: Do NOT go!! 
+Kurisu: Do NOT go!!
 *I address the mail to the PhoneWave (name subject to change).*
 Rintaro: Alright, activate it.
 *I press the send button.*
@@ -26116,7 +26112,7 @@ Rintaro: SERN intercepted that D-Mail with Echelon and figured out what it meant
 Rintaro: They will kill Mayuri, kidnap us, and steal the Time Leap Machine.
 *Some years after that, I assume, Daru and I escape and form the Resistance to which Suzuha belonged.*
 Rintaro: I tried to save Mayuri, but nothing worked. Every worldline converged on the same result, just as attractor field theory said they would.
-Itaru: You know, if this is all in your head, I think you've got a career as a 
+Itaru: You know, if this is all in your head, I think you've got a career as a
 Rintaro: It's true. All of it.
 Rintaro: To prevent Mayuri's death...
 *And to free Suzuha's future from SERN...*
@@ -26573,7 +26569,7 @@ Rintaro: Trains?
 Kurisu: Um, let me give you an easy example...
 *Kurisu takes out her phone and starts fiddling with it.*
 Kurisu: If I want to take the train from Akiba to Yokohama, which route should I use?
-Rintaro: I didn't know you were a 
+Rintaro: I didn't know you were a
 Kurisu: It's just an example. Geez.
 Kurisu: You choose to take the Yamanote Line to Tokyo Station, then transfer to the Tokaido Main Line for the rest of your trip.
 *Kurisu keeps talking as she looks at her phone, apparently reading off an itinerary.*
@@ -27850,7 +27846,7 @@ Kurisu: Wh-what the hell are you saying!?
 Rintaro: The truth.
 Kurisu: B-but... proof. I need proof. I can't come up with a formula otherwise!
 *Kurisu is getting flustered for some reason.*
-Kurisu: When the anterior pituitary gland hypersecretes 
+Kurisu: When the anterior pituitary gland hypersecretes
 Rintaro: Kurisu.
 *I speak her name. Our eyes meet.*
 Rintaro: I love you.
@@ -27893,7 +27889,7 @@ Rintaro: Wha... wha...
 Kurisu: I-it's not like I did it... because I wanted to or anything.
 Kurisu: It's just... you promised... that you wouldn't forget about me.
 Kurisu: Research shows that memories are harder to forget when coupled with intense emotions.
-Kurisu: Y-you're a virgin and a perv, so I was sure you'd have an 
+Kurisu: Y-you're a virgin and a perv, so I was sure you'd have an
 Kurisu: I just don't want you to forget about me, Okabe. No matter what.
 *My heart fills with love for Kurisu as she makes her frantic excuses.*
 *What a relief. Kurisu wasn't mad. She was just trying to hide her embarrassment.*
@@ -28928,7 +28924,7 @@ Suzuha: It started with a race between the EU and Russia. Then America got invol
 Nakabachi: Did I ask you to write this?
 Kurisu: Well... no, but...
 Kurisu: You invited me to come, remember? It was the first time we'd talked in seven years. That's what got me thinking.
-Kurisu: And as I worked on the thesis, I started to realize it might actually be possible to build a time machine. 
+Kurisu: And as I worked on the thesis, I started to realize it might actually be possible to build a time machine.
 Kurisu: If the thesis is published, you could have your revenge on the scientific community for shunning you--
 Nakabachi: I wasn't shunned!
 *Nakabachi suddenly shrieks at Kurisu, causing her to shrink back in fear.*
@@ -29508,7 +29504,7 @@ Okabe: This moment would not be possible if not for the memories that you and I 
 Okabe: The man you were trying to create, a man with none of those memories to drive him, could never stand where you stand now.
 Okabe: It all meant something.
 Okabe: My preparations are complete. The rest is up to you.
-Okabe: The final phase of Operation 
+Okabe: The final phase of Operation
 Okabe: Your mission: change the outcome without changing established events.
 Okabe: You saw Makise Kurisu lying in a pool of blood. That has been established.
 Okabe: But at the same time, only that has been established.

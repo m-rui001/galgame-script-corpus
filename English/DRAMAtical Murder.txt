@@ -94,7 +94,7 @@ Kio: "All right! Let's arrest the pervy, dirty, and sketchy Aoba!"
 Mio: "Let's do it!"
 Nao: "Arreeeest!"
 Aoba: "Guh, ugh... Get off already, you braaaaaaaaats!!"
-Waaaaaaaaaaaaaaahh!!!" 
+Waaaaaaaaaaaaaaahh!!!"
 *I jolt up, legs wobbling, trying to shake them off.*
 *They don't care if I say they're childish. There's no way those kids would give up just like that.*
 Nao: "Hey, hey, that thing on top of the shelf, what's it used for?"
@@ -654,7 +654,7 @@ Trip: "It's because the Rhymers have been getting a little out of hand recently.
 *I had become a part-timer, and they had joined the yakuza.*
 *Saying that, here the police are like yakuza so I don't think much of it.*
 Aoba: "Anyway, you two are looking as similiar as always. Like twins."
-We are not twins." / "We're not twins." 
+We are not twins." / "We're not twins."
 Virus: "Aoba-san, is your work going smoothly?"
 Trip: "Aaah, you worked at an ice cream shop? The one with the penguin aprons? Didn't you get fired after one day?"
 Aoba: "Not one, three days. Now I'm a salesclerk at a junk shop."
@@ -1287,7 +1287,6 @@ Aoba: ".....?"
 *I treasure what he says as if the words themselves shine.*
 Nine: "....."
 Nine: "....."
-Nine: "....."
 *...What did he say again? I can't remember.*
 *What he said was important...*
 ====================dm0230.nss====================
@@ -1341,7 +1340,7 @@ Koujaku: "Ahahahaha."
 *When I shrug my shoulders while putting the chopsticks on the table, Koujaku laughs even more happily.*
 *I pour tea into three teacups as Granny arranges the plates containing the freshly-made dishes on the table.*
 *All the preparations for dinner are complete, and I sit at the table with everyone.*
-Thank you for the food." 
+Thank you for the food."
 Tae & Aoba & Koujaku: "Thank you for the food." "Thank you for the food." "Thank you for the food."
 *Today's dinner is fish boiled with salt, stir fried konbu, and pork.*
 *I try the pork and find myself instantly impressed.*
@@ -1696,7 +1695,7 @@ Mio: "You're so lame, you old geezer!"
 Aoba: "....."
 Aoba: "...You little..."
 Aoba: "...Just listen to me alreadyyyyy!!!!"
-Waaaaaaaaaaah!!!" 
+Waaaaaaaaaaah!!!"
 *The instant I finally snap and yell at them, the brats makea break for it.*
 ====================dm0300.nss====================
 *Ah, dammit. Even I don't think I'm all that popular, but...*
@@ -2520,7 +2519,7 @@ Kio: "Right, change of target! Let's charge towards the customer!"
 Aoba: "H-Hey, you kids...!"
 *Before I can stop them, the brats dash towards Noiz.*
 *Crap, he's going to get angry...!*
-Uwhoa!" 
+Uwhoa!"
 *I thought he would get angry, but instead he avoids them easily. The advancing Kio and Nao fall forward.*
 *And then, Mio...*
 Mio: "H-Hey! Let me go!"
@@ -2928,7 +2927,7 @@ Koujaku: "...Yakuza?"
 *Koujaku glares at the two of them, murmuring curses under his breath.*
 *Koujaku is in Rib, so seeing yakuza walk around like they owned the place isn't a pleasant sight to him.*
 Koujaku: "Are you guys twins? You look exactly alike."
-We are not twins." / "We're not twins." 
+We are not twins." / "We're not twins."
 Koujaku: "Aoba, you're with these kind of people?"
 Aoba: "I'm not... They weren't yakuza when I first met them anyway. It was when you left the island, Koujaku."
 Virus: "Yep. You could say that we're old friends."
@@ -5100,7 +5099,7 @@ Aoba: "I see. I was just making sure."
 Ren: "Right now, I'm fine."
 Aoba: "I see."
 Ren: "Aoba, aren't you going to sleep? You look tired."
-Aoba: "Well... I keep thinking about lots of things, and they're piling up, really." 
+Aoba: "Well... I keep thinking about lots of things, and they're piling up, really."
 *I sit cross-legged and Ren looks up at me, still curled up in a ball.*
 Aoba: "Lots of things happened, but... I'm mostly thinking about Mizuki."
 Ren: "Is this about the possibility of saving him with your power if you had used it correctly?"
@@ -5115,7 +5114,7 @@ Aoba: "When I think about it, if I don't take that medicine, who knows how dange
 Aoba: "And my memories about Rhyme came back too... I don't know if it was because it was my fault, but it makes me feel sick."
 Ren: "Those two especially relate to each other."
 Aoba: "Yeah. I don't have a sixth sense for it or anything, it's more like a foreboding feeling. And it looks like Toue knows something about me too."
-Aoba: "Maybe it's something I forgot, and don't know about... I have a feeling it is." 
+Aoba: "Maybe it's something I forgot, and don't know about... I have a feeling it is."
 Ren: "Is that so..."
 Aoba: "I definitely want to stop Toue at all costs, but... I also want to learn what he possibly knows about me."
 Aoba: "I'm not psychic, and don't know if he actually does, but I have a feeling he knows something very important."
@@ -7577,12 +7576,6 @@ Aoba: "That's fine."
 Koujaku: "Aoba..."
 Aoba: "That's fine."
 Aoba: "That's fine."
-Aoba: "That's fine."
-Aoba: "That's fine."
-Aoba: "That's fine."
-Aoba: "That's fine."
-Aoba: "That's fine."
-Aoba: "That's fine."
 Koujaku: "Is it really okay?"
 Aoba: " "
 ====================dm1461.nss====================
@@ -7599,14 +7592,6 @@ Aoba: "That's fine."
 Koujaku: "No, no...! Stop...!"
 Aoba: "That's fine."
 Koujaku: "Please stop...!!"
-Aoba: "That's fine."
-Aoba: "That's fine."
-Aoba: "That's fine."
-Aoba: "That's fine."
-Aoba: "That's fine."
-Aoba: "That's fine."
-Aoba: "That's fine."
-Aoba: "That's fine."
 Aoba: "That's fine."
 Aoba: "That's fine."
 Koujaku: "Ahhhhhhhhhh!!!"
@@ -8081,7 +8066,7 @@ Aoba: "Oh, really?"
 *Then I want him to say it quickly already. This is bad for my heart.*
 *My thoughts start going off on their own. and I'm unable to calm down.*
 *Whatever's fine. Some topic...*
-H-Hey-" 
+H-Hey-"
 Aoba: "Ah..."
 Koujaku: "....."
 *We open our mouths at the same time, and then close them.*
@@ -11695,7 +11680,7 @@ Noiz: "It's fine."
 Aoba: "....."
 Noiz: "...Yo."
 Haga: "You're..."
-Ohhh?" 
+Ohhh?"
 Mio: "Ah, that pervert!"
 Aoba: "....."
 *...I should've been doing fine.*
@@ -17453,7 +17438,7 @@ Aoba: "...Good night... Clear."
 ====================dm4550.nss====================
 Aoba: "...All right."
 Aoba: "I thought I told you to listen to people when they're talking!"
-Waaaaahhhh!!!" 
+Waaaaahhhh!!!"
 *When I yell at them, the trio of brats speed out of the store.*
 Aoba: "...Jeez."
 *I sigh and look around the store. The goods are all over the place because those kids were messing around.*
@@ -18599,8 +18584,6 @@ Guard B: "Yes..."
 *My true wish?*
 *My... true...*
 *I want to destroy.*
-*I want to destroy. I want to destroy. I want to destroy. I want to destroy. I want to destroy. I want to destroy. I want to destroy. I want to destroy. I want to destroy.*
-*I want to destroy. I want to destroy. I want to destroy. I want to destroy. I want to destroy. I want to destroy. I want to destroy. I want to destroy. I want to destroy.*
 *I want to destroy. I want to destroy. I want to destroy. I want to destroy. I want to destroy. I want to destroy. I want to destroy. I want to destroy. I want to destroy.*
 *I want to destroy. I want to destroy. I want to destroy. I want to destroy. I want to destroy. I want to destroy. I want to destroy. I want to destroy. I want to destroy.*
 *————　I want to destroy　————*
@@ -20489,7 +20472,7 @@ Ren: "....."
 *Ren looks at me with a slightly worried face and licks my lips.*
 *I become a little happier because it reminds me of how he'd do that as a puppy.*
 Aoba: "You really are you."
-Ren: "There's no helping that. It's because I've been a dog for so many years." 
+Ren: "There's no helping that. It's because I've been a dog for so many years."
 *Ren says that with a slightly troubled tone.*
 *I can almost see him with his ears folded down. I put my lips to his chin.*
 Aoba: "That's not it. It's just that you're definitely my Ren."

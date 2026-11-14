@@ -1,4 +1,4 @@
-﻿chapter10_0|存在の底
+chapter10_0|存在の底
 protagonist:「待ったかな」
 (scene change)
 heroine:「ううん、今きたところです」

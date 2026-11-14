@@ -1,4 +1,4 @@
-﻿==================== Act1.txt ====================
+==================== Act1.txt ====================
 *My morning alarm goes off, and I flail about uselessly for a while until I remember that I'd decided to give morning runs another shot.*
 *I don't know if this was my greatest idea, but I'm determined to keep going.*
 *This is about my health, after all.*
@@ -1001,7 +1001,7 @@ Lilly: "I'd better leave now and give these to Hanako. Thank you for the company
 *Relaxed, I'd say, but that's probably just relief over getting rid of Rin. Maybe.*
 Hisao: "Yeah… good night. Say hi to Hanako for me."
 Lilly: "I will. Good night."
-﻿#### MONDAY
+#### MONDAY
 *A light breeze causes the naked branches overhead to rattle like wooden windchimes.*
 *This is a popular retreat for couples in the summer. The deciduous trees provide a beautiful green canopy, far out of sight of teachers and fellow students.*
 *But now, in late winter, it feels like I'm standing under a pile of kindling.*
@@ -1082,8 +1082,8 @@ Hisao: "That was what my life was like."
 Hisao: "The days became increasingly harder to distinguish from each other, differing only by the book I was reading and the weather outside. It felt like time blurred into some kind of gooey mass I was trapped inside, instead of moving within."
 Hisao: "A week could go by without me really noticing it."
 Hisao: "Sometimes, I'd pause in realization that I didn't know what day of the week it was."
-Hisao: "But other times, all the things that surrounded me would painfully crash into my consciousness, through the barrier of nonchalance I had set up for myself." 
-Hisao: "The pages of my book would start to feel sharp and burning hot and the heaviness in my chest would become so hard to bear that I had to put the book aside and just lay down for a while, looking at the ceiling as if I was going to cry." 
+Hisao: "But other times, all the things that surrounded me would painfully crash into my consciousness, through the barrier of nonchalance I had set up for myself."
+Hisao: "The pages of my book would start to feel sharp and burning hot and the heaviness in my chest would become so hard to bear that I had to put the book aside and just lay down for a while, looking at the ceiling as if I was going to cry."
 Hisao: "But that happened only rarely."
 Hisao: "And I couldn't even cry."
 *Today, the doctor comes in and gives me a smile. He seems excited, but not very. It's like he is trying to make an effort to be happy on my behalf.*
@@ -1095,7 +1095,7 @@ Hisao: "And I couldn't even cry."
 *Doctor" "I believe that you can go home; your heart is stronger now, and with some precautions, you should be fine.*
 *Doctor" "We have all your medication sorted out. I'll give your father the prescription.*
 *The doctor hands a sheet of paper to my dad, whose expression turns wooden as he reads it quickly.*
-*Dad" "So many…" 
+*Dad" "So many…"
 *I take it from his hand and take a look myself, feeling numb. How am I supposed to react to this?*
 *The absurdly long list of medications staring back at me from the paper seems insurmountable. They all blend together in a sea of letters.*
 *This is insane.*
@@ -1222,11 +1222,11 @@ Hisao: "My hobbies are reading and soccer. I hope to get along well with everyon
 *And after that?*
 *I'm being so boring. This is exactly like every self-introduction ever. I should say something more. Something more exciting.*
 *I end up saying nothing, and the teacher picks up from there.*
-*Everyone seems to be satisfied even with what little I said, though. A few girls are whispering to each other, throwing glances at me. It could've gone worse." 
+*Everyone seems to be satisfied even with what little I said, though. A few girls are whispering to each other, throwing glances at me. It could've gone worse."
 *…*
 *I listen to the teacher as he drones about getting along while letting my gaze sweep across the classroom.*
 *Everyone seems to be listening to him intently and when he's done, they clap their hands again which feels like a weird thing to do.*
-*The first row girl claps on this round, with her one hand against her other wrist that ends in a bandaged stump." 
+*The first row girl claps on this round, with her one hand against her other wrist that ends in a bandaged stump."
 *It makes me feel a little bad.*
 Akio: "We're going to be doing some group work today, so that'll give you a chance to talk with everyone. Is that okay with you?"
 Hisao: "Yeah, it's fine with me."
@@ -1931,7 +1931,7 @@ Emi: "You're not out of breath, are you?"
 *Guess it's kind of obvious.*
 Hisao: "A little. Not everybody can be in shape, you know."
 Hisao: "Takes all kinds, right?"
-*Emi frowns. It's not a particularly good frown."   
+*Emi frowns. It's not a particularly good frown."
 Hisao: "Er, that is…"
 Hisao: "I should… get in shape?"
 *Not that I hadn't already decided to try for that.*
@@ -3259,7 +3259,7 @@ Emi: "You've seen the error of your ways and are willing to adhere to my routine
 Emi: "I'll see you bright and early in the morning?"
 Emi: "We'll be running buddies?"
 Hisao: "You know, you'd already convinced me yesterday that this was a good idea."
-Hisao: "You don't need to convince me again."   
+Hisao: "You don't need to convince me again."
 *Not that I did a good job of being convinced.*
 *She's right about eating healthy, after all. And here I am ordering up something grossly unhealthy.*
 *But delicious!*
@@ -3281,7 +3281,7 @@ Hisao: "Okay, that sounds… fine."
 Hisao: "Thanks for your concern."
 Hisao: "Tomorrow morning, then?"
 *I figure that ends the conversation, so I turn to leave.*
-Emi: "Not so fast!" 
+Emi: "Not so fast!"
 *I feel a hand on my collar and in a second I've been yanked backwards.*
 Hisao: "Hey, no need to be so rough!"
 Hisao: "What do you want now?"
@@ -3452,7 +3452,7 @@ Hisao: "Bye, you two."
 *I'm just a lowly transfer student, after all.*
 *Some visitors are already strolling around the grounds.*
 *There are some young families with the perturbed parents trying to keep up with their overenthusiastic offspring…*
-*…a few students of our own accompanied by their parents…" 
+*…a few students of our own accompanied by their parents…"
 *…and a lot of old and young people who are here for no reason I can imagine.*
 *The carillon bursts into life and the principal's squeaky voice announces the opening of the festival over the PA system.*
 *Everyone applauds politely if a bit unenthusiastically.*
@@ -4026,7 +4026,7 @@ Hisao: "Sure. Though don't expect me to go easy on you this time…"
 *Not that I was before, mind. She seems to appreciate the competitive tone.*
 Hanako: "S… same here…"
 *What am I going to do? I don't have any plans. In hindsight, that's really stupid.*
-*Maybe I should've asked a girl out? Then again, all things considered, I don't think I could've done anything like that. It's only my first week." 
+*Maybe I should've asked a girl out? Then again, all things considered, I don't think I could've done anything like that. It's only my first week."
 *A week that I have wasted being awkward around almost everyone, stumbling all over myself trying to get the hang of this place.*
 *Thinking about it, what have I accomplished?*
 *Who would I have even asked?*
@@ -4049,7 +4049,7 @@ Kenji: "Meet me there in one hour. I have to prepare."
 *And to think I'm now going along with his craziness. It really makes me depressed.*
 *I feel like a failure.*
 *Once I step outside, the din of the crowd greets me.*
-*The whole school is bustling with activity." 
+*The whole school is bustling with activity."
 *There are stalls everywhere, and the crowd swarming between them is considerable.*
 *I didn't expect the festival would attract so many visitors.*
 *I have to admit that the people in charge of decorating the place put a lot of effort into it, and it really shows.*
@@ -4093,7 +4093,7 @@ Kenji: "Meet me there in one hour. I have to prepare."
 Kenji: "Who is it?"
 Hisao: "God damn it, Kenji. It's me."
 Kenji: "Oh damn, you scared me, man."
-Hisao: "So what are we doing up here?" 
+Hisao: "So what are we doing up here?"
 Kenji: "We're having a picnic."
 Hisao: "What?"
 Kenji: "Yeah. I have blankets, pretzels and whiskey. This is the ultimate setup, man."
@@ -4446,7 +4446,7 @@ Kenji: "I'll think of something."
 *I black out for a second, waking up when my head hits the surface of my desk. Rubbing my forehead, I realize this is as good a reason as any to stay up for now and stop coming to class so early later.*
 *Eventually, I hear a tapping noise outside in the hallway, and Lilly's tall figure appears in the doorway. She's not in this class, so she must have some other business. Maybe she's looking for Hanako.*
 *Lilly stops at the door, looking hesitant as if she was a vampire who can't come in unless invited. I consider doing so because she looks rather lonesome standing there.*
-*She steps in on her own accord though, after straightening her skirt and shirt collar as if it was of importance to look prim when entering our classroom." 
+*She steps in on her own accord though, after straightening her skirt and shirt collar as if it was of importance to look prim when entering our classroom."
 Lilly: "Excuse me."
 *She calls into the quiet classroom with a probing, delicate voice. I realize the silence might unnerve her because of her blindness so I break it.*
 Hisao: "Good morning, Lilly."
@@ -5000,9 +5000,6 @@ Rin: "Wait."
 *I'll wait.*
 *…*
 *…*
-*…*
-*…*
-*…*
 *Fifteen minutes later I decide that her concentration is indeed unbroken, and also that I have waited long enough to warrant poking her gently on the shoulder to remind her of my presence.*
 *Rin turns her head mechanically to my direction, ending up staring at my crotch level.*
 Rin: "Oh, it's Hisao."
@@ -5391,7 +5388,7 @@ Hisao: "Yeah, I was thinking about it."
 *Misha and Shizune look at each other again.*
 *I'm about to ask what they have in mind when something dark flutters in my peripheral vision, catching my attention.*
 *Out of the corner of my eye, I see the girl with long, dark hair get up from her desk and slip silently towards the door.*
-*It doesn't seem like she was working in any group, and no one seems to notice her but me." 
+*It doesn't seem like she was working in any group, and no one seems to notice her but me."
 *I glance at the teacher, who's also looking at the dark-haired girl go.*
 *Why doesn't he say anything?*
 Shiina: "Hicchan? Is something wrong?"
@@ -5442,7 +5439,7 @@ Shiina: "Hahaha~! That's so plain… Okay~! Let's go!"
 Shiina: "So, Hicchan, you wanted to know about clubs and stuff, right?, right~?"
 Shizune: "…"
 Shiina: "Right, Shicchan! Okay, I guess it makes sense to ask first."
-*Exchanging little nods of confirmation, they turn to face me again and Misha straightens her posture as if she is about to deliver a speech." 
+*Exchanging little nods of confirmation, they turn to face me again and Misha straightens her posture as if she is about to deliver a speech."
 Shiina: "Hicchan, do you have anything you're really interested in?"
 Hisao: "I used to play soccer, but I'm not really into it. I don't follow the teams and players or anything like that."
 Hisao: "As of late, I usually just read a lot."
@@ -5490,7 +5487,7 @@ Hisao: "That's not what I said."
 Shiina: "How about Rich Man, Poor Man, Hicchan? If you lose, you have to join the Student Council~!"
 Hisao: "No, absolutely not."
 Shiina: "Aw~, why not?"
-Hisao: "Well, because you two both have the same incentive, and therefore the same goal, which is to get me to join the Student Council, right?" 
+Hisao: "Well, because you two both have the same incentive, and therefore the same goal, which is to get me to join the Student Council, right?"
 Shizune: "…"
 Shiina: "Yup!"
 Hisao: "Yeah, that isn't my goal. But what this means is that both of you can team up and I'll be at a clear disadvantage. So, I will have to decline."
@@ -5528,7 +5525,7 @@ Shiina: "Wahahahaha~!"
 *I grimace to tell them how much I do not like this, but it's more for show than anything.*
 *So in the end I agree, but only after getting Shizune to acknowledge that I don't mean anything concrete just by accepting to take a look around and play a game with her.*
 *Lunch ends, and we go back to class.*
-*During afternoon classes, the long haired girl comes back and sits down in her seat without a word." 
+*During afternoon classes, the long haired girl comes back and sits down in her seat without a word."
 *Again, no one seems to notice, or if they do, no one says anything. I want to ask Misha about it, but I don't want to be nosy.*
 *After school, Shizune and Misha quickly find me by the first floor lobby and latch onto me, covering each flank in case I might try to escape.*
 *I feel a little offended, but I'd been considering it. Nevertheless, I'm a bit disturbed that enough people have made a break for it in the past that they're on their guard.*
@@ -5642,7 +5639,7 @@ Shiina: "I was really excited when you took South America, but then you switched
 Shiina: "You didn't take enough risks, and when you did, you didn't follow through. That's terrible, Hicchan."
 *Damn, what's it to her if I played too carefully? There's no need to rub it in my face.*
 Shizune: "…"
-Shiina: "I wonder if you'd even be any good for the Student Council…" 
+Shiina: "I wonder if you'd even be any good for the Student Council…"
 *What's this, reverse psychology?*
 Hisao: "I guess I don't have to worry about joining or not in that case."
 Shizune: "…"
@@ -5676,7 +5673,7 @@ Shiina: "Bye bye!"
 *One flight of stairs up and I run into problems.*
 *The second floor hallway is a carbon copy of the third floor one.*
 *Wide, of course; and plain, like only hallways can be.*
-*The problem is that the library's whereabouts are not as easily determined as one would think." 
+*The problem is that the library's whereabouts are not as easily determined as one would think."
 *The classrooms are marked with signs stating which class they belong to, but then there is a plethora of other, unmarked rooms.*
 *Is the library one of them? Or is it just somewhere down the hallway?*
 *I bet on the latter and choose my direction at random.*
@@ -5802,7 +5799,7 @@ Lilly: "Yuuko, are you here?"
 *What's unexpected is that it draws a reaction.*
 *Something from under the counter thuds against it, followed by a quiet wail.*
 Iwanako: "Awwww."
-*The origin, apparently the librarian, quickly crawls out and bounces up to extremely rigid attention."   
+*The origin, apparently the librarian, quickly crawls out and bounces up to extremely rigid attention."
 Yuuko: "Hi, Lilly. How can I help you?"
 *Her voice is strained in a failing attempt to sound casual and she's rubbing the back of her head.*
 Lilly: "Good afternoon. What happened just now? I heard a strange sound."
@@ -6022,7 +6019,7 @@ Hisao: "I can't get a proper touch on other people here, and I have no idea if i
 *I don't know why I'm telling this to Kenji. It's not like we've had any contact either.*
 Kenji: "That's rough, dude. Yeah, I'm sorry about calling you a psychic spy and all, but you can never be too careful."
 Kenji: "It's the hard reality we live in."
-*I'm slowly starting to think that Kenji isn't necessarily living in the same reality as the rest of us." 
+*I'm slowly starting to think that Kenji isn't necessarily living in the same reality as the rest of us."
 Kenji: "You see? This is how it is, this world. There is no justice. You see? Even when I lose, I win, because I don't lose the lesson."
 Hisao: "…What does that even mean?"
 Kenji: "It doesn't matter."
@@ -6204,7 +6201,7 @@ Hanako: "Lilly…"
 Lilly: "Ah, Hanako. Good morning. Is the president here?"
 Hanako: "Y-yes."
 *Hanako glances over her shoulder at Shizune again, as if to confirm she can't hear them even though that's impossible.*
-Lilly: "I suppose we'd best be off, then." 
+Lilly: "I suppose we'd best be off, then."
 *Lilly's sigh and tone of what seems like frustration makes me raise an eyebrow. I guess there's some kind of enmity between the two.*
 *It's intriguing, but that's not really something I'd ask about. I'm sure if they wanted me to know, then they would tell me.*
 *It's only my third day here; I should be trying to make friends, not finding out why people are enemies.*
@@ -6233,7 +6230,7 @@ Hanako: "S… sure."
 Lilly: "Well then, shall we go?"
 *I'm sure Lilly wouldn't do this so easily if she saw how scared Hanako looks, but it can't be helped now.*
 *Declining after the deal is sealed would only cause confusion and problems.*
-*Misha and Shizune are still arguing about their choice for lunch place, incomprehensible for a pair of high school students who have to take a taxi at least to make it to downtown and back in time." 
+*Misha and Shizune are still arguing about their choice for lunch place, incomprehensible for a pair of high school students who have to take a taxi at least to make it to downtown and back in time."
 Hisao: "Haven't you finished, already?"
 Shiina: "Oh, sorry Hicchan! Were you waiting for us?"
 Shizune: "…"
@@ -6733,7 +6730,7 @@ Hisao: "I'll be going then."
 Hisao: "Anybody ho—"
 *Something catches my eye and I stop mid-sentence.*
 *Sitting on a desk is a short-haired girl; curiously wearing a boy's uniform, with a fork between her toes, a morsel of food stuck firmly on the end.*
-*This odd way of dining seems to be caused by her apparent lack of hands, but her presence here is what takes me aback even more." 
+*This odd way of dining seems to be caused by her apparent lack of hands, but her presence here is what takes me aback even more."
 *How did I miss her before? She's sitting in a corner very still, but I still somehow took her as a part of the furnishing or a statue at first glance.*
 *I'm not being too observant today, as a whole.*
 *The girl seems to be frozen in place, staring at me with her huge eyes like a rabbit in headlights.*
@@ -16745,7 +16742,7 @@ Hisao: "nnI want to know Hanako better. I want to save our friendship, if not be
 *My hand dives into my pocket once more. This time I quickly navigate to the texting menu before I have a chance to change my mind again.*
 *“Hanako, if you want to talk, I'll be at the park in town for a while.”*
 *Fighting a last measure of doubt, I thumb in my message to Hanako and press the button to send it.*
-*And now… I wait. My part in this has been fulfilled; what needs to happen now is for Hanako to make the decision. It would be meaningless for me to drag her here. She needs to decide for herself whether she wants to meet me." 
+*And now… I wait. My part in this has been fulfilled; what needs to happen now is for Hanako to make the decision. It would be meaningless for me to drag her here. She needs to decide for herself whether she wants to meet me."
 *The apple juice from the vending machine tastes awfully bitter as I swill it down. My grip on the can has caused it to dent slightly in the middle.*
 *I shouldn't be this tense, but it's probably inevitable.*
 *Hanako is dear to me.*
@@ -20853,7 +20850,7 @@ Hisao: "I guess this means that once you go, we'll be breaking up?"
 Lilly: "W-we could try pursuing a long-distance relationship. They're getting more and more common these days, after all…"
 *Even as she says it, the tone of her voice gives away that she doesn't truly believe what she's saying.*
 Hisao: "Lilly is far too old-fashioned to be able to cope with a relationship without any kind of physical presence, and even I am, to an extent. All we would ever be to each other would be a voice from the other side of the world."
-Hisao: "In the end, trying to rationalize everything is futile. Any attempts to try and connect what's happening with the future or past just seem to get more difficult the more I concentrate." 
+Hisao: "In the end, trying to rationalize everything is futile. Any attempts to try and connect what's happening with the future or past just seem to get more difficult the more I concentrate."
 Hisao: "Those quiet moments when we just walked side by side, the precious time we spent with Hanako and Akira, the casual chatter we had during lunchtimes, the times we made love, the confessions of our feelings to each other…"
 Hisao: "All pointless. All just a fleeting moment in our young lives."
 Hisao: "We're just two children pretending to be adults, aren't we?"
@@ -23781,7 +23778,7 @@ Hisao: "It's the last day of school for Rin. I feel like I should send her off w
 *Perhaps she went to the art club room for some last minute things instead, or got held back by her strict homeroom teacher.*
 *I haven't really waited that long, but having grown tired of it already, I decide to go find her myself.*
 *I stuff my book back in the bag and throw the now empty juice can in a trash bin, then climb upstairs.*
-*The hallway is eerily quiet, as there are no club rooms apart from the art room nearby. I check there first, but not even the teacher is in." 
+*The hallway is eerily quiet, as there are no club rooms apart from the art room nearby. I check there first, but not even the teacher is in."
 *Coming back towards the stairwell, I quietly knock on the door of 3-4 and push the door open to peek in.*
 *Yellow sunbeams cross the classroom, falling across the floor. The dust and chalk floating slowly in the air make the light almost palpable.*
 *The entire room bathes in the gentle light shining through the windows, washing the shadows away.*
@@ -24065,7 +24062,7 @@ Shinichi: "Like they say, a teacher can only show the door, it's the student who
 *I put the graphite down on the table and think hard and honestly about what I really want.*
 *The next day, I take the bus into the city. It goes twice an hour starting in the morning, passing by the front gate of Yamaku at 20 minutes past and 10 to the hour.*
 *The ride takes considerably longer than the one Nomiya gave us in his car. I slowly read a book as the bus makes its rounds through the suburbs, pausing at almost every stop to pick up someone or let them out.*
-*Eventually we make it to the last stop at the city center. The city is fair-sized, but not too large, and seems too quiet." 
+*Eventually we make it to the last stop at the city center. The city is fair-sized, but not too large, and seems too quiet."
 *Nevertheless, I enjoy the atmosphere.*
 *Despite being slightly directionally challenged, I find my way from the bus station to the gallery without too much effort, and soon I find myself staring at the big letters saying “22nd Corner.”*
 *Inside, the gallery owner is intently studying a large painting hanging on the wall, a portrait of an old man.*
@@ -24339,7 +24336,7 @@ Sae: "This namelessness, this rejection of labels, it works."
 Sae: "It's a good unifying theme, and something people can grasp onto easily. Allows for a lot of room for interpretation. It gives a good impression."
 Sae: "Think about it. All sorts of associations can be made, starting from identity and self-definition, all the way to whatever you want to think about it."
 Sae: "We could call your exhibition “Nameless” and build it on that theme. How does that sound?"
-*Rin thinks about this for a while. I'm not sure how Sae managed to get so fired up by Rin's reluctance to apply names to her works." 
+*Rin thinks about this for a while. I'm not sure how Sae managed to get so fired up by Rin's reluctance to apply names to her works."
 *It feels like she might be extrapolating too much, but it's a pretty impressive-sounding idea.*
 Rin: "I don't think it's a bad idea."
 Hisao: "For what it's worth, I have to say it sounds pretty good to me, too."
@@ -27344,7 +27341,7 @@ Shiina: "Hicchan~! Are you paying attention?"
 Hisao: "Yeah."
 Shiina: "Shicchan says that sign language is different from any other, because you have to think about everything before you say it. That means every word has more weight, Hicchan. Every single one is more important than normal."
 Shiina: "So~, pay attention, please."
-*She continues her basic rundown of the basics of sign language. Eventually she starts talking about stuff I start to recognize." 
+*She continues her basic rundown of the basics of sign language. Eventually she starts talking about stuff I start to recognize."
 *In the end, I'm impressed. It took a bit of stumbling to get there, but as a teacher, she's pretty good when she's serious.*
 *After awhile I start to notice that it's getting late, so I thank Misha, bid her goodbye, and go back to my dorm.*
 *I learned a lot today.*
@@ -27746,7 +27743,7 @@ Shiina: "Hanako isn't the kind of person who would love something like that eith
 Shizune: "…"
 Shiina: "If you value something, you fight. Struggle is proof of precs— preciousness? I think so, at least. Or~! You concede immediately~! Since it's so precious that it stops your thinking. The first is a passionate love. The second is a gentle love."
 Shizune: "…"
-Shiina: "I tried to fight her, chasing around her king, and trying to bait her. I didn't succeed though, because she stuck to only what would work." 
+Shiina: "I tried to fight her, chasing around her king, and trying to bait her. I didn't succeed though, because she stuck to only what would work."
 Shiina: "The trickiest moments were when she moved the fastest. That means she knew exactly how to deal with those situations."
 Shiina: "That means someone taught her. Do you understand, Hicchan~?"
 Hisao: "Not really."
@@ -28068,7 +28065,7 @@ Hisao: "You're lucky I was willing to do package delivery in the first place, sm
 Kenji: "Whoa, calm down. Man, you are so confrontational. Is it because of the Student Council thing? I hear you hang out with them now."
 Hisao: "You heard it from me. When I told you."
 Kenji: "Really?"
-Kenji: "Yeah, well, whatever, man. The point is they are terrible." 
+Kenji: "Yeah, well, whatever, man. The point is they are terrible."
 Kenji: "You're the new guy, so of course you wouldn't know, but around here she's a very divisive figure. Before you came here, she tried to institute a badge policy. It's a long story, so maybe you should sit down."
 *I look around for a chair, but can't find one as we are in a goddamn hallway. I raise a finger and start thinking that maybe I should tell him that, but he's already started talking. Not wanting to waste the arm movement, I look at my watch instead.*
 Kenji: "It would have been a real reign of terror, if it had happened."
@@ -31039,7 +31036,7 @@ Hisao: "Anyway, my point is, you can't do that. People are too sentimental to ju
 Hisao: "It's impossible. Shizune can't think of life in terms of anything but winning and losing; don't you think she wishes she didn't have to remember the parts where she loses?"
 Hisao: "You can't pick and choose, though. That's like wanting to live in a bubble. The worst part is, your way of thinking is so wasteful. It's making you so pessimistic you're afraid of everything."
 Hisao: "Come on."
-*I grab her hand as I wave Yuuko over with the other to pay for our food. " 
+*I grab her hand as I wave Yuuko over with the other to pay for our food. "
 Shiina: "Where are we going now?"
 Hisao: "Back to school before lunch is over, but I want to check out a few places before then."
 *Although I start feeling tired even after doing what could be described as on the level of a brisk jog at best, Misha and I eventually make it to the gate of the school with a little over ten minutes to spare.*
@@ -31118,7 +31115,7 @@ Kenji: "I need to chill in your room for today and look through the little peeph
 Kenji: "It'll be awesome, we'll get pizza, on both days. Or should we get pizza on just one day, and something else on the other day? But what? And which day is pizza day?"
 Hisao: "Not today. Never. You know, I'm in the Student Council. Why didn't you just ask me about this?"
 *If he had, I would have been able to find out very easily and wouldn't have to have Kenji in my room. It's win-win, except I guess this way he might be able to get a pizza out of me. I start thinking that maybe that was Kenji's intention.*
-*But… No, I doubt it. There's no way he could plan something that elaborate." 
+*But… No, I doubt it. There's no way he could plan something that elaborate."
 Kenji: "You know?"
 Hisao: "When they deliver mail? Well, no. They just hand me my mail when I go to Student Council, usually. The point is, I could find out by asking them. Then I'd know and I could tell you. That's how people find things out, by asking."
 Kenji: "Not cavemen. Aw yeah, no response to that, right? Checkmate."
@@ -31578,7 +31575,7 @@ Shizune: "I don't know if it's the same for me. I hate it."
 *I think everyone wants a purpose. Looking back, it makes sense that Shizune doesn't have one. All that energy would otherwise have been directed at something.*
 *Since she had nothing to channel it towards, Shizune lashed out in all directions. Reminds me of a downed power line flailing in a storm: Furious and incandescent, but aimless and dangerous. Just like Shizune.*
 *I want to say that this is why she feels the need to turn everything into a competition, but… that's probably just how she is. Having a goal to put that energy towards is just the next level.*
-Shizune: "How about this? I could go into business. My family is well connected, so it shouldn't be too hard. …That comes off sounding a little unethical and nepotistic, doesn't it?" 
+Shizune: "How about this? I could go into business. My family is well connected, so it shouldn't be too hard. …That comes off sounding a little unethical and nepotistic, doesn't it?"
 Hisao: "A little."
 Shizune: "I won't coast, though. I'll work hard, until I'm at the very apex."
 Shizune: "When I have as much money as possible, so much that it'll be like I won't know what to do with it, I'll move on to the next step. After sitting on it for a while, of course, like a fairy tale dragon."
@@ -31916,7 +31913,7 @@ Kenji: "Having a bad day?"
 Hisao: "Yeah, I don't know. I'm kind of distracted right now."
 *So distracted that it doesn't hit me until he leaves that his was actually kind of sound advice. I think Shizune would have given me the same suggestion. By then, it's too late to thank him politely.*
 *I already responded in the rudest tone possible. I just feel like an ass.*
-*In retrospect, these past few days I've regretted every action I've taken. The worst part is that I haven't taken the time to stew over them, and in doing so, learn from them. This only leads to - has led to - more regrets." 
+*In retrospect, these past few days I've regretted every action I've taken. The worst part is that I haven't taken the time to stew over them, and in doing so, learn from them. This only leads to - has led to - more regrets."
 *The next morning, as I'm getting dressed, I hear a knock at my door. Quickly putting on the rest of my clothes, I open it, without really stopping to think about who could be behind it.*
 *It turns out to be Shizune.*
 Shizune: "Misha told me that you were looking for me."
@@ -31979,4 +31976,3 @@ Hisao: "All right."
 *Not even bothering to sign it, I stand up. My hands are in my pockets, fingering my loose change. The morning air is cold against my face.*
 *As I look back at her, she seems very lonely. I'm reminded of myself. I've made that expression before. Maybe it's on my face right now. It feels like the image of such a lonely girl will stick in my mind forever.*
 *Every moment where I could have prevented this, or solved the problem, comes back to me. It makes me smile in a way without amusement.*
-

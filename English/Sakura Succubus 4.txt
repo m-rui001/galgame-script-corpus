@@ -1,4 +1,4 @@
-﻿*The setting sun casts a rosy glow upon the undulating ocean.*
+*The setting sun casts a rosy glow upon the undulating ocean.*
 *Dark blue waves lap against the shore, churning themselves into white foam.*
 *The sand shimmers, fine and golden, in the last vestiges of the sunlight.*
 *It's a breathtakingly beautiful scene...*
@@ -2175,7 +2175,7 @@ Marina: "There's no telling what is hiding away in the undergrowth, and it's so 
 Marina: "I don't understand how anybody could enjoy this! Hazel must be insane - and Hifumi, too!"
 Marina: "Oh, they're all just as bad as each other!"
 *Marina's been soldiering on for a good twenty minutes, almost surgically attached to my arm, but I think she might be nearing her limit.*
-*I'm afraid, if I keep pushing, she'll have a breakdown."       
+*I'm afraid, if I keep pushing, she'll have a breakdown."
 *Maybe I should suggest a retreat. That would, in all likelihood, be our best move.*
 *I don't want Marina to suffer pointlessly: not over something that's supposed to be fun.*
 Hiroki: "Are you sure you want to keep going?"
@@ -3117,7 +3117,7 @@ Cosmos: "I'd like it if we could spend some private time together, just the two 
 Cosmos: "I'm not very good with words, so maybe what I want to say isn't coming out right..."
 Cosmos: "But, with actions, I should be able to properly show you how I feel."
 Hiroki: "I think I've got a pretty good idea already..."
-*Cosmos isn't exactly the queen of subtlety." 
+*Cosmos isn't exactly the queen of subtlety."
 Hiroki: "But sure, I don't mind. I'd love to spend more time with you: just the two of us."
 Cosmos: "Yay! Thank you very much, Hiroki! You won't regret it!"
 Hiroki: "I'm sure I won't."

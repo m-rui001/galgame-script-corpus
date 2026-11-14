@@ -1,0 +1,395 @@
+path,reason,chars,sha1
+JA/2016a Yubikiri [日本語]/B004-00.txt,empty,2,1419458f2696be8daeade77ddad380cd0c871fdb
+JA/Kao no nai Tsuki [日本語]/D0813_09.txt,garbage,1590,4bdd9d509ba819ea688160fec675378f513fd9af
+JA/Kao no nai Tsuki [日本語]/D090205_10.txt,duplicate,1404,01091d849da57813051a4636da40805550f6e24e
+JA/Minikui Mojika no Ko [日本語]/a0020.txt,fragment,194,6bf4ceeae76b062d370d56013eb0854f7903bdb6
+JA/Minikui Mojika no Ko [日本語]/a0030.txt,fragment,297,de17e756d057cb10ed81958e23edb72335a5aebe
+JA/Minikui Mojika no Ko [日本語]/a0040sl.txt,empty,4,abc18713ef6bd07ce2230d301eeac72c0f1fe154
+JA/Minikui Mojika no Ko [日本語]/a0041.txt,garbage,70,d9a2872237fd81b8d1f5537bfd7c42dbd2cc18f8
+JA/Minikui Mojika no Ko [日本語]/a0041sl.txt,duplicate,4,abc18713ef6bd07ce2230d301eeac72c0f1fe154
+JA/Minikui Mojika no Ko [日本語]/a0042.txt,garbage,68,33f66ce828214c3577fd90b022008882aa42a41f
+JA/Minikui Mojika no Ko [日本語]/a0042sl.txt,duplicate,4,abc18713ef6bd07ce2230d301eeac72c0f1fe154
+JA/Minikui Mojika no Ko [日本語]/a0043.txt,garbage,92,68667b0e7bc458da422199e35008afeefb7f1993
+JA/Minikui Mojika no Ko [日本語]/a0043sl.txt,duplicate,4,abc18713ef6bd07ce2230d301eeac72c0f1fe154
+JA/Minikui Mojika no Ko [日本語]/a0044.txt,garbage,84,45ff8ce49393b11b7cbfb0f3f993e94388e4e28a
+JA/Minikui Mojika no Ko [日本語]/a0044sl.txt,duplicate,4,abc18713ef6bd07ce2230d301eeac72c0f1fe154
+JA/Minikui Mojika no Ko [日本語]/a0045.txt,garbage,124,ec411ee20e4ee19d1c44bb45127e4a25c1d8bae7
+JA/Minikui Mojika no Ko [日本語]/a0045sl.txt,duplicate,4,abc18713ef6bd07ce2230d301eeac72c0f1fe154
+JA/Minikui Mojika no Ko [日本語]/a0046.txt,fragment,270,2694915b336fefdb4fe1abce0c9263624bb93eba
+JA/Minikui Mojika no Ko [日本語]/a0046sl.txt,duplicate,4,abc18713ef6bd07ce2230d301eeac72c0f1fe154
+JA/Minikui Mojika no Ko [日本語]/a0047.txt,fragment,245,f5dd181d9bb64e7dcd418a4dc6b068ca361c5515
+JA/Minikui Mojika no Ko [日本語]/a0047sl.txt,duplicate,4,abc18713ef6bd07ce2230d301eeac72c0f1fe154
+JA/Minikui Mojika no Ko [日本語]/a0048.txt,garbage,58,e640155d0f3d104a9e3a260c34c29724ae5a0e54
+JA/Minikui Mojika no Ko [日本語]/a0048sl.txt,duplicate,4,abc18713ef6bd07ce2230d301eeac72c0f1fe154
+JA/Minikui Mojika no Ko [日本語]/a0111.txt,fragment,118,83084ec204039420cb748e2196dd2cbf53b01d8d
+JA/Minikui Mojika no Ko [日本語]/a0120sl.txt,empty,16,cb26b52d54fe676465eefb2f17cbb9d9f732d49d
+JA/Minikui Mojika no Ko [日本語]/a0121.txt,garbage,104,eed51552cc9986343c494a870456052e4ed1c9d7
+JA/Minikui Mojika no Ko [日本語]/a0121sl.txt,duplicate,16,cb26b52d54fe676465eefb2f17cbb9d9f732d49d
+JA/Minikui Mojika no Ko [日本語]/a0131.txt,garbage,91,6c219f94858c69f9e1ef63c87581908704c43426
+JA/Minikui Mojika no Ko [日本語]/a0132hsl.txt,garbage,40,e0c4a3f78cdb5ad43804fa2267e0e31f9298639b
+JA/Minikui Mojika no Ko [日本語]/a0171.txt,fragment,220,4f2b4e724dda37960bae674402f4d72cfe1dba13
+JA/Minikui Mojika no Ko [日本語]/a0173.txt,fragment,214,60232594218969dd7452220d06b142a9b165035b
+JA/Minikui Mojika no Ko [日本語]/a0179.txt,garbage,110,1acb7dfaaa5ec032dabfffa101db656628d9c183
+JA/Minikui Mojika no Ko [日本語]/a0200sl.txt,empty,7,502daa9e842b37cfce3083e8f217a7a872727274
+JA/Minikui Mojika no Ko [日本語]/a0201.txt,fragment,263,5416f2caee84dad57fd9685889c15a2bbfb5229d
+JA/Minikui Mojika no Ko [日本語]/a0201sl.txt,duplicate,7,502daa9e842b37cfce3083e8f217a7a872727274
+JA/Minikui Mojika no Ko [日本語]/a0210sl.txt,duplicate,16,cb26b52d54fe676465eefb2f17cbb9d9f732d49d
+JA/Minikui Mojika no Ko [日本語]/a1020.txt,fragment,72,8a0e92314ebeea1e26039bff4acfd5b7cc46ad77
+JA/Minikui Mojika no Ko [日本語]/a1022.txt,fragment,151,bc34e8de14142f969ae19d1af497406cd2e7f14a
+JA/Minikui Mojika no Ko [日本語]/a1032.txt,fragment,157,ceb1a41aad7f5b2ee514f52bd7e284ff3cda896a
+JA/Minikui Mojika no Ko [日本語]/a1034.txt,fragment,135,a6ddd8c4ebbda4e37a80c8b5c63cdd6c1ac883cf
+JA/Minikui Mojika no Ko [日本語]/a1051.txt,fragment,155,fe372ab67859350200f4607e5dd46dfe23bc9bb8
+JA/Minikui Mojika no Ko [日本語]/a1070.txt,fragment,289,889bfc491ed73638781ec1b190a95c3d4a66b16a
+JA/Minikui Mojika no Ko [日本語]/a1081.txt,garbage,51,420c2a1ad70639126a022b5c54ee41df53d01468
+JA/Minikui Mojika no Ko [日本語]/a1082.txt,fragment,151,2127fc3d25439614fb5b8af3ffaed5953db11dc4
+JA/Minikui Mojika no Ko [日本語]/a1090.txt,fragment,287,1f698c8b43174a4a4ab285877f66fa49e38a8cc5
+JA/Minikui Mojika no Ko [日本語]/a1092.txt,fragment,224,594f45816caa639004927778b8ba73d5e3ba2950
+JA/Minikui Mojika no Ko [日本語]/a1111.txt,fragment,152,266978d814ca5207da111b4307577dd803e5f984
+JA/Minikui Mojika no Ko [日本語]/a1112.txt,fragment,154,526fe172cd2916a1f45b09feb709adbdd79bfac4
+JA/Minikui Mojika no Ko [日本語]/a1124sl.txt,duplicate,7,502daa9e842b37cfce3083e8f217a7a872727274
+JA/Minikui Mojika no Ko [日本語]/a2021.txt,fragment,173,fe861fde9ba55adf4bf2cf77d0191ea7899a1608
+JA/Minikui Mojika no Ko [日本語]/a2023.txt,fragment,290,2066eb517faabc7e5b30b8fe7fe4f1ed4b6c64a4
+JA/Minikui Mojika no Ko [日本語]/a2024.txt,garbage,81,4c312f166ad1bdb2108515473c3860877726109c
+JA/Minikui Mojika no Ko [日本語]/a3050sl.txt,duplicate,16,cb26b52d54fe676465eefb2f17cbb9d9f732d49d
+JA/Minikui Mojika no Ko [日本語]/a3051.txt,garbage,78,eb8ca5ef3c098169f42e4713f73c1c1a07561fff
+JA/Minikui Mojika no Ko [日本語]/a3051sl.txt,duplicate,16,cb26b52d54fe676465eefb2f17cbb9d9f732d49d
+JA/Minikui Mojika no Ko [日本語]/a3061.txt,garbage,65,81a92ca23acf24f82d4a6ef3d95f44ce0878d963
+JA/Minikui Mojika no Ko [日本語]/a3071.txt,fragment,106,9f53e5e0755a1a285546db5ea488849899db02a6
+JA/Minikui Mojika no Ko [日本語]/a3093.txt,garbage,111,194387a0c5e65582d29196cea859a4c523d98325
+JA/Minikui Mojika no Ko [日本語]/a3094.txt,garbage,89,a7cdbaf0080a19d58e9e7778e894fb2a2e2c605a
+JA/Minikui Mojika no Ko [日本語]/a3095.txt,garbage,38,596ef35e2e484c047067f4f006f8343f0ba62158
+JA/Minikui Mojika no Ko [日本語]/a3096.txt,fragment,186,afd78f639bd0303f891e88abfa305cf0ded7d105
+JA/Minikui Mojika no Ko [日本語]/a3101.txt,fragment,189,7b182321d278dc087b34923410307a6670cd028d
+JA/Minikui Mojika no Ko [日本語]/a3102.txt,fragment,292,eb5d6c69ebe2402f2a459fc3c3c22ddaf89d7e2e
+JA/Minikui Mojika no Ko [日本語]/a3111.txt,fragment,204,13306950f371c174d55341c7ff27a97d2663d246
+JA/Minikui Mojika no Ko [日本語]/a3112.txt,fragment,278,a84047fe1329aadbca597951d2c4a82a57ba6117
+JA/Minikui Mojika no Ko [日本語]/a3140.txt,fragment,297,7de2457a16c4d33fc64a8d35f7b8b1e06bc79377
+JA/Minikui Mojika no Ko [日本語]/a3150sl.txt,empty,6,5f56b5d719732febf66875fa8e029c7e49dbf4c4
+JA/Minikui Mojika no Ko [日本語]/a3151.txt,fragment,208,85857949a1484946e1df9230a2455fb48b4c90d2
+JA/Minikui Mojika no Ko [日本語]/a3151sl.txt,duplicate,6,5f56b5d719732febf66875fa8e029c7e49dbf4c4
+JA/Minikui Mojika no Ko [日本語]/a4020.txt,fragment,286,a32f63c0448824426aaaee149011189208f6e088
+JA/Minikui Mojika no Ko [日本語]/a4030.txt,fragment,102,7fb870e8c61d99338949fb88e2023eb761940bd3
+JA/Minikui Mojika no Ko [日本語]/a4040sl.txt,duplicate,4,abc18713ef6bd07ce2230d301eeac72c0f1fe154
+JA/Minikui Mojika no Ko [日本語]/a4041.txt,fragment,140,2e457fc0854a58171246773b734621a84e2d69f3
+JA/Minikui Mojika no Ko [日本語]/a4041sl.txt,duplicate,4,abc18713ef6bd07ce2230d301eeac72c0f1fe154
+JA/Minikui Mojika no Ko [日本語]/a4042.txt,fragment,166,ba5c503cc00986ba2a6cdbc4f561d19be52e3ce0
+JA/Minikui Mojika no Ko [日本語]/a4042sl.txt,duplicate,4,abc18713ef6bd07ce2230d301eeac72c0f1fe154
+JA/Minikui Mojika no Ko [日本語]/a4043.txt,garbage,92,612f44f9a31244ec06fc043caa760b41982defe6
+JA/Minikui Mojika no Ko [日本語]/a4043sl.txt,duplicate,4,abc18713ef6bd07ce2230d301eeac72c0f1fe154
+JA/Minikui Mojika no Ko [日本語]/a4044.txt,fragment,119,d0ae276520b39e712c1b5bf26e7d36702e37d90c
+JA/Minikui Mojika no Ko [日本語]/a4044sl.txt,duplicate,4,abc18713ef6bd07ce2230d301eeac72c0f1fe154
+JA/Minikui Mojika no Ko [日本語]/a4047.txt,garbage,110,450a7c4419b87504ec03d43076b0db87748ba0a7
+JA/Minikui Mojika no Ko [日本語]/a4049.txt,fragment,128,86e81709009d705a2940d20379a2811f9ffe2960
+JA/Minikui Mojika no Ko [日本語]/a4050.txt,fragment,162,1e259c55ff08740d27474b543300ca02d552d5c5
+JA/Minikui Mojika no Ko [日本語]/a4051.txt,garbage,80,551658f34a102b27f6c81a721e40fb5756a6ea90
+JA/Minikui Mojika no Ko [日本語]/a4052.txt,garbage,56,f6bea2f080d4c45479ebb9e4b1f89fb458fbc9f6
+JA/Minikui Mojika no Ko [日本語]/a4053.txt,fragment,61,2d90db872a3fb4f1c810caa4449ec2d36a4bd9f8
+JA/Minikui Mojika no Ko [日本語]/a4054.txt,fragment,163,cc78ebea8605685275d4e8b10550a7b7501c2aa1
+JA/Minikui Mojika no Ko [日本語]/a4055.txt,fragment,184,9819f64d6955ca42efe550185055bd77dffe59ed
+JA/Minikui Mojika no Ko [日本語]/a4055sl.txt,fragment,85,f689cd1f4cc44f278d5486299a51eed4591d4061
+JA/Minikui Mojika no Ko [日本語]/a4056.txt,fragment,203,6784c603b4c7c18fdc524e51747d3b476803d01c
+JA/Minikui Mojika no Ko [日本語]/a5010.txt,fragment,269,5eca20d40a8399ad878291695276a986d5ff4e15
+JA/Minikui Mojika no Ko [日本語]/b1050sl.txt,empty,17,1d2d36411d6c6b3f5b52649e7f3fb07f541f584d
+JA/Minikui Mojika no Ko [日本語]/b1051.txt,fragment,207,151a7cc6343e25f6b2166cc0af41635d0e5a53c6
+JA/Minikui Mojika no Ko [日本語]/b1051sl.txt,duplicate,17,1d2d36411d6c6b3f5b52649e7f3fb07f541f584d
+JA/Minikui Mojika no Ko [日本語]/b1052.txt,fragment,132,6c48e2449b018453b631c9cffd46eb11f4879183
+JA/Minikui Mojika no Ko [日本語]/b1052sl.txt,duplicate,17,1d2d36411d6c6b3f5b52649e7f3fb07f541f584d
+JA/Minikui Mojika no Ko [日本語]/b1060.txt,fragment,241,fb3e6dc74d1182a8cf3a4a9235c6e9d0774c3b2c
+JA/Minikui Mojika no Ko [日本語]/b1062.txt,fragment,135,e3accb8f00b937af65d656f15ffe17ea73fe03d1
+JA/Minikui Mojika no Ko [日本語]/b1081.txt,fragment,205,20efd9eff68f3b7ec80e2cd9bf981a71ac6f75e4
+JA/Minikui Mojika no Ko [日本語]/b1090sl.txt,duplicate,4,abc18713ef6bd07ce2230d301eeac72c0f1fe154
+JA/Minikui Mojika no Ko [日本語]/b1091.txt,fragment,138,d8821a151fbf4ef05d99b9dcad463e799c3498f3
+JA/Minikui Mojika no Ko [日本語]/b1091sl.txt,duplicate,4,abc18713ef6bd07ce2230d301eeac72c0f1fe154
+JA/Minikui Mojika no Ko [日本語]/c2040sl.txt,empty,10,b8784c46194e054be21a218e92cd1a2230ad464a
+JA/Minikui Mojika no Ko [日本語]/c2041.txt,fragment,161,be208533a410903439ae3b4c64c54f4a200f361a
+JA/Minikui Mojika no Ko [日本語]/c2041sl.txt,duplicate,10,b8784c46194e054be21a218e92cd1a2230ad464a
+JA/Minikui Mojika no Ko [日本語]/c2052.txt,garbage,52,a4a29f24dc1cbee649961cc3f39cd77d63094891
+JA/Minikui Mojika no Ko [日本語]/c2081.txt,fragment,174,6cf6821bc9a9163c476fbd7e8d66e4ad0f5ec971
+JA/Minikui Mojika no Ko [日本語]/d3022.txt,fragment,222,422d6d71be64305406383f159fb244bcf58f0332
+JA/Minikui Mojika no Ko [日本語]/d3050sl.txt,duplicate,7,502daa9e842b37cfce3083e8f217a7a872727274
+JA/Minikui Mojika no Ko [日本語]/d3051.txt,fragment,161,220158579d0f020ad68f132c32a11ee002cda6bf
+JA/Minikui Mojika no Ko [日本語]/d3051sl.txt,duplicate,7,502daa9e842b37cfce3083e8f217a7a872727274
+JA/Minikui Mojika no Ko [日本語]/d3080sl.txt,garbage,29,447fe77bd3e8a71e55be76be21a9926556396a86
+JA/Minikui Mojika no Ko [日本語]/d3081.txt,fragment,122,3a34c0a42f584bbb128768971f4cc54010eb56ef
+JA/Minikui Mojika no Ko [日本語]/d3081sl.txt,duplicate,29,447fe77bd3e8a71e55be76be21a9926556396a86
+JA/Minikui Mojika no Ko [日本語]/e4020sl.txt,empty,12,a2e48b529bcdb7d179cac23180eeaa56a55ac819
+JA/Minikui Mojika no Ko [日本語]/e4021.txt,fragment,183,cf86a1e8f7772e78c1bf8965732806a719d31793
+JA/Minikui Mojika no Ko [日本語]/e4021sl.txt,duplicate,12,a2e48b529bcdb7d179cac23180eeaa56a55ac819
+JA/Minikui Mojika no Ko [日本語]/e4031.txt,garbage,114,b53954ed134152b01d89c97b0281239e1cb73e54
+JA/Minikui Mojika no Ko [日本語]/e4080sl.txt,garbage,20,27a6ee785641db22b1eaa78e95d67e368dbb7dc9
+JA/Minikui Mojika no Ko [日本語]/e4081.txt,garbage,54,86475ccf5c665fac46fb1869cc8adccbf3e9a39d
+JA/Minikui Mojika no Ko [日本語]/e4090sl.txt,garbage,40,5422237c667927385d5b38eeee08d479919d03d4
+JA/Minikui Mojika no Ko [日本語]/e4091.txt,fragment,150,b5644389908ce71d7863bbcd6146cdbdd2dfe98f
+JA/Minikui Mojika no Ko [日本語]/e4091sl.txt,duplicate,40,5422237c667927385d5b38eeee08d479919d03d4
+JA/Minikui Mojika no Ko [日本語]/e4100sl.txt,empty,9,f23ebb22afa87fb02b90b9ebf02649ab8536f8fc
+JA/Minikui Mojika no Ko [日本語]/e4101.txt,fragment,129,e8765133d5809a3409ea818932342ecf6c7294f9
+JA/Minikui Mojika no Ko [日本語]/e4101sl.txt,duplicate,9,f23ebb22afa87fb02b90b9ebf02649ab8536f8fc
+JA/Minikui Mojika no Ko [日本語]/f5030sl.txt,garbage,27,eca0c16978e2356587f5b35857eed0ba8b8d4602
+JA/Minikui Mojika no Ko [日本語]/f5031sl.txt,duplicate,27,eca0c16978e2356587f5b35857eed0ba8b8d4602
+JA/Minikui Mojika no Ko [日本語]/f5059h.txt,garbage,86,9908c2178044a4b7bb57a8343e325aa994b5a63f
+JA/Minikui Mojika no Ko [日本語]/f5071.txt,fragment,145,5753b6ee4a6645c8f45ccd66d63a299cdd40081e
+JA/Minikui Mojika no Ko [日本語]/f5081.txt,garbage,379,3b755c08c3195fa7bd15bac4a9bfa73f0f4a9e49
+JA/Minikui Mojika no Ko [日本語]/f5081sl.txt,duplicate,4,abc18713ef6bd07ce2230d301eeac72c0f1fe154
+JA/Minikui Mojika no Ko [日本語]/f5082.txt,fragment,120,5854bfc4cc472d6f70ee2e4228072e9ade23b1b9
+JA/Minikui Mojika no Ko [日本語]/f5082sl.txt,duplicate,4,abc18713ef6bd07ce2230d301eeac72c0f1fe154
+JA/Minikui Mojika no Ko [日本語]/f5120.txt,fragment,103,001e7557d5b0b5d6a6cf7ac747e88cc2a0881850
+JA/Minikui Mojika no Ko [日本語]/f5130.txt,fragment,208,554256fc6648532ac50b206b938cc32d69212db1
+JA/Minikui Mojika no Ko [日本語]/f5131.txt,garbage,140,15a5965fabd4e99147a327a512ae635992d19f5c
+JA/Minikui Mojika no Ko [日本語]/f5141.txt,fragment,209,be3966ded31159fee62c69d5b834553cb8699328
+JA/Minikui Mojika no Ko [日本語]/f5150sl.txt,empty,14,33e479093227e7219dd7d51d114e7bc523bdd32e
+JA/Minikui Mojika no Ko [日本語]/f5151.txt,garbage,68,a022a3571781cf14337267581623019949cce20c
+JA/Minikui Mojika no Ko [日本語]/f5151sl.txt,duplicate,14,33e479093227e7219dd7d51d114e7bc523bdd32e
+JA/Minikui Mojika no Ko [日本語]/f5170.txt,fragment,256,53b556c3d5142ece73c4fae701aaba8784e36b42
+JA/Minikui Mojika no Ko [日本語]/f5185sl.txt,empty,19,9075bb0dafdc52f3689c3059ea0afc4f82ba26db
+JA/Minikui Mojika no Ko [日本語]/f5186.txt,fragment,94,7a13a61de1df5d7d19df0a204bbb0ea7737c7fe8
+JA/Minikui Mojika no Ko [日本語]/f5186sl.txt,duplicate,19,9075bb0dafdc52f3689c3059ea0afc4f82ba26db
+JA/Minikui Mojika no Ko [日本語]/f5191sl.txt,garbage,24,ff6add5f37c6785e1e73f1c19e525634550102b9
+JA/Minikui Mojika no Ko [日本語]/f5192.txt,garbage,68,592a9e9a54cf56c39b755a04ce2d2f8cd299b4c5
+JA/Minikui Mojika no Ko [日本語]/f5192sl.txt,duplicate,24,ff6add5f37c6785e1e73f1c19e525634550102b9
+JA/Minikui Mojika no Ko [日本語]/f5200sl.txt,empty,18,f50cf97eabacc9731e1dcde7b6e3e91995c46c34
+JA/Minikui Mojika no Ko [日本語]/f5201.txt,fragment,97,b00b1619404e850dca379d9df8f0e42ddc627099
+JA/Minikui Mojika no Ko [日本語]/f5201sl.txt,duplicate,18,f50cf97eabacc9731e1dcde7b6e3e91995c46c34
+JA/Minikui Mojika no Ko [日本語]/f5202sl.txt,duplicate,18,f50cf97eabacc9731e1dcde7b6e3e91995c46c34
+JA/Minikui Mojika no Ko [日本語]/f5203.txt,garbage,51,6f9dbc5ecc8c48f18bb79ea768f96ebafdc6daac
+JA/Minikui Mojika no Ko [日本語]/f5203sl.txt,duplicate,18,f50cf97eabacc9731e1dcde7b6e3e91995c46c34
+JA/Minikui Mojika no Ko [日本語]/f5204.txt,fragment,214,ba80d077495d0b8e2b2056a455a2c5e47fcecfd9
+JA/Minikui Mojika no Ko [日本語]/f5204ed.txt,empty,9,b5df716e26bc27302d3453561fecda1034a386bb
+JA/Narcissu [日本語]/narci_himeko/himeko_ep.txt,duplicate,28204,846ec6deb11f92b2b0deb736d790266184ad4a25
+JA/Narcissu [日本語]/narci_himeko/himeko_ep01.txt,duplicate,27629,b61a4f44f4fb3ad7ff0b1a3183caa04629ef87aa
+JA/Narcissu [日本語]/narci_himeko/himeko_ep02.txt,duplicate,27595,a991fe1f7c7f49a4fcaee0367e9daf03fcde89e9
+JA/Narcissu [日本語]/narci_himeko/おまけ.txt,duplicate,3372,a617a93092d7cb813381bf001e290aa08ea37603
+JA/Narcissu [日本語]/narci_himeko/オリジナル0.txt,duplicate,2889,9ca3745980b7d632418d661bce28ad83fe3a45f9
+JA/Narcissu [日本語]/narci_himeko/オリジナル01.txt,duplicate,9705,affd523bb8017f62a6d3548e27247b8e4acd6428
+JA/Narcissu [日本語]/narci_himeko/オリジナル010.txt,duplicate,4735,7aee9e4a1fae73f3e577a5be003901bf42a0e036
+JA/Narcissu [日本語]/narci_himeko/オリジナル02.txt,duplicate,9172,42d6954ddb7882952dc8bcd9e3e58ac7918b37cb
+JA/Narcissu [日本語]/narci_himeko/オリジナル05.txt,duplicate,13743,8c837165c062a895aea14b57e129416923488c33
+JA/Narcissu [日本語]/narci_himeko/オリジナル07.txt,duplicate,11003,8610112e98420ff2df617e838d7f2341eafe676d
+JA/Narcissu [日本語]/narci_himeko/オリジナル08.txt,duplicate,9685,84d798695bda178a6c8f31b574d89f99b9d3c8b1
+JA/Narcissu [日本語]/narci_himeko/オリジナル09.txt,duplicate,6240,cab70773bb24fa273dad01f78ff73fa0687e3dde
+JA/Narcissu [日本語]/narci_himeko/オリジナル１.txt,duplicate,14495,710f347407f763290becc48745a988d41d7840ef
+JA/Narcissu [日本語]/narci_himeko/オリジナル２.txt,duplicate,11819,e053e21e5b421632883434f7e9aedb29e5191c7f
+JA/Narcissu [日本語]/narci_himeko/オリジナル３.txt,duplicate,9172,42d6954ddb7882952dc8bcd9e3e58ac7918b37cb
+JA/Narcissu [日本語]/narci_himeko/オリジナル４.txt,duplicate,12296,b226c284f31b892b292f040d4a65ea3ad79d41e6
+JA/Narcissu [日本語]/narci_himeko/オリジナル５.txt,duplicate,9047,9b44a931a5ccd8a588a85ffe961aa38fae9c541b
+JA/Narcissu [日本語]/narci_himeko/オリジナル６.txt,duplicate,7626,c629cf130d9f58b4bda6373d66d2bb0ba367a4bd
+JA/Narcissu [日本語]/narci_himeko/オリジナル６2.txt,duplicate,4750,58a8e71b073955fce9b110cc64e6af084f9f5475
+JA/Narcissu [日本語]/narci_himeko/オリジナル７.txt,duplicate,9356,873359d48777a69b5d84851d55aca2df29848d81
+JA/Narcissu [日本語]/narci_himeko/オリジナル８.txt,duplicate,5377,0565c46e0e766910dbc7ea9e39390ff4409abf29
+JA/Narcissu [日本語]/narci_himeko/オリジナル９.txt,duplicate,3356,d9000cc3cdeb1688de3d6bdf001042e7983b345d
+JA/Narcissu [日本語]/narci_iris/オリジナル02.txt,duplicate,9172,42d6954ddb7882952dc8bcd9e3e58ac7918b37cb
+JA/Narcissu [日本語]/narci_onetwo/nar1_03.txt,duplicate,7829,dbe559bd473c7793162c62091ae6b7ad3faf8771
+JA/Narcissu [日本語]/narci_sumire/3narsumi04.txt,duplicate,8924,71a6d122a9e6ce39912390034a4add8543c65129
+JA/Narcissu [日本語]/narci_sumire/3narsumi05.txt,duplicate,9655,65347d2e6f7d0b814444d9ff8e9a5a1c7d3a7512
+JA/Narcissu [日本語]/narci_sumire/3narsumi06.txt,duplicate,8767,80c678884dd6853416aeac967545e887ab73a703
+JA/Narcissu [日本語]/narci_sumire/3narsumi07.txt,duplicate,11050,cc70ebfc386a054eac5b2be2b319da825dbbbc92
+JA/Narcissu [日本語]/narci_sumire/himeko_atogaki.txt,duplicate,5252,aa7aea5b29609b05484cc93187d7f1633fc8ca6a
+JA/Narcissu [日本語]/narci_sumire/himeko_ep.txt,duplicate,28204,846ec6deb11f92b2b0deb736d790266184ad4a25
+JA/Narcissu [日本語]/narci_sumire/himeko_ep00.txt,duplicate,345,0408bab6e32a4707f5d2e52f3e2ff06ed8068424
+JA/Narcissu [日本語]/narci_sumire/himeko_ep01.txt,duplicate,27629,b61a4f44f4fb3ad7ff0b1a3183caa04629ef87aa
+JA/Narcissu [日本語]/narci_sumire/himeko_ep02.txt,duplicate,27595,a991fe1f7c7f49a4fcaee0367e9daf03fcde89e9
+JA/Narcissu [日本語]/narci_sumire/narsumi09.txt,empty,8,c47108c40e9f4133dc2fa404b589d1e3049398af
+JA/Narcissu [日本語]/narci_sumire/narsumi10.txt,empty,8,e4fd691db67cd9c189e162a45ae579c5d45afa19
+JA/Narcissu [日本語]/narci_sumire/narsumi11.txt,empty,8,04f4bfad3317ebd22841e3782ce6bb1f062e0514
+JA/Narcissu [日本語]/narci_sumire/オリジナル0.txt,duplicate,2889,9ca3745980b7d632418d661bce28ad83fe3a45f9
+JA/Narcissu [日本語]/narci_sumire/オリジナル01.txt,duplicate,9705,affd523bb8017f62a6d3548e27247b8e4acd6428
+JA/Narcissu [日本語]/narci_sumire/オリジナル010.txt,duplicate,4735,7aee9e4a1fae73f3e577a5be003901bf42a0e036
+JA/Narcissu [日本語]/narci_sumire/オリジナル02.txt,duplicate,9172,42d6954ddb7882952dc8bcd9e3e58ac7918b37cb
+JA/Narcissu [日本語]/narci_sumire/オリジナル05.txt,duplicate,13743,8c837165c062a895aea14b57e129416923488c33
+JA/Narcissu [日本語]/narci_sumire/オリジナル07.txt,duplicate,11003,8610112e98420ff2df617e838d7f2341eafe676d
+JA/Narcissu [日本語]/narci_sumire/オリジナル08.txt,duplicate,9685,84d798695bda178a6c8f31b574d89f99b9d3c8b1
+JA/Narcissu [日本語]/narci_sumire/オリジナル09.txt,duplicate,6240,cab70773bb24fa273dad01f78ff73fa0687e3dde
+JA/Narcissu [日本語]/narci_sumire/オリジナル１.txt,duplicate,14495,710f347407f763290becc48745a988d41d7840ef
+JA/Narcissu [日本語]/narci_sumire/オリジナル２.txt,duplicate,11819,e053e21e5b421632883434f7e9aedb29e5191c7f
+JA/Narcissu [日本語]/narci_sumire/オリジナル３.txt,duplicate,9172,42d6954ddb7882952dc8bcd9e3e58ac7918b37cb
+JA/Narcissu [日本語]/narci_sumire/オリジナル４.txt,duplicate,12296,b226c284f31b892b292f040d4a65ea3ad79d41e6
+JA/Narcissu [日本語]/narci_sumire/オリジナル５.txt,duplicate,9047,9b44a931a5ccd8a588a85ffe961aa38fae9c541b
+JA/Narcissu [日本語]/narci_sumire/オリジナル６.txt,duplicate,7626,c629cf130d9f58b4bda6373d66d2bb0ba367a4bd
+JA/Narcissu [日本語]/narci_sumire/オリジナル６2.txt,duplicate,4750,58a8e71b073955fce9b110cc64e6af084f9f5475
+JA/Narcissu [日本語]/narci_sumire/オリジナル７.txt,duplicate,9356,873359d48777a69b5d84851d55aca2df29848d81
+JA/Narcissu [日本語]/narci_sumire/オリジナル８.txt,duplicate,5377,0565c46e0e766910dbc7ea9e39390ff4409abf29
+JA/Narcissu [日本語]/narci_sumire/オリジナル９.txt,duplicate,3356,d9000cc3cdeb1688de3d6bdf001042e7983b345d
+JA/Narcissu [日本語]/narci_zero/himeko_ep.txt,duplicate,28204,846ec6deb11f92b2b0deb736d790266184ad4a25
+JA/Narcissu [日本語]/narci_zero/himeko_ep01.txt,duplicate,27629,b61a4f44f4fb3ad7ff0b1a3183caa04629ef87aa
+JA/Narcissu [日本語]/narci_zero/himeko_ep02.txt,duplicate,27595,a991fe1f7c7f49a4fcaee0367e9daf03fcde89e9
+JA/Narcissu [日本語]/narci_zero/nar3_08.txt,duplicate,12391,388638b6e2de17731c929b94ca1d588689d35429
+JA/Narcissu [日本語]/narci_zero/pausemenu.txt,fragment,110,4f3c215508d707810f29997bd343e1a534f71700
+JA/Narcissu [日本語]/narci_zero/staffroom.txt,garbage,26,f61ae75300473f71113b6970629f52bbeccfc634
+JA/Narcissu [日本語]/narci_zero/subutitle_1.txt,garbage,47,db13c26b233bfc8f25c0f25faa9504d37239150b
+JA/Narcissu [日本語]/narci_zero/sub_title.txt,garbage,112,73f5ae146acbb216512646ba2bca93f24f606cec
+JA/Narcissu [日本語]/narci_zero/おまけ.txt,duplicate,3372,a617a93092d7cb813381bf001e290aa08ea37603
+JA/Narcissu [日本語]/narci_zero/オリジナル0.txt,duplicate,2889,9ca3745980b7d632418d661bce28ad83fe3a45f9
+JA/Narcissu [日本語]/narci_zero/オリジナル01.txt,duplicate,9705,affd523bb8017f62a6d3548e27247b8e4acd6428
+JA/Narcissu [日本語]/narci_zero/オリジナル010.txt,duplicate,4735,7aee9e4a1fae73f3e577a5be003901bf42a0e036
+JA/Narcissu [日本語]/narci_zero/オリジナル02.txt,duplicate,9172,42d6954ddb7882952dc8bcd9e3e58ac7918b37cb
+JA/Narcissu [日本語]/narci_zero/オリジナル05.txt,duplicate,13743,8c837165c062a895aea14b57e129416923488c33
+JA/Narcissu [日本語]/narci_zero/オリジナル07.txt,duplicate,11003,8610112e98420ff2df617e838d7f2341eafe676d
+JA/Narcissu [日本語]/narci_zero/オリジナル08.txt,duplicate,9685,84d798695bda178a6c8f31b574d89f99b9d3c8b1
+JA/Narcissu [日本語]/narci_zero/オリジナル09.txt,duplicate,6240,cab70773bb24fa273dad01f78ff73fa0687e3dde
+JA/Narcissu [日本語]/narci_zero/オリジナル１.txt,duplicate,14495,710f347407f763290becc48745a988d41d7840ef
+JA/Narcissu [日本語]/narci_zero/オリジナル２.txt,duplicate,11819,e053e21e5b421632883434f7e9aedb29e5191c7f
+JA/Narcissu [日本語]/narci_zero/オリジナル３.txt,duplicate,9172,42d6954ddb7882952dc8bcd9e3e58ac7918b37cb
+JA/Narcissu [日本語]/narci_zero/オリジナル４.txt,duplicate,12296,b226c284f31b892b292f040d4a65ea3ad79d41e6
+JA/Narcissu [日本語]/narci_zero/オリジナル５.txt,duplicate,9047,9b44a931a5ccd8a588a85ffe961aa38fae9c541b
+JA/Narcissu [日本語]/narci_zero/オリジナル６.txt,duplicate,7626,c629cf130d9f58b4bda6373d66d2bb0ba367a4bd
+JA/Narcissu [日本語]/narci_zero/オリジナル６2.txt,duplicate,4750,58a8e71b073955fce9b110cc64e6af084f9f5475
+JA/Narcissu [日本語]/narci_zero/オリジナル７.txt,duplicate,9356,873359d48777a69b5d84851d55aca2df29848d81
+JA/Narcissu [日本語]/narci_zero/オリジナル８.txt,duplicate,5377,0565c46e0e766910dbc7ea9e39390ff4409abf29
+JA/Narcissu [日本語]/narci_zero/オリジナル９.txt,duplicate,3356,d9000cc3cdeb1688de3d6bdf001042e7983b345d
+JA/Osananajimi FD [日本語]/02_iri_014_01.txt,garbage,470,0ffe6518c291f13384efc70befe0b4ef870d02df
+JA/Tsuki ni Yorisou Otome no Sahou [日本語]/0.txt,duplicate,0,da39a3ee5e6b4b0d3255bfef95601890afd80709
+JA/We Don't Have Wings [日本語]/00 Prelude/02_03b.txt,duplicate,4714,750da1c6ba1caca14849bac2fd8e327ae6d7be13
+JA/We Don't Have Wings [日本語]/00 Prelude/02_03c.txt,duplicate,549,05c8572d05b3cbbadd15c1be95973fa11e0479c9
+JA/We Don't Have Wings [日本語]/00 Prelude/02_03d.txt,duplicate,1311,6c863cf8ceb7894b99c26e1742e7b4d39b171b18
+JA/We Don't Have Wings [日本語]/00 Prelude/02_03g1.txt,duplicate,235,ba0d4f84951d574c4c44be7130fe7ba5fd90ab8b
+JA/We Don't Have Wings [日本語]/00 Prelude/02_03g2.txt,duplicate,224,9aec791d73d279ac6fa8bec3ef63b7c603eee149
+JA/We Don't Have Wings [日本語]/00 Prelude/02_03g3.txt,duplicate,490,2fe13213480e751605c1a322586bc65a975f11ae
+JA/We Don't Have Wings [日本語]/00 Prelude/02_03g4.txt,duplicate,1884,bd1525607ab283ac91d3e2f0a7ad24aa3fe05b15
+JA/We Don't Have Wings [日本語]/00 Prelude/03_03b.txt,duplicate,5562,233553fc758f33c0533a50579140c082febdda6b
+JA/We Don't Have Wings [日本語]/00 Prelude/03_03c1.txt,duplicate,1084,2ca8dfea237a2ce4648ae72e6ea9bb39c3758150
+JA/We Don't Have Wings [日本語]/00 Prelude/03_03c2.txt,duplicate,1379,6ce766562a1e91aebe49bf1a48d3759d924850fe
+JA/We Don't Have Wings [日本語]/00 Prelude/03_03j1.txt,duplicate,190,022b348423c0b5b21932afc512b7f5277ca3a997
+JA/We Don't Have Wings [日本語]/00 Prelude/03_03j2.txt,duplicate,522,d3da86b0ab0a2e2043a5d2c924de65cc685a3ef0
+JA/We Don't Have Wings [日本語]/01 Main/s01_03c1.txt,duplicate,0,da39a3ee5e6b4b0d3255bfef95601890afd80709
+JA/We Don't Have Wings [日本語]/01 Main/s02_17a.txt,fragment,225,c59156315fc9181b5ebe4d71b0755f22c31e841c
+JA/We Don't Have Wings [日本語]/02 Afterstory/24_2c.txt,garbage,36,c8bcbbf889a293feab8a731955c5d5e2300b9bc9
+JA/We Don't Have Wings [日本語]/02 Afterstory/24_2e.txt,garbage,74,23be1fa6556a01b72bae99d49241736eb63f580a
+JA/We Don't Have Wings [日本語]/02 Afterstory/24_3a.txt,fragment,74,e7b916d1161601cb04513a3497e8194d4446024f
+JA/We Don't Have Wings [日本語]/02 Afterstory/24_3b.txt,garbage,46,182e78fb273fe351a4753841df717463aa0b4ffd
+JA/We Don't Have Wings [日本語]/02 Afterstory/24_3c.txt,garbage,47,00c366119dbf7b8ebbedba403d60ef1c2dddecce
+JA/We Don't Have Wings [日本語]/02 Afterstory/24_3d.txt,garbage,34,0d24773aabfbfdf4c068076f7a7617e228ba4e84
+JA/We Don't Have Wings [日本語]/02 Afterstory/24_3e.txt,garbage,43,d1f7d934b1215bcc4488efce3ca4abe7753ba148
+JA/We Don't Have Wings [日本語]/02 Afterstory/24_4a.txt,fragment,119,5d8404ff64dcd41ed66e8fe44fecd55563de5093
+JA/We Don't Have Wings [日本語]/02 Afterstory/24_4b.txt,garbage,65,58d615d034163b1b089a294e526db2e2d5ceca82
+JA/We Don't Have Wings [日本語]/02 Afterstory/sr.txt,duplicate,0,da39a3ee5e6b4b0d3255bfef95601890afd80709
+Zh/紅淚 [中文].txt,duplicate,124115,1630616e0463d8676d68d6ec9016d0a29f1d3a16
+Zh/ChronoClock [中文]/autodemo.txt,duplicate_after_clean,4404,0e34aca7c3afa733ee1f699ad32cb61d591af4c0
+Zh/ChronoClock [中文]/sndd08.txt,duplicate_after_clean,3022,826bf48876465b98692e539418df91d6dc806208
+Zh/ChronoClock [中文]/snhdd01.txt,duplicate_after_clean,15892,3d1c1e4227f063b53486e53975681d7ce2901e04
+Zh/ChronoClock [中文]/snhdd02.txt,duplicate_after_clean,11909,98489bdbaa3fece06cd72b8e0b1d6f6e143200a6
+Zh/ChronoClock [中文]/snhkr01.txt,duplicate_after_clean,14492,7df85702490b98316a3fd0d00a49ba109cb810ad
+Zh/ChronoClock [中文]/snhkr02.txt,duplicate_after_clean,12839,aeab04a7f292dd0588fabe932760dc011d98e33c
+Zh/ChronoClock [中文]/snhmc01.txt,duplicate_after_clean,14220,f42638dc71e41954bfd68565ed3401f47b5bd7ef
+Zh/ChronoClock [中文]/snhmc02.txt,duplicate_after_clean,15169,40a155df11fad93531d9d27ac6ddc8ef9e2a0ee8
+Zh/ChronoClock [中文]/snhmk01.txt,duplicate_after_clean,14960,75494c713aa8ee9ded902bafa27e8da9bbe9b9ad
+Zh/ChronoClock [中文]/snhmk02.txt,duplicate_after_clean,12669,3caea04c5bf34399ca488c8832c59154c0cd6831
+Zh/ChronoClock [中文]/snhms01.txt,duplicate_after_clean,15140,445056f23b3409f57f991615527248d18f7ac866
+Zh/ChronoClock [中文]/snhms02.txt,duplicate_after_clean,15590,66c985eaba9b28a8274d0589c07a90340bef3dc8
+Zh/ChronoClock [中文]/snhmu01.txt,duplicate_after_clean,16959,0b9dfaf3bcd44ec09251776d4f56cc0610800abe
+Zh/ChronoClock [中文]/snhmu02.txt,duplicate_after_clean,16207,35ef01a606f9ce5e21fb85398c392213abe4984e
+Zh/ChronoClock [中文]/snhprev.txt,duplicate_after_clean,12033,f2fef75397615ca4cc578ce518f680d10cdb0e58
+Zh/Kao no nai Tsuki [中文]/D0808_02.txt,garbage,1275,33e2076f5e3dc14edb942fcd214b0c337f6ab5ee
+Zh/Kao no nai Tsuki [中文]/D082629_01.txt,garbage,5445,774d4cfc361bc3db439f296d03d0110238ba23f5
+Zh/Kao no nai Tsuki [中文]/D0829_03.txt,garbage,6958,ed0c3e2dfade2fb7480d890d1a12bf6f47b6510a
+Zh/Kao no nai Tsuki [中文]/D0905_01.txt,garbage,3375,b592dc3334e7313480ace3d7b542738d7976ab76
+Zh/Kao no nai Tsuki [中文]/S23_02.txt,garbage,6170,d44cff87448e7c785c77d2711303e1ef5ef938b1
+Zh/Kao no nai Tsuki [中文]/S29_02.txt,garbage,1002,9b48fe5c85ea61c36b0f504804f0f474671ee0dd
+Zh/Kao no nai Tsuki [中文]/S29_03.txt,garbage,920,956d2c96f9f836d2d9bfdc056398f76be68cd772
+Zh/Minikui Mojika no Ko [中文]/a0030.txt,fragment,255,812ac8d51e1fb7f4e62cbd1f90f21925daa2ff51
+Zh/Minikui Mojika no Ko [中文]/a0041.txt,garbage,26,da6e7b5e80319c09a38b2ebbbad3150eed5bb910
+Zh/Minikui Mojika no Ko [中文]/a0042.txt,garbage,32,891046359df51d868fd273e707a5c903946ab6e1
+Zh/Minikui Mojika no Ko [中文]/a0043.txt,garbage,42,bcdc14331a874be1a88b78bf565ab73115d23b39
+Zh/Minikui Mojika no Ko [中文]/a0044.txt,garbage,29,59b7e6edc1607df83206bdf36a8688acfbe3ebd6
+Zh/Minikui Mojika no Ko [中文]/a0045.txt,garbage,63,026fd943cd69edbe473fdfb7bb0c4f533d86fec3
+Zh/Minikui Mojika no Ko [中文]/a0046.txt,fragment,186,62dd5538fb54f3efffd78cbdef7e82f517f24128
+Zh/Minikui Mojika no Ko [中文]/a0047.txt,fragment,158,4ca8b43b72d6c9806da99c5254455711c2026190
+Zh/Minikui Mojika no Ko [中文]/a0048.txt,garbage,20,e2c8ece68dc39cafc570c086bcdeeb8987e449eb
+Zh/Minikui Mojika no Ko [中文]/a0111.txt,fragment,49,7e61db2c9f6246f5509c95eef0d27350b96fdfbb
+Zh/Minikui Mojika no Ko [中文]/a0113.txt,fragment,285,e1b9dbc0f9393e2f482e07e44ddc9c39a441e1d9
+Zh/Minikui Mojika no Ko [中文]/a0121.txt,garbage,35,671483415f283a6f458fbd1f223aaee51bb197e4
+Zh/Minikui Mojika no Ko [中文]/a0131.txt,garbage,50,9fece49e00d8d73eeb99c97e0ca5f74524825d3d
+Zh/Minikui Mojika no Ko [中文]/a0160.txt,fragment,283,3a3c005c02f3ab80fdd866d2c3c9facfbdf20bb0
+Zh/Minikui Mojika no Ko [中文]/a0171.txt,fragment,136,b28c9163e95f584cc1ff3982507730b6f6d1837f
+Zh/Minikui Mojika no Ko [中文]/a0173.txt,fragment,139,f66e2b2050dc54224373f266d3d376ecfb106ad4
+Zh/Minikui Mojika no Ko [中文]/a0179.txt,garbage,42,4c0ff6a667bf376acfe8815fc9f753772f4716a7
+Zh/Minikui Mojika no Ko [中文]/a0201.txt,fragment,157,97d07ea5adbeb6a66ffad7592e1451e5a88c28a5
+Zh/Minikui Mojika no Ko [中文]/a0202.txt,fragment,186,36ac0ecb762cdc7ef50e1957a9fe85af7abc8db2
+Zh/Minikui Mojika no Ko [中文]/a1020.txt,fragment,60,81e42a096964b59bc9ebbdb8168726d1a13a1c58
+Zh/Minikui Mojika no Ko [中文]/a1022.txt,fragment,115,adc26b71a1649b9fcd426888e06c12f36f395443
+Zh/Minikui Mojika no Ko [中文]/a1031.txt,fragment,297,25d051675708e7c7a4ec417c45579968037b929c
+Zh/Minikui Mojika no Ko [中文]/a1032.txt,fragment,129,419f31ddb89fe8207c32cf8b8a7e36952e8ec849
+Zh/Minikui Mojika no Ko [中文]/a1034.txt,fragment,92,d22ef905eb4d9eb65661dc108dc5e4668e766f30
+Zh/Minikui Mojika no Ko [中文]/a1051.txt,fragment,129,3e32df163c90638116a8b4c45e205c764a465798
+Zh/Minikui Mojika no Ko [中文]/a1070.txt,fragment,183,08bcd673ccacb46cd0cbab3d0acbe477eefc9322
+Zh/Minikui Mojika no Ko [中文]/a1081.txt,fragment,48,0277a4afcafb1fd297ff7700c870a802ddf9b9ef
+Zh/Minikui Mojika no Ko [中文]/a1082.txt,fragment,115,3d786c0894b34b981635a4e31e571c8cf2208ca6
+Zh/Minikui Mojika no Ko [中文]/a1090.txt,fragment,220,b60f611d54f8f92498280bee4e71d011e7bf8396
+Zh/Minikui Mojika no Ko [中文]/a1092.txt,fragment,149,598d7ea112a9f7a91e4e6dd9551d64feee2bf9da
+Zh/Minikui Mojika no Ko [中文]/a1111.txt,fragment,76,ecf7b0340cf40b1c49076a2c3f3b06f178480655
+Zh/Minikui Mojika no Ko [中文]/a1123.txt,fragment,187,87d10afc2d6398e585545a8a310cb1cd6d0de7be
+Zh/Minikui Mojika no Ko [中文]/a2021.txt,fragment,107,d93011e55685c9ce1833adcf8caf621ccc5b29e4
+Zh/Minikui Mojika no Ko [中文]/a2023.txt,fragment,226,ecacb71fcf8052c6a12a1528441e92bd2d1016e2
+Zh/Minikui Mojika no Ko [中文]/a2024.txt,garbage,54,f05af16e3edce0254b3308e616076a46b9cc09ac
+Zh/Minikui Mojika no Ko [中文]/a3051.txt,garbage,43,60e539306c6eb73ee78c2daf9fafd00a76974d45
+Zh/Minikui Mojika no Ko [中文]/a3061.txt,garbage,40,b7dcc5e783430005bd6ec3d5bf85f90c66cd474d
+Zh/Minikui Mojika no Ko [中文]/a3071.txt,fragment,67,040992db0e084480ac2e54cd924d9269137bd12b
+Zh/Minikui Mojika no Ko [中文]/a3091.txt,fragment,162,f2557e9aeb5bc7420676d0ea665173c9400a7902
+Zh/Minikui Mojika no Ko [中文]/a3093.txt,fragment,61,b401aefcd18f0426950396cf3f59d0723bae4e88
+Zh/Minikui Mojika no Ko [中文]/a3094.txt,garbage,45,56c3d7a6d66852e7f26afa396c9ea5a3520a2ddf
+Zh/Minikui Mojika no Ko [中文]/a3095.txt,empty,16,cf9aa353b23c72cf8b0ef4298a8a7b0bab0bdc9d
+Zh/Minikui Mojika no Ko [中文]/a3096.txt,fragment,100,e61db45bef23d8b537ad6765bab155a96618bcf5
+Zh/Minikui Mojika no Ko [中文]/a3101.txt,fragment,104,fbdf8920b884f7b0dc329dccf7314063fe99384c
+Zh/Minikui Mojika no Ko [中文]/a3111.txt,fragment,117,fd6a42f293b8a92487d6dd932bff11e8abd9300b
+Zh/Minikui Mojika no Ko [中文]/a3112.txt,fragment,219,ac39ca0c53c00d563929c6c29986a54a5628105e
+Zh/Minikui Mojika no Ko [中文]/a3140.txt,fragment,233,546d93e7e751f11805e97f58cf5f9f646e414c02
+Zh/Minikui Mojika no Ko [中文]/a3151.txt,fragment,103,a0a04bdcf2703db2fb9dd99cbc7a911cd25ec207
+Zh/Minikui Mojika no Ko [中文]/a4020.txt,fragment,229,7a352f7fe7b8006f491bad5d7b94c5f8fedccbd2
+Zh/Minikui Mojika no Ko [中文]/a4030.txt,fragment,111,bb2e8390229807d6c746e332b100f3257361c573
+Zh/Minikui Mojika no Ko [中文]/a4031.txt,fragment,223,6fefdb1282044b0d371f1ebf1aaa839cd6d31cb2
+Zh/Minikui Mojika no Ko [中文]/a4041.txt,garbage,87,0cfca982e052c052377bc179ba21534e94852652
+Zh/Minikui Mojika no Ko [中文]/a4042.txt,fragment,123,582b583cf0e8068986808b34118b58055b0eb9b9
+Zh/Minikui Mojika no Ko [中文]/a4043.txt,garbage,53,91d5aba865e00076d86a55edf8cdacca95855fda
+Zh/Minikui Mojika no Ko [中文]/a4044.txt,fragment,69,6267275bc5bf9b22a92d0e111597235ff2ce4c9b
+Zh/Minikui Mojika no Ko [中文]/a4046.txt,fragment,248,3724cf052c05c929b77d25e0c17a3089cb1669b7
+Zh/Minikui Mojika no Ko [中文]/a4047.txt,garbage,59,10473475c7cc00ec163b11a693a9c23b2e11c443
+Zh/Minikui Mojika no Ko [中文]/a4048.txt,garbage,46,6e1a20f07c535d8495c53ec41d6f4ae646cff412
+Zh/Minikui Mojika no Ko [中文]/a4049.txt,garbage,36,0d4189bbed2145ed22632b8f4ec143490ba4672c
+Zh/Minikui Mojika no Ko [中文]/a4050.txt,fragment,95,a15e768135a9fba473cf321d6817f0933f2a9893
+Zh/Minikui Mojika no Ko [中文]/a4051.txt,garbage,57,6d2076c720578dbaff2bb826149ca6d21c202a74
+Zh/Minikui Mojika no Ko [中文]/a4052.txt,garbage,51,42080f85b750ddcb064c6ed9386bedd7dbab22b8
+Zh/Minikui Mojika no Ko [中文]/a4053.txt,garbage,50,6098e424181d6675751af3909e2eee8fb56dccb1
+Zh/Minikui Mojika no Ko [中文]/a4055.txt,garbage,43,037473bea3d4b4155a5e1b4927eebc71c5f8f83f
+Zh/Minikui Mojika no Ko [中文]/a4055sl.txt,empty,0,da39a3ee5e6b4b0d3255bfef95601890afd80709
+Zh/Minikui Mojika no Ko [中文]/a4056.txt,fragment,82,057f76d65e1afd5a86bb2c36c03218edbcb3a5a5
+Zh/Minikui Mojika no Ko [中文]/a5010.txt,fragment,208,ff2c6718f1713aa4af2cb76e7977d4ba85645b63
+Zh/Minikui Mojika no Ko [中文]/b1020.txt,fragment,292,0a9d08252b390fdf08e98f8323d269b8bf1fd9e7
+Zh/Minikui Mojika no Ko [中文]/b1051.txt,fragment,115,700abdbfdafcda9ad2f74865db789192df4ad9c1
+Zh/Minikui Mojika no Ko [中文]/b1052.txt,garbage,54,499397283a8f8b4ace68fc16d7addbfacd804d72
+Zh/Minikui Mojika no Ko [中文]/b1060.txt,fragment,183,a766f5ff0608201e5537716793e55c3c02aade3a
+Zh/Minikui Mojika no Ko [中文]/b1070.txt,fragment,293,6dbacbda84c73337a739b8009780e0d28b5bd90e
+Zh/Minikui Mojika no Ko [中文]/b1081.txt,fragment,162,0eb1ac44488b54465782386dab05ad3e480136a6
+Zh/Minikui Mojika no Ko [中文]/b1091.txt,fragment,85,25128a391cb830b2dbea8b9c43e748c63e1fdfae
+Zh/Minikui Mojika no Ko [中文]/c2041.txt,fragment,74,e3dc1130db07f3c178d0651668c8b74fe92f237b
+Zh/Minikui Mojika no Ko [中文]/c2051.txt,fragment,113,8720dc3674ca600c9de840310b3e3561ede94128
+Zh/Minikui Mojika no Ko [中文]/c2064.txt,fragment,258,231323cc579d8e9b009f32672af437106a1635a2
+Zh/Minikui Mojika no Ko [中文]/c2081.txt,fragment,124,9bfa344f02bbe8cdd3c86d164d9523e0e5441950
+Zh/Minikui Mojika no Ko [中文]/d3022.txt,fragment,167,6fd16de9d17766ea27619ae5e697881c6c6636e8
+Zh/Minikui Mojika no Ko [中文]/d3051.txt,fragment,125,8921e16770783bb0ebc93e1c41be7621f8361f94
+Zh/Minikui Mojika no Ko [中文]/d3081.txt,fragment,76,34cd25d14970def719db59fdf8c0e51176e0d342
+Zh/Minikui Mojika no Ko [中文]/e4021.txt,fragment,110,eddfee866da90e9a2d317889d5f30755b805e15f
+Zh/Minikui Mojika no Ko [中文]/e4023.txt,fragment,298,f3a1765a53cdb7f87335259ae0203b28288b8141
+Zh/Minikui Mojika no Ko [中文]/e4031.txt,garbage,52,16313ae4fbf5502133c57dda41314d90f4fdf84b
+Zh/Minikui Mojika no Ko [中文]/e4081.txt,garbage,45,aeaa4254dcd88d99f19d4a3e4208da2ab836f151
+Zh/Minikui Mojika no Ko [中文]/e4090.txt,fragment,268,e5e8eaddd60f5a7e626588f64cbee15ebf8e9958
+Zh/Minikui Mojika no Ko [中文]/e4091.txt,garbage,56,e57845d07692a0fdc1693a27cec85cae6a601f9b
+Zh/Minikui Mojika no Ko [中文]/f5031.txt,garbage,59,33552c88d6b41647fd0a4f9b15aab97e34c2c8ba
+Zh/Minikui Mojika no Ko [中文]/f5059h.txt,garbage,32,3634f7587b55773b6bf83704bf985c4cbe3691d4
+Zh/Minikui Mojika no Ko [中文]/f5082.txt,garbage,46,318513b91c7fe814bacafa4b222ff6ab1dc9d5ed
+Zh/Minikui Mojika no Ko [中文]/f5120.txt,fragment,72,8e2f0341222b370264055cb18f082c0129a4d8cd
+Zh/Minikui Mojika no Ko [中文]/f5130.txt,fragment,128,1083abf10fe7e9eb1b28b0b397d32d1fc81940c3
+Zh/Minikui Mojika no Ko [中文]/f5131.txt,fragment,62,cedd4b8db02d246e3c1c08f431ec10a5823052ec
+Zh/Minikui Mojika no Ko [中文]/f5132.txt,fragment,193,2ad3b65e13535cdbab39da7fd08be7df8146085b
+Zh/Minikui Mojika no Ko [中文]/f5141.txt,fragment,109,fb229d0ea8449d44d2b2df623b9018e143bdb824
+Zh/Minikui Mojika no Ko [中文]/f5151.txt,garbage,34,27098432739f3cfdf8cdacae7e5b99291f41b669
+Zh/Minikui Mojika no Ko [中文]/f5170.txt,fragment,154,1c2fb54fe0af463b04fe4e048e3497ffd74f56d5
+Zh/Minikui Mojika no Ko [中文]/f5186.txt,garbage,48,11764f9699adacdd7c5c72ee71b3547725e1158e
+Zh/Minikui Mojika no Ko [中文]/f5192.txt,garbage,25,5bb948aa7a3f605b1d5a14f71ae70cb023158066
+Zh/Minikui Mojika no Ko [中文]/f5201.txt,garbage,60,4c9ba8607128c0d96b40954c28ed7ab61701c03c
+Zh/Minikui Mojika no Ko [中文]/f5202.txt,fragment,133,e09a5e363f0b609ff201d949e028feae726af666
+Zh/Minikui Mojika no Ko [中文]/f5203.txt,garbage,20,4e358c3682d2ffe2d96735440d462c2a36a1331d
+Zh/Minikui Mojika no Ko [中文]/f5204.txt,fragment,174,129d1e80be4befb930197c26cbf31090ae416b0b
+Zh/Nanairo Reincarnation [中文]/NANAIRO_SCENE008.txt,duplicate,1421,634824d3b0310490031d6283fb4e1255b67a4019
+Zh/OrenoSugataga [中文]/macro.txt,menu,2808,7c9318fc4f9c2b03a41ea176dde73bf3f187f15a
+Zh/Salthe [中文]/25.txt,empty,8,9689f115048bb6f3f942414808425876e34c7ccc
+JA/春音アリス＊グラムWパッケージ（天雨线） [日本語].txt,engine_config,50699,6719095895e8b1435bb82edf6a3a233a3ec8c7d3
+Zh/迷える2人とセカイのすべて [中日对照].txt,engine_script,4274573,3049305907887d0817dcd16cb0542fe636da1141
+Zh/春音アリス＊グラムWパッケージ（天雨线） [中文].txt,engine_config,27864,f0efa86ed707a74e487af6ce18f4876fe3c7bdbb

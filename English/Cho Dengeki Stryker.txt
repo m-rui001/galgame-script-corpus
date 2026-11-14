@@ -2,7 +2,7 @@
 The Japanese Empire has created a new breed of super-soldiers in the name of national defense.*
 *The Stryker System!
 Bionic technology designed by Dr. Ichimonji Soichiro to make men stronger, faster!*
-*Their official name: the Imperial All-Terrain Strike Support Rangers. 
+*Their official name: the Imperial All-Terrain Strike Support Rangers.
 Super-soldiers designed to protect the borders of the Japanese Empire.*
 *Soldiers of justice, staking their lives in battle to protect Mother Japan from the wicked Balbora Empire!*
 *These bionic soldiers -- the Strykers -- are granted various powers through the Stryker Drives!*
@@ -1438,7 +1438,7 @@ Sayaka: So buy one used! Get one at a rummage sale or something!
 Yamato: It's not in my budget.
 Sayaka: You
 Sayaka: re
-Sayaka: 
+Sayaka:
 Sayaka: i
 Sayaka: nt
 Sayaka: ain
@@ -4566,25 +4566,8 @@ Stryker Zero: Witness the power of the Strykers... of the technology of Japan!
 *I used Stryker Drive Senden to increase the power of my legs to their limit, and stamped down on the wagon floor.*
 *My foot passed through the field and made contact with the asphalt beneath.*
 *Just as I thought! Even if my Stryker Units were locked inside the field, I could still get my legs onto the ground!*
-Stryker Zero: 
-Stryker Zero: 
-Stryker Zero: 
-Stryker Zero: 
-Stryker Zero: 
-Stryker Zero: 
-Stryker Zero: 
-Stryker Zero: 
-Stryker Zero: 
-Stryker Zero: 
-Stryker Zero: 
-Stryker Zero: 
-Stryker Zero: 
-Stryker Zero: 
-Stryker Zero: 
-Stryker Zero: 
-Stryker Zero: 
-Stryker Zero: 
-Stryker Zero: 
+Stryker Zero:
+Stryker Zero:
 Stryker Zero: !
 *I lifted the car and began running it down the street.*
 *I was heading for the ocean. If I ran straight down this road, it would have to bring me to the coast.*
@@ -17271,7 +17254,7 @@ Stryker Ten: Still relying on the frontal approach!
 *Her body tensed, drawing power into her sword as she closed in at high speed.*
 *Stryker Ten shook off her metal hand just as he felt the bite for her sword - and in that moment, he returned the blow.*
 Stryker Ten: Then, allow me to meet you! Stryker System change...
-Stryker Ten & Clie: Hyaku-shiki!!" 
+Stryker Ten & Clie: Hyaku-shiki!!"
 "ZAN!
 *The force from the violent release of power drove all the clouds away.*
 *There was a blinding flash, with enough force to drive away the wind and rain around it.*
@@ -17998,13 +17981,13 @@ Sayaka: Heh... heh heh... heh heh heh heh... Well... We'll see about that.
 Yamato: Ichimonji. It seems you have a lot to learn. This cannot be called bitter in any way, shape, or form.
 Sayaka: THI
 Sayaka: I
-Sayaka: 
+Sayaka:
 Sayaka: OU
 Sayaka: M
 Sayaka: PRIDE
 Sayaka: YO
-Sayaka: 
-Sayaka: 
+Sayaka:
+Sayaka:
 Sayaka: T!!
 Sayaka: You can't just cover up the taste with sugar and milk! I want to make you appreciate proper, black coffee!
 Rin: S-sorry... I should have asked first...
@@ -21261,7 +21244,7 @@ Stryker Retsu: I... I can't! If I do, then you'll be left fighting alone! I can 
 Stryker Zero: Don't use it! They're trying to wear us down!
 Stryker Zero: Just support me from the door! I know how to fight alone!
 Stryker Retsu: Y-Yamato-kun...
-Stryker Zero: Now, get back! Leave the front-line fighting 
+Stryker Zero: Now, get back! Leave the front-line fighting
 to--
 Curtis: This seems like a good time.
 Stryker Zero: Hngh!

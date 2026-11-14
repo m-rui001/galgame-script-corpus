@@ -1,4 +1,4 @@
-﻿chapter4_0|欲しいものが、欲しいわ
+chapter4_0|欲しいものが、欲しいわ
 protagonist:「柄木君」
 (scene change)
 protagonist:「……はい」

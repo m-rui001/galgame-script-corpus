@@ -1,4 +1,4 @@
-﻿Chocola: Meowelcome!
+Chocola: Meowelcome!
 Vanilla: Welcome to La Soleil.
 Chocola: Will you be staying with us or taking it to go?
 Female Customer: I'll be eating in~
@@ -2443,7 +2443,7 @@ Beignet: Shigure...? Then, you're Kashou's little sister...?
 Shigure: Y-Yes, ma'am.
 Kashou: My apologies, Mentor... She followed me of her own accord.
 Beignet: I'm so glad you've come, Shigure...! I've always wanted to meet you!
-Shigure: Oh... As have I, Beignet-san. Nii-sama couldn't stop talking about his prized mentor after coming back from overseas, after all. 
+Shigure: Oh... As have I, Beignet-san. Nii-sama couldn't stop talking about his prized mentor after coming back from overseas, after all.
 Beignet: Oh my, is that so? Kashou couldn't stop talking about his lovely little sister while in France.
 Kashou: Huh? Th-That isn't true, though...?
 *If my memory serves me correct, the only thing I remember talking about is Western sweets...*
@@ -3308,7 +3308,7 @@ Kashou: Me? On the right path? Well, I'd... certainly like to think so.
 Beignet: Right now, you have not only mastered the skills of a capable pâtissièr, but something else very important.
 Kashou: Huh? Right now...? Do you mean I didn't have this 'something' in the past?
 Beignet: Correct, you might have been missing it back when you were still working here.
-Beignet: No doubt it was nurtured by those you keep around you. 
+Beignet: No doubt it was nurtured by those you keep around you.
 Kashou: Those I keep around me...
 Shigure: ......
 *I stare at Shigure.*
@@ -3394,7 +3394,7 @@ Shigure: Well, that sounds no good.
 Kashou: Shigure, I can take that for you if it's too much, so just ask before you break your back.
 Shigure: Oh...
 Shigure: Nii-sama, I think you've changed a bit...
-Kashou: Huh? Looking out for my little sister carrying a bunch of heavy luggage isn't something new for me, is it? 
+Kashou: Huh? Looking out for my little sister carrying a bunch of heavy luggage isn't something new for me, is it?
 Kashou: I don't think that I've ever been THAT heartless before. Actually, I just might dote a little too much...
 Shigure: Yes. Past and present, you've always been a kind and wonderful person.
 Shigure: But, in the past, I feel as though you wouldn't wait for me to say anything and you would just say, 'Hey, that looks heavy; I'll take that off your hands'.
@@ -4013,7 +4013,7 @@ Shigure: Oh... is this...
 Awayuki: I've got it. It's a firework, isn't it?
 Kashou: Yep, that'd be correct.
 Suhama: A firework ball, eh?
-Kashou: I call it the 'Hanabi'. 
+Kashou: I call it the 'Hanabi'.
 Coconut: Oh, Onii-chan, can I have one?
 Kashou: Of course you can.
 Coconut: Yay!

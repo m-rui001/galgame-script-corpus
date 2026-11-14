@@ -2,7 +2,6 @@
 
 These files are parsed in `Speaker: Dialogue` format. Narration often enclosed in Asterisks.
 
-
 # Notes:
 
 - **AIR**: Different chapters seem to be separated via these indicators:
@@ -11,13 +10,13 @@ These files are parsed in `Speaker: Dialogue` format. Narration often enclosed i
 .......
 ....
 ```
-- **Aokana**: H-scenes included, extras missing  
+- **Aokana**: H-scenes included, extras missing
 - **Bokuten - Why I Became an Angel**
    - Some files skipped due to problems with the converter utility or the script
    - Script used `<i>` `</i>` for italics; converted to Markdown underscores `_`
 - **Cho Dengeki Stryker** - One script file missing (4_05_050) due to dictionary key missing from VNTranslationTools
 - **Comyu - Kuroi Ryuu to Yasashii Oukoku**: Dialogs enclosed in quotation marks, actions not enclosed
-- **CLANNAD**: Very minor issues with words triggering Dangopedia entries missing from the script and linebreaking - 264 instances in the whole file 
+- **CLANNAD**: Very minor issues with words triggering Dangopedia entries missing from the script and linebreaking - 264 instances in the whole file
 - **Cross Worlds**: Narrator as a character
 - **DRACU-RIOT!**: some files had to be skipped since they were in Japanese
 - **euphoria**:
@@ -42,8 +41,8 @@ These files are parsed in `Speaker: Dialogue` format. Narration often enclosed i
    - May need further cleaning but it seems mostly ok
    - Manual removal of extra data from script files and garbage script files was performed
 - **Sharin no Kuni, Yuukyuu no Shounenshoujo**: Minor manual cleaning involved
-- **The Fruit of Grisaia**: Dates & Narration labelled  
-- **The Labyrinth of Grisaia**: Dates & Narration labelled  
+- **The Fruit of Grisaia**: Dates & Narration labelled
+- **The Labyrinth of Grisaia**: Dates & Narration labelled
 - **The Eden of Grisaia**: Dates & Narration labelled
 - **The Shadows of Pygmalion (Negai no Kakera to Hakugin no Agreement)**: Minor issues due to encoding errors in the source files
 - **Wonderful Everyday - Discontinuous Existence (Subarashiki Hibi)**

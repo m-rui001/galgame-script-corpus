@@ -1,4 +1,4 @@
-﻿chapter10_0|ガラパゴスの箱舟
+chapter10_0|ガラパゴスの箱舟
 narrator:晴れた爽やかな朝だ。
 (scene change)
 narrator:昨日の夜のうちに洗濯機を回すよう予約しておいたおかげで朝の準備はスムーズだ。

@@ -1,4 +1,4 @@
-﻿chapter6_4|ここから
+chapter6_4|ここから
 heroine:「えへへ……いっしょにお風呂、うれしいな」
 (scene change)
 protagonist:「……ああ」

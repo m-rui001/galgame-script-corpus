@@ -588,6 +588,3 @@
 タイラ／ミア「宝探ししようぜッ！！！」
 $g_fa_update_particle
 $g_fa_update_particle
-$g_fa_update_particle
-$g_fa_update_particle
-$g_fa_update_particle

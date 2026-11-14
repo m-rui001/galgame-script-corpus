@@ -208,7 +208,7 @@ The giant holds up a large spear and swings it, without any particular technique
 A single swing is all we insects deserve.That's what its emotionless eyes say to us.
 And it's right. Humans are below it. Not even worth mentioning.
 ――――But we're more than human.
-Akihito: 
+Akihito:
 　　　　　　　"――――Come, Babylon."
 The sound of clashing steel tears the night apart.
 Neither me, nor any of the five behind me take a step back.
@@ -459,7 +459,7 @@ Tianwen: "Ran-ra-ra-ruun♪"
 He'll never let me know his true age.
 Akihito: "......I'm a feminist. That's why I'm nice to girls."
 Tianwen: "Eeeh?"
-Akihito: "Got. A. 
+Akihito: "Got. A.
 Problem. With. That?"
 I overpower him.
 Tianwen: "Of course not. I'm always on your side when I feel like it, Akihito-kun. I affirm a greater love for you than the sea or the sky."
@@ -483,7 +483,7 @@ There's a huge forest inside Takakura Central Park.
 This land of green almost feels out of place a few hundred meters away from the pleasure quarter.
 It gets a little darker at night, making it easy for shady things to happen in there.
 I've heard one of the biggest factories in the country used to be here during the war, but after it ended it became a public park.
-It's a tourist attraction now. If you peel off the veneer from the city, you'll find a mosaic of sights just about anywhere you go. 
+It's a tourist attraction now. If you peel off the veneer from the city, you'll find a mosaic of sights just about anywhere you go.
 Some homeless people live illegally in green tents among the trees. During the day, stalls line the central road and performers fight for the pedestrians' attention.
 I walk through the park along the road. In my hand is a can of coffee from a vending machine I saw on the way.
 Whenever I see a new flavor I immediately want to try it, even though I know cheap stuff all tastes the same. It's an irrational hobby.
@@ -1004,7 +1004,6 @@ It might. It might not.
 Yoruko: "Ansetzen, Bigwig!"
 I don't know.
 I don't know.
-I don't know.
 I give up on organizing my thoughts and plop down on my sofa.
 I've been living here for about half a year.
 I'm on the fourteenth floor of a tall apartment building, in a room far larger than I need. If I were paying the rent I wouldn't be able to afford one square foot of this place, let alone the whole room.
@@ -1012,7 +1011,7 @@ My dad bought it to live here with me, but just after we moved in he got sent ov
 Over the last half-year he's only come back for a couple days.Life often doesn't work out the way you planned.
 Newscaster: "......at the time of the explosion there were pedestrians on the street, and some of them were injured by flying debris. There have been no confirmed death reports yet......"
 No one's dead yet. The silver lining.
-I go back to my bedroom to change her towel, and she snaps awake. 
+I go back to my bedroom to change her towel, and she snaps awake.
 Yoruko: "......!"
 She continues lying down as she looks around, checking where she is.
 Yoruko: "――――!!"
@@ -1843,7 +1842,7 @@ Kagome: "What are you doing?"
 Someone looks over my shoulder. A sweet soapy smell lingers after her shower.
 Her breath touches my earlobe. Eyes used to looking down on people arrogantly and cruelly. I imagine a black snake coiling up.
 Akihito: "......that's too close. You'll drip on me."
-Naked except for one of my white shirts. A dangerous no-underwear outfit. The snake invades my personal space. 
+Naked except for one of my white shirts. A dangerous no-underwear outfit. The snake invades my personal space.
 Akihito: "I keep telling you......put your clothes on after showering."
 Kagome: "I don't like being strict and formal."
 Akihito: "......at least be presentable when you're in a man's room!"
@@ -2039,7 +2038,7 @@ Kagome: "The smell is still there. Anyone could tell at a glance."
 Akihito: "Only you can sense things like that!!"
 Kagome: "So?"
 Akihito: "――――!!!"
-Now I know what it feels like to be a hamster inches away from a man-eating tiger. I'm dead. 
+Now I know what it feels like to be a hamster inches away from a man-eating tiger. I'm dead.
 Akihito: "Sh-she collapsed in an alley, so I brought her here......I let her sleep in there but that's it!"
 Kagome: "You let a woman who smells of blood sleep here? Men like you never lose their bizarre tastes."
 Kagome's weight lifts. My arm is released.
@@ -2124,7 +2123,7 @@ Tonight, the song won't go away no matter how long I wait.
 ====================C002_040 それでも街はまわってる_0531.json====================
 Takekawa Benio is in the city.
 The old heart of Takakura City. Saying "the north side" is enough for most residents to know where you mean.
-There are a lot of old buildings here that foreigners settled in back when Takakura City was a thriving trading port. 
+There are a lot of old buildings here that foreigners settled in back when Takakura City was a thriving trading port.
 For that reason, it feels a lot like the streets you see in Western movies, which Benio likes a lot.
 Benio: "Aaah, that rocked! By the way......the guy on bass, is he new? Did they switch members?"
 Benio is excited. She's on her way home from a concert.
@@ -2165,7 +2164,7 @@ Tonight, she still does not answer.
 However...
 Tonight's song is slightly different.
 Benio: "Sorry, I just remembered something I need to do."
-Her two friends try to ask Benio what it is, but she runs off. 
+Her two friends try to ask Benio what it is, but she runs off.
 She's being called, so she has to go.
 Why?
 Because Benio is an "ally of justice."
@@ -2333,7 +2332,7 @@ Tonight's song shows no sign of stopping.
 Kagome comes along as if that's the normal thing to do. I've driven all the way out here in the middle of the night, following the song. It's calling me farther inside, farther up.
 I climb all the way up the stairs. The rusty steel door opens easier than I expect. I grit my teeth, shove a little and it pops right open.
 Wind. An empty roof close to the night sky.
-This is the highest point of what used to be the west wing of the complex. From here the lights of the city blur together like fire reflected in water. 
+This is the highest point of what used to be the west wing of the complex. From here the lights of the city blur together like fire reflected in water.
 There...
 Benio: "Ah, someone's here."
 Haru: "How many more do you think there are?"
@@ -2343,8 +2342,8 @@ Four women are waiting for me.
 Of various sizes and shapes.
 They have completely different outfits. Each one stands wherever they want, but still close to the door.
 There's a strange tension as we all keep an awkward distance. Too far apart to be a friendly group of urban explorers. Too familiar to be complete strangers that weren't expecting each other.
-All four rooftop visitors focus their attention on us. 
-Benio: "Five......huh? There's six. 
+All four rooftop visitors focus their attention on us.
+Benio: "Five......huh? There's six.
 For some reason, I thought there'd be five."
 Haru: "But this is everyone the princess invited. I know that. I assume you know that too, right?"
 Mayuki: "――Me?"
@@ -2517,7 +2516,7 @@ Girl A sings.
 She sings.She sings.She sings.
 Her voice is not a voice. Her song is not a song.
 Akihito: "......come to think of it..."
-Benio: "What's wrong, 
+Benio: "What's wrong,
 umm......"
 Akihito: "Akihito's fine."
 Benio: "Then call me Benio."
@@ -2596,7 +2595,7 @@ This one is different. The two fantasies are similar, but not identical.My insti
 Just as Pyrene and Maltese are two different kinds of dog.
 This is the another kind of the same thing.It has the same roots, but a distinct magic.
 Akihito: "――――!"
-　　　　　　　■■■■■■■■――――!　　　　　
+　　　　　　　■■■■■■■■――――!
 The giant roars with its steel throat.The shrill cry echoes for several seconds.
 Its enormous legs trample the concrete roof. The low rumble is far quieter than you'd expect, but it's still enough to bring me back to my senses.
 ――I make eye contact with the giant.
@@ -2609,7 +2608,7 @@ This is not a delusion.
 This is not a phantom.
 This is not a fantasy.
 This creature has a will. If it didn't, it couldn't have bloodlust.
-　　　　　　　■■■■■■■■――――!　　　　　
+　　　　　　　■■■■■■■■――――!
 Another roar.
 The giant shakes the earth as it begins sprinting.
 Its giant body looks slow, but it races forward on all fours like an animal at the speed of wind.
@@ -2766,7 +2765,7 @@ The dragon easily grabs the enemy's arm as it swings down.The quickest movement 
 The giant is clearly shocked.
 Izawa: "Ha! Hyaha! Don't freak out that easily!! We're only just getting started!!"
 It doesn't look like it's gripping any harder, but the giant's right arm breaks off with a dull sound.
-　　　　　　　■■■■■■■■――――!　　　　　
+　　　　　　　■■■■■■■■――――!
 The giant's scream. Its lone eye burns with rage, but Izawa doesn't feel a hint of terror anymore.
 I feel power.
 An overwhelming, overpowering, absolute――――power.
@@ -2806,7 +2805,6 @@ The giant opens its mouth, showing fourteen sharp fangs.We can see the red insid
 None of us expected that attack.
 A fireball with a crimson tail flies out of the giant's mouth, creating hell on earth.
 Sounds of destruction and hot air rushing around the roof.Any human would be instantly burned to a crisp.
-We burn.
 We burn.
 We burn.
 Literally in an instant――――
@@ -3183,7 +3181,7 @@ Everyone who agreed to come here today is now here.
 ――The night that Girl A vanished.
 ――The six of us hung out on the footbridge that night too.
 Haru: "How are things, O-Chibi-chan? Got any cute bunnies?"
-The six of us are neither far away nor close to one another. A strange but appropriate distance considering we just met. 
+The six of us are neither far away nor close to one another. A strange but appropriate distance considering we just met.
 Mayuki: "Another one gets uploaded every so often, so there's a lot now. Also, there are no bunnies, just so you know."
 Mayuki sits down, fiddling intently with her phone."There were these two huge explosions the last few days――""I can't get close cuz of all the cops, but from here――""It's the same as what we heard five years ago! Clearly it's――"
 Mayuki looks at various blogs through her phone's browser. Information about the "explosion on the hill" appears on one after the other.
@@ -3687,9 +3685,9 @@ You don't even have to look at its barbaric expression to tell this thing looks 
 I feel the same sensation as that night.
 We're loaded in――
 Like loading bullets into a cylindrical steel magazine, we each activate our connections to the dragon one by one.
-One, 
-two, 
-three, 
+One,
+two,
+three,
 four――
 Izawa isn't here, so the four of us connect our four wills.
 Benio: "Izawa-san......isn't connected."
@@ -3711,7 +3709,7 @@ Akihito: "Yeah, this is working."
 Kagome: "Those are boring movements. I didn't think you had an imagination, but still..."
 Akihito: "............you just want to insult me at every opportunity, don't you?"
 For now I try a bunch of stuff. For now the dragon follows my orders without a single complaint. It's hard to find anyone so obedient in this dry, cold world.
-Benio: "Mmmmm, 
+Benio: "Mmmmm,
 ultimate move! Triple axel!!!"
 Akihito: "Wait! There's no way you can――!"
 Before I can stop her, Benio makes the dragon jump, with the hope of spinning around three times in midair――――
@@ -3774,7 +3772,7 @@ Haru: "O-Haru-san doesn't have anything in mind. I'm too lazy."
 Mayuki: "I'm not sure what to say either."
 Benio: "I see......"
 Akihito: "What about you?"
-Benio: "Me? 
+Benio: "Me?
 Eheheheh."
 Benio bends forward a little, embarrassed, but with a nice smile.
 Benio: "I......thought of something, and made my decision."
@@ -3906,7 +3904,7 @@ Benio: "――――!?"
 She pulls the key out and freezes.
 ――Someone's watching her.
 She can feel it.
-She's the only one in this hallway. There isn't even a cat. 
+She's the only one in this hallway. There isn't even a cat.
 You need an ID to get into the lobby, and the building has a security system. It wouldn't be easy for someone to get in there.
 Or so it seems.
 Akihito: （We never know when another of those giants might appear――）
@@ -4084,7 +4082,6 @@ There was no time for her to scream.As she shook off her fear, her body moved on
 Takekawa Benio ran. She breathed heavily, and just ran without looking back, toward the front door.
 Her entire room fell to pieces beneath her feet―――
 Just as she rushed out the door, Benio's entire room collapsed behind her.
-――What is that?
 ――What is that?
 ――What is that?
 It was definitely the same type of creature as the one they saw on the hill. Why was it here? Why had it come for Benio?
@@ -4369,7 +4366,7 @@ The black dragon fades into the darkness of the night as it skips from roof to r
 The dragon's gravity-controlling magic gives it this maneuverability.
 The maid, Kasukabe Haru, said she was good at controlling this kind of movement.
 When the maid controls it, the dragon changes from a lizard crawling on the ground to a wyvern racing through the sky.
-I can't say anything during this acceleration, but there's a lot less shaking than I expected. 
+I can't say anything during this acceleration, but there's a lot less shaking than I expected.
 My hair flies up in the wind. The lights of the city below melt together as they flow by.
 I look down from the dragon's hand, higher than any rooftop. It's more dazzling than I'd imagined.
 We enter the hospital grounds, landing on a roof with a red cross on it.Then we jump to the normal wing, where Benio should be.
@@ -4620,7 +4617,7 @@ Benio: "How long is a while......?"
 Akihito: "Until we figure out how to resolve this."
 There's three things we need to do first.
 1) Find out who's controlling that scarlet beast.
-2) Learn why they're chasing us――   Discover the rules surrounding that monster's actions. 
+2) Learn why they're chasing us――   Discover the rules surrounding that monster's actions.
 We can't avoid taboos if we don't know what the rules are. We need to study more.
 And――
 The last one is the most important.
@@ -4700,7 +4697,7 @@ Sudden, inexplicable deaths occurring only in Takakura City. More than one at a 
 There've been nine of these incidents in the past three months. The number of deaths has increased since last year.
 Man: "Was he worried about anything before he died?"
 No.
-Student: "Ah, wait――" 
+Student: "Ah, wait――"
 Student: "I think it was late last year, he suddenly stopped hanging out as much......"
 Student: "Bad friends......? Maybe. He also seemed really pale around that time."
 Student: "Yeah, he was always acting weird, and he seemed afraid of something even at school......"
@@ -4755,7 +4752,7 @@ There's white skin in the bath. Then, I discover her brown hair. Also, pink.
 The color is faint but not unhealthy. Her arms and legs appear lively and supple.
 Her leg lines aren't bad, as you'd expect from someone who likes mini skirts. They look smaller than they do when she's clothed.
 Haaaaaaaaaaaaaaaaaaaaa! Begin scan!
-From the top, 
+From the top,
 81
 -59
 -79.I wouldn't call her a loli, but she is closer to cute than pretty.
@@ -4778,7 +4775,7 @@ Akihito: "......"
 Presence of mind. I bang my head gently against the wall near the door. I'm also trying to recover from a lot of stuff.
 Akihito: "I have work tonight, so I'll be back late. There's food in the fridge, so you can eat that whenever."
 Benio: "......'kay."
-Benio's using my dad's room. Since he's on a very long business trip, none of his stuff is there anymore. A tidy little room with nothing but blankets, bookshelves, books, and a desk. 
+Benio's using my dad's room. Since he's on a very long business trip, none of his stuff is there anymore. A tidy little room with nothing but blankets, bookshelves, books, and a desk.
 I use it a lot when I help people in trouble. Thanks, dad.
 Student: "Morning."
 Student: "So yesterday, my bag――"
@@ -5408,7 +5405,7 @@ Nanase: "Five against five......we're evenly matched now......"
 David: "Nanase, this is bad! Do it now!"
 Nanase: "But......that's......"
 David: "We can't afford to go easy on them anymore! They knocked Fuchur to the ground with only three people!!"
-Nanase: "――! 
+Nanase: "――!
 ......you're......right. Okay then.
 ――――Fuchur!!"
 Akihito: "―――Cut this out right now! You're fighting a woman, you know that!?"
@@ -5600,7 +5597,7 @@ Nanase: "Two years ago, the first coμ appeared in this city."
 Coμ――The term for a group of five people connected to an avatar.
 Nanase: "I was in one of those first-generation coμs, and we created the Round Table."
 Nanase: "We give guidance to those of us who will awaken in the future, and try to prevent conflicts with normal society."
-Izawa: "Haha, 
+Izawa: "Haha,
 so you're our king."
 Nanase: "That is not true. We――――"
 Nanase: "......I would like to explain it in more detail, but perhaps another day. I need to take David to the hospital."
@@ -5971,37 +5968,37 @@ Benio remains sad to the end.
 The answer to that last question was simple, as expected. Risk and reward.
 If something seems too good to be true, it isn't.
 ====================C004_010 コミュネット01_030100.json====================
-828 ：Anonymous-sama 
+828 ：Anonymous-sama
 ：20XX/XX/XX(Sun) 06:30:55Another peaceful day in the Coμnet
-829 ：Anonymous-sama 
+829 ：Anonymous-sama
 ：20XX/XX/XX(Sun) 06:35:11
 Who chose "Coμnet" as the collective term for all coμs? Anyone know?
-830 ：Anonymous-sama 
+830 ：Anonymous-sama
 ：20XX/XX/XX(Sun) 07:01:48no idea
-831 ：Anonymous-sama 
+831 ：Anonymous-sama
 ：20XX/XX/XX(Sun) 07:15:20Didn't people say it was internet slang?
-832 ：Anonymous-sama 
+832 ：Anonymous-sama
 ：20XX/XX/XX(Sun) 08:46:01A friend of mine just awakened, and turns out he's a Bishop
-833 ：Anonymous-sama 
+833 ：Anonymous-sama
 ：20XX/XX/XX(Sun) 09:09:00Stay on topic
-834 ：Anonymous-sama 
+834 ：Anonymous-sama
 ：20XX/XX/XX(Sun) 12:30:52lol, calling him a spammer?
-835 ：Anonymous-sama 
+835 ：Anonymous-sama
 ：20XX/XX/XX(Sun) 13:04:17
 I think Bishops are pretty convenient, but I guess they aren't popular here
-836 ：Anonymous-sama 
+836 ：Anonymous-sama
 ：20XX/XX/XX(Sun) 13:05:01・・・・・（´д｀） No, absolutely not
-837 ：Anonymous-sama 
+837 ：Anonymous-sama
 ：20XX/XX/XX(Sun) 16:42:30Master of nothing lol
-838 ：Anonymous-sama 
+838 ：Anonymous-sama
 ：20XX/XX/XX(Sun) 17:08:42
 >>828I dunno about peaceful. There's lots of rumors about coμ hunters lately
-839 ：Anonymous-sama 
+839 ：Anonymous-sama
 ：20XX/XX/XX(Sun) 17:30:22
 People saying other coμs got taken out and they're gonna be next or something
-840 ：Anonymous-sama 
+840 ：Anonymous-sama
 ：20XX/XX/XX(Sun) 17:31:59What should the next thread title be?
-841 ：Anonymous-sama 
+841 ：Anonymous-sama
 ：20XX/XX/XX(Sun) 18:01:09Worry about that after 950
 ====================C004_015 ドラッグ_0531.json====================: "Where do you want to go?": "Nowhere in particular......"
 It's raining outside. Gloom has been trickling down onto the asphalt since morning.
@@ -6062,7 +6059,7 @@ They call themselves, the world of connectors "Coμnet."
 One part of the Coμnet calls itself the Round Table.
 The oldest and largest political faction. Takatou Nanase's group is part of them.
 It prides itself on maintaining peace and cooperation between connectors. Their influence over the Coμnet can't be ignored. Bluntly put, they're the king.
-But a group's true nature is always different from its appearance. That's an inevitability. 
+But a group's true nature is always different from its appearance. That's an inevitability.
 Hundreds of other things have to fall at the feet of law and order.
 For example, the hottest topic in the Coμnet right now.
 ―――Coμ Hunters.
@@ -6156,8 +6153,8 @@ We finally reach my apartment building. We head through the lobby, trying not to
 I open the door and bump right into Benio.
 Despite not being very erotic, Benio is strangely defenseless. Those bare legs extending from her hot pants take me by surprise. Not bad.
 Benio: "Ooa............"
-Benio's expression changes with dizzying speed. Puzzlement to 
-confusion to 
+Benio's expression changes with dizzying speed. Puzzlement to
+confusion to
 glaring. She's looking at the two girls behind me.
 Benio: "......what? What's going on? Akihito-kun......are you a womanizer......?"
 She holds her shoulders and steps back, looking as if she stepped on a bug.
@@ -6486,7 +6483,7 @@ Hmmm. She folds her arms in a manly thinking pose.
 Ayaya: "......who was that, anyway?"
 Takekawa Benio――
 Something bugging her. Namely, what was her relationship to Akihito? Yesterday――
-Ayaya: 
+Ayaya:
 （So, umm, well......what in the world are you to Senpai!?）
 Benio: （Eh? Eheheheheh......）
 She assaulted her head on but didn't get an answer.
@@ -6500,7 +6497,7 @@ Is that okay? Should she do something about it? A calm part of her head whispers
 Nope, it's fine! An illogical part of her gives a thumbs up.
 Ayaya: "Haheee..."
 That day when they first met, and he helped her out. Her maiden heart jumped and spun that day, so she can't help it.
-Ayaya: "Oya! 
+Ayaya: "Oya!
 Senpai, Senpai, Senpaaaai!"
 She spots Akihito in the stairwell. Seeing him makes her happy. She knows it's simplistic.
 There's a lot bothering her. She didn't get to ask yesterday. It was a very busy day, but she was also too scared to ask.
@@ -8031,7 +8028,7 @@ Benio: "......Hinaori-san taught me to do that."
 Akihito: ".................."
 Benio: "No! Stop! Not that! That's not what I meant!!"
 She has a traumatic relapse right in front of the station. Burning stares wash over us from the pedestrians.
-Benio: "Not that, not that! I'm not thinking anything like that!! 
+Benio: "Not that, not that! I'm not thinking anything like that!!
 Ah,aaaaaaaaa, aaaaaaaaaaaaaaaaaaa!!!"
 Akihito: "............"
 ......never again will I ask again what happened to her.
@@ -8105,7 +8102,7 @@ Akihito: "――――"
 I stop thinking before I sink too deep. I become a machine and start moving.
 A: The leader of a group of ruffians that always hangs out under a certain avant-garde bronze statue.
 A: "Kururi-san did seem busy recently."
-B: An illegal black immigrant collecting tickets at a clubhouse. 
+B: An illegal black immigrant collecting tickets at a clubhouse.
 B: "Sorry, I don't know anything."
 C: A dropout who got a job with a famous company. I actually knew him before I left Takakura City.
 Akihito: "You always make that scary face when you meet someone."
@@ -8684,7 +8681,7 @@ Benio: "Yeah!"
 The pitch-black Babylon emerges from swirling light in front of us.
 Man 1: "Haha, there it is! You finally showed it!"
 Loading――Three wills connected to the dragon.
-　　　　　　　■■■■■■■■――――!　　　　　
+　　　　　　　■■■■■■■■――――!
 The black dragon roars ferociously after life is blown into it.
 The BKs have three avatars.Their Ivanhoe stands at the front. Babylon's in its way.
 Haru and Mayuki are missing. Izawa makes up for that with sheer instinct.
@@ -9121,7 +9118,7 @@ Izawa would go nuts if someone called him a woman, so he doesn't understand stuf
 Girl: "Did you wait? I'm sorry."
 A tall girl rushes over to us. She waves her hand and runs up to Izawa.
 Akihito: "......"
-Who is this!? Izawa has a woman!? A cute girl!!? The pure type who'd look great in a one-piece!!!? 
+Who is this!? Izawa has a woman!? A cute girl!!? The pure type who'd look great in a one-piece!!!?
 Benio: "――!?"
 Akihito: "――!?"
 Benio and I look at each other. We're both shocked by this.
@@ -9162,7 +9159,7 @@ Benio: "What should we do tonight? Look for Senpai-san again?"
 Akihito: "Well, that's my plan. I still don't have work......"
 My life of drifting through the city at night continues. I've gathered plenty of gossip and rumor about the super-detective. I know nothing about where Kururi actually is.
 Finding a single person in this huge city is like looking for a needle in a sand dune.
-I sigh with exhaustion, but quietly so Benio doesn't notice. 
+I sigh with exhaustion, but quietly so Benio doesn't notice.
 I looked, and looked, and kept on looking, but it may have been for nothing. The weight of that futile effort pushes down on my shoulders.
 I don't get these things back once I lose them.
 Effort. Wishes. Pain. Tragedy. All those things are washed away equally in this place. Perhaps they're all worthless―――
@@ -9353,38 +9350,38 @@ Benio: "Huh? ......who was calling you? Hey, Akihito......?"
 Akihito: "Hu! Huhuhu............"
 Outside my window.I throw my body onto the bed while looking at the blue, incomplete moon. I never stop laughing.
 ====================C007_022 コミュネット02_0601.json====================
-555 ：Anonymous-sama 
+555 ：Anonymous-sama
 ：20XX/XX/XX(Sun) 02:11:02I hear there's some new coμ hunters?
-556 ：Anonymous-sama 
+556 ：Anonymous-sama
 ：20XX/XX/XX(Sun) 02:11:25Isn't this the fourth time this week?
-557 ：Anonymous-sama 
+557 ：Anonymous-sama
 ：20XX/XX/XX(Sun) 02:11:30That's just crazy, lol
-558 ：Anonymous-sama 
+558 ：Anonymous-sama
 ：20XX/XX/XX(Sun) 02:11:50The Round Table needs to get their act together
-559 ：Anonymous-sama 
+559 ：Anonymous-sama
 ：20XX/XX/XX(Sun) 02:12:00The coμ hunters are upon us! age
-559 ：Anonymous-sama 
+559 ：Anonymous-sama
 ：20XX/XX/XX(Sun) 02:13:07lololololol, this just made my day lololololol
-560 ：Anonymous-sama 
+560 ：Anonymous-sama
 ：20XX/XX/XX(Sun) 02:14:33
 Stop acting like it's not your problem. None of us know who they'll go after next.
-561 ：Anonymous-sama 
+561 ：Anonymous-sama
 ：20XX/XX/XX(Sun) 02:15:38The thing is, who's going to deal with the coμ hunters?
-562 ：Anonymous-sama 
+562 ：Anonymous-sama
 ：20XX/XX/XX(Sun) 02:15:55Won't the Round Table do something?
-563 ：Anonymous-sama 
+563 ：Anonymous-sama
 ：20XX/XX/XX(Sun) 02:16:50
 Don't they hate avatar fights in general? Up until now they always dealt with problems by throwing people out of the group.
-564 ：Anonymous-sama 
+564 ：Anonymous-sama
 ：20XX/XX/XX(Sun) 02:17:27
 >>562Do what exactly? Should the Round Table go kill the coμ hunters?
-565 ：Anonymous-sama 
+565 ：Anonymous-sama
 ：20XX/XX/XX(Sun) 02:18:20Don't let them start lynching people!!!
-566 ：Anonymous-sama 
+566 ：Anonymous-sama
 ：20XX/XX/XX(Sun) 02:19:05So you'd let the coμ hunters run free?
-567 ：Anonymous-sama 
+567 ：Anonymous-sama
 ：20XX/XX/XX(Sun) 02:20:34They're all murderers
-568 ：Anonymous-sama 
+568 ：Anonymous-sama
 ：20XX/XX/XX(Sun) 02:22:59The Round Table hasn't killed anyone yet
 The Coμnet was shaken. Every image board has at least one or two threads on the subject.
 The coμ hunters――
@@ -9552,7 +9549,7 @@ But this is an avatar. An illusion of steel that breaks boulders and tears throu
 As if to ridicule that childish logic, the dragon's armor cries out from the series of five attacks. Its body finally falls to the ground, creating a tremor.
 The woman continues calmly approaching, as if taking a walk.
 Akihito: "――――!"
-The woman smiles. With her steel face. She holds up her fist. Her iron hammer of death. 
+The woman smiles. With her steel face. She holds up her fist. Her iron hammer of death.
 I instinctively order it to attack. My fear of death shakes off all reason and common sense――
 Akihito: "Babylon!!"
 A black arm lies on the ground like a fallen tree. It swings toward her――
@@ -9578,7 +9575,7 @@ The gate light appears.
 The light expands at my feet, swallowing up Babylon and disappearing.
 Only the woman and I remain.
 ???: "――――"
-For a short while, the woman remains silent, gazing at me like a hunter gauging her prey. 
+For a short while, the woman remains silent, gazing at me like a hunter gauging her prey.
 ???: "You sent your avatar back?"
 ???: "That's interesting."
 It takes me a while to realize that was a question. She's asking why I did that.
@@ -9642,7 +9639,7 @@ Touri: "I don't judge. I just harvest. You no longer meet the conditions, so you
 Akihito: "That doesn't explain much......if I asked who you were, would you tell me?"
 Touri: "Are you interested?"
 Akihito: "Well, you did just try to kill me......"
-I'm not proud of it, but I have fought multiple avatars with Babylon. 
+I'm not proud of it, but I have fought multiple avatars with Babylon.
 Even though I was controlling it alone, I've never experienced such a hopelessly one-sided fight.
 That steel magic can compete with a tank, but this woman tore it apart like twisting a child's hand――
 I am curious. I doubt she's anything other than a death goddess, but......
@@ -9780,7 +9777,7 @@ If you don't shoot, you'll be shot. Ever since I got connected to Babylon, that'
 Akihito: "――――"
 Up until now the Coμnet has functioned without any clear rules. The authority of the Round Table was enough.
 If any coμ in the Round Table commits a crime or disobeys the leaders, they get thrown out.
-That's bad enough. They lose their support and their source of information. Other coμs in the Round Table start avoiding them. 
+That's bad enough. They lose their support and their source of information. Other coμs in the Round Table start avoiding them.
 That was all they needed.
 Until now―――
 Kamishiro: "We can't allow coμ hunters to hunt either. What do you think we should do, Takatou-san?"
@@ -10302,7 +10299,7 @@ A coμ is a circuit containing five people. To bring out a hundred percent of th
 Only three people are left in Jack's coμ.
 The other two are dead.
 That's clearly not enough to support Jack after all its level ups.
-The longer they clash with the dragon, the greater the risk that Jack stampedes. It's eaten tons of strangers in the past, but it might eat its own connectors this time.  
+The longer they clash with the dragon, the greater the risk that Jack stampedes. It's eaten tons of strangers in the past, but it might eat its own connectors this time.
 ―――That's no joke.
 Karasuma: "――――"
 Only Karasuma smiles with glee.
@@ -10372,7 +10369,7 @@ Everything Jack passes through falls apart in pieces. Walls, poles, fences, vera
 In the middle of a crumbling world, Babylon gives up on pursuing it.
 It can't possibly outrun it. Babylon's speed has a time limit.
 The gravity field strengthening Babylon is also finite.
-The more power we direct to movement, the weaker our attack and defense becomes. 
+The more power we direct to movement, the weaker our attack and defense becomes.
 Given how much MP we have left, we can't afford to spend any of it on movement.
 ―――We focus the field, set its effective range, and inject the required magic.
 This shield is our last line of defense, and even that is running thin.The black dragon switches from an all-around shield to one deployed only in the front, and waits for the scarlet hound.
@@ -10396,7 +10393,7 @@ Karasuma laughs.
 Not much longer. This time for sure.
 His prayers will surely be answered.
 If you believe and work hard, your wishes will be granted.
-If he can cut into that dragon, if he can tear it into pieces...... 
+If he can cut into that dragon, if he can tear it into pieces......
 ――A silver blade that stole his heart.
 ――Glistening steel piercing the sky.
 ――The legendary sword of judgment.
@@ -10655,7 +10652,7 @@ We lean against the footbridge fence in various places. None of us even face in 
 Mayuki sits down and fiddles with her phone. A single-player mobile game.
 Benio: "I guess this means it's over?"
 Benio leans back against the fence and looks up at the sky. Her murmuring doesn't have the same tension of a period drama actor.
-It's over――Things in this world don't end that nicely. 
+It's over――Things in this world don't end that nicely.
 Akihito: "The coμ hunting is over at least."
 The incident may end, but its effects linger. The dead won't come back to life. We can lament, but the rest of us just have to keep living.
 And that's when Haru comes back.
@@ -10848,7 +10845,7 @@ Kagome: "......"
 Haru: "......"
 Mayuki: "......"
 Izawa: "......"
-All of us go quiet at once, bringing on a mysterious pause. Are we moved by those words? 
+All of us go quiet at once, bringing on a mysterious pause. Are we moved by those words?
 Jack the Ripper. The city's string of nighttime murders completely stopped after a certain day.
 ――Who was the murderer and where did he go?
 It remains unclear, so the city remains tense for now.
@@ -10871,7 +10868,7 @@ Kagome: "Such a shallow flat-chest."
 Akihito: "......why does that matter?"
 Mayuki: "Hot-blooded justice characters are such a pain. They always turn into little kids when they get excited."
 Benio: "Gah, Mayu-Mayu......
-aren't you happy about this~!? 
+aren't you happy about this~!?
 Come ooon, come on, spit it out!"
 Mayuki: "Gyawa! Ya! Ah, tickling is no......kyaun! Yau! Please sto――! Kyuu!"
 Tickle fight.
@@ -10920,11 +10917,11 @@ Benio: "......so, Izawa?"
 Izawa: "This is just a pain in the ass, obviously."
 Akihito: "That's it?"
 Izawa: "If you'd all just disappear, then I could get back to doing what I want."
-Mayuki: "That's true, but if you're controlling Babylon alone, 
+Mayuki: "That's true, but if you're controlling Babylon alone,
 it's so weak someone might one-hit-KO it."
 Izawa: "............"
 Haru: "Well, that's quite typical."
-Benio: "Got it, short stuff? 
+Benio: "Got it, short stuff?
 You should be grateful. We're being very nice letting you hang out with us, Izawa."
 Benio's justice doesn't hold back against Izawa's evil.
 Izawa: "......I'll throw you in the Naruko River."
@@ -11776,7 +11773,7 @@ Akihito: "These accusations are baseless."
 Haru: "*sip*"
 Haru sips her after-meal tea.
 Rondo: "Your coμ's getting a bit famous too."
-Rondo smiles and points. 
+Rondo smiles and points.
 Rondo: "You beat down Nanase's Fuchur and defeated Jack the Ripper with your black dragon avatar. You're the Coμnet's new heroes."
 Haru: "I can imagine Nananatchi's fans getting jealous."
 Rondo: "But you're also popular. There are a lot of people opposed to the Round Table, and they like what you guys did. You're an anti-hero."
@@ -12009,7 +12006,7 @@ Rondo called it a party. The atmosphere of the event is mysteriously uplifting. 
 A guy at the entrance tears our tickets. I walk by him into the windowless abandoned hall, just like the opening to a crime drama.
 The ground vibrates as if giants are playing drums. This place must have good sound-proofing, because I didn't feel this before walking in.
 We've arrived shortly after the event got started.
-We walk through a hallway with temporary lighting and come out onto a catwalk. 
+We walk through a hallway with temporary lighting and come out onto a catwalk.
 A wave of heat pushes against me like a hurricane. Everyone on the floor below is standing, surrounding the central stage with a whirlpool of stamping and shouting.
 The stage is old and basic, like a wrestling arena.
 A simple three-meter tall circular steel frame.
@@ -12026,7 +12023,7 @@ Benio: "Wooow, it's like a concert hall......"
 Benio's mouth hangs open.
 Kagome: "The riffraff are being swept up in the heat of the festivities."
 Akihito: "......are these guys all connectors?"
-Rondo: 
+Rondo:
 （It's a gig, but not for a band. Like I said, it's a party for people like us.）
 If what Rondo said was true, they all are.
 Akihito: "Seriously? How many are there......?"
@@ -12169,7 +12166,7 @@ Kagome: "The republic collapses, and an emperor appears――"
 Kagome: "And now the masses are hoping this emperor will repeat that historical event."
 Caesar conquered Gaul, building the foundation for his imperial rule. From his catwalk, the white king answers the jubilation, just like the hero who changed the world by conquering Rome.
 Caesar: "――――My bretheren."
-The emperor gives his speech through a voice changer. The microphone ensures everyone gathered here can hear him. 
+The emperor gives his speech through a voice changer. The microphone ensures everyone gathered here can hear him.
 Caesar: "You who have been chosen by Girl A to wield a great power. Behold the disorder that is before us. Monsters run rampant in the city, threatening the great kingdom of the Round Table."
 Caesar: "The peace and order of your city has been shattered!"
 Caesar: "But why!? Who brought about this evil!? For what sin must your safety and security be taken away!?"
@@ -12196,7 +12193,6 @@ Caesar: "Precisely! The Round Table's weakness is threatening your kingdom. What
 Caesar: "Bring back law and order to this kingdom, so all connectors can live in peace! That is our duty! Our mission!"
 Crowd: "Take the throne!"
 Crowd: "Build a new kingdom! A new world for us!"
-Caesar!Caesar!Caesar!
 Caesar!Caesar!Caesar!
 Caesar!Caesar!Caesar!
 Voices roaring, voices reverberating, voices rumbling. Heat races through the rubble palace where the king reigns.
@@ -12245,7 +12241,7 @@ Akihito: "Hm? Yes, I remembered your name."
 Yoruko: "A thing like you remembering me makes my skin crawl."
 She came to pick a fight again.
 Akihito: "If you don't choose your words more carefully I'll make you crawl."
-Yoruko: "I'd like to see you try. 
+Yoruko: "I'd like to see you try.
 Pitoo!"
 She spits on the ground.
 Akihito: "I see, okay."
@@ -12565,7 +12561,7 @@ Akihito: "Didn't anyone ever tell you that curiosity killed the cat?"
 Gasai: "This is a game, Mizuwa Akihito――If you have luck and power, let's see you survive this."
 Gasai: "―――If not, die."
 Akihito: "Listen to me!"
-Gasai: 　　　"――――Conquer all, El-ahrairah!"　　　
+Gasai: 　　　"――――Conquer all, El-ahrairah!"
 Gasai gives the order without mercy.
 Bluish-white light swirls in front of him. Gate light.
 A bright, spinning beam of light that appears when an avatar teleports into space. Something even brighter appears from it.
@@ -12602,7 +12598,7 @@ I have to win.
 I have no choice. Defeat, resignation, despair.
 But so what?
 As long as I keep rejecting those things―――
-Akihito: 　　　　　　"――――Come, Babylon!!"　　　　　　
+Akihito: 　　　　　　"――――Come, Babylon!!"
 Swirling gate light answers me.The black dragon rises up out of that blue light.
 Akihito: "Since I know even crying isn't going to stop you―――"
 Izawa: "――!?"
@@ -12619,7 +12615,7 @@ Avatars are supposed to be controlled by five people. The more you're missing, t
 Plus Babylon is a Georgios, giving it a C for Control. There's no way I could hope to bring out Babylon's full potential by myself.
 Since my power is limited, what should I spend it on, and what I should I skip?
 Attacking and defending are the same thing. Predict the opponent's move, and plan ahead for it.
-It all happens in an instant, if that. Famous shogi players think about what the board will look like ten or twenty moves in the future before moving their pieces. 
+It all happens in an instant, if that. Famous shogi players think about what the board will look like ten or twenty moves in the future before moving their pieces.
 Gasai laughs. El-ahrairah's blades close in.
 A moment's hesitation will mean death.The pitch-black Babylon dodges two. Two more graze it.The last one it can't escape, so it catches it with its right hand.
 Darkness expands from Babylon's hand.
@@ -12738,7 +12734,7 @@ The smell of dirt and trees smoldering stabs my nostrils.
 Akihito: "......"
 I'm just stunned.
 So this is the invincible silver avatar called El-ahrairah.
-Destruction and control incarnate.As advertised, it's a level beyond the rest of us. 
+Destruction and control incarnate.As advertised, it's a level beyond the rest of us.
 Babylon took heavy damage from that.
 Its armor creaks and groans like a broken clock as it writhes.The right half of its body was burned by the "swords of light," and its right arm is almost gone.
 If Babylon's fire hadn't shielded it, it may have been completely deactivated.
@@ -12915,7 +12911,7 @@ Akihito: "That's cheap......won't that make you unhappy when you get to the scal
 Benio: "Th-that's...not......!!"
 Akihito: "Weird face."
 My mood lightens. For some reason, my cheeks loosen.
-Benio: "Akihito, you were making a much weirder one earlier. 
+Benio: "Akihito, you were making a much weirder one earlier.
 Your eyes were wide open like thiiis."
 Benio's eyes pop open and she spins her head around. It does look weird.
 Akihito: "I wouldn't be able to copy that wacky face no matter how hard I tried."
@@ -13841,7 +13837,7 @@ Akihito: ".................."
 A room in the love hotel, with the right coloring to set the mood.
 This highly specialized room isn't overdecorated at all. It's actually quite simple.
 I've been to places like this before, but I feel tense anyway. My eyes move around, unsure what to look at.
-Reproductions of paintings on the walls. Pale curtains. A tapestry at the front of the bed. 
+Reproductions of paintings on the walls. Pale curtains. A tapestry at the front of the bed.
 The two pillows lined up on the bed almost seem to be screaming, "Yep, that's what we're here for!"
 Benio: "......"
 Benio hasn't opened her mouth once since we got here. Not when we walked through the entrance, designed to keep the interior hidden from the outside. Not when we chose the room. Not when we got in the elevator.
@@ -14003,7 +13999,7 @@ I move around, careful not to touch her sensitive clitoris, rubbing plenty of he
 I then open up two of my fingers and start gently rubbing the sides of her crevice.
 Benio: "Ha, ah, auuu......! This is, mm......mmm! Hyauu! Mm......muu......ah, ah......!"
 I gradually narrow those fingers, touching her entrance.
-As I rub the sides of her crevice, I kiss her chest. 
+As I rub the sides of her crevice, I kiss her chest.
 Benio: "Ah, ahaaa......! A-Aki...hitooo......! Nooo......no, nonnn! Don't play with that, or I'll, mm!"
 Akihito: "We won't be able to do it if I don't."
 I haven't even put my fingers inside yet, but she's already shaking her hair into a mess.
@@ -14207,7 +14203,7 @@ That's why we make rules and protect each other.
 For example, a family might have a rule that everyone gets the same amount of cake. If there are two children, it gets cut in half. If there are ten, it gets cut into ten even pieces.
 If one of the ten is stronger than the others, then he can ignore the rules, beat up the other nine and have all of the cake.
 Rules are inseparable from punishment.
-Punishments aren't about retribution, but setting prices. The worse the punishment for breaking the rule, the higher the price of breaking it. If that price is higher than what you stand to gain, there's no longer any point in breaking it. 
+Punishments aren't about retribution, but setting prices. The worse the punishment for breaking the rule, the higher the price of breaking it. If that price is higher than what you stand to gain, there's no longer any point in breaking it.
 If no one's there to punish them, nothing holds people back but their trivial rationality and shreds of a conscience.
 Kagome: "I'm impressed it lasted two years."
 Akihito: "The Round Table must've done a lot of things right."
@@ -14350,7 +14346,7 @@ I'm used to seeing the city's sky, but I can't tell it apart from the sky's true
 Gasai: （You don't kill as an unintended consequence. When you shoot, you know it's going to kill.）
 Gasai's words come to mind.
 I'm stubborn, small and weak. I stand on a street on the north side, made to resemble foreign countries that I've never visited.
-Kagome's waiting for me a short distance ahead. She's selfish, uncute and looks down on everyone, so that doesn't suit her at all. 
+Kagome's waiting for me a short distance ahead. She's selfish, uncute and looks down on everyone, so that doesn't suit her at all.
 Akihito: "It's tough not knowing where you're going."
 Kagome: "Such weakness. It's nauseating. Stay away from me."
 Akihito: "I can help with your bulimic diet then."
@@ -14570,7 +14566,7 @@ Ikuhara continues looking down, but examines me with her eyes. She reminds me of
 Ikuhara: "Rondo, tomorrow, will you......?"
 Rondo: "I'll be a normal student tomorrow, don't worry."
 Ikuhara: "Okay, I'll be waiting for you. Ah, it's so late......umm......I have to go now."
-Rondo: "You busy? 
+Rondo: "You busy?
 That's right, your mother......"
 Ikuhara: "Hm?"
 Rondo: "Cheer up. Hold your head high. Don't stop smiling. I like the way you smile, Ikuhara."
@@ -14656,7 +14652,7 @@ An agate giant――A Pantagruel.
 Brown-Haired Man: "You really piss me off. Let's see how you handle pain――"
 Laughter comes from behind the giant.
 The Pantagruel just barely fits in the narrow alley. It moves with both hands and feet, almost crawling.
-　　　　　　　■■■■■■■■――――!　　　　　　　
+　　　　　　　■■■■■■■■――――!
 Its steel throat roars.
 A roar only connectors can hear shakes the alley.
 It looks like an animal, but it towers far over us humans.
@@ -14703,7 +14699,7 @@ Rondo: "See!? We have to defeat them or――"
 Akihito: "I know, just focus on controlling your avatar!"
 Rondo: "――!!"
 Miss Jh follows from behind, and behind it the sounds of the giant come closer. I wait for the right moment, and......
-Akihito: 　　　　　　　"―――Come, Babylon!"　　　　　　　
+Akihito: 　　　　　　　"―――Come, Babylon!"
 The moment the giant turns the corner, Babylon swings its tail, even though half of it is still inside the gate light.
 The agate giant slams into the wall of a building, several times louder than a traffic accident.
 That's not enough to destroy an avatar.
@@ -14727,7 +14723,7 @@ We grabbed onto Miss Jh's white, bony arms and let it fly us out of the alley. T
 I unsummoned Babylon too. If I have to summon it again that'll be a waste of magic, but oh well.
 Rondo: "......I see. Now the Pantagruel can't follow us."
 For the most part, only Burroughs and Caspar avatars are capable of flying.
-Pantagruels are especially heavy, so even if it jumps, it won't be able to get up here. 
+Pantagruels are especially heavy, so even if it jumps, it won't be able to get up here.
 Akihito: "Idiot."
 Rondo: "I-idiot? What was that for!?"
 Akihito: "It's an avatar. They can just resummon it up here."
@@ -14737,7 +14733,7 @@ Since they're down there, they can't see us, so we should be able to get away.
 We should, but―――
 Rondo: "――!?"
 I hear something fly through the air. A neon sign on a nearby building suddenly explodes.
-Roaring air. Scattering stone. The shockwave hits us like a tornado, knocking me and Rondo out of Miss Jh's arms and onto a roof. 
+Roaring air. Scattering stone. The shockwave hits us like a tornado, knocking me and Rondo out of Miss Jh's arms and onto a roof.
 Akihito: "What――?"
 I pull myself up. The moment my thoughts finally catch up with the situation......
 A second shot.
@@ -15290,7 +15286,7 @@ It's only been half a year since the last resident left.
 Once the last signs of life vanish, a building turns into a husk of its former self in no time at all.
 Because of the bright sunlight, we can clearly see their emptiness, like the dark, hollow space inside a skull.
 Haru: "It feels so different in the daytime."
-Haru's voice normally sounds unshakable no matter what happens, but now there's a subtle emotion in it. 
+Haru's voice normally sounds unshakable no matter what happens, but now there's a subtle emotion in it.
 Akihito: "You feel it too, O-Haru-san?"
 Benio: "Huh? Akihito......you don't know?"
 Haru: "Do you remember what happened here? I guess it was five years ago."
@@ -15412,7 +15408,7 @@ The internet. Other coμs. The Round Table. There are plenty of sources a connec
 Satou must have come into contact with another connector at some point.
 Yamate: "Dunno. I never found out......"
 Yamate: "And then, that night......"
-He didn't even tell his own coμ the source. 
+He didn't even tell his own coμ the source.
 Akihito: "The night of the party?"
 Yamate: "Satou brought us there. He said there were lots of other coμs like us, but I was still shocked to see so many."
 I remember feeling the same way. I can sympathize with that.
@@ -15466,7 +15462,7 @@ Monou: "Then......?"
 And yet, Monou feels reassured.
 Akihito: "......"
 I remember Yamate's mother.
-Family bonds. There's someone praying for his safety. 
+Family bonds. There's someone praying for his safety.
 If anything happens to Yamate, his mother and Ikuha will cry.
 It's easy to take a life, but the wound that leaves won't disappear, like a chess piece removed from the board.
 Akihito: "I'll do what I can."
@@ -15498,7 +15494,7 @@ I killed Karasuma. I don't regret it, but the consequences still hurt.
 Everyone's alone, but no one can live or die by themselves. One domino falling over takes countless others with it.
 That's a fact of this gentle kingdom that no one can change.
 Akihito: "......we'll save Yamate, somehow."
-Haru drives us to the shrine Monou lives at. Monou bows several times and waves as we drive away. 
+Haru drives us to the shrine Monou lives at. Monou bows several times and waves as we drive away.
 Akihito: "I still don't get it. Why try to kill one of Caesar's friends?"
 Benio: "............"
 Akihito: "......Benio?"
@@ -15757,7 +15753,7 @@ Benio: "Ah, ah, ah............! Aha......hu......! Mma............!"
 Akihito: "Umm......did you...cum?"
 I wasn't even trying to do that yet.
 Benio: "Hahu, hahu......ha......! Auu, ua......haa, haa, haa............"
-Benio nods as she desperately tries to take in oxygen. Will I really be able to get inside her if she's like this......? 
+Benio nods as she desperately tries to take in oxygen. Will I really be able to get inside her if she's like this......?
 Akihito: "Benio, I'd like to actually do it soon......do you think you can handle that?"
 Benio: "Ahu......nn......mm, huuu......haa, haa......u-umm......that didn't hurt, so I think......it should be fine."
 Akihito: "Okay. Like before, I'll try to start off gentle......"
@@ -16062,7 +16058,7 @@ Satou: "I understand, Yamate. That's fine. I get what you're saying."
 Satou: "Basically―――You're useless. We can't do a damn thing with you. Traitors like you should be buried!"
 Satou slowly shows his teeth. Not to threaten, but to mock. The cruelty that comes from knowing you're in a far stronger position.
 Satou: "―――Break them apart, Lagos!"
-A swirling gate light appears in the air, answering the laughter between the ruins. 
+A swirling gate light appears in the air, answering the laughter between the ruins.
 A fantastic creature with neither arms nor legs. A mythical steel fish swimming through the air. An armored sea creature that seems as if it once circumnavigated the ancient oceans.
 It's a Caspar.
 What's unique about it are its extremely long range shots, capable of killing from much farther away than claws or fangs could ever reach.
@@ -16213,7 +16209,7 @@ Kagome: "I see, you're a suspect yourself."
 Nanase: "............!!"
 The witch's evil eyes bind the knight.
 Akihito: "I'm pretty sure it's not Nanase-san."
-Nanase: 
+Nanase:
 （
 Geez, what's Caesar's problem with us anyway? ......he should just die already.）
 Trying to imagine it is quite painful.
@@ -16281,7 +16277,7 @@ Tianwen: "It varies from person to person. There may even be things you don't re
 Tianwen: "I must sound quite jaded now."
 Akihito: "Not really jaded. That's just a very ordinary, grim thought, which surprised me."
 We look at each other, and smile slightly.
-The Owner selects a bottle of Early Times bourbon from the shelf and pours some into a glass. 
+The Owner selects a bottle of Early Times bourbon from the shelf and pours some into a glass.
 Tianwen: "You can't learn how sweet alcohol is without getting used to it first. Experience is everything, especially with girls."
 Everyone has to speak from their own experience. We see the world from closed kingdoms.
 Tianwen: "Not bad. I'll keep using this supplier for a while."
@@ -16299,7 +16295,7 @@ Tianwen: "Be back soon."
 I cut through the park toward a nearby shopping center.
 According to a horror movie I borrowed recently, these places will be humanity's last bastions when the zombie apocalypse hits. I wonder when the avatars will chase us in there.
 Akihito: "Wouldn't do much against avatars."
-I buy what we need without incident. He handed me another note on the way out with other miscellanea that we'll be using. For some reason, "seven melon bread" was one of them. 
+I buy what we need without incident. He handed me another note on the way out with other miscellanea that we'll be using. For some reason, "seven melon bread" was one of them.
 Chai Tianwen――I really can't read him......
 A river of cars flows through the evening street without pause. A variety of colors.
 The streets are blood vessels, while cars or traffic are the red, white, and lymph cells. I rush down the crowded main street on my moped, feeling like part of a living, breathing city.
@@ -16461,7 +16457,7 @@ Miyato: "Fighting for justice takes a lot of plain old hard work. We had to brin
 His lighthearted smile feels strangely dependable today. Maybe he just looks manly.
 Miyato: "That aside, I'm glad you made it out of there okay."
 Akihito: "Thanks."
-But no matter how skilled Miya-san is, this incident is beyond him. 
+But no matter how skilled Miya-san is, this incident is beyond him.
 The internet has been telling everyone the truth for hours. A fight between monsters in broad daylight.
 ―――Avatars.
 Fantastic creatures beyond the edge of the world. The police can't hope to match them.
@@ -17423,7 +17419,7 @@ Geez, why is she always so energetic for no reason?
 I don't even have time to be depressed when she's around.
 Akihito: "What kind of girl uses salmon roe in a random simile like that?"
 Benio: "I know it's Nanase-san, but she's still a connector. You're the one always telling us to be careful in case things get dangerous."
-Benio: "Always take action in two man cells! 
+Benio: "Always take action in two man cells!
 Takekawa Benio is on your side and will protect the peace and justice of this city. Takekawa Benio reporting for duty!"
 Two people is enough to at least make Babylon move around competently.
 Benio: "......and, besides......it is......Nanase-san......so......"
@@ -17466,7 +17462,7 @@ Akihito: "And they might knock us down too at some point."
 Benio: "Situations like this really aren't logical......"
 Akihito: "They are."
 For instance――
-A and B make a deal. A holds money in his right hand, and B holds the item in his right hand. They both hold a gun in their left hand. 
+A and B make a deal. A holds money in his right hand, and B holds the item in his right hand. They both hold a gun in their left hand.
 So what should they do?
 Benio: "......why not just give B the money and take it?"
 The best answer is――Draw your gun and shoot him in the head.Whoever shoots first wins everything.
@@ -17495,8 +17491,8 @@ Nanase: "Is something wrong?"
 ――She lost one of her targets.
 She took her eyes off of them for less than two seconds as she passed through the crowds, but the long black hair vanished like mist.
 Did she just lose her? Or did that woman slip away?
-She looks around. Her ears prick up. She's proud of her sensors, but at this time of day and on this street, there are too many cars driving by and people heading home from work. 
-It'd be easy to keep going. She knows both the north and south sides of the new heart like the back of her hand. That group stands out so much that she could easily find them again. 
+She looks around. Her ears prick up. She's proud of her sensors, but at this time of day and on this street, there are too many cars driving by and people heading home from work.
+It'd be easy to keep going. She knows both the north and south sides of the new heart like the back of her hand. That group stands out so much that she could easily find them again.
 ???: "......?"
 Her nose shakes slightly.
 Something other than logic warns her that she's in trouble. Her instincts are usually right, but whether she listens to them or not depends on her mood.
@@ -17606,7 +17602,7 @@ Kagome prompts me.
 Akihito: "Nanase-san."
 I tell her a date, too quietly for Kururi to hear.
 Akihito: "Do you remember feeling an activation signal that day?"
-Nanase looks down and thinks for a moment, then tells me she's not sure. 
+Nanase looks down and thinks for a moment, then tells me she's not sure.
 Nanase: "There might have been, but I don't know for sure. I don't always ask the rest of my coμ when that happens."
 Akihito: "Do you have any pictures of the other members?"
 Nanase: "Eh......?"
@@ -17780,7 +17776,7 @@ A holy warrior who serves the Round Table Masters―――Fuchur.
 Kagome: "Don't waste your breath."
 The witch laughs with the gate light at her back.
 Kagome's long shadow blots out the new swirl of light.
-Akihito: 　　　　　　　"――――Come, Babylon."　　　　　　　
+Akihito: 　　　　　　　"――――Come, Babylon."
 A black dragon, darker than night, crawls out of its own blue gate. Its name is Babylon.
 David: "Nanase, kill them, now!"
 Nanase: "......uu, a......uaa......hi......"
@@ -18069,7 +18065,7 @@ If there was a person like that, then we wouldn't be in this situation.
 The times are to blame as well.
 Everyone's looking for a target to swing their fists toward.They want enemies to defeat, enemies to bring down.There are tons of people who'll dance when Kugura blows the whistle.
 Benio: "............I don't like it."
-After a long silence, Benio whispers.It's just an illogical emotion that won't resolve anything. 
+After a long silence, Benio whispers.It's just an illogical emotion that won't resolve anything.
 And maybe that's why――Tonight, I find it very beautiful.
 Akihito: "That aside, it's surprisingly quiet out here."
 Kururi comes up behind us.
@@ -18318,7 +18314,7 @@ Kagome's eyes ridicule me for not thinking of this sooner.
 Akihito: "......I need to make a call."
 I pick one of the numbers recorded in my cell phone. I've called it several times after the attack, but never gotten an answer.
 Akihito: "We need to exchange information."
-I feel like there's a lead weight in my stomach. 
+I feel like there's a lead weight in my stomach.
 The ringtone keeps going on forever, but no matter how many times it repeats, it never switches to an answering machine or an operator.
 After so many rings that I've completely lost count......
 Yoruko: "What?"
@@ -18370,7 +18366,7 @@ Akihito: "Beats me, but if I had to guess――Someone was told to attack, and s
 Much of the world is resolved through addition and subtraction. Answers can be found by replacing something you're missing with something you do have.
 Akihito: "Because I asked you to protect Yamate, you knew that Kugura was targeting Caesar."
 Akihito: "And you may have been considering that possibility even earlier."
-Gasai: "―――Yamate's coμ was one of many bullets. It was easy to corner one of Kugura's other pawns." 
+Gasai: "―――Yamate's coμ was one of many bullets. It was easy to corner one of Kugura's other pawns."
 The king gives his answer. That familiar iron mask is still arrogant.
 Akihito: "......was Kugura always planning to fight in the middle of the city?"
 Gasai: "He doesn't have the nerve."
@@ -18399,7 +18395,7 @@ Gasai: "A hundred of you have died so that I may save a thousand."
 Akihito: "And then you'll be a hero?"
 Gasai: "Heroes are just fairy tales. Glass castles. No different from Caesar."
 Gasai: "That person never existed. The people create a hero when they see someone do what they cannot."
-Very few humans are strong enough to live on exactly as they are. 
+Very few humans are strong enough to live on exactly as they are.
 Everyone needs a fairy tale. A fictional country. A witch and a king.
 Dreams and hope are formless fantasies, but humans will run toward those impossible delusions like a horse with a carrot under its nose.
 So Gasai is giving them a dream.He's making today a day of terror, chaos, and pain.He'll make tomorrow a day of peace, hope, and ideals.
@@ -18546,7 +18542,7 @@ I can't do that. No one can take that kind of responsibility.
 Even walking down the street can take someone's life away.
 I'd have to carry that reality――
 Don't say such a thing so lightly.Bearing the burden won't bring the lives back.The dead aren't going to forgive the living.
-Don't use pretty words to hide the fact that they weren't saved. 
+Don't use pretty words to hide the fact that they weren't saved.
 Dammit.
 I hate it so much.I can't forgive any of this.
 But so what―――?
@@ -19286,7 +19282,7 @@ Thus, once the sun sets, the city waits for dawn like a corpse. In a sense, the 
 The gray car flies along the road. It's breaking the speed limit, trying to make up for lost time.
 Overhead――――
 A metal bridge connects the two shores. A straight line with no obstruction. Blue light swells up, overpowering the moonlight.
-Akihito: 　　　　　　　"――――Come, Babylon!"　　　　　　　
+Akihito: 　　　　　　　"――――Come, Babylon!"
 A song that cuts down the curtains. I chant a phrase I selected to bring our avatar out from the depths of non-existence.
 The summoning spell itself means nothing. An avatar can be summoned with anything at all, as long as it triggers one's will to bring it out.
 The gate light appears in midair.Darkness gushes out, cutting off the moonlight.
@@ -19343,7 +19339,7 @@ Gasai: "Is that all you have to say?"
 Akihito: "We didn't come here to say anything."
 Regret. Morals. Ethics. Worries.Gasai has long surpassed all of those things.He wouldn't be here if he hadn't.
 Words won't reach him.Even if they did, they wouldn't mean anything.
-Because nothing is truly "right" or "wrong."We can only destroy someone else's righteousness with our own. 
+Because nothing is truly "right" or "wrong."We can only destroy someone else's righteousness with our own.
 We don't want to forgive what Gasai did.If we want that feeling to reach him――There's only one way to make it happen.
 Akihito: "This is a declaration of war."
 Gasai: "I accept your war."
@@ -19355,7 +19351,7 @@ Mayuki: "He's gonna come whether we want him to or not."
 Akihito: "Ready for this?"
 Benio: "――Yes!"
 Benio strikes a pose.
-　　　　　　　　　■■■■■■――――　　　　　　　　　
+　　　　　　　　　■■■■■■――――
 Babylon growls.It would be easy to defeat him now without his avatar.We all know that as we wait for the fight to start.
 Gasai: "Conquer all――――El-ahrairah!!"
 The laughing champion boldly orders his general to advance in front of the pitch-black dragon.
@@ -19420,7 +19416,7 @@ Babylon can move extremely fast by reducing gravity's effect on it.
 After picking itself back up, Babylon accelerates forward to shake off El-ahrairah.
 Akihito: "Wha――――"
 El-ahrairah's gaining on us.
-After leveling up in two separate battles, Babylon's gravity control is capable of greater instaneous acceleration than even Jack the Ripper. 
+After leveling up in two separate battles, Babylon's gravity control is capable of greater instaneous acceleration than even Jack the Ripper.
 And he's even faster than that.
 Haru: "Akihito, this is bad."
 The maid's expression is unusually stiff.
@@ -19655,7 +19651,7 @@ Babylon runs.
 Akihito: "Gasai......you――!"
 A rumbling so loud that even the moonlight goes pale.
 The white war god and the black dragon. Two steel masses collide underneath arches stretching across the heavens.
-El-ahrairah catches Babylon, as if embracing it. The sharp steel protrusions along the dragon's body pierce through the silver chest. The two gods are tied together. 
+El-ahrairah catches Babylon, as if embracing it. The sharp steel protrusions along the dragon's body pierce through the silver chest. The two gods are tied together.
 Gasai: "You've done it, Mizuwa――――――You actually wounded me!!"
 His indignation is clear.
 Gasai: "El-ahrairah――――!!!"
@@ -19865,7 +19861,7 @@ That applies to everyone. Karasuma was like that. I was like that when I stepped
 If you ignore the world and merely brandish your own personal righteousness, you become a black, twisted monster.
 You'll be the king of a lonely world, on a throne locked away from everything else.
 So......
-Gasai Itsuki's kingdom will probably bring peace to this city. 
+Gasai Itsuki's kingdom will probably bring peace to this city.
 Even if the world accepts you and applauds what you do, I will still deny you.
 Like a clown dancing before you, I will keep insisting that the king's tracks are filled with blood.
 So that we don't have to repeat those sins.
@@ -20242,7 +20238,7 @@ Benio: "Uuoh!?"
 Where can you find a real hero? That's what this is about.
 Heroes are courageous idiots who try to slay monsters.
 To do that they need simple and clear power. Legendary swords or simple experience.
-Guts and courage alone aren't actually enough to defeat anything. 
+Guts and courage alone aren't actually enough to defeat anything.
 But......
 If no one took that first step......
 If there weren't any idiots setting foot on that futile, foolish road of near-certain death......
@@ -20369,7 +20365,7 @@ Caesar's Legion is growing more than ever now that the worries of the masses are
 Caesar's Legion――An army led by the mysterious champion.A vigilante group made up of connectors.
 However―――
 Despite those changes, the city is quiet, as if it was empty.
-This isn't the calm before a storm. No one even seems to be dueling with their avatars anymore. 
+This isn't the calm before a storm. No one even seems to be dueling with their avatars anymore.
 I just feel confused.
 Like I'm the only one left in the courtyard after school, unsure whether I should leave or not.
 Izawa: "Nothing's happening, but I still get sick of seeing all of your ugly mugs."
@@ -20391,7 +20387,7 @@ Izawa: "What the hell do you want to do? ......never mind, you shut up. It'd jus
 He stops her before she can answer. There's no need to ask what Benio's hopes are.
 Benio: "What. Did. You. Say!!?"
 She pouts.
-Benio: "I'm happy because the town's peaceful! 
+Benio: "I'm happy because the town's peaceful!
 Besides, I can find other things to do if I look......"
 Benio said she wanted to be an ally of justice.
 If a random monster attacked us every week, we wouldn't have to think so hard about what to fight for.
@@ -20496,7 +20492,7 @@ We had other options. We didn't take them.
 I don't know if that was the right choice.
 Invisible paths.Invisible enemies.
 A meaning for the power we were given.A reason for the five of us to be connected.
-The vague questions continue bearing down on me in the calm air.My unease grows, carrying with it a hazy regret. 
+The vague questions continue bearing down on me in the calm air.My unease grows, carrying with it a hazy regret.
 The warmth of Benio's hand in mine. Even that feels distant somehow.
 ====================HK_02　仮面の独白.json====================
 The city resembles a whimsical painter's canvas. A never-ending supply of new brushes paint over the existing image with new colors.
@@ -20586,7 +20582,7 @@ Akihito: "Understand?"
 She quietly tilts her head to one side. I guess that's the natural reaction.
 Akihito: "She disappears sometimes. We once even thought she was dead for a while."
 Those memories are still fresh.
-She's made her safe return to society now, but I'm still worried she'll stroll into another minefield. 
+She's made her safe return to society now, but I'm still worried she'll stroll into another minefield.
 Hisoka: "............"
 Akihito: "............"
 Three minus one is two. Kururi leaves me and Soejima on the bench.
@@ -21178,7 +21174,7 @@ I try sticking my finger into her wide open mouth.
 Benio: "......don't watch a girl when she yawns."
 She's cute when she pouts.
 Kagome: "You're the one leaving your mouth defenseless. Don't blame us if something stick-shaped gets shoved into it."
-Benio: "S-stick sha――......! 
+Benio: "S-stick sha――......!
 Y-
 yellow card!!"
 As expected, she goes red and provides educational discipline.
@@ -21381,7 +21377,7 @@ Benio: "Th-threes――――"
 Her delusions run wild, petrifying her.
 Akihito: "......fine, fine, I'll sleep on the sofa. You two can use the bed."
 Benio: "Eh? No, we can't make you do that......"
-Benio-san's nice. We waste a lot of time in the great Japanese tradition of being too polite to each other. 
+Benio-san's nice. We waste a lot of time in the great Japanese tradition of being too polite to each other.
 Mayuki: "You're too naive, Benio-san. The only way to make room for yourself is to shove other people aside."
 The waves of Westernization assault us.
 Benio: "Fine......
@@ -21409,7 +21405,7 @@ Akihito: "Now that you mention it......I wonder if the events are marketed to th
 I see five or six staff members in black clothes. And she's right, there are a lot of white, black, and hispanic people here.
 Kagome: "Guards in ceremonial outfits. Look at their left sides."
 Benio: "Eh? Are those......guns?"
-Unnatural bumps in each and every dark suit. 
+Unnatural bumps in each and every dark suit.
 Kagome: "They're practically advertising them. They're carrying not for firepower but as a deterrent."
 Kagome: "They might even be fake for all we know."
 The bouncers strut around with handguns on their sides. This feels even more like another world now.
@@ -21484,7 +21480,7 @@ Its name is synonymous with "killer."
 Kagome: "Oooh."
 Kagome's gaze grows distant, like smoke. The corners of her mouth rise dangerously again. Looks like she's interested now.
 Kagome: "I see, the riffraff are having an orgy over the premiere of the latest snuff film."
-Nomad doesn't accept surrender. It's had three fights so far, and it destroyed all three. 
+Nomad doesn't accept surrender. It's had three fights so far, and it destroyed all three.
 Destroying an avatar kills all of its connectors. They probably all lost their lives at once when they failed to win that fight.
 Simple arithmetic tells us that fifteen people have died――No, fifteen have been killed. Because of these gigs.
 Benio: "That's......no different to the coμ hunters."
@@ -21821,7 +21817,7 @@ Sunlight cuts through gaps between buildings, making him squint. He reaches for 
 The hue of spring sunlight reminds him of an old movie he liked.
 About a girl who wandered into a foreign land, and went on a long journey to find her way back.
 ―――Beyond the rainbow.
-The melody doesn't fit this room, filled with the smell of tobacco and the rumbling of the engine. 
+The melody doesn't fit this room, filled with the smell of tobacco and the rumbling of the engine.
 ====================HK_11　紅緒の葛藤.json====================: "Where do you want to go?": "Where should I go?"
 Akihito: "This "MacBeth" has been doing well recently."
 Benio: "MacBeth?"
@@ -22294,7 +22290,7 @@ Akihito: "Well, it just sort of happened."
 Hisoka: "Did you want to ask?"
 Akihito: "Eh?"
 Hisoka: "About my cut."
-A sudden fastball. For a moment, I'm unsure if I should be standing this close to her. 
+A sudden fastball. For a moment, I'm unsure if I should be standing this close to her.
 Akihito: "......I'm really not that interested in other people's cuts, I just couldn't ignore it for some reason."
 Hisoka: "Because I showed you something you didn't want to see."
 Akihito: "Maybe."
@@ -24027,7 +24023,7 @@ Akihito: "So it's your fault that Yoshimori died."
 Touri: "What happened to what you were saying earlier? Why are you mad about it now?"
 Touri: "Besides, the man was the one I tricked. Your friend was just a victim of his. It's a typical story, isn't it?"
 Akihito: "I hate you because everything's going the way you want it to."
-A black emotion stirs up inside of me. Warped heat scorches my brain. 
+A black emotion stirs up inside of me. Warped heat scorches my brain.
 I'm not grieving for MacBeth.
 ――I'm jealous.
 She shouldn't have given anyone else that knife――
@@ -24116,7 +24112,7 @@ Tears appear in the corners of her tightly shut eyes. Her white skin starts to s
 Black flames fill my chest. Before I know it, the juices flowing out of her cover my hand up to the wrist.
 Touri: "Ah, ah......aaa......!"
 A sweet voice, numbing the core of my mind. It's so hard to breathe, I feel like I'm drowning.
-My right arm moves mechanically. Touri reacts by quivering, like a spring-wound doll. 
+My right arm moves mechanically. Touri reacts by quivering, like a spring-wound doll.
 Touri: "Iii! ......uu, uuuuu!!"
 Something in Touri reaches its limit, like a ripe fruit falling from a tree. Her slovenly spread legs shake wildly.
 Touri: "Haaaa......nn, nn......!!"
@@ -24343,7 +24339,7 @@ Benio: "......yes. It's evil to the person she wants revenge on anyway. I'm goin
 Crushing justice with justice.
 Benio's words are dangerous. I'm not sure if she realizes that or not.
 Akihito: "Pop quiz. How many times did you say justice just now?"
-Benio: "Eh? 
+Benio: "Eh?
 Uuuuh............hmm."
 She starts counting on her fingers.
 Benio: "......are you mocking me?"
@@ -25192,7 +25188,7 @@ Akihito: "That's something men know nothing about......!"
 Squishy, watery noises from where we're connected. Frothy fluid pours out.
 Haru: "Nnha......aaaa......nn! Huu, huuuu......yes, Akihito, faster......! More, more......"
 Her soft, sweaty breasts really do feel just like genitalia.
-Her sweaty flesh sucks on my hands. Since it doesn't have any complicated folds, it's perfectly smooth. 
+Her sweaty flesh sucks on my hands. Since it doesn't have any complicated folds, it's perfectly smooth.
 Haru: "Haa! Ah......! More, don't stop, Akihito......! Aannn! Uu, nn......! Yes, that's really good, it's hitting deep inside......ah......nn......!"
 I fill both hands with her boobs as her soft flesh envelops me, as if my whole body is being taken in by her. It's so comfortable, my mind is drifting away.
 Haru: "Nn, ha! I feel it...shaking me all the way......! Ha, haa, haa......aaah......! Yes, it's so good............!"
@@ -25560,7 +25556,7 @@ My breathing is physically obstructed.
 Heavy and soft. An overpowering quantity of flesh is asphyxiating me at this very moment.
 Akihito: "Buhaaa!"
 I hear a popping noise as I break out.
-A literally fatal 97-centimeter bust I know all too well. 
+A literally fatal 97-centimeter bust I know all too well.
 Haru: "Mmmmm......what? You want to go again......?"
 Haru's weak voice makes me remember everything.
 Yesterday, Haru and I snuck into a love hotel, running away from what happened――
@@ -25880,7 +25876,7 @@ But that's fine. Every business is a lotus――A flower that blooms in mud.
 Some fish live in that mud. Ideally, they're just gangsters and mafia.
 At least they always act for profit or reputation, no matter how antisocial their methods may be.
 But what came out of the avatar gigs――It's something far more inorganic and bizarre.
-Kagome: 
+Kagome:
 （A Glock 17, an Austrian 9mm automatic pistol with seventeen rounds in a clip. Used my military and police forces in several countries.）
 Kagome: （This still feels more like a mob hit than a military assault.）
 I just don't see Soejima being connected to such things.
@@ -26519,7 +26515,7 @@ Yoruko: "............he got mad at me."
 Akihito: "Did you wet the bed or something?"
 She glares at me, as if eyes could kill.
 Yoruko: "I took......independent action."
-Akihito: 
+Akihito:
 Yoruko: "I tried......to help Itsuki......"
 Akihito: "And he told you not to do stupid things without his permission?"
 Yoruko: "............"
@@ -26881,7 +26877,7 @@ There's a gig tonight. A bloody festival to bring this to an end. But―――
 Haru: "Wow, it's just the two of us now?"
 Haru's maid outfit is far from tragic. Yes, five minus three is two.
 Benio's still in the hospital――I haven't seen her ever since Miya-san told me not to come.
-Ayaya's been visiting her practically every day, so I asked her to tell Benio: "Don't worry, we're staying away from the gigs now." 
+Ayaya's been visiting her practically every day, so I asked her to tell Benio: "Don't worry, we're staying away from the gigs now."
 Mayuki's still under martial law――No avatar can help her break through her parents.
 And――Then there's Izawa.
 Kagome: "So did that idiot die?"
@@ -26970,7 +26966,7 @@ There's no mistaking it. That's the avatar that attacked the school. Urita's Jan
 No one was expecting this. The avatar we were supposed to fight is off massacring innocent people. My brain simply can't process this.
 Haru: "What do we――"
 Akihito: "Isn't it obvious?"
-I'm shaking. Something black and hot fills my veins in an instant. 
+I'm shaking. Something black and hot fills my veins in an instant.
 Anger. Something I've never felt about any of my previous opponents.
 　　　　　　■■■■■■■■――――!
 The steel dragon roars. Its bright red eyes burn.
@@ -27120,7 +27116,7 @@ Driver: "Uwaaaaaaaaaaaaaaaaaaaaa!!"
 Emergency brakes. He was going too fast. His wheels lose traction and he starts skidding.
 The car spins around and crashes into the guard rail.
 Flames rise into the dark night sky. The burning orange reflects on the steel armor.
-The giant doesn't even glance at the tiny destruction at its feet. 
+The giant doesn't even glance at the tiny destruction at its feet.
 The waves of people have disappeared. The panic is dying down. What remains is the evidence of a tragedy.
 Corpses of those killed by terrorism. Red stains that aren't even corpses anymore.
 The enemy to defeat has also disappeared. There's no one on the hill now.
@@ -27242,7 +27238,7 @@ She turns around and walks away.
 Akihito: "......I will."
 The moon is in the sky.The night is still young.
 Hisoka: "――――――"
-Soejima Hisoka's lips play a melody, like a singing water fairy drawn to the moon. 
+Soejima Hisoka's lips play a melody, like a singing water fairy drawn to the moon.
 A song about an illusory country where the seven colors of the rainbow stretch across the sky.
 But the night sky in Hisoka's eyes is red.
 The color of blood. The sky, the moon, the buildings, the cars, all of them are red.
@@ -27267,7 +27263,7 @@ Hisoka: "Ah......"
 Girl A――
 An adorable girl she met that day, in the ruins of death.
 She sings, inviting Hisoka.
-Hisoka starts following her lead. The steel giant crosses the Takakura Suspension Bridge. 
+Hisoka starts following her lead. The steel giant crosses the Takakura Suspension Bridge.
 At the same time――
 A titanium bird of prey arrives from the sky. It carries the power to transform a city into cinders and to fly faster than sound. A steel bird born from human hands.
 A reaper of the sky with two horizontal wings――An FA-18 Hornet fighter jet.
@@ -27336,7 +27332,7 @@ Akihito: "......yes. We'll take a shortcut."
 The city's arteries are clogged tonight. Like action movie heroes, we slide over parked car hoods, rush through several alleys, and charge through intersections.
 Haru: "Isn't this the way to――"
 Akihito: "Yes, the park."
-The gaps between buildings die out. An urban forest cut out of the darkness by mercury lamps. The park is silent at night. 
+The gaps between buildings die out. An urban forest cut out of the darkness by mercury lamps. The park is silent at night.
 The night breeze carries the smells of plants and sea water. Moonlight wavers behind the rustling branches.
 Haru: "W-wait, how far are you going!? Ha! Ha!"
 Akihito: "You need to work out more, O-Haru-san."
@@ -28451,7 +28447,7 @@ The clouds are thick tonight, without a star in sight, as if it might rain at an
 The city feels dark and heavy tonight. His old wounds ache more than usual.
 Fukawa: "......"
 Arima's colleagues have praised him for always being nice and friendly.
-But he's not really nice. He's just shallow. He feels no attachment to anything, so it's easy for him to act nice. 
+But he's not really nice. He's just shallow. He feels no attachment to anything, so it's easy for him to act nice.
 Fukawa Arima has no dreams.
 He did once. There was a time when unattainable fantasies filled his mind.
 Dreams. Hopes. Wishes for the future. Strong rays of light that burn if he reflects upon them.
@@ -28723,7 +28719,7 @@ As the huge raindrops pour down on me, I pass by a woman about three minutes awa
 Akihito: "......geez."
 I watch her disappear, then groan out of frustration. She looked hard and shallow, like a porcelain doll that's lost everything on the inside.
 I weigh the trouble of intervening against the guilt of ignoring her. Before long the scales tip in one direction, so I turn and follow her.
-It wasn't long ago that I followed someone else into this same alley. Back then it was Shinomiya Yoruko. She was small, fragile and proud, unable to go anywhere without help. 
+It wasn't long ago that I followed someone else into this same alley. Back then it was Shinomiya Yoruko. She was small, fragile and proud, unable to go anywhere without help.
 I run through fresh puddles.
 Almost immediately, I find her slender body leaning against a cold concrete wall. I recognize her.
 Akihito: "......Soejima? Is that you?"
@@ -29010,7 +29006,7 @@ I had no idea they were still reporting on it that late. It must've been really 
 Ayaya: "Aaaaah! Senpai's trying to get on the hidden Sensei route!"
 A Kouhai runs up to us, as if she smelled something interesting.
 Akihito: "What are you talking about? We're talking about the accident yesterday."
-Ayaya: "Aya? 
+Ayaya: "Aya?
 Ayaya was sure you were about to be taken to the nurse's office for special private lessons, Senpai!"
 Hanako: "You have an incredible imagination."
 Akihito: "You mean a perverse one."
@@ -29031,7 +29027,7 @@ Akihito: "Just to be safe, you two should avoid going outside by yourselves."
 Ayaya: "I need to cut back on my midnight snack runs."
 The air remains tense even during class.
 Some people continuously check the internet for new information when the teacher isn't looking. The dignity of the school has no hope of defeating idle curiosity.
-The solemn, divine atmosphere of the school is ruined once again. 
+The solemn, divine atmosphere of the school is ruined once again.
 Even the teacher brings up the accident in casual conversation later.
 The terrorist attacks five years ago――There's no known link between them and yesterday's accident, but so many bad things have happened lately that everyone's worried it might be a repeat of that.
 An invasion by things that are normally hidden――Anything that oozes out from beneath the surface creates vague anxiety, be it the Coμnet or something else people normally aren't aware of.
@@ -29084,45 +29080,45 @@ I hope nothing that depressing actually happens.
 Takatou Nanase is one of the thirteen Round Table Masters. The only woman among them.
 We've talked to each other through texts a few times. Being on a first name basis with powerful people tends to pay off later.
 Text: Nanase: "Thank you for your help recently. Because of you, we were able to put an end to the dueling games.
-Text: Nanase: 
+Text: Nanase:
 I'm currently educating the duelists on proper coμ behavior.
-Text: Nanase: 
+Text: Nanase:
 I don't expect them to completely agree with me, but they have promised never to duel again.
-Text: Nanase: 
+Text: Nanase:
 Little by little, I hope to stop connectors from doing such immoral things so that we might have a peaceful future."
 Text: Akihito: "Thanks. I also hope your guidance will knock some sense into them.
-Text: Akihito: 
+Text: Akihito:
 Our coμ was a bit of a mess at first, but we've been getting along much better lately. Maybe all your talk about peace is contagious, lol
-Text: Akihito: 
+Text: Akihito:
 By the way, I was really surprised to hear your handle was "777."
-Text: Akihito: 
+Text: Akihito:
 I had no idea you were in those chat rooms too. The world can be so small sometimes. Or maybe it was fate, lol
-Text: Akihito: 
+Text: Akihito:
 I'm sure you have a lot of difficult problems to tackle, but good luck with them. We'll help as much as we can."
 Text: Nanase: "I was also surprised to learn you were dm-san. The internet seems to be both vast and tiny. Anyway, the Coμnet's been dangerous lately.
-Text: Nanase: 
+Text: Nanase:
 More people are rebelling against us every day......and even some people within the Round Table are saying we need to deal with them more harshly, though I'm against that.
-Text: Nanase: 
+Text: Nanase:
 I'm sure we can come to an understanding if everyone would just talk to each other. That's what I believe. Please continue to lend me your strength in the future."
 Text: Akihito: "That does sound pretty bad......outsiders like us probably shouldn't get involved in your internal politics, but do call if you need our help.
-Text: Akihito: 
+Text: Akihito:
 Come to think of it, do you know if age has anything to do with when connectors awaken? In anime, it's always really young boys and girls who get the special powers.
-Text: Akihito: 
+Text: Akihito:
 All the connectors I know are pretty young, so I was wondering if they're all like that. Does the Coμnet get more active during summer break?
-Text: Akihito: 
+Text: Akihito:
 If things ever get bad, Mizuwa Akihito is always on Nanase-san's side, so don't hesitate to call. Bye now."
 Text: Nanase: "I don't know if age has anything to do with it, but it's true that almost all of them are young. I can't thank you enough for offering to help.
-Text: Nanase: 
+Text: Nanase:
 By the way, did you hear about yesterday's accident? There was a tremendous pileup on the highway going through our city.
-Text: Nanase: 
+Text: Nanase:
 A lot of people were killed and wounded, and rumors say an avatar did it.
-Text: Nanase: 
+Text: Nanase:
 The news channels are assuming everyone's deluded or panicking, but the rumors are worryingly plausible.
-Text: Nanase: 
+Text: Nanase:
 I'm very concerned about this, but unfortunately the Round Table has much bigger problems to deal with right now.
-Text: Nanase: 
+Text: Nanase:
 This might become another accident, or something much worse. I'm honestly not sure what to do about it......
-Text: Nanase: 
+Text: Nanase:
 If I receive any new information on either issue, I'll text you what I can, Mizuwa-kun. If you learn anything new, please contact me.
 Text: Nanase: Thank you very much for your help."
 I tell everyone I'm leaving early and escape the classroom. As I wait for Izawa on the usual footbridge, I check my mail.
@@ -29803,7 +29799,7 @@ This thing has no equal. It breathes destruction. It enables massacre.
 ――――――The Omnipotent.
 Baseball Cap: "Aaaaaaaaaaaaaaaaaaaaaaaaaaaapollon――――!!!"
 High above his head, the black arm effortlessly crushes the van. The moment that sight burns into his retinas, the man screams and summons Apollon.
-The giant knight is already a glowing lump of metal. The man's terror pushed him to release the full power of his avatar. 
+The giant knight is already a glowing lump of metal. The man's terror pushed him to release the full power of his avatar.
 Of course, that heat could easily kill them too, but he's no longer calm or rational enough to notice that.
 ―――Light.
 Not one person saw what happened. All they saw was light, and by the time they asked themselves what it was, Apollon was cut into eight pieces.
@@ -29860,7 +29856,7 @@ Mishima finally realizes. He gnashes his teeth from anger, not frustration. His 
 That has to be it.
 These are coμ hunters. Insane, vile connectors who kill their own kind.
 They were after Randolph from the start. The first attack was only meant to scare Mishima into summoning it.
-But the enemy avatar never showed itself. Every time it shoots, it hides so fast that Mishima hasn't been able to attack it once. 
+But the enemy avatar never showed itself. Every time it shoots, it hides so fast that Mishima hasn't been able to attack it once.
 He's never seen anything like this.
 The enemy was waiting for this moment. Mishima can't prevent the anger inside him from changing into terror.
 The unknown is what humans fear most.
@@ -30403,7 +30399,7 @@ Mayuki: "This coμ thing has been less than ideal, in a lot of ways. Reality is 
 Benio: "Aaah......"
 The beginner killers. Jack the Ripper. The abandoned factory. Those tragedies were shocking enough that she couldn't eat meat for a while afterward.
 Mayuki: "I wish there was some opportunity for us to be a little more heroic."
-Girl A gave them a superpower, but reality is inescapable. Even with the black dragon, they still can't reach the sky. 
+Girl A gave them a superpower, but reality is inescapable. Even with the black dragon, they still can't reach the sky.
 Mayuki: "Anyway, enough gloomy subjects for today."
 Benio: "Yeah......you're right. Let's focus on shopping."
 They check the time. Kururi still isn't here.
@@ -30413,7 +30409,7 @@ Benio: "Speaking of which, Mayu-Mayu......"
 Mayuki: "Shh! Try to look as displeased as possible for a minute."
 She looks off in a random direction, urging Benio with a quick glance.
 Benio: "Eh? Wh-why would I do that......?"
-Two men walk over to them. Judging by their appearance and behavior, they're only interested in food, sleep, and sex. 
+Two men walk over to them. Judging by their appearance and behavior, they're only interested in food, sleep, and sex.
 Man 1: "Heeeey, you two look free. Wanna come play around with us!?"
 Man 2: "It'll be so much fun! You won't believe it! My brother runs a bar downtown and he gives us all sorts of freebies!"
 Mayuki: "I'm only interested in 2D men. I don't want anyone with a Z-axis."
@@ -30423,7 +30419,7 @@ Benio: "Ummm, well......"
 She's never dealt with them up close. In fact, she's curious to see what they'll do.
 Man 1: "Ahyahyahyahyahya! 2D men! That's great! Get a load of this one!"
 Man 2: "Gehahaha! You can tell your jokes at the bar! Come on, let's go! We've got girls now! Gehahaha!"
-Benio calmly observes them, up to the point where they laugh so hard saliva starts flying around. Then they move around her and grab her arms. 
+Benio calmly observes them, up to the point where they laugh so hard saliva starts flying around. Then they move around her and grab her arms.
 Benio: "Ah, stop! Let go!"
 Man 1: "It's fine, we're just gonna have fun!"
 Mayuki: "This is why I hate 3D men......"
@@ -30503,7 +30499,7 @@ Kururi: "No, no, it's fine for one day. It'll be fine."
 Mayuki: "......have you forgotten what happened on the third floor?"
 Mayuki smirks. A sarcastic smile unbefitting her age.
 Benio: "The third floor......?Th-the swimsuit section......!?!?"
-Kururi: "Ha......!? 
+Kururi: "Ha......!?
 There's a monster on your stomach......!"
 Benio grabs some of the fat on her stomach.She can actually hold it in her hand.Despair.
 Benio: "Oh no......I'm supposed to be shrinking my waistline."
@@ -30561,7 +30557,7 @@ Mayuki: "I hear she's already confessed once."
 Benio: "Gieeeh!? How do you know that!!?"
 Mayuki: "I was lying."
 Benio: "Oaaa......!"
-She wails and collapses in defeat. 
+She wails and collapses in defeat.
 Kururi: "Huhu, Kururi-chan can arrange something if you want."
 Benio: "But Hinaori-san would......"
 Kururi: "To Aki-chan, Kagome-chan isn't really a possible target. He's kinda weird around her. They're childhood friends, but he never takes it any further."
@@ -31372,7 +31368,7 @@ Defeating Nomad means killing Soejima.
 We could let Nomad live, but Soejima's already a monster.
 Benio asks this same question every time it comes up.I ask myself the same question too.
 Akihito: "......dammit......!"
-Neither curses nor prayers will reach the world. Only willpower and action can change it. 
+Neither curses nor prayers will reach the world. Only willpower and action can change it.
 Haru: "So you want to go after her, Akihito?"
 Akihito: "......yeah, I'll find her. And then――"
 I haven't decided what to do with her yet.
@@ -32235,7 +32231,7 @@ We helped Nanase capture that blue knight before. They were in one of the duelin
 Before we can dwell on the nostalgia, the Ivanhoe roars.
 　　　　　　■■■■■■――――!!
 The ground shakes under the uniquely silent run of an avatar. The blue giant raises its sword, just like last time.
-Izawa: "――We already beat you, weakling. 
+Izawa: "――We already beat you, weakling.
 You don't get any rematches!!"
 Izawa: "We're taking this guy down right now. Chibi! Maid!"
 They look at each other. Mayuki and Haru nod in reply. The black dragon moves forward, responding to Izawa's will.
@@ -32414,7 +32410,7 @@ Akihito: "......are you not bothered by all that?"
 Even I nearly vomited there. The witch has nerves of titanium.
 Kagome: "I'm very, very shaken by the experience. Now embrace your dere dere childhood friend to cure her."
 Akihito: "Liar."
-It's been a while since just Kagome and I ate breakfast together. 
+It's been a while since just Kagome and I ate breakfast together.
 Kagome: "Change into your uniform, or you'll be violating school rules."
 Akihito: "You altered yours. That's just as bad."
 Kagome glares as I leave without putting my uniform on.
@@ -32685,7 +32681,7 @@ Then it rises up.―――The giant appears.
 Out of the blue light comes a monster twice the size of a human.
 A bluish black steel giant, with an enormous lance on its left arm.
 The monster lands silently on the ground, as over a hundred pairs of eyes look at it.
-The people are so stunned they stand still like mannequins.Seeing such an unrealistic phenomenon has numbed their thoughts rather than scared them. 
+The people are so stunned they stand still like mannequins.Seeing such an unrealistic phenomenon has numbed their thoughts rather than scared them.
 Someone points to her from the escalator.
 The girl carried in the monster's right arm, like a maiden held by a barbarian.
 She wears what looks like a school uniform, and doesn't go well with the ferocious giant at all.
@@ -32895,7 +32891,7 @@ Touri: "I like men who can lose themselves in a woman, but if she's already dead
 Touri: "So I'll finish her. As a death goddess, it's my role to take the dead away."
 Akihito: "――――You said there's no way to save her."
 Touri: "Humans cannot reverse death, just as their hands cannot touch a rainbow."
-A reality that cannot be overturned.There's no way to recover from a stampede. 
+A reality that cannot be overturned.There's no way to recover from a stampede.
 Akihito: "......Hasekura Touri, I still haven't asked......who is behind all this? You seem to know."
 Akihito: "Who wrote the script for all these disasters? Who sought out a girl still living despite being dead, and gave her the final push――?"
 Akihito: "Last time you just said it was a "System.""
@@ -33098,7 +33094,7 @@ Nomad starts moving again, charging straight through the side of a building in i
 They chase Nomad to the far side of the building, where it breaks out and then leaps away toward another section of the apartment complex.
 The death goddess is on the ground. El-ahrairah's arrows control the sky.It can't risk going too high in the air. It leaps like a monkey from building to building.
 The giant enters an area with rougher terrain, hoping to shake off the blades pursuing it. Then the black dragon comes down, having made a leap on par with Nomad's.
-　　　　　　　■■■■■■■■――――!　　　　　
+　　　　　　　■■■■■■■■――――!
 Between buildings in the city of the dead, two avatars acrobatically evade each other's attacks.
 Babylon crushes a veranda, lands on the opposite wall, then leaps onto a different building.
 One rules wind, the other gravity. They both use their powers to move with speed and agility unthinkable even for an avatar. The blue and black beasts clash multiple times in the air.
@@ -33111,10 +33107,10 @@ It we can't see Babylon, we can't control it as well.Against Nomad, that's sure 
 Benio: "Crap!!"
 Mayuki: "He's about to......!"
 Haru: "Here goes, Izawacchi."
-　　　　　　　■■■■■■■■――――!　　　　　
+　　　　　　　■■■■■■■■――――!
 The gliding barbarian bares its fangs and roars.
 In response to that threat......
-Babylon leaps up high, turns a hundred and eighty degrees in midair, then falls like lightning onto the barbarian. 
+Babylon leaps up high, turns a hundred and eighty degrees in midair, then falls like lightning onto the barbarian.
 A movement only possible through gravity control.To anyone else, it would look like magic.
 The pitch black dragon used a sort of gravity catapult to shoot itself down faster than terminal velocity. That four meter long bullet flies toward the barbarian.
 The bluish-black barbarian has wounds all over its body from El-ahrairah's arrows of light and lost half of its lance a moment ago, but it's still willing to fight.
@@ -34047,7 +34043,7 @@ Kagome: "Akihito, now you know everything."
 Kagome: "What's been going on behind the scenes. Everyone's motives and reasons. The betrayals, the plots, the experiments, and the deaths."
 There's no way to convey your hearts to others.No one is ever truly connected.
 Even what you can see might just be a disguise.A person's true nature lies so deep inside them even they might not know it.
-An act to protect yourself.Thorns to keep others away.A pretty mask and a cold attitude. 
+An act to protect yourself.Thorns to keep others away.A pretty mask and a cold attitude.
 But......
 Akihito: "The time we've spent together was real. Even if all of it was lies, the fact that we spent it will never change."
 That's how I feel now.
@@ -34671,7 +34667,7 @@ Kagome: "Too much. You eat it all, Akihito."
 Kagome eats voraciously.
 Her appearance is enchanting. Her back is straight, and her chopsticks move gracefully. If I didn't know her, I'd assume she was from some rich family.
 But I do know her. Kagome is a real-life princess.
-In Takakura City, the Hinaoris owned a huge amount of land. Everyone in real estate had to know about them. 
+In Takakura City, the Hinaoris owned a huge amount of land. Everyone in real estate had to know about them.
 Akihito: "......there was a lot yesterday too."
 It's just us two, but she made a lot. We can't eat all of this ourselves.
 Kagome: "I made too much."
@@ -34737,7 +34733,7 @@ A cold smile answers me.If it was that simple, she'd have figured out the ingred
 Kagome and Sting need more power than that. Any weapon capable of destroying entire countries needs a great deal of delicate maintenance.
 Kagome: "Give me one."
 Akihito: "Here."
-I take one out and put it on the corner of her mouth. She turns away. 
+I take one out and put it on the corner of her mouth. She turns away.
 Akihito: "......what?"
 Kagome: "Don't be rude. This is perfectly normal in these situations."
 Akihito: "How can you be so bossy when you can't even move......"
@@ -34757,7 +34753,7 @@ Ignorance easily breeds destruction.If you step on a land mine without knowing w
 Kagome has always been by my side.
 Sting―――The steel legend that appears without reason.
 It wasn't unreasonable or arbitrary after all.
-Sting flew up and killed to protect us because we didn't know what we were doing. 
+Sting flew up and killed to protect us because we didn't know what we were doing.
 I laugh at my own stupidity. I never saw any of this.
 My childhood friend is paying the price for my cluelessness.Every time she connects, it chips away at her body and mind.
 Akihito: "......I'm an idiot, but you're just as bad."
@@ -35028,7 +35024,7 @@ Kagome: "Soejima's story is over. She showed her avatar in public, and it's impo
 Kagome: "Akihito, you can't rely on your own avatar anymore. You've split up from the other four connectors, so it's just a piece of junk now."
 Kagome: "The world is moved not by logic, ambition, love or hatred, but violence. There's no way for you to change this situation empty-handed."
 Kagome: "So get over it and stay put."
-The ridiculing smile vanishes from her face. 
+The ridiculing smile vanishes from her face.
 Akihito: "......will that solve anything?"
 Kagome: "I'll protect you."
 Her words are so clear and direct I might have fallen for her on the spot if I was a woman.
@@ -35367,7 +35363,7 @@ Akihito: "......Kagome, I'm putting it in."
 Kagome: "Nn......yes...just...do it......"
 Akihito: "If it hurts......hit me......crying and screaming might not be enough to stop me."
 Kagome: "......don't...worry. I'm good with pain......"
-I spread out Kagome's genitalia with one hand. Threads of liquid form as they come apart with sticky sounds. 
+I spread out Kagome's genitalia with one hand. Threads of liquid form as they come apart with sticky sounds.
 Kagome: "AAAAH...aah............!!"
 I push into her tight entrance.
 Kagome: "Hiaaa......! Ah......"
@@ -36377,7 +36373,7 @@ Rondo's apartment. Kimizuka's apartment.Izawa and I walk to their address.
 On the hill, Rondo tried and failed to shoot Gasai.Gasai realized his identity was no longer a secret, so he went into hiding.
 Very few people knew that Caesar would be on the hill to fight Nomad.
 Caesar has many enemies, but few of them know his identity.Gasai probably figured out it was Rondo the same way I did.
-Rondo also went into hiding already. I wasn't expecting much, but neither Rondo's nor Kimizuka's apartment has any signs of life. 
+Rondo also went into hiding already. I wasn't expecting much, but neither Rondo's nor Kimizuka's apartment has any signs of life.
 I try calling them, but they don't pick up.
 Izawa makes a bunch of calls too. Allies, family, people I don't know.
 Izawa's invisible connections form a spider's web.They intertwine in a complex pattern. After several calls――
@@ -36579,7 +36575,7 @@ The silver El-ahrairah has two guards following it.All who behold its majesty ar
 Gasai: "Don't bother hunting down the stragglers. Annihilate all who counterattack."
 Many coμs rushed over here on uncertain information.That made the situation all the more uncontrollable.
 There are no obvious friends or enemies here.In that sense, even the Legion is powerless.
-Thus―――His only option tonight is to instill terror. 
+Thus―――His only option tonight is to instill terror.
 To prove to the masses that the champion and his army can bring order to to any chaos.
 People understand power when it's displayed in clear, simple ways.
 Gasai: "――Everything's going well. Don't let your guard down."
@@ -36660,7 +36656,7 @@ El-ahrairah looks down arrogantly.Its nine blades fly around like loyal servants
 They finally pin down Miss jH's location.
 ―――And they shoot!!
 But when Miss jH slows down, Iroha releases the seven shots.
-Seven warheads fly up through the rainbow flare on the ground. 
+Seven warheads fly up through the rainbow flare on the ground.
 Rondo: "Caesar――!!"
 Yoruko: "――――Rondo Rondo."
 So that is Rondo.
@@ -36949,7 +36945,7 @@ Sting and El-ahrairah.The eternal versus the invincible.
 It sounds like a contradiction, and no one knows who might win.If they fight, one legend will end today.
 Kagome: "―――Pierce him, Sting!"
 The witch raises her right arm.Sting turns its blade toward the champion's heart.A literal one-hit kill from the tyrannical blade that none can block or evade.
-But Sting is merciless because of a logical need, not because Kagome has no emotions. 
+But Sting is merciless because of a logical need, not because Kagome has no emotions.
 Even she can't control Sting perfectly with the rest of her coμ dead.
 Just being connected to that ticking time bomb eats away at her mind and body.
 Thus――――She uses the fastest, strongest attacks she possibly can.
@@ -38412,7 +38408,7 @@ She's not caressing me that much, but I feel like I'll come at the slightest pro
 Kagome: "Nn......! Nn, nnn......! Tell me when......I'll drink...all of it......"
 Akihito: "Uu......!"
 Her generous offer raises my excitement.
-Kagome's figured out my reactions now, so she starts shaking her plump fruits much faster. 
+Kagome's figured out my reactions now, so she starts shaking her plump fruits much faster.
 Kagome: "Nn......! Nhu......! Nn......haa, haa, haa......Akihito......nn, nn......!"
 I drift in white pleasure before a climax. All I can think about is connecting with Kagome after this.
 I drown in it. Not my body, but my heart is invaded by someone else.If I give her my heart, the pain of losing it will be deep.
@@ -38492,7 +38488,7 @@ I peek over her shoulder to find something dark repeatedly entering and exiting 
 Little folds of flesh in her cute crevice wrap around my thing.
 Kagome: "Hau! Hu! Nn......nuu......! Ha! Aaaaah! Nn......nah! Haaa......! Ha! ......uu, nnn!"
 When I pull out, I end up outside her entrance, revealing part of Kagome's insides.
-When I stick it in, my whole thing ends up deep inside her, and she feels like just an innocent girl in there. 
+When I stick it in, my whole thing ends up deep inside her, and she feels like just an innocent girl in there.
 Kagome: "Ah! Akihito......Akihitooo......! Aaah......! Ah, ah, ah, ah......! Aaah! Nnn......! Nn......haa, haa!"
 Kagome grabs onto my neck and starts moving her own hips.
 Without really trying, our movements end up in sync.
@@ -38579,7 +38575,7 @@ Benio: "What are you two boys whispering about? It's really suspicious."
 Akihito: "Benio!!? Don't scare me like that! There might be people out there trying to kill us, you know!!"
 Izawa: "That's your fault for keeping the coμ hunter and Caesar's dog as your pets."
 The "war" in the new heart showed everyone who the coμ hunter was and who Sting's connector was. It's all over the Coμnet now.
-They also know Babylon's on their side, so we've become a target for everyone's anger and hatred. 
+They also know Babylon's on their side, so we've become a target for everyone's anger and hatred.
 Akihito: "You're not that different, mad dog."
 Izawa: "Shut up, or I'll kill you right here."
 Benio: "Yesterday, Mayu-Mayu said we're everyone's targets now."
@@ -39353,7 +39349,7 @@ I lift my jaw up. Normally I take the bus, so pedaling all the way there takes a
 Ayamine Academy――Brand new buildings and curricula, like any other new school. It doesn't have much history, but quite a few things have happened here.
 Akihito: "Though they're all my fault."
 I go to the academy.
-Mayuki: 
+Mayuki:
 （Before the final fight, school battle heroes tend to visit their school since it's a symbol of their daily lives. It's an effective way of making the audience share their goal of peace.）
 Begone, delusion.
 The school is temporarily closed after the "war" in the new heart. The back gate is open though, so there must be a few staff members here. I use that entrance.
@@ -39684,7 +39680,7 @@ Most school battle protagonists have some of that.
 Tianwen: "It's not something to take pride in or make a big deal about."
 Tianwen: "Everyone has one or two tragedies in their past."
 Akihito: "True."
-It's impossible to know everything about a person, except yourself. 
+It's impossible to know everything about a person, except yourself.
 But I'm not special. Everyone has their own reasons and circumstances.
 Akihito: "Owner......Chai-san, do you have something like that too?"
 Tianwen: "Yes. I have a dark past and lots of dark memories."
@@ -40546,7 +40542,7 @@ Thus――
 When she needs to fight, there really is only one name for Kagome to call.
 It may be a cursed, abominable name, but she's forever connected to it.Her irreplaceable other half――
 Kagome: "Come――"
-Girl A: "――Come.": 
+Girl A: "――Come.":
 　　　　　　""Sting――――――!!!""
 Two blades pierce the sky.
 There's supposed to be only one Omnipotent.Wings of judgment forged by countless deaths float behind the backs of both Kagomes, like mirror images of each other.
@@ -40680,7 +40676,7 @@ This time, she has no way of stopping it――
 I'm still alive. Babylon can still fight.
 The tyrant's blade does not miss――
 Izawa took control and made Babylon twist its neck at the last moment. That's the only reason the sword of death didn't finish us right then and there.
-But that only buys us a few seconds.Izawa can't deal with Sting's next attack. 
+But that only buys us a few seconds.Izawa can't deal with Sting's next attack.
 Izawa: "――――!!"
 Sting flashes above their heads, and Izawa feels death and despair coming for real this time――
 Mayuki: "Yaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!!"
@@ -41125,7 +41121,7 @@ I hurt everywhere.As long as I live, my heart and body will hurt the more I use 
 Hinaori Kagome has returned.
 We enter a big room in a partially collapsed building.I lie down, or maybe sit down.
 Shockingly, we're all alive, though not unscathed.
-Everyone's face is dirty, black, and bleeding.It's shameful and comical. It's beautiful.I squint my eyes and put a hand to my forehead. 
+Everyone's face is dirty, black, and bleeding.It's shameful and comical. It's beautiful.I squint my eyes and put a hand to my forehead.
 Outside, I can see parts of the ruined neighborhood.
 Mayuki: "......how are you not out of stamina?"
 Haru: "It's more like stubbornness than stamina."
@@ -41314,7 +41310,7 @@ Haru stands up. The maid is the same as always.Her face is just a little bit gen
 The eight of us walk forward.
 Haru: "It's nice doing stuff like this once in a while."
 A white place at the edge of the world.
-If we make it through here, is there hope for the future?There might be nowhere left to run. But we walk forward regardless. 
+If we make it through here, is there hope for the future?There might be nowhere left to run. But we walk forward regardless.
 This might be a waste of time, but for some reason nothing stops us.
 Outside, everything is white. The color just before dawn breaks.
 Life has no reason. It just is. That's all there is to it.
@@ -41409,7 +41405,7 @@ That's where they used to be.
 She cried the first night. Over time, her sorrow faded.All emotions change into memories eventually.
 But something still feels unfinished.
 A lot of people died and went missing in the incident six months ago.
-Akihito and Kagome are among the people who went missing. 
+Akihito and Kagome are among the people who went missing.
 She doesn't know if they're alive or not. So she never got closure.
 It will take time for her wounds to heal, but she'd at least like to have an answer.
 Kururi: "There is no right answer."
@@ -41857,7 +41853,7 @@ Mayuki: "Ah!"
 Mayuki turns around, sensing their presence. Noisy footsteps approach us, and silhouettes appear around the corner.
 ???: "There you aaaare!!"
 She brandishes claws like a vengeful spirit.
-Judging by her voice, it must be a girl. More footsteps follow behind her, so she has friends. 
+Judging by her voice, it must be a girl. More footsteps follow behind her, so she has friends.
 Her voice is so loud she clearly doesn't care if anyone hears her, and that makes her sound all the more serious. They plan on capturing Mayuki, no matter what the cost.
 ―――What did she do?
 Mayuki: "Run for it!"
@@ -42612,7 +42608,7 @@ I have no idea how much of what Ayaya said and did was serious. I shouldn't keep
 Mayuki: "Well, let's head in."
 Akihito: "Huu......yeah."
 Mayuki unlocks the door and beckons me inside like a bellboy.
-It's a 2DK. Just inside the door is a dining room and a kitchen, with two more rooms connected to them. A living room and a bedroom. 
+It's a 2DK. Just inside the door is a dining room and a kitchen, with two more rooms connected to them. A living room and a bedroom.
 No one else is home.
 Akihito: "You're the only one here?"
 Mayuki: "For various reasons, I live alone these days."
@@ -42807,7 +42803,7 @@ That sounds very familiar.
 Akihito: "I think......I know that game already."
 Kururi: "Ah, you do? I didn't peg you for an otaku, Aki-chan."
 Mayuki told me to look it up, but I simply asked Ayaya instead.
-I get off the couch and sit down at the computer I've left on this entire time. 
+I get off the couch and sit down at the computer I've left on this entire time.
 It sounds like Kururi's talking about the exact same thing the balbaloi combo was obsessed with.
 So I type into the search engine――
 Akihito: "......Acceptor."
@@ -44147,7 +44143,7 @@ We don't even know if this is a real crime, but the sighting of a monster nags a
 The Coμnet has been very peaceful lately. It's easy to forget, but steel monsters are running wild beneath the surface of this city.
 Ayaya: "Yuuna-chan's our local star, and there's been a lot of rumors about monsters in Takakura City lately. What do you think, Senpai?"
 It's been a few hours since something happened, and the police aren't involved yet.
-The answer could turn out to be very boring, like she spent too long in the bathroom or something. 
+The answer could turn out to be very boring, like she spent too long in the bathroom or something.
 Akihito: "You always seem to find really stupid things to get involved in."
 Ayaya: "Auuu, do you have to say it like that......?"
 Akihito: "I guess saving a local idol wouldn't be a bad use of time."
@@ -44159,7 +44155,7 @@ Ayaya: "Yes! That's my Senpai.But don't get cocky and start seducing the idol, o
 Akihito: "It would be kinda nice if that happened."
 I smile like it's nothing.
 ====================真雪09 君の名は結奈_0604.json====================
-Preliminary investigation is important for closing cases. That's something Miya-san told me at Izalone before. 
+Preliminary investigation is important for closing cases. That's something Miya-san told me at Izalone before.
 Benio: "......I see, she disappeared from her dressing room?"
 Akihito: "I don't know how much of that is true. I've got Ayaya looking into the sources now."
 Benio: "All right. What can I do?"
@@ -44625,7 +44621,7 @@ Ayaya: "Oooh! Speak of the devil."
 I read it without letting Ayaya see, just in case she's saying something secret.
 Text: Mayuki: "I need to do a quick live tour of Europe in Paris, Brussels, and Milan. Please log my threads while I'm gone."
 For now I reply "Got it, and don't lie." She's probably referring to the Acceptor threads on those image boards. I'm pretty sure――
-Text: Mayuki: 
+Text: Mayuki:
 （
 The wiki has logs too, but everyone assumes someone else will update those so it tends to miss a lot. It's best to log it yourself.）
 Can't she do that from her super phone? Or is she so busy she can't even find the time to set that up?
@@ -44698,7 +44694,7 @@ Akihito: "Maybe not......"
 Back then I played the bad guy, and that was the end of it. Or so I thought.
 Akihito: "Ayaya, do you usually read this too?"
 Ayaya: "I don't check the actual threads very often......"
-We're connected to people you can't see online. That also means we have no way of knowing what they're thinking. 
+We're connected to people you can't see online. That also means we have no way of knowing what they're thinking.
 If you go shine a light on them, they may very well turn out to be monsters.
 Akihito: "............"
 Shouting back at them would only throw more oil on the fire. Any posts in support of Mayuki would just get drowned out in the negativity, or treated as a sockpuppet.
@@ -44927,7 +44923,7 @@ So instead we wander around a quiet park.
 Mayuki: "Huhu! It's surprisingly fun just walking around aimlessly."
 Akihito: "It is nice to enjoy the breeze once in a while."
 My days have been far too busy ever since I met Girl A.
-I'm probably tired. An ordinary walk has never felt so comfortable. 
+I'm probably tired. An ordinary walk has never felt so comfortable.
 Akihito: "What about the Acceptor threads? Anything new?"
 Mayuki: "No talking about that. I'm "Yuuna-chan" today."
 Akihito: "I see. Sorry."
@@ -45355,7 +45351,7 @@ Something washes over me.
 Heat. Anticipation. Excitement. The presence of large numbers of people.
 The very air tastes different. There's an invisible wall between here and the venue. Crossing it will put me in a different world.
 I'm honestly impressed by it.
-Today's concert is meant to be small. The city's hoping for big things from Yuuna, but this event is meant for just locals. 
+Today's concert is meant to be small. The city's hoping for big things from Yuuna, but this event is meant for just locals.
 A minor celebrity from our city. People support her.
 Her popularity is still mostly local, so they're probably right to keep it small.
 And yet it feels so intense.
@@ -46722,7 +46718,7 @@ I'm much more used to this now, so I can at least understand this information, e
 Babylon throws rubble at the nearest house.
 Sorry, whoever lives there.
 I used Babylon's senses to check for empty houses, so that shouldn't have hurt anyone.
-Mayuki: "Kyaaaaaaaaaaaaa!! 
+Mayuki: "Kyaaaaaaaaaaaaa!!
 What the hell are we doing!?"
 I make Babylon destroy another nearby house. Since the tentacles won't let us get close, I have it throw things again.
 Some people living in the area assume it's a natural disaster and start running away frantically.
@@ -46802,7 +46798,7 @@ Because we defeated Jack the Ripper and leveled up, Babylon is harder to control
 It's been so peaceful lately that we haven't summoned the avatar much, so I never noticed how hard it was now......
 With only the two of us, Babylon can't even move a third of its maximum speed. This plan is a complete failure.
 Akihito: "It's too late to bring it back now! We've gotta keep going!"
-Mayuki: "T-the tentacles are coming toward us! 
+Mayuki: "T-the tentacles are coming toward us!
 Kyaaa!"
 K's tentacles stream through the forest.
 ☆Ra: "Kyaaaaaaaaa! Nooooooooo!"
@@ -46883,7 +46879,7 @@ Kasuka: "I have met a legend......!"
 Now, let's go home. I need to visit an unlicensed doctor like Hanako-sensei, but after that, I just want to sleep.
 Eventually we'll have to do something about K, but my mind and body are too tired for that now.
 A few days later――
-My wounds were deeper than I thought. I'm still recuperating in my bed. 
+My wounds were deeper than I thought. I'm still recuperating in my bed.
 In this situation, I need to avoid hospitals. They'll keep me locked in one place, and K could reappear at any moment.
 As for my injuries......
 Hanako: （You really shouldn't be walking with that.）
@@ -47185,7 +47181,7 @@ I rub them with my fingers with caution, only very slightly changing their shape
 Mayuki: "They'll get bigger......soon......hu! Nn......so you won't have to wait long......nnhu, nn......"
 She says cute things.
 These small breasts have their own unique elasticity to them, so they're not bad.
-If I say that out loud she'll think I really am a lolicon, so I keep it to myself. 
+If I say that out loud she'll think I really am a lolicon, so I keep it to myself.
 Mayuki: "Huu, huuu......nnhu, hau......hau, nn, nnhaa......ah............Akihito-san, your hands are warm......"
 Akihito: "Your body is much warmer."
 Mayuki: "I guess......so......my mind's just blank......"
@@ -47334,7 +47330,7 @@ I use my hand to guide my penis toward Mayuki's crevice.
 Mayuki: "Y-yes."
 Akihito: "Let's go."
 Mayuki: "Nn............"
-After Mayuki nods dubiously, I move my hips forward. 
+After Mayuki nods dubiously, I move my hips forward.
 Mayuki: "Higuu......!!"
 Mayuki recoils from the pain. I apologize to her in my mind, and try to get the rest of the way in as quickly as possible.
 Mayuki: "Ha, ah......! Auu......nn............!"
@@ -47473,7 +47469,7 @@ At best siblings, but that's hard to say.
 Akihito: "More importantly......"
 I casually change the subject.
 Akihito: "Those two idiots really are keeping their promise."
-The stalkers are still silent about everything that happened that day. 
+The stalkers are still silent about everything that happened that day.
 Thus, Herm is still a missing person as far as the Acceptor wiki and the media companies are concerned.
 Mayuki: "They were never stalking us out of malice. They honestly meant everything they were saying. Of course, it's always possible they'll spill the beans if they get worked up."
 Akihito: "Well, considering what they've been doing......"
@@ -47483,7 +47479,7 @@ As a result, the opinions expressed in the Acceptor threads have reversed. Every
 Mayuki can post publicly again, and the discussions are as lively as they used to be.
 Mayuki: "I'm glad everyone can relax and post normally again. Though I do feel a bit sorry for Amakuni-san."
 Akihito: "He earned it. I'm still impressed the stalkers never actually accused Amakuni of orchestrating all that Yuki bashing."
-Reclus did mention licensing rights a few times, so he'd probably realized Amakuni was behind this. 
+Reclus did mention licensing rights a few times, so he'd probably realized Amakuni was behind this.
 Mayuki: "No one wants to start another fight. Everyone just wanted to have nice, friendly chats there."
 Mayuki: "They didn't want to see any more conflict in these threads than I did."
 Sometimes the world works better when we let things go instead of settling them properly.
@@ -47584,7 +47580,7 @@ Akihito: "So we're back to this again? I know Amakuni kind of deserved that, but
 Mayuki: "Especially after all the times they did it to me."
 Unless they're absolutely rotten to the core, I don't like seeing someone get their name dragged through the mud like this.
 Most of the flamers aren't even that angry. They're just going with the flow and throwing in a few mean jokes. You could call it mob mentality.
-Once a spark is produced, the fire will burn until it runs out of fuel. The fires of the internet can't be put out. 
+Once a spark is produced, the fire will burn until it runs out of fuel. The fires of the internet can't be put out.
 Akihito: "Could you try e-mailing this industry guy and tell him you don't want to be part of this?"
 Mayuki: "They probably wouldn't give up that easily."
 Akihito: "I know, but......"
@@ -48537,7 +48533,7 @@ Yuuna's now a true otaku idol instead of just a local idol, and the commercial v
 People enjoyed Mayuki's performance a lot more than we expected. Maybe she has a lot of charisma.
 Her waving to me at the end has had more than a few repercussions.
 The fans have been told that "Akihito" is a close friend of Yuuna's who helped her get out of a sticky situation in the past.
-I'm both relieved and disappointed that they didn't admit I'm her boyfriend, but it's usually bad for an up-and-coming idol to have a prominent man in their life. 
+I'm both relieved and disappointed that they didn't admit I'm her boyfriend, but it's usually bad for an up-and-coming idol to have a prominent man in their life.
 That is the most cliche way of ruining your career.
 Of course, that hasn't squashed all the rumors, so anti-fans still point to it online.
 For now no one's revealed any of my personal information, but I'm constantly worried about what might happen if it does.
@@ -48651,7 +48647,7 @@ Mayuki: "Hiyaaaaaaa!?"
 I pull her toward me and hug her from behind. I'll attack her to hide my embarrassment.
 Mayuki: "Fuwa......auu, uu, nnn......A-Akihito-san......that was really......nha......"
 I massage her flat chest with both hands through her stage clothes.
-I'm not really feeling her skin, just her clothes rubbing against her bra, but it's fun seeing her reactions. 
+I'm not really feeling her skin, just her clothes rubbing against her bra, but it's fun seeing her reactions.
 Mayuki: "Huu, nn! ......A-Akihito-san......nnn!"
 It's still a girl's body. I rub around, gathering up what flesh I can find. I can sort of create some tiny breasts.
 Mayuki: "Nn......ha, huu......haa, haa, haa......Akihito-san......touch me more......"
@@ -48769,7 +48765,7 @@ Mayuki: "I don't like letting someone else do everything. Here goes!"
 Mayuki: "Huhuhuhu, now it's time for me to wring you dry, Akihito-san."
 The young girl moves her face into my crotch, her cheeks flushed.
 Looking down at her is only making me more excited.
-She has no cleavage, no matter what angle I look at her from. Her body is just too small for that anyway. 
+She has no cleavage, no matter what angle I look at her from. Her body is just too small for that anyway.
 I feel like a criminal.
 Mayuki: "I'm going to unzip you. I didn't get a chance to see it at all last time, so I want to look at it now."
 Akihito: "I don't think it's that much fun to look at......"
@@ -49394,7 +49390,7 @@ On the way, we told the police about last night's stalker. They said they'd do s
 It's really difficult to deal with stalking.
 They have to respect people's privacy too, so there's no easy way for them to simply take care of it for us. Still, the area around Ayaya's house should be safer now.
 Akihito: "Now you can go home safely."
-Ayaya: "Indeedily. Thank you for your help, Senpai! 
+Ayaya: "Indeedily. Thank you for your help, Senpai!
 Though Ayaya would prefer to stay at Senpai's place forever."
 Kagome: "Be gone."
 Ayaya: "Auu............"
@@ -49831,7 +49827,7 @@ Evil is happening.
 Evil can lurk anywhere, but it needs a suitable place to actually happen.
 Mayuki: "............"
 A cafe on the north side of town called Hocus Pocus.
-Mayuki's a regular there. She enjoys her black tea by herself in the back of the calm shop. 
+Mayuki's a regular there. She enjoys her black tea by herself in the back of the calm shop.
 Waitress: "Welcome!"
 Ayaya: "............"
 Mayuki: "............"
@@ -50350,7 +50346,7 @@ Ayaya: "And......?"
 Akihito: "..................she punched me in the face as hard as she could."
 My nose started bleeding! And I fainted!
 Ayaya: "Huh?"
-Kagome: 
+Kagome:
 （―――Die, intruder.）
 She spat out those words after KO-ing me. I'll never forget Kagome's eyes that day.
 Akihito: "I lost consciousness, and when I woke up I was inside their mansion. Kagome threatened me a lot, and I cried."
@@ -50629,7 +50625,6 @@ Ayaya: "I'm sorry I'm sorry I'm sorry I'm sorry help help help help me――"
 She bites her tongue and something catches in her throat, so only her hoarse breath comes out. The sound of footsteps is right in her ear.
 He's coming.
 He's coming.
-He's coming.
 Are those really footsteps? She just feels like something's coming, like fingers are approaching the back of her neck.
 She moves her legs, unable to think, almost crying.
 Her mind goes red.
@@ -50672,7 +50667,7 @@ This gentle world exists regardless of any of our interpretations. It keeps goin
 You may be the king of your own world, but others may not respect that.
 Man: "Guwaaa!!"
 Izawa: "You're no different from the last two!!"
-As we feared, the third king is just as weak as the others. The great strategist king was blown away by a single punch from Babylon. 
+As we feared, the third king is just as weak as the others. The great strategist king was blown away by a single punch from Babylon.
 Akihito: "No amount of planning can make up for being a weakling."
 Kagome: "You're starting to learn how the world works, Akihito."
 Kagome comes along every time we get challenged. Maybe she considers this a decent time-killer.
@@ -50850,11 +50845,11 @@ She's never mentioned a cousin before. Did they become friends recently?
 Ayaya: "M-more importantly!"
 Sweat flies off her face as she takes something out of her bag.It's strawberry jam.
 Akihito: "......why did you bring jam?"
-Ayaya: "Uu, uuuu! Uuuu! I can't open it~! 
+Ayaya: "Uu, uuuu! Uuuu! I can't open it~!
 ......*glance*"
 She suddenly starts trying to open the jar on the side of the road, then looks at me out of the corner of her eye.
 Akihito: "............"
-Ayaya: "Uu, uuuun! Uuuuu! I-it's so tiiight! 
+Ayaya: "Uu, uuuun! Uuuuu! I-it's so tiiight!
 ......*glance*"
 She looked at me again.
 Akihito: "......fine, let me do it."
@@ -51529,7 +51524,7 @@ I should make them buy me a snack as compensation.
 Kururi: "Oh my, you're getting along well."
 Mayuki: "Looks like Akihito-san's in charge outside, but behind the scenes Ayaya-san has the real power."
 Akihito: "Stop smirking. You're making things more complicated than they are."
-I get only a little angry. 
+I get only a little angry.
 Ayaya: "Ayaya's still grateful."
 Akihito: "You shouldn't thank people for being so wicked."
 Still, Mayuki and Cat-senpai make a weird combination. I know they grew to like each other when they were helping Ayaya, but what are they doing out here on a weekend?
@@ -51668,7 +51663,7 @@ Ayaya: "Uuuunnn! Ha! Ha! Ha......! Ah......!! Nnu......huu, nnnnn! Hiun, nn, haa
 I gradually transition to longer strokes, resulting in rougher movements.
 I lower my pants bit by bit, getting them out of the way, as my crotch starts sticking to Ayaya's butt.
 Ayaya: "Huaaaaa......! Ah, ah, ah, ah! Senpaaaiii......that's too......iin! If you keep doing that! M-my stomach will......ah, aannn!"
-I pound my hips against her, making her fluids fly everywhere. Those noises echo through the alley. 
+I pound my hips against her, making her fluids fly everywhere. Those noises echo through the alley.
 I've completely forgotten about the area around us.
 Ayaya: "Hau, hau! Aan! Aan! Se-Shenpai, nn! Hiu! Nn, nnnnn! Ha, ah, hauaaa......!"
 I'm not sure I could stop even if someone did show up now. Only my instincts are controlling my thrusts now.
