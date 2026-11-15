@@ -1,6 +1,7 @@
 vndb_id,title,matched_title,lang,path,chars
 v10016,A Clockwork Ley-Line - The Borderline of Dusk,A Clockwork Ley-Line: The Borderline of Dusk,English,English/A Clockwork Ley-Line - The Borderline of Dusk.txt,1086902
 v1023,Scarlett～スカーレット～,Scarlett～スカーレット～,Zh,Zh/Scarlett～スカーレット～ [中文].txt,71272
+v1024,StarTRain [gemini-2.5-pro],,Zh,Zh/StarTRain [gemini-2.5-pro] [中文].txt,1376031
 v1027,Shikkoku no Sharnoth ~What a beautiful tomorrow~,Shikkoku no Sharnoth ~What a beautiful tomorrow~,English,English/Shikkoku no Sharnoth ~What a beautiful tomorrow~.txt,1511753
 v10447,創世奇譚アエリアル [gemini-3.1-pro],,Zh,Zh/創世奇譚アエリアル [gemini-3.1-pro] [中文].txt,3649380
 v10569,孤独に効く百合,,Zh,Zh/孤独に効く百合 [中文].txt,124257
@@ -22,6 +23,7 @@ v11373,幼馴染と十年、夏,,Zh,Zh/幼馴染と十年、夏 [中文].txt,494
 v1143,Majikoi! Love Me Seriously!,Majikoi! Love Me Seriously!!,English,English/Majikoi! Love Me Seriously!.txt,4959238
 v11633,冬桜抄 -さくらがたり- [Claude-3.7-sonnet],,Zh,Zh/冬桜抄 -さくらがたり- [Claude-3.7-sonnet] [中文].txt,1624867
 v1181,W.L.O.世界恋愛機構 [gemini-2.5-pro],,Zh,Zh/W.L.O.世界恋愛機構 [gemini-2.5-pro] [中文].txt,5934584
+v11880,俺と彼女がミステリーな件について [claude-3.5-sonnet],,Zh,Zh/俺と彼女がミステリーな件について [claude-3.5-sonnet] [中文].txt,1656861
 v1194,ヨスガノソラ,ヨスガノソラ,Zh,Zh/ヨスガノソラ [中文].txt,1979841
 v12000,ゆめこい ～夢見る魔法少女と恋の呪文～ [claude-3.7-sonnet],,Zh,Zh/ゆめこい ～夢見る魔法少女と恋の呪文～ [claude-3.7-sonnet] [中文].txt,605544
 v12030,逃避行GAME [gemini-3.1-pro],,Zh,Zh/逃避行GAME [gemini-3.1-pro] [中文].txt,1837126
@@ -80,6 +82,7 @@ v15538,Neko Para Vol.1,NEKOPARA Vol. 1,English,English/Neko Para Vol.1.txt,30014
 v15627,料理,料理,Zh,Zh/料理 [中文].txt,19175
 v15637,ソレヨリノ前奏詩,ソレヨリノ前奏詩,Zh,Zh/ソレヨリノ前奏詩 [中文].txt,1465572
 v15708,千の刃濤、桃花染の皇姫,千の刃濤、桃花染の皇姫,Zh,Zh/千の刃濤、桃花染の皇姫 [中文].txt,2567318
+v15731,カミツレ ～7の二乗不思議～ [claude-3.5-sonnet],,Zh,Zh/カミツレ ～7の二乗不思議～ [claude-3.5-sonnet] [中文].txt,1283167
 v15744,あきゆめくくる [Claude-3.5-Sonnet],,Zh,Zh/あきゆめくくる [Claude-3.5-Sonnet] [中文].txt,2543143
 v15744,あきゆめくくる [claude-neptune-v3],,Zh,Zh/あきゆめくくる [claude-neptune-v3] [中文].txt,2478517
 v15871,紙の上の魔法使い,,Zh,Zh/紙の上の魔法使い [中文].txt,4371426
@@ -119,6 +122,7 @@ v1813,神事双劇カーニバル,,Zh,Zh/神事双劇カーニバル [中文].tx
 v18131,Maitetsu,Maitetsu,English,English/Maitetsu.txt,2237987
 v1814,ルーデシア Spidering with Scraping [Claude-Sonnet-5],,Zh,Zh/ルーデシア Spidering with Scraping [Claude-Sonnet-5] [中文].txt,682615
 v18381,Highway Blossoms,Highway Blossoms,English,English/Highway Blossoms.txt,449794
+v18387,Japanese School Life [gemini-3-pro],,Zh,Zh/Japanese School Life [gemini-3-pro] [中文].txt,335341
 v18397,The House in Fata Morgana - A Requiem for Innocence,The House in Fata Morgana: A Requiem for Innocence,English,English/The House in Fata Morgana - A Requiem for Innocence.txt,1009345
 v18577,俺の幼馴染みが恋愛レッスンを所望している [claude-opus-4-5],,Zh,Zh/俺の幼馴染みが恋愛レッスンを所望している [claude-opus-4-5] [中文].txt,349792
 v18694,"Onii-chan, Kiss no Junbi wa Mada Desu ka","Onii-chan, Kiss no Junbi wa Mada Desu ka?",English,"English/Onii-chan, Kiss no Junbi wa Mada Desu ka_.txt",817593
@@ -206,6 +210,7 @@ v2317,画師～隠された思い～ [qwen-max],,Zh,Zh/画師～隠された思�
 v232,夜明け前より瑠璃色な,夜明け前より瑠璃色な,Zh,Zh/夜明け前より瑠璃色な [中文].txt,2509592
 v2328,七ヶ音学園 -風の採譜- [gemini-2.5-pro],,Zh,Zh/七ヶ音学園 -風の採譜- [gemini-2.5-pro] [中文].txt,1342856
 v23458,その日の獣には、,その日の獣には、,Zh,Zh/その日の獣には、 [中文].txt,944526
+v2367,W.L.O. 世界恋愛機構 L.L.S. -LOVE LOVE SHOW- [gemini-2.5-pro],,Zh,Zh/W.L.O. 世界恋愛機構 L.L.S. -LOVE LOVE SHOW- [gemini-2.5-pro] [中文].txt,967395
 v23714,Arknights,Dark Nights,English,English/Arknights.txt,753408
 v23732,pieces／渡り鳥のソムニウム,,Zh,Zh/pieces／渡り鳥のソムニウム [中文].txt,2639215
 v23740,9-nine- Episode 3,9-nine-:Episode 3,English,English/9-nine- Episode 3.txt,584316
@@ -294,6 +299,7 @@ v33205,ハミダシクリエイティブ凸,ハミダシクリエイティブ凸
 v33314,Sakura Alien,Sakura Alien,English,English/Sakura Alien.txt,299782
 v33497,The Survival of Sarah Rose,The Survival of Sarah Rose,English,English/The Survival of Sarah Rose.txt,2377771
 v33725,Sakura Succubus 5,Sakura Succubus 5,English,English/Sakura Succubus 5.txt,301379
+v3408,終ノ刻印 [gemini-2.5-pro],,Zh,Zh/終ノ刻印 [gemini-2.5-pro] [中文].txt,1721522
 v34467,The Price Of Flesh,The Price Of Flesh,English,English/The Price Of Flesh.txt,303659
 v35291,Sakura Succubus 6,Sakura Succubus 6,English,English/Sakura Succubus 6.txt,282108
 v35329,Elfheim,Elfheim,English,English/Elfheim.txt,128047
@@ -314,6 +320,7 @@ v38108,Sakura Alien 2,Sakura Alien 2,English,English/Sakura Alien 2.txt,279445
 v3812,ママは女子校生,ママは女子校生,Zh,Zh/ママは女子校生 [中文].txt,370888
 v384,D.C.II Spring Celebration ～ダ・カーポII～ スプリング セレブレイション,D.C.II Spring Celebration ～ダ・カーポII～ スプリング セレブレイション,Zh,Zh/D.C.II Spring Celebration ～ダ・カーポII～ スプリング セレブレイション [中文].txt,2213702
 v3862,遠望のフェルシス Horizon of the earth and sky [gemini-2.5-pro],,Zh,Zh/遠望のフェルシス Horizon of the earth and sky [gemini-2.5-pro] [中文].txt,1019049
+v3924,Reunion～3日間だけのプチ同棲～,,Zh,Zh/Reunion～3日間だけのプチ同棲～ [中文].txt,1414190
 v3926,空とキオクの彼方,,Zh,Zh/空とキオクの彼方 [中文].txt,1348943
 v394,見上げた空におちていく [claude-3.5-sonnet],,Zh,Zh/見上げた空におちていく [claude-3.5-sonnet] [中文].txt,1853268
 v3940,Green Strawberry,,Zh,Zh/Green Strawberry [中文].txt,2396599
@@ -356,8 +363,10 @@ v49839,藍より青し～秋冬～,藍より青し ～秋冬～,Zh,Zh/藍より�
 v5,Little Busters!,Little Busters!,English,English/Little Busters!.txt,4509107
 v50153,シークレットラブ（仮）,シークレットラブ（仮）,Zh,Zh/シークレットラブ（仮） [中文].txt,2352498
 v5112,性春☆ダイナマイトっ!! ～イケない放課後～,性春☆ダイナマイトっ!! ～イケない放課後～,Zh,Zh/性春☆ダイナマイトっ!! ～イケない放課後～ [中文].txt,225240
+v5125,風ヶ原学園スパイ部,,Zh,Zh/風ヶ原学園スパイ部 [中文].txt,1661358
 v51477,夢幻のティル・ナ・ノーグ,,Zh,Zh/夢幻のティル・ナ・ノーグ [中文].txt,2066226
 v5154,The Fruit of Grisaia,The Fruit of Grisaia,English,English/The Fruit of Grisaia.txt,5715504
+v516,シャッターチャンス・ラブ [gemini-2.5-pro],,Zh,Zh/シャッターチャンス・ラブ [gemini-2.5-pro] [中文].txt,2106539
 v51923,ムーン・ゴースト,ムーン・ゴースト,Zh,Zh/ムーン・ゴースト [中文].txt,771762
 v5240,Ikinari Anata ni Koishiteiru,Ikinari Anata ni Koishiteiru,English,English/Ikinari Anata ni Koishiteiru.txt,1379563
 v5240,いきなりあなたに恋している,いきなりあなたに恋している,Zh,Zh/いきなりあなたに恋している [中文].txt,1545758
@@ -401,6 +410,7 @@ v6508,FutabaChannel,Futaba☆Channel,Zh,Zh/FutabaChannel [中日对照].txt,9614
 v6540,Euphoria,euphoria,English,English/Euphoria.txt,1668207
 v6554,究極魔法少女 絶対☆姉貴,,Zh,Zh/究極魔法少女 絶対☆姉貴 [中文].txt,3259836
 v66,CrossChannel,CROSS†CHANNEL,English,English/CrossChannel.txt,1719499
+v6615,しゅ～てぃんぐ妹スター☆ ～お兄ちゃん、覚悟しててよね♪～,,Zh,Zh/しゅ～てぃんぐ妹スター☆ ～お兄ちゃん、覚悟しててよね♪～ [中文].txt,1151859
 v66374,D.C.5 to 4 ～Luminous Memories～ [gemini-4-argon],,Zh,Zh/D.C.5 to 4 ～Luminous Memories～ [gemini-4-argon] [中文].txt,1177945
 v66716,止マナイ雨ニ病ミナガラ,,Zh,Zh/止マナイ雨ニ病ミナガラ [中文].txt,1110633
 v684,フォセット ～Cafe au Le Ciel Bleu～,フォセット ～Cafe au Le Ciel Bleu～,Zh,Zh/フォセット ～Cafe au Le Ciel Bleu～ [中日对照].txt,174695
