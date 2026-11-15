@@ -372,3 +372,6 @@ Zh/夢幻のティル・ナ・ノーグ [claude-3.5-sonnet].txt,moyu.moe,https:/
 Zh/らくてん～この世の楽園？あの世の天国!？～.txt,moyu.moe,https://www.moyu.moe/resource/3573,3573,らくてん～この世の楽園？あの世の天国!?～,ai,DeepSeek-V3-0324,7546,v4179,2026-11-15,krkr2 ks; SExtractor extraction,528690,39849,0.0
 Zh/ストロベリーノーツ [gemini-2.5-pro].txt,moyu.moe,https://www.moyu.moe/resource/7207,7207,ストロベリーノーツ,ai,gemini-2.5-pro,1486,v7507,2026-11-15,bundled cnjp TTF; carrier chars reversed via SimHei outline match; mojibake names repaired,918864,37171,0.0
 Zh/朝焼けの謳.txt,moyu.moe,https://www.moyu.moe/resource/6676,6676,朝焼けの謳,manual,,8566,,2026-11-15,威廉伯爵个人汉化; source patch leaves final ~5% untranslated Japanese,117048,6608,0.0152
+Zh/ヘイズマン -THE LOCAL HERO- [gemini-3-pro].txt,moyu.moe,https://www.moyu.moe/resource/7225,7225,ヘイズマン -THE LOCAL HERO-,ai,gemini-3-pro-preview,283,v21374,2026-11-15,xp3 PSB strings; kana/residue filtered,526516,34389,0.0
+Zh/初音岛5 [gemini-3.8-flash].txt,moyu.moe,https://www.moyu.moe/resource/11112,11112,初音岛5,ai,gemini-3.8-flash,656,v36687,2026-11-15,xp3 PSB strings; kana/residue filtered,1414929,57468,0.0
+Zh/リリミエスタ [gemini-3.1-pro].txt,moyu.moe,https://www.moyu.moe/resource/8803,8803,リリミエスタ,ai,gemini-3.1-pro-preview,6022,v652,2026-11-15,Yuka ykd/csv; uif carrier map applied,775157,35114,0.0
