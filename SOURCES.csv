@@ -376,3 +376,4 @@ Zh/ヘイズマン -THE LOCAL HERO- [gemini-3-pro].txt,moyu.moe,https://www.moyu
 Zh/初音岛5 [gemini-3.8-flash].txt,moyu.moe,https://www.moyu.moe/resource/11112,11112,初音岛5,ai,gemini-3.8-flash,656,v36687,2026-11-15,xp3 PSB strings; kana/residue filtered,1414929,57468,0.0
 Zh/リリミエスタ [gemini-3.1-pro].txt,moyu.moe,https://www.moyu.moe/resource/8803,8803,リリミエスタ,ai,gemini-3.1-pro-preview,6022,v652,2026-11-15,Yuka ykd/csv; uif carrier map applied,775157,35114,0.0
 Zh/殻ノ少女.txt,moyu.moe,https://www.moyu.moe/resource/6222,6222,殻ノ少女,manual,,1084,v810,2026-11-15,data.xp3 ks; UTF-16LE; UI/system filtered,237149,13341,0.0
+Zh/みずいろ [claude-3.7-sonnet].txt,moyu.moe,https://www.moyu.moe/resource/2985,2985,みずいろ,ai,claude-3.7-sonnet,7334,v192,2026-11-15,Majiro arc mjo; NFKC normalized; carrier glyph map via bundled TTF,741415,55561,0.0008
