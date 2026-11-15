@@ -16,6 +16,7 @@
 ├── RENAMES.csv     # 文件名规范化映射（`.txt [语言]` → ` [语言].txt`）
 ├── TRANSLATION.csv # 逐文件翻译行数
 ├── SOURCES.csv     # 新增批次来源账：补丁站 id、补丁名、类型（人工/AI）、模型、VNDB id
+├── VNDB_INDEX.csv  # VNDB id → 本地剧本路径索引
 ├── QUALITY.md      # 整改前后统计、缺陷分布、复现命令
 ├── tools/          # 校验与清单脚本
 ├── LICENSE         # MIT，仅适用于脚本与文档
@@ -35,6 +36,17 @@
 - 统一 UTF-8（无 BOM）、LF 换行。
 - 多数剧本为 `角色名: 台词` 或 `角色「台词」`；旁白常无前缀，或用 `*...*` 包裹。
 - 已移除字体版权声明、引擎配置、提取标记、菜单/UI 文本、空文件、碎片与字节级重复文件。
+
+## 按 VNDB id 查找
+
+`VNDB_INDEX.csv` 把 VNDB id、标题、语料路径对应起来；文件名保持可读，不必在文件名里塞 id。
+
+```bash
+python tools/find_by_vndb.py v3271    # 按 VNDB id
+python tools/find_by_vndb.py 晓之护卫  # 按标题片段
+```
+
+同一作品的不同译本会有多行；`MANIFEST.csv` 也带 `vndb_id` 列，可直接用 csv 工具连接。
 
 ## 质量门槛
 

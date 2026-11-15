@@ -7,8 +7,28 @@ CJK = re.compile(r"[\u4e00-\u9fff]")
 LAT = re.compile(r"[A-Za-z]")
 DIALOG = re.compile(r"[「『\"“]|^[^\s:：]{1,16}[:：]")
 
+def load_vndb_index():
+    index = {}
+    p = os.path.join(ROOT, "VNDB_INDEX.csv")
+    if not os.path.exists(p):
+        return index
+    for row in csv.DictReader(open(p, encoding="utf-8")):
+        index[row["path"]] = row["vndb_id"]
+    return index
+
+
+def lookup(index, rel):
+    if rel in index:
+        return index[rel]
+    for k, v in index.items():
+        if k.endswith("/") and rel.startswith(k):
+            return v
+    return ""
+
+
 def main():
     rows = []
+    vndb = load_vndb_index()
     for dirpath, dirs, files in os.walk(ROOT):
         dirs[:] = [d for d in dirs if d not in (".git", "tools")]
         for fn in files:
@@ -30,7 +50,8 @@ def main():
             if kana > 0.01 and not bilingual: flags.append("kana_residue")
             if dlg / max(1, len(lines)) < 0.02: flags.append("low_dialogue")
             rows.append({
-                "path": rel, "lang": lang, "bilingual": int(bilingual), "reference": int(reference),
+                "path": rel, "vndb_id": lookup(vndb, rel), "lang": lang,
+                "bilingual": int(bilingual), "reference": int(reference),
                 "chars": len(s), "lines": len(lines), "dialogue_lines": dlg,
                 "dialogue_ratio": round(dlg / max(1, len(lines)), 3),
                 "kana_ratio": round(kana, 4),
