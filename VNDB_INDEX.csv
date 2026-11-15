@@ -2,8 +2,10 @@ vndb_id,title,matched_title,lang,path,chars
 v10016,A Clockwork Ley-Line - The Borderline of Dusk,A Clockwork Ley-Line: The Borderline of Dusk,English,English/A Clockwork Ley-Line - The Borderline of Dusk.txt,1086902
 v1023,Scarlett～スカーレット～,Scarlett～スカーレット～,Zh,Zh/Scarlett～スカーレット～ [中文].txt,71272
 v1027,Shikkoku no Sharnoth ~What a beautiful tomorrow~,Shikkoku no Sharnoth ~What a beautiful tomorrow~,English,English/Shikkoku no Sharnoth ~What a beautiful tomorrow~.txt,1511753
+v10447,創世奇譚アエリアル [gemini-3.1-pro],,Zh,Zh/創世奇譚アエリアル [gemini-3.1-pro] [中文].txt,3649380
 v10569,孤独に効く百合,,Zh,Zh/孤独に効く百合 [中文].txt,124257
 v10613,星彩のレゾナンス,星彩のレゾナンス,Zh,Zh/星彩のレゾナンス [中文].txt,1432282
+v10642,Re：birth colony -Lost azurite- [gemini-2.5-pro],,Zh,Zh/Re：birth colony -Lost azurite- [gemini-2.5-pro] [中文].txt,2787645
 v10700,A Kiss for The Petals Maidens of Michael,A Kiss For The Petals - Maidens of Michael,English,English/A Kiss for The Petals Maidens of Michael.txt,1141189
 v10804,Bokuten - Why I Became an Angel,Bokuten - Why I Became an Angel,English,English/Bokuten - Why I Became an Angel.txt,2186885
 v10853,トライアゲイン [qwen-max],,Zh,Zh/トライアゲイン [qwen-max] [中文].txt,387198
@@ -20,6 +22,7 @@ v1143,Majikoi! Love Me Seriously!,Majikoi! Love Me Seriously!!,English,English/M
 v11633,冬桜抄 -さくらがたり- [Claude-3.7-sonnet],,Zh,Zh/冬桜抄 -さくらがたり- [Claude-3.7-sonnet] [中文].txt,1624867
 v1181,W.L.O.世界恋愛機構 [gemini-2.5-pro],,Zh,Zh/W.L.O.世界恋愛機構 [gemini-2.5-pro] [中文].txt,5934584
 v1194,ヨスガノソラ,ヨスガノソラ,Zh,Zh/ヨスガノソラ [中文].txt,1979841
+v12000,ゆめこい ～夢見る魔法少女と恋の呪文～ [claude-3.7-sonnet],,Zh,Zh/ゆめこい ～夢見る魔法少女と恋の呪文～ [claude-3.7-sonnet] [中文].txt,605544
 v12030,逃避行GAME [gemini-3.1-pro],,Zh,Zh/逃避行GAME [gemini-3.1-pro] [中文].txt,1837126
 v12072,The Shadows of Pygmalion,The Shadows of Pygmalion,English,English/The Shadows of Pygmalion.txt,1133861
 v12297,魔降ル夜ノ凜,魔降ル夜ノ凜,Zh,Zh/魔降ル夜ノ凜 [中文].txt,1462942
@@ -110,6 +113,7 @@ v18821,黒曜鏡の魔獣,黒曜鏡の魔獣,Zh,Zh/黒曜鏡の魔獣 [中文].t
 v18852,アマツツミ,アマツツミ,Zh,Zh/アマツツミ [中文].txt,2423284
 v18873,ナツウソ -Ahead of the reminiscence,ナツウソ -Ahead of the reminiscence-,Zh,Zh/ナツウソ -Ahead of the reminiscence [中文].txt,536773
 v1896,コミュ - 黒い竜と優しい王国 - [gemini-3.1-pro],,Zh,Zh/コミュ - 黒い竜と優しい王国 - [gemini-3.1-pro] [中文].txt,287183
+v1896,コミュ - 黒い竜と優しい王国,,Zh,Zh/コミュ - 黒い竜と優しい王国 - [中文].txt,293124
 v18974,KARAKARA,KARAKARA,English,English/KARAKARA.txt,192978
 v18995,等間隔の黒い透明,,Zh,Zh/等間隔の黒い透明 [中文].txt,106631
 v19073,Senren Banka,Senren * Banka,English,English/Senren Banka.txt,2102803
@@ -252,11 +256,13 @@ v31436,アインシュタインより愛を込めて APOLLOCRISIS,アインシ�
 v3184,家族計画 〜そしてまた家族計画を〜,家族計画 〜そしてまた家族計画を〜,Zh,Zh/家族計画 〜そしてまた家族計画を〜 [中文].txt,109768
 v3208,シュガースパイス2 [Claude-3.5-Sonnet],,Zh,Zh/シュガースパイス2 [Claude-3.5-Sonnet] [中文].txt,2995129
 v32101,グリザイア クロノスリベリオン [claude-3.7-sonnet],,Zh,Zh/グリザイア クロノスリベリオン [claude-3.7-sonnet] [中文].txt,1783152
+v3240,ひのまるっ [Claude-3.7-Sonnet],,Zh,Zh/ひのまるっ [Claude-3.7-Sonnet] [中文].txt,2258125
 v3240,ひのまるっ [gemini-3.1-pro],,Zh,Zh/ひのまるっ [gemini-3.1-pro] [中文].txt,2377673
 v3271,晓之护卫 ～罪孽深重的末世论～ [Claude3.7逆向],,Zh,Zh/晓之护卫 ～罪孽深重的末世论～ [Claude3.7逆向] [中文].txt,4727355
 v3271,晓之护卫 ～罪孽深重的末世论～ [optimus-alpha],,Zh,Zh/晓之护卫 ～罪孽深重的末世论～ [optimus-alpha] [中文].txt,5043825
 v3271,暁の護衛 ～罪深き終末論～ [Claude-3.5-Sonnet],,Zh,Zh/暁の護衛 ～罪深き終末論～ [Claude-3.5-Sonnet] [中文].txt,5253603
 v32921,花鐘カナデ＊グラム Chapter：3 星泉コトナ,花鐘カナデ＊グラム Chapter:3 星泉コトナ,Zh,Zh/花鐘カナデ＊グラム Chapter：3 星泉コトナ [中文].txt,583957
+v32946,ネコぱら After ラ・ヴレ・ファミーユ,,Zh,Zh/ネコぱら After ラ・ヴレ・ファミーユ [中文].txt,198705
 v33205,ハミダシクリエイティブ凸,ハミダシクリエイティブ凸,Zh,Zh/ハミダシクリエイティブ凸 [中文].txt,949789
 v33314,Sakura Alien,Sakura Alien,English,English/Sakura Alien.txt,299782
 v33497,The Survival of Sarah Rose,The Survival of Sarah Rose,English,English/The Survival of Sarah Rose.txt,2377771
@@ -353,7 +359,9 @@ v6103,追憶の向こう側 [DeepSeek R1T2],,Zh,Zh/追憶の向こう側 [DeepSe
 v61223,Academy34,ACADEMY34,English,English/Academy34.txt,901204
 v61834,Relirium -レリリウム- 遺跡と出逢いと冒険と [sakura-14b],,Zh,Zh/Relirium -レリリウム- 遺跡と出逢いと冒険と [sakura-14b] [中文].txt,3317210
 v620,IZUMO2,Izumo 2,Zh,Zh/IZUMO2 [中文].txt,2580895
+v633,姫さま凛々しく！ [DeepSeek-V4.1-Flash],,Zh,Zh/姫さま凛々しく！ [DeepSeek-V4.1-Flash] [中文].txt,2038711
 v6426,ぜったい絶頂☆性器の大発明!! ―処女を狙う学園道具多発エロ―,ぜったい絶頂☆性器の大発明!! ―処女を狙う学園道具多発エロ―,Zh,Zh/ぜったい絶頂☆性器の大発明!! ―処女を狙う学園道具多発エロ― [中文].txt,1994262
+v6471,ユユカナ -under the Starlight- [gemini-2.5-pro],,Zh,Zh/ユユカナ -under the Starlight- [gemini-2.5-pro] [中文].txt,143803
 v6508,FutabaChannel,Futaba☆Channel,JA,JA/FutabaChannel [日本語].txt,117248
 v6508,FutabaChannel,Futaba☆Channel,Zh,Zh/FutabaChannel [中日对照].txt,96143
 v6540,Euphoria,euphoria,English,English/Euphoria.txt,1668207
@@ -375,6 +383,7 @@ v7723,The Labyrinth of Grisaia,The Labyrinth of Grisaia,English,English/The Laby
 v7724,The Eden of Grisaia,The Eden of Grisaia,English,English/The Eden of Grisaia.txt,2158031
 v7773,レミニセンス [心愿屋],,Zh,Zh/レミニセンス [心愿屋] [中文].txt,1395717
 v7774,同棲ラブラブル,同棲ラブラブル,Zh,Zh/同棲ラブラブル [中文].txt,1588706
+v7786,春季限定ポコ・ア・ポコ! [gemini-2.5-pro],,Zh,Zh/春季限定ポコ・ア・ポコ! [gemini-2.5-pro] [中文].txt,931118
 v7839,ノルカソルカ ～短編集～,ノルカソルカ ～短編集～,Zh,Zh/ノルカソルカ ～短編集～ [中文].txt,206785
 v7859,親友が美少女になって帰ってきた。 [claude-3-haiku],,Zh,Zh/親友が美少女になって帰ってきた。 [claude-3-haiku] [中文].txt,501552
 v814,HimeのちHoney,HimeのちHoney,Zh,Zh/HimeのちHoney [中日对照].txt,1441658
@@ -384,6 +393,7 @@ v83,ExE,,Zh,Zh/ExE [中文].txt,1038174
 v84,"Sharin no Kuni, Yuukyuu no Shounenshoujo","Sharin no Kuni, Yuukyuu no Shounenshoujo",English,"English/Sharin no Kuni, Yuukyuu no Shounenshoujo.txt",1447707
 v84,車輪の国、悠久の少年少女,車輪の国、悠久の少年少女,Zh,Zh/車輪の国、悠久の少年少女 [中文].txt,1270159
 v8436,誰が殺したコマドリを,誰が殺したコマドリを,Zh,Zh/誰が殺したコマドリを [中日对照].txt,613560
+v85,魂響〜たまゆら〜 [qwen-max],,Zh,Zh/魂響〜たまゆら〜 [qwen-max] [中文].txt,1397292
 v8508,Kindred Spirits On The Roof,Kindred Spirits on the Roof,English,English/Kindred Spirits On The Roof.txt,1970989
 v8527,Sugar's Delight,Sugar's Delight,English,English/Sugar's Delight.txt,84187
 v8577,爆走女装計画～もしも俺が女装させられてレディースに入隊させられたら～ [claude-3.7-sonnet],,Zh,Zh/爆走女装計画～もしも俺が女装させられてレディースに入隊させられたら～ [claude-3.7-sonnet] [中文].txt,208496
