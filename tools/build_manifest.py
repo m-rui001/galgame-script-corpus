@@ -41,7 +41,7 @@ def main():
             })
     rows.sort(key=lambda x: x["path"])
     with open(os.path.join(ROOT, "MANIFEST.csv"), "w", newline="", encoding="utf-8") as f:
-        w = csv.DictWriter(f, fieldnames=list(rows[0].keys()))
+        w = csv.DictWriter(f, fieldnames=list(rows[0].keys()), lineterminator="\n")
         w.writeheader()
         w.writerows(rows)
     summary = {

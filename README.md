@@ -15,6 +15,7 @@
 ├── MERGES.csv      # 合并/迁移账：旧路径 → 新路径、逐行匹配率
 ├── RENAMES.csv     # 文件名规范化映射（`.txt [语言]` → ` [语言].txt`）
 ├── TRANSLATION.csv # 逐文件翻译行数
+├── SOURCES.csv     # 新增批次来源账：补丁站 id、补丁名、类型（人工/AI）、模型、VNDB id
 ├── QUALITY.md      # 整改前后统计、缺陷分布、复现命令
 ├── tools/          # 校验与清单脚本
 ├── LICENSE         # MIT，仅适用于脚本与文档
@@ -58,6 +59,6 @@ python tools/build_manifest.py    # 重建 MANIFEST.csv
 
 ## 说明
 
-- 剧本文件由解包游戏补丁和网络收集而来；来源与处理记录见 `MANIFEST.csv`。
+- 剧本文件由解包游戏补丁和网络收集而来；2026-11 起的增量批次来源（补丁 id、人工/AI、模型、VNDB id）记录在 `SOURCES.csv`，更早条目见 `MANIFEST.csv`。
 - 同一游戏的中文/日文版本分别归入 `Zh/` 与 `JA/`；含多语言的合集按语言拆分。
 - 日文侧部分游戏含有比中文侧更多的独有脚本文件，属正常现象。

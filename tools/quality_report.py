@@ -89,7 +89,7 @@ def main():
     lines.append("")
     lines.append("## 复现\n")
     lines.append("```bash\npython tools/validate_corpus.py\npython tools/build_manifest.py\npython tools/quality_report.py\n```")
-    open(os.path.join(ROOT, "QUALITY.md"), "w", encoding="utf-8").write("\n".join(lines) + "\n")
+    open(os.path.join(ROOT, "QUALITY.md"), "w", encoding="utf-8", newline="\n").write("\n".join(lines) + "\n")
     print("wrote QUALITY.md")
 if __name__ == "__main__":
     main()
