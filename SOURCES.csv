@@ -522,3 +522,4 @@ Zh/黄昏の先にのぼる明日 [AI汉化].txt,moyu.moe,https://www.moyu.moe/r
 Zh/Dies irae ～Interview with Kaziklu Bey～ [Άργυρος个汉].txt,moyu.moe,https://www.moyu.moe/resource/6351,6351,Dies irae ～Interview with Kaziklu Bey～,manual,,901,v18685,2026-11-16,Malie exec.dat; malie-tool text export; ruby base resolved,170958,5949,0.0
 Zh/沙耶の唄 [桃華月憚].txt,moyu.moe,https://www.moyu.moe/resource/6512,6512,沙耶の唄,manual,,106,v97,2026-11-16,"NScripter script.pak; GBK text extracted, narration lines cleaned",97739,2454,0.0003
 Zh/ドラゴンナイト4 [claude-opus-4.5].txt,moyu.moe,https://www.moyu.moe/resource/8651,8651,ドラゴンナイト4,ai,claude-opus-4.5,9241,v498,2026-11-16,ELF AI6 .MES; CP932 strings decoded with CialloHook character substitution; OpenCC t2s,553549,28153,0.0
+Zh/夢現の境界～奇跡の海～ [DeepSeek-V2.5].txt,moyu.moe,https://www.moyu.moe/resource/628,628,夢現の境界～奇跡の海～,ai,DeepSeek-V2.5,6324,v7699,2026-11-16,ASD scripts; CP932 text strings decoded with CialloHook substitution; OpenCC t2s,245512,18286,0.0001
