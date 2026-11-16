@@ -18,7 +18,9 @@
 ├── SOURCES.csv     # 新增批次来源账：补丁站 id、补丁名、类型（人工/AI）、模型、VNDB id
 ├── VNDB_INDEX.csv  # VNDB id → 本地剧本路径索引
 ├── QUALITY.md      # 整改前后统计、缺陷分布、复现命令
+├── docs/           # 提取经验与格式说明
 ├── tools/          # 校验与清单脚本
+│   └── extraction/ # 补丁解包、解码、清洗脚本
 ├── LICENSE         # MIT，仅适用于脚本与文档
 └── README.md
 ```
@@ -56,6 +58,8 @@ python tools/build_manifest.py    # 重建 MANIFEST.csv
 ```
 
 硬门槛不通过时脚本以非零退出。当前统计与删改记录见 [QUALITY.md](QUALITY.md)。
+
+补丁判型、解包、字形恢复与清洗经验见 [docs/EXTRACTION.md](docs/EXTRACTION.md)，对应脚本在 `tools/extraction/`。
 
 ## 整改说明
 
