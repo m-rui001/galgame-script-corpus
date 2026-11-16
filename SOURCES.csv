@@ -344,7 +344,7 @@ Zh/きゅうけつ! ～わらわのしもべになるのじゃ～ [DeepSeek-V3.1
 Zh/炉の湯 [qwen-max-latest].txt,moyu.moe,https://www.moyu.moe/resource/2536,2536,炉の湯,ai,qwen-max-lastest,7106,v15926,2026-11-15,,57815,2883,0.0
 Zh/密会上映 ～ここなら誰にも見えませんよ？～ [DeepSeek-V4.1-Flash].txt,moyu.moe,https://www.moyu.moe/resource/35153,35153,密会上映 ～ここなら誰にも見えませんよ？～,ai,DeepSeek-V4.1-Flash-1017,236191,v69259,2026-11-15,,50341,2615,0.0
 Zh/悪魔がくれたモノ [DeepSeek-V4-Flash].txt,moyu.moe,https://www.moyu.moe/resource/11045,11045,悪魔がくれたモノ,ai,deep seek v4 flash,7375,v22932,2026-11-15,,80483,4282,0.0007
-Zh/夏いろペンギン [claude-opus-4-5].txt,moyu.moe,https://www.moyu.moe/resource/8759,8759,夏いろペンギン,ai,claude-opus-4-5,6382,v1430,2026-11-15,SJIS carrier text decoded via font cmap glyph remap,613130,39481,0.0116
+Zh/夏いろペンギン [claude-opus-4-5].txt,moyu.moe,https://www.moyu.moe/resource/8759,8759,夏いろペンギン,ai,claude-opus-4-5,6382,v1430,2026-11-15,SJIS carrier text decoded via font cmap glyph remap; glyph-substitution decoded,613130,39481,0.0116
 Zh/残念な俺達の青春事情。 [gemini-2.5-pro].txt,moyu.moe,https://www.moyu.moe/resource/413,413,残念な俺達の青春事情。,ai,gemini-2.5-pro,2096,v15485,2026-11-15,majiro glyph-outline substitution decoded,731058,45124,0.0001
 Zh/MOON CHILDe [gemini-3-pro-preview].txt,moyu.moe,https://www.moyu.moe/resource/7660,7660,MOON CHILDe,ai,gemini-3-pro-preview,237,v1568,2026-11-15,majiro glyph-outline substitution decoded; leading @/| markers stripped,983082,62386,0.001
 Zh/となりの魔王使い [MiniMax-Text-01].txt,moyu.moe,https://www.moyu.moe/resource/902,902,となりの魔王使い,ai,,6419,v1263,2026-11-15,majiro glyph-outline substitution decoded; x1d separators removed,430174,23388,0.0008
@@ -385,7 +385,7 @@ Zh/ストロベリーノーツ [claude-3.7-sonnet].txt,moyu.moe,https://www.moyu
 Zh/青い空のカミュ.txt,moyu.moe,https://www.moyu.moe/resource/6250,6250,青い空のカミュ,manual,,244,v23863,2026-11-16,PSB scn via VNTextPatch; messages only,232728,12196,0.0
 Zh/ロイヤルガーデン～乙女に恋する皇子の戯曲～ [gemini-3-pro].txt,moyu.moe,https://www.moyu.moe/resource/7766,7766,ロイヤルガーデン～乙女に恋する皇子の戯曲～,ai,gemini-3-pro-preview,2773,v17826,2026-11-16,PSB scn via VNTextPatch; messages only,987016,40913,0.0
 Zh/マガルミナ [gemini-3.1-pro].txt,moyu.moe,https://www.moyu.moe/resource/9654,9654,マガルミナ,ai,gemini-3.1pro,5026,v62721,2026-11-16,PSB scn via VNTextPatch; messages only,902911,44199,0.0
-Zh/あけいろ怪奇譚 [gemini-3.1-pro].txt,moyu.moe,https://www.moyu.moe/resource/9696,9696,あけいろ怪奇譚,ai,gemini-3.1-pro-preview,1908,v18495,2026-11-16,MES via VNTextPatch; messages only,1585988,106828,0.0
+Zh/あけいろ怪奇譚 [gemini-3.1-pro].txt,moyu.moe,https://www.moyu.moe/resource/9696,9696,あけいろ怪奇譚,ai,gemini-3.1-pro-preview,1908,v18495,2026-11-16,MES via VNTextPatch; messages only; glyph-substitution decoded,1585974,106828,0.0
 Zh/ロイヤルガーデン～乙女に恋する皇子の戯曲～.txt,moyu.moe,https://www.moyu.moe/resource/1606,1606,ロイヤルガーデン～乙女に恋する皇子の戯曲～,ai,,2773,v17826,2026-11-16,PSB scn via VNTextPatch; messages only,966241,64591,0.0001
 Zh/ツギハギめいくぴーす！ [claude-3.5-sonnet].txt,moyu.moe,https://www.moyu.moe/resource/2724,2724,ツギハギめいくぴーす！,ai,Claude3.5sonnet（逆向）,720,v21537,2026-11-16,PSB scn via VNTextPatch; messages only,478277,32321,0.0001
 Zh/西園家のかくしゴト [gemini-4-argon].txt,moyu.moe,https://www.moyu.moe/resource/34982,34982,西園家のかくしゴト,ai,gemini-4-Argon,214968,v66872,2026-11-16,PSB scn via VNTextPatch; messages only,282338,13450,0.0
@@ -477,19 +477,19 @@ Zh/ゴッドシスターズ.txt,moyu.moe,https://www.moyu.moe/resource/3247,3247
 Zh/魔物娘たちとの楽園～スライム＆スキュラ～ [claude-3-5-sonnet].txt,moyu.moe,https://www.moyu.moe/resource/3249,3249,魔物娘たちとの楽園～スライム＆スキュラ～,ai,claude-3-5-sonnet,4287,v4940,2026-11-16,Yuka YSTB ybn; SJIS tunnel decoded via sjis_ext.bin,356421,12250,0.0
 Zh/ISLAND.txt,moyu.moe,https://www.moyu.moe/resource/6142,6142,ISLAND,manual,,316,v18498,2026-11-16,Frontwing FES engine; KIF int archive; CatScene KCS scripts; GBK translation blocks,762088,40336,0.0
 Zh/さくらぶトライアングル.txt,moyu.moe,https://www.moyu.moe/resource/34978,34978,さくらぶトライアングル,ai,sakura-galtransl-14b-v3.8,5669,v61215,2026-11-16,Yuka engine; YPF archive; YSTB scripts; Chinese via SJIS tunnel (sjis_ext.bin),179139,9736,0.0
-Zh/ドコのドナタの感情経路.txt,moyu.moe,https://www.moyu.moe/resource/4472,4472,ドコのドナタの感情経路,ai,gemini-2.5-pro,931,v13062,2026-11-16,Yuka engine; YSTB scripts (v474); CP932-encoded Chinese text,497390,25318,0.0
+Zh/ドコのドナタの感情経路.txt,moyu.moe,https://www.moyu.moe/resource/4472,4472,ドコのドナタの感情経路,ai,gemini-2.5-pro,931,v13062,2026-11-16,Yuka engine; YSTB scripts (v474); CP932-encoded Chinese text; glyph-substitution decoded,497389,25318,0.0
 Zh/黄昏に煌く銀の繰眼.txt,moyu.moe,https://www.moyu.moe/resource/9009,9009,黄昏に煌く銀の繰眼,ai,gemini-3-flash-preview,3559,v2225,2026-11-16,Yuka engine; YSTB v290 scripts; CP932-encoded Chinese,876335,26843,0.0098
-Zh/コイヤスミ ～彼女の肌に解ける粉雪～.txt,moyu.moe,https://www.moyu.moe/resource/9222,9222,コイヤスミ ～彼女の肌に解ける粉雪～,ai,gemini-3.1-pro-preview,9441,v32875,2026-11-16,Yuka engine; YSTB v482 scripts; CP932-encoded Chinese,186556,5845,0.0
-Zh/双子の恋は見抜けない [gemini-3.1-pro-preview].txt,moyu.moe,https://www.moyu.moe/resource/9709,9709,双子の恋は見抜けない,ai,gemini-3.1-pro-preview,4841,v61214,2026-11-16,Yuka engine; YSTB v494 scripts; CP932-encoded Chinese,196612,6557,0.0
+Zh/コイヤスミ ～彼女の肌に解ける粉雪～.txt,moyu.moe,https://www.moyu.moe/resource/9222,9222,コイヤスミ ～彼女の肌に解ける粉雪～,ai,gemini-3.1-pro-preview,9441,v32875,2026-11-16,Yuka engine; YSTB v482 scripts; CP932-encoded Chinese; glyph-substitution decoded,186556,5845,0.0
+Zh/双子の恋は見抜けない [gemini-3.1-pro-preview].txt,moyu.moe,https://www.moyu.moe/resource/9709,9709,双子の恋は見抜けない,ai,gemini-3.1-pro-preview,4841,v61214,2026-11-16,Yuka engine; YSTB v494 scripts; CP932-encoded Chinese; glyph-substitution decoded,196611,6557,0.0
 Zh/リザイン.txt,moyu.moe,https://www.moyu.moe/resource/8325,8325,リザイン,ai,,7102,v7958,2026-11-16,Yuka engine; YSTB v292 scripts; CP932-encoded Chinese,589239,16351,0.0107
 Zh/DEAD DAYS.txt,moyu.moe,https://www.moyu.moe/resource/35086,35086,DEAD DAYS,ai,gemini-3.8-flash,433,v25007,2026-11-16,Yuka engine; YSTB v555 scripts; GBK text,539785,19214,0.0002
 Zh/シークレット・デッサン.txt,moyu.moe,https://www.moyu.moe/resource/4105,4105,シークレット・デッサン,ai,gemini-2.5-pro-preview-06-05,3164,v55005,2026-11-16,Yuka engine; YSTB v488 scripts; CP932-encoded Chinese,184779,8837,0.0
-Zh/神さまの耳はけものみみ！？.txt,moyu.moe,https://www.moyu.moe/resource/4111,4111,神さまの耳はけものみみ！？,ai,claude-3.5-sonnet,7744,v18430,2026-11-16,Yuka engine; YSTB v480 scripts; CP932-encoded Chinese,108499,4841,0.0112
+Zh/神さまの耳はけものみみ！？.txt,moyu.moe,https://www.moyu.moe/resource/4111,4111,神さまの耳はけものみみ！？,ai,claude-3.5-sonnet,7744,v18430,2026-11-16,Yuka engine; YSTB v480 scripts; CP932-encoded Chinese; glyph-substitution decoded,108499,4841,0.0112
 Zh/Lunaris Filia～キスと契約と深紅の瞳～.txt,moyu.moe,https://www.moyu.moe/resource/6881,6881,Lunaris Filia～キスと契約と深紅の瞳～,manual,,1441,v7261,2026-11-16,Yuka engine; YSTB v550 scripts; GBK text,859307,34646,0.0001
 Zh/な妹き！.txt,moyu.moe,https://www.moyu.moe/resource/7084,7084,な妹き！,manual,,1467,v16405,2026-11-16,Yuka engine; YSTB v466 scripts; GBK text,322161,14704,0.0
 Zh/ひとりぼっちの天体観測.txt,moyu.moe,https://www.moyu.moe/resource/35253,35253,ひとりぼっちの天体観測,ai,,28590,v29047,2026-11-16,Yuka engine; YSTB v480 scripts; GBK text,646085,42377,0.0
 Zh/絡恋インヴィテーション [gemini-3.8-flash].txt,moyu.moe,https://www.moyu.moe/resource/11528,11528,絡恋インヴィテーション,ai,gemini-3.8-flash,4893,v61212,2026-11-16,Yuka engine; YSTB v494 scripts; GBK text,354429,17205,0.0
 Zh/光翼戦姫エクスティアコンチェルトフィナーレ.txt,moyu.moe,https://www.moyu.moe/resource/5497,5497,光翼戦姫エクスティアコンチェルトフィナーレ,ai,claude-3.5-sonnet,4131,v58511,2026-11-16,Yuka engine; YSTB v494 scripts; GBK text,598295,22124,0.0
 Zh/Rewrite Harvest festa! [A·T·Field汉化组×1557057个人移植].txt,moyu.moe,https://www.moyu.moe/resource/9892,9892,Rewrite Harvest festa!,manual,,849,v8020,2026-11-16,Siglus engine; dbs scenario databases; UTF-16 text,257460,13692,0.0003
-Zh/ノーブルリージュ！ [gemini-2.5-pro].txt,moyu.moe,https://www.moyu.moe/resource/5302,5302,ノーブルリージュ！,ai,gemini-2.5-pro,8304,v5245,2026-11-16,Siglus engine; Scene.pck scripts; UTF-8 text,241485,11765,0.0
-Zh/桜花センゴク!～信長ちゃんの恋して野望!？～ [AI汉化].txt,moyu.moe,https://www.moyu.moe/resource/2083,2083,桜花センゴク!～信長ちゃんの恋して野望!？～,ai,,6269,v4822,2026-11-16,KAG <Text> scripts; glyph-substitution font decoded (~120 donors); JP variants normalized; kana cleanup via opencode2api,1020195,42342,0.0001
+Zh/ノーブルリージュ！ [gemini-2.5-pro].txt,moyu.moe,https://www.moyu.moe/resource/5302,5302,ノーブルリージュ！,ai,gemini-2.5-pro,8304,v5245,2026-11-16,Siglus engine; Scene.pck scripts; UTF-8 text; glyph-substitution decoded,241485,11765,0.0
+Zh/桜花センゴク!～信長ちゃんの恋して野望!？～ [AI汉化].txt,moyu.moe,https://www.moyu.moe/resource/2083,2083,桜花センゴク!～信長ちゃんの恋して野望!？～,ai,,6269,v4822,2026-11-16,KAG <Text> scripts; glyph-substitution font decoded (~120 donors); JP variants normalized; kana cleanup via opencode2api,1020637,42373,0.0001
