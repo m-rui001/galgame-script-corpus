@@ -114,6 +114,7 @@ python clean_bgi.py <反汇编目录> <补丁字体.ttf> <输出.txt>
 - 7690：YU-RIS YSTB，`extYbn -cp SHJIS` + UIF 字表，41.7 万字符。
 - 4837、9427：KiriKiri 缓存脚本直接清洗，分别 7.9 万、11.1 万字符。
 - 10814/10815/10817：三个资源 id 指向同一补丁，只入库一次。
+- 9747、9743、3982（批次 119，2026-11-17）：PJADV 的 `textdata.bin` 按字节异或 `(0xc5 + offset * 0x5c) & 255`，解密后校验 `PJADV_TF0001`、记录数和 CP932 编码。`scenario.dat` 中 `0x80000307` 后第 2、3 个 uint32 分别为说话人与正文的绝对偏移；逐条验证字符串起点，按脚本顺序提取，再套 UIF 字表。不能直接导出整个文本表：其中包含旧日文、旧译文及未引用字符串。本批保留 130671 条对白/旁白，未覆盖选项/UI；3982 另补齐日文说话人标签及 41 条混合短语，行数不变。复现脚本位于工作区 `_audit/extract_pjadv.py`、`clean_pjadv.py`，逐条偏移账目为 `_audit/pjadv_*_refs.json`。格式工具参考：[RxPJADV](https://github.com/ZQF-ReVN/RxPJADV)。
 
 ## 当前边界
 
