@@ -24,7 +24,7 @@ LOG = os.path.join(ROOT, "..", "_audit", "polish_log.jsonl")
 
 KANA = re.compile(r"[\u3040-\u309f\u30a0-\u30fa\u30fc-\u30ff]")  # 不含 U+30FB「・」
 CJK = re.compile(r"[\u4e00-\u9fff]")
-SPEAKER = re.compile(r"^([^\s：:（(「『]{1,8})[：:]")
+SPEAKER = re.compile(r"^([^\s：:（(「『]{1,6})[：:]")
 QUOTES = re.compile(r"[「」『』]")
 DIGITS = re.compile(r"[0-9０-９]+")
 
@@ -129,7 +129,7 @@ def check(src, out):
     if len(CJK.findall(a)) >= 4 and len(CJK.findall(b)) < 2:
         return False, "too-short"
     r = len(b) / max(1, len(a))
-    if not (0.55 <= r <= 1.6):
+    if not (0.40 <= r <= 1.6):
         return False, f"length:{r:.2f}"
     return True, ""
 

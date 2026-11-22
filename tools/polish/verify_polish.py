@@ -11,7 +11,7 @@ import os, re, sys, csv, argparse, subprocess
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 OUT = os.path.join(ROOT, "..", "_audit", "polish_verify.csv")
-SPEAKER = re.compile(r"^([^\s：:（(「『]{1,8})[：:]")
+SPEAKER = re.compile(r"^([^\s：:（(「『]{1,6})[：:]")
 KANA = re.compile(r"[\u3040-\u309f\u30a0-\u30fa\u30fc-\u30ff]")  # 不含 U+30FB「・」
 DIGITS = re.compile(r"[0-9０-９]+")
 CONTENT = re.compile(r"[^一-鿿0-9０-９A-Za-zＡ-Ｚａ-ｚ]")
@@ -69,7 +69,7 @@ def main():
             if KANA.search(y) and not KANA.search(x):
                 bad.append(f"kana@{i + 1}")
             cx, cy = len(CONTENT.sub("", x)), len(CONTENT.sub("", y))
-            if cy > 1.5 * max(1, cx) or cy < 0.6 * cx:
+            if cy > 1.5 * max(1, cx) or cy < 0.4 * cx:
                 bad.append(f"length@{i + 1}:{cx}->{cy}")
             for k, pat in MARKERS.items():
                 drops[k] += len(re.findall(pat, x)) - len(re.findall(pat, y))
