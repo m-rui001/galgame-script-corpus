@@ -85,6 +85,8 @@ def merge(rel, dry=False):
             continue
         got = open(outf, encoding="utf-8").read().split("\n")
         src = lines[c["start"]:c["end"]]
+        if len(got) == len(src) + 1 and got[-1] == "":
+            got = got[:-1]
         if len(got) != len(src):
             bad.append((c["file"], f"lines {len(src)}->{len(got)}"))
             continue

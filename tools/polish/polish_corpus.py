@@ -39,7 +39,9 @@ SPEAKER = re.compile(r"^([^\s：:（(「『]{1,6})[：:]")
 DIGITS = re.compile(r"[0-9０-９]+")
 CONTENT = re.compile(r"[^\u4e00-\u9fff0-9０-９A-Za-zＡ-Ｚａ-ｚ]")
 
-MAX_LINES, MAX_CHARS, MIN_LEN = 24, 600, 8
+MAX_LINES = int(os.environ.get("POLISH_MAX_LINES", "24"))
+MAX_CHARS = int(os.environ.get("POLISH_MAX_CHARS", "900"))
+MIN_LEN = 8
 PROMPT_VERSION = "c1"
 
 SYS = (
@@ -130,7 +132,7 @@ def run_segment(idxs, lines, ctx, tries=2):
             try:
                 out = ds.chat([{"role": "system", "content": SYS}, {"role": "user", "content": prompt}],
                               model=model, max_tokens=max(1500, 170 * len(idxs) + 500),
-                              temperature=0.25, timeout=300, attempts=1)
+                              temperature=0.25, timeout=300, attempts=2)
             except Exception:
                 continue
             arr = parse_arr(out, len(idxs))
@@ -173,7 +175,7 @@ def save_state(st):
     os.replace(tmp, STATE)
 
 
-def queue(only=None, limit_files=None, min_score=0.0):
+def queue(only=None, limit_files=None, min_score=0.0, max_lines=0):
     import csv
     rows = list(csv.DictReader(open(SCAN, encoding="utf-8")))
     rows.sort(key=lambda r: -float(r["score"]))
@@ -185,6 +187,8 @@ def queue(only=None, limit_files=None, min_score=0.0):
         if "中日对照" in p or "English Edition" in p:
             continue
         if only and only not in p:
+            continue
+        if max_lines and int(r["lines"]) > max_lines:
             continue
         out.append(p)
         if limit_files and len(out) >= limit_files:
@@ -199,6 +203,8 @@ def main():
     ap.add_argument("--only", default=None)
     ap.add_argument("--files", type=int, default=0)
     ap.add_argument("--min-score", type=float, default=0.0)
+    ap.add_argument("--max-lines", type=int, default=0)
+    ap.add_argument("--commit", action="store_true", help="git commit each finished file")
     ap.add_argument("--report", action="store_true")
     a = ap.parse_args()
 
@@ -207,7 +213,7 @@ def main():
         print(json.dumps(st, ensure_ascii=False, indent=1))
         return
 
-    targets = queue(a.only, a.files or None, a.min_score)
+    targets = queue(a.only, a.files or None, a.min_score, a.max_lines)
     done = set(st["done_files"])
     pending_files = [p for p in targets if p not in done]
     print(f"queue {len(targets)} files, {len(pending_files)} pending", flush=True)
@@ -300,6 +306,11 @@ def main():
                     jf.write(json.dumps({"path": rel, "line": i, "new": tx}, ensure_ascii=False) + "\n")
                 jf.flush()
             print(f"DONE {rel}: {n} lines", flush=True)
+            if a.commit:
+                import subprocess
+                subprocess.run(["git", "-C", ROOT, "add", rel], check=False)
+                subprocess.run(["git", "-C", ROOT, "commit", "-q", "-m",
+                                f"polish: {os.path.basename(rel)} ({n} lines)"], check=False)
         st["done_files"].append(rel)
         save_state(st)
         if deadline and time.time() > deadline:
