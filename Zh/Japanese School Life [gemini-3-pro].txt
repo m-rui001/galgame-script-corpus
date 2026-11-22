@@ -549,13 +549,13 @@ Right now, we are 高校２年生;second-year students in high school#;. That me
 "Tango uses the same character as the 'go' in the 十二支;Twelve Branches#;."
 「『午』代表5月。因为是发端于午月的节日，所以好像才叫作『端午节』哦。」
 「话说回来—，为什么是鲤鱼旗呢？」
-「在戦国時代;战国时代#;，武士家庭里如果有男孩子出生，会有竖起旗帜的习俗。」
-"During the 戦国時代;Sengoku Period#;, there was a tradition among the samurai class to put up a banner if a boy is born into the family."
+「在战国時代;战国时代#;，武士家庭里如果有男孩子出生，会有竖起旗帜的习俗。」
+"During the 战国時代;Sengoku Period#;, there was a tradition among the samurai class to put up a banner if a boy is born into the family."
 「那个习俗逐渐在庶民之间传开，变成了无论哪家只要生了男孩子就会竖起旗帜。」
 「庶民们好像是为了不输给武士，就想着要在旗帜上画些吉利的东西。」
 「于是被选为题材的，就是同时也作为出人头地象征的『鲤鱼』啦。」
-「啊，原来如此！ 因为是戦国時代;战国时代#;留下来的庆祝活动，所以儿童节才会装饰铠甲头盔啊！」
-"Oh, I get it! That's why we have those suits of samurai armor on Children's Day! It's a tradition from the 戦国時代;Sengoku Period#;!"
+「啊，原来如此！ 因为是战国時代;战国时代#;留下来的庆祝活动，所以儿童节才会装饰铠甲头盔啊！」
+"Oh, I get it! That's why we have those suits of samurai armor on Children's Day! It's a tradition from the 战国時代;Sengoku Period#;!"
 「铠、铠甲头盔！？ 竟然有这种东西吗！？」
 「有男孩子的家庭里，有些也会在儿童节装饰铠甲头盔呢。不过那是用来装饰的，不是用来穿的哦？」
 「什么嘛，原来不能穿啊……」
@@ -2019,7 +2019,7 @@ The paper lanterns, store stalls, and the 浴衣;yukata#;-enveloped figures of g
 「噢，观察很敏锐嘛！ 正如你所说哦——！」
 「诶，是什么意思？」
 「京都是有规定的哦，盖楼的时候必须遵守一些准则。」
-「城市中心分为『美観地区;美观地区#;』和『美観形成地区;美观形成地区#;』，周边则分为『建造物修景地区;建筑物修景地区#;』和『風致地区;风致地区#;』。」
+「城市中心分为『美观地区;美观地区#;』和『美观形成地区;美观形成地区#;』，周边则分为『建造物修景地区;建筑物修景地区#;』和『風致地区;风致地区#;』。」
 「对于建筑物的高度和设计都有各自的标准，违反标准的建筑是不允许建造的。」
 「虽然举办的时期已经过了，但听说为了能在城里看到那样的活动和自然风光，所以一直在保护着景观呢。」
 「啊，就是这个吧！ 我在网上看到过图片！」
@@ -2058,14 +2058,14 @@ The paper lanterns, store stalls, and the 浴衣;yukata#;-enveloped figures of g
 「不过，听说只有西寺的五重塔还保留着，但在１２３３年……也就是鎌倉時代;镰仓时代#;烧毁了。」
 "Even though it was neglected, the goju-no-to of Sai-ji remained standing until the 鎌倉時代;Kamakura Period#;... when it was destroyed in a fire in 1233."
 「好厉害……！ 这里流逝着完全无法想象的时间啊……！」
-「东寺的建筑也是呢，虽然听说在戦国時代;战国时代#;也有部分烧毁了……但好像在江戸時代;江户时代#;进行了重建。」
-「据说东大门至今还留有戦国時代;战国时代#;留下的伤痕。是距今６００年左右的伤痕呢。」
+「东寺的建筑也是呢，虽然听说在战国時代;战国时代#;也有部分烧毁了……但好像在江戸時代;江户时代#;进行了重建。」
+「据说东大门至今还留有战国時代;战国时代#;留下的伤痕。是距今６００年左右的伤痕呢。」
 「是这样啊……！ 听到这种逸闻，总觉得让人兴奋起来了呢……！」
-"Some of the buildings of To-ji were also burned during the 戦国時代;Sengoku Period#;, but they were reconstructed during the 江戸時代;Edo Period#;."
+"Some of the buildings of To-ji were also burned during the 战国時代;Sengoku Period#;, but they were reconstructed during the 江戸時代;Edo Period#;."
 「诶——，我完全搞不懂呀。小千，你懂吗？」
 「啊哈哈……其实，稍微能懂一点吧。因为漫画和动画里这种故事很多嘛」
-"The center of the city is divided into the '美観地区;Aesthetic district#;' and the '美観形成地区;Aesthetic formation district#;', while the surrounding areas are the '建造物修景地区;Structure improvement district#;' and the '風致地区;Scenic landscape district#;'."
-"The eastern main gate apparently still has scars left during the 戦国時代;Sengoku Period#;. That would make those scars about six hundred years old."
+"The center of the city is divided into the '美观地区;Aesthetic district#;' and the '美观形成地区;Aesthetic formation district#;', while the surrounding areas are the '建造物修景地区;Structure improvement district#;' and the '風致地区;Scenic landscape district#;'."
+"The eastern main gate apparently still has scars left during the 战国時代;Sengoku Period#;. That would make those scars about six hundred years old."
 「唔——。我只有单纯觉得又古老又气派好厉害——这种感想啦——」
 「亚莉纱你也看一看就会懂这种心情了喔！ 下次看看我推荐的吧！」
 「啊，那我也想推荐一下呢。我会告诉你一部非常适合亚莉纱的动画哦」
@@ -2149,7 +2149,7 @@ I look at the article Choco is pointing at. I see the figure of a beautiful 舞�
 「略—！才不讲给你们听！」
 亚莉纱害羞的样子，真稀奇啊。让人忍不住有点想捉弄她。
 tips_建造物修景地区
-tips_美観形成地区
+tips_美观形成地区
 「不说那个了，快点开吃吧—！我的肚子都饿扁啦—！」
 「啊，是呢。我也饿了。」
 「我也是我也是！真期待啊！」
@@ -3614,14 +3614,14 @@ A copy of 同人誌;doujinshi#; usually runs you about 500 yen. Of course, the p
 「哇，人真多啊……！」
 「毕竟是正月嘛——。平时不怎么参拜的人，初诣也都会来的。」
 「原来如此。看来正月对日本人来说果然是很重要的活动呢。」
-「比如祈求商売繁盛;生意兴隆#;啦、家内安全;合家平安#;之类的。会向神明祈祷各种各样的事情，像是『希望今年也能顺顺利利』什么的——」
+「比如祈求商卖繁盛;生意兴隆#;啦、家内安全;合家平安#;之类的。会向神明祈祷各种各样的事情，像是『希望今年也能顺顺利利』什么的——」
 「嘿，原来如此。」
 我也好好祈祷一下吧。神社的神明总不至于只接受日本人的愿望吧。
 「说起来……小千还没来吗？」
 虽然到了约定时间，但这里只有我和亚莉纱两个人。
 「应该快到了吧？ 嘛，耐心等等吧。」
 「也是。这种程度的寒冷和人潮，跟Comic Market比起来根本不算什么。」
-"People pray to the gods for all sorts of things like 商売繁盛;businesses booming#; and the 家内安全;safety of their families#;. The idea is basically 'may this be a good year'."
+"People pray to the gods for all sorts of things like 商卖繁盛;businesses booming#; and the 家内安全;safety of their families#;. The idea is basically 'may this be a good year'."
 我和亚莉纱在经历了两次战斗后，确实变强了。
 这点程度的拥挤或者严寒酷暑，跟Comic Market比起来简直好太多了。
 「能打倒我的，也就只有满员电车了……」
@@ -3767,8 +3767,8 @@ A copy of 同人誌;doujinshi#; usually runs you about 500 yen. Of course, the p
 我还暗自期待来着……！本来想拍一张真正的巫女照片的……！
 「大的神社里还是有的哦。应该有些地方会招兼职的。」
 「兼、兼职的巫女！？ 是那种能那么随便当上的职业吗！？」
-「作为职业的话已经几乎不剩了呢。不过，神社的神主;神主#;和宮司;宫司#;现在还是有的哦？」
-"Well, miko as a profession is mostly gone. There are still shrine priests like the 神主;kannushi#; and 宮司;guji#;, though."
+「作为职业的话已经几乎不剩了呢。不过，神社的神主;神主#;和宫司;宫司#;现在还是有的哦？」
+"Well, miko as a profession is mostly gone. There are still shrine priests like the 神主;kannushi#; and 宫司;guji#;, though."
 不对，我要说的不是这个……！那个虽然也好，但作为御宅族，我是想看巫女小姐穿袴;袴#;的样子啊……！
 「嗯，也是呢。我觉得来初诣真是太好了！」
 「呵呵，希望大家今年都能过得顺顺利利呢！」
@@ -3806,8 +3806,8 @@ A copy of 同人誌;doujinshi#; usually runs you about 500 yen. Of course, the p
 「对……就是要把供奉给神明的镜饼吃掉哦。」
 「你说马上就到了，具体是什么时候？」
 「原来如此。是不用菜刀切的啊。」
-「因为这是从戦国時代;战国时代#;延续下来的风俗。使用利刃会让人联想到切腹，很不吉利，好像是这个原因呢。」
-"It's a custom that has persisted since the 戦国時代;Sengoku Period#;. It's supposed to be bad luck to use a knife because it makes you think of seppuku."
+「因为这是从战国時代;战国时代#;延续下来的风俗。使用利刃会让人联想到切腹，很不吉利，好像是这个原因呢。」
+"It's a custom that has persisted since the 战国時代;Sengoku Period#;. It's supposed to be bad luck to use a knife because it makes you think of seppuku."
 「切、切腹……！」
 这种知识我还是有的，在漫画里也见过……！
 那是武士为了承担责任，把利刃刺进自己腹部的疯狂风俗……！

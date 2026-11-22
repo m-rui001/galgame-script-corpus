@@ -7,7 +7,10 @@ names, and the absence of kana. What is expected to drop: passive 被, 的时候
     python tools/polish/verify_polish.py            # all changed Zh files
     python tools/polish/verify_polish.py --only ひぐらし
 """
-import os, re, sys, csv, argparse, subprocess
+import os, re, sys, csv, argparse
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import subprocess
+from jpkanji import to_sc
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 OUT = os.path.join(ROOT, "..", "_audit", "polish_verify.csv")
@@ -59,7 +62,7 @@ def main():
         for i, (x, y) in enumerate(zip(ol, nl)):
             if x == y:
                 continue
-            sx, sy = SPEAKER.match(x), SPEAKER.match(y)
+            sx, sy = SPEAKER.match(to_sc(x)), SPEAKER.match(to_sc(y))
             if bool(sx) != bool(sy) or (sx and sx.group(1) != sy.group(1)):
                 bad.append(f"speaker@{i + 1}:{x.strip()[:20]}->{y.strip()[:20]}")
             if sorted(DIGITS.findall(x)) != sorted(DIGITS.findall(y)):
@@ -68,7 +71,7 @@ def main():
                 bad.append(f"quotes@{i + 1}")
             if KANA.search(y) and not KANA.search(x):
                 bad.append(f"kana@{i + 1}")
-            cx, cy = len(CONTENT.sub("", x)), len(CONTENT.sub("", y))
+            cx, cy = len(CONTENT.sub("", to_sc(x))), len(CONTENT.sub("", to_sc(y)))
             if cy > 1.5 * max(1, cx) or cy < 0.4 * cx:
                 bad.append(f"length@{i + 1}:{cx}->{cy}")
             for k, pat in MARKERS.items():

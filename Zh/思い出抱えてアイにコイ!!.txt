@@ -18344,7 +18344,7 @@ F:\BURIKOScriptSystem\Omoide\Script\630_[scenario]優菜\F_Yuuna_Confession.bs5
 『发型』
 『对现在的自己来说最有自信的地方』
 
-F:\BURIKOScriptSystem\Omoide\Script\400_[func]演出関連\help_msg.bs5
+F:\BURIKOScriptSystem\Omoide\Script\400_[func]演出关連\help_msg.bs5
 ★败犬小贴士
 攻略「栗山兎鞠」的关键在于童年篇。
 『若是能与她们中的某一位重逢……』

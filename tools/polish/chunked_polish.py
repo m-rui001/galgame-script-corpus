@@ -10,6 +10,8 @@ line fails, so a bad chunk can never damage the corpus.
     python tools/polish/chunked_polish.py report  --path "Zh/x.txt"
 """
 import os, re, sys, json, shutil, argparse
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from jpkanji import to_sc
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 WORK = os.path.join(ROOT, "..", "_audit", "polish_chunks")
@@ -56,14 +58,14 @@ def check(src, out):
         return False, "empty"
     if KANA.search(b):
         return False, "kana"
-    sa, sb = SPEAKER.match(a), SPEAKER.match(b)
+    sa, sb = SPEAKER.match(to_sc(a)), SPEAKER.match(to_sc(b))
     if bool(sa) != bool(sb) or (sa and sa.group(1) != sb.group(1)):
         return False, "speaker"
     if a.count("「") + a.count("『") != b.count("「") + b.count("『"):
         return False, "quotes"
     if sorted(DIGITS.findall(a)) != sorted(DIGITS.findall(b)):
         return False, "digits"
-    cx, cy = len(CONTENT.sub("", a)), len(CONTENT.sub("", b))
+    cx, cy = len(CONTENT.sub("", to_sc(a))), len(CONTENT.sub("", to_sc(b)))
     if cy > 1.5 * max(1, cx) or cy < 0.40 * cx:
         return False, f"length:{cx}->{cy}"
     return True, ""

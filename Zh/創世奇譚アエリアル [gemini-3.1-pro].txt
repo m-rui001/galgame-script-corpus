@@ -7730,13 +7730,13 @@
 「……第一次攻撃を終了」
 「未来！」
 「――先生！」
-「――東郷少佐！」
+「――東乡少佐！」
 「出撃！？ 『Kraken』！？」
 『最終確認完了！』
-「――『COUGAR 01』、発艦！」
+「――『COUGAR 01』、发艦！」
 『「All Weapons free」，「All Weapons free」, 全兵装の使用を許可』
 編隊下方に『BANDIT』出現！ 機数21！」
-『「COUGAR 01」， this is 「COUGAR 02」！ 残弾50発！』
+『「COUGAR 01」， this is 「COUGAR 02」！ 残弾50发！』
 赤外線探知！？
 「――『BLACK COUGAR』！ 全機 BREAK！
 「――右旋回！」

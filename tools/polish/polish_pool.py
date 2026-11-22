@@ -13,6 +13,8 @@ written only when every one of its runs has come back clean.
     python tools/polish/polish_pool.py --only ひぐらし --workers 8
 """
 import os, re, sys, json, time, random, hashlib, argparse, threading, collections
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from jpkanji import to_sc
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 sys.path.insert(0, r"D:\mxrlib\_tools")
@@ -116,7 +118,7 @@ def check(src, out):
         return False, "empty"
     if KANA.search(b):
         return False, "kana"
-    sa, sb = SPEAKER.match(a), SPEAKER.match(b)
+    sa, sb = SPEAKER.match(to_sc(a)), SPEAKER.match(to_sc(b))
     if bool(sa) != bool(sb):
         return False, "speaker"
     if sa and sa.group(1) != sb.group(1):

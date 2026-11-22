@@ -39114,7 +39114,7 @@ happy end才行」
 乵_bgm_x no=n乶
 乵_se no=n乶
 乵_bgm_stop乶
-乵tjs_mark data="MM寧DD擔(挬 or 拫 or 梉 or 栭)" pos=応強俶俷乶
+乵tjs_mark data="MM寧DD擔(挬 or 拫 or 梉 or 栭)" pos=应強俶俷乶
 透过窗帘缝隙射进来的阳光，告诉我早晨已经来临。
 房间里冷得即使窝在被窝里也会发抖。
 我看着自己呼出的白烟逐渐消失，同时缓缓地试着挪动身体。

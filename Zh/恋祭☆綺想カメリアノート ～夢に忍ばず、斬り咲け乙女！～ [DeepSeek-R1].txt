@@ -279,7 +279,7 @@ case 16: str = 'xcitytipx兵器工房上'; ;break;
 case 17: str = 'xcitytipx兵器工房下'; ;break;
 case 18: str = 'xcitytipx兵器工房右'; ;break;
 case 19: str = 'xcitytipx兵器工房左'; ;break;
-case 20: str = 'xcitytipx処刑場'; ;break;
+case 20: str = 'xcitytipx处刑場'; ;break;
 case 21: str = 'xcitytipx厩舎'; ;break;
 case 22: str = 'xcitytipx和城上'; ;break;
 case 23: str = 'xcitytipx和城下'; ;break;
@@ -290,10 +290,10 @@ case 27: str = 'xcitytipx城上'; ;break;
 case 28: str = 'xcitytipx城下'; ;break;
 case 29: str = 'xcitytipx城右'; ;break;
 case 30: str = 'xcitytipx城左'; ;break;
-case 31: str = 'xcitytipx大宮殿上'; ;break;
-case 32: str = 'xcitytipx大宮殿下'; ;break;
-case 33: str = 'xcitytipx大宮殿右'; ;break;
-case 34: str = 'xcitytipx大宮殿左'; ;break;
+case 31: str = 'xcitytipx大宫殿上'; ;break;
+case 32: str = 'xcitytipx大宫殿下'; ;break;
+case 33: str = 'xcitytipx大宫殿右'; ;break;
+case 34: str = 'xcitytipx大宫殿左'; ;break;
 case 35: str = 'xcitytipx大市場上'; ;break;
 case 36: str = 'xcitytipx大市場下'; ;break;
 case 37: str = 'xcitytipx大市場右'; ;break;
@@ -307,7 +307,7 @@ case 44: str = 'xcitytipx学院'; ;break;
 case 45: str = 'xcitytipx家'; ;break;
 case 46: str = 'xcitytipx山岳1'; ;break;
 case 47: str = 'xcitytipx山岳2'; ;break;
-case 48: str = 'xcitytipx広場'; ;break;
+case 48: str = 'xcitytipx广場'; ;break;
 case 49: str = 'xcitytipx忍者屋敷'; ;break;
 case 50: str = 'xcitytipx採掘所'; ;break;
 case 51: str = 'xcitytipx教会'; ;break;
@@ -20279,12 +20279,12 @@ case '略号':
 率先打破踌躇开口的，是藤林老师。
 「应该会……消失吧……」
 「怎么这样……」
-「既然如此……！先把戦椿帖弄到手——」
+「既然如此……！先把战椿帖弄到手——」
 话到嘴边才惊觉自己在说什么蠢话。
 本来应该想到的是，等拿到手就
 晚了，所以要趁着之前先解救大家。
 「是啊。若按理想状况来说，确实这才是最正确的做法吧。
-拿到戦椿帖后再干掉儿雷也。只要动作足够迅速，
+拿到战椿帖后再干掉儿雷也。只要动作足够迅速，
 一切都进展顺利的话，倒也不是完全没可能……」
 我紧紧攥住拳头。用力到发痛的，攥紧拳头。
 「……对、对不起。虽然、心里都明白的。
@@ -20301,7 +20301,7 @@ case '略号':
 唯有牺牲藤子，拯救理保子。
 除此之外别无选择。
 不过，要试着追寻那如梦幻般的解法吗？
-借助戦椿帖让所有人都得救。这种如意算盘……？
+借助战椿帖让所有人都得救。这种如意算盘……？
 攥紧的拳头重重捶在膝盖上。
 明明不是很痛，可这份痛楚却绵延不去。
 「我明白的。无论怎样选择，石川都会消失。
@@ -34675,7 +34675,7 @@ case '略号':
 「虽然感觉已经能锁定是
 谁了……然后呢？」
 「店员看她常来就说『今天六个
-算你五百円好了
+算你五百圆好了
 』。相当于白送一个」
 「结果她自信满满地……摆着得意脸说
 『那只要最后一个。不是免费的吗？』」
