@@ -187,9 +187,9 @@ var layer;  对操作对象图层的引用
 var refLayer;  一時レイヤ
 var currentScale;  現在の拡大率(%)
 var currentAngle;  現在の回転角(°)
-var _path = , pathex = ;  移動位置・不透明度の変化, 拡大率・回転角の変化
+var _path = , pathex = ;  移動位置，不透明度の変化, 拡大率，回転角の変化
 var _time;  １区間あたりの移動時間(ms)
-var centerX, centerY;  拡大・縮小・回転の中心位置
+var centerX, centerY;  拡大，縮小，回転の中心位置
 var moveFunc;  用于放大、缩小、旋转图像的方法(rotate 或 resize)
 var rect = %;  クリッピングのための矩形情報
 var prevClip = true;  前回のハンドラ呼び出しでクリッピングしたか
@@ -210,7 +210,7 @@ throw e;	 后续处理交给 KAG 系统
 var finalAngle = (int pathex) % 360;  最終回転角(-359°～359°の範囲になるように調整します)
 calcRotateParams(rotateParams, refLayer, fa, fs);  计算仿射变换的参数
 rotateImage(stFastLinear, false);  移动已结束，因此进行无裁剪＆线性插值的仿射变换
-scaleImage(fs, stFastLinear, false);  移动已结束，因此进行无裁剪＆线性插值的放大・缩小
+scaleImage(fs, stFastLinear, false);  移动已结束，因此进行无裁剪＆线性插值的放大，缩小
 layer.setPos(layer.left - rotateParams.dspX, layer.top - rotateParams.dspY);  位置調整します
 var index = tickCount  time * 2;  現在の区間を計算します
 var ratio = tickCount % time  time;  現在の区間内の位置を計算します
@@ -5083,11 +5083,11 @@ w.autoModePageWait = backup;		 待ち時間を元に戻す
 “就让从未想象过会有我们这么悲惨的存在的那些家伙的神明，有多远滚多远吧。”
 “嗯！”
 而后，她轻声道出了最后的魔法。
-角色原画・图像（主要）
+角色原画，图像（主要）
 背景摄影加工
-剧本（主要）・总指挥
-效果音・背景等素材收集
-演出・脚本・程序
+剧本（主要），总指挥
+效果音，背景等素材收集
+演出，脚本，程序
 可爱免费素材集Irasutoya
 可用于商用免费的剪影素材网站 Silhouette Design
 戦場に猫
