@@ -51,6 +51,8 @@ def rebuild(outdir, n):
             m = RANGE.search(f)
             a, b = int(m.group(1)), int(m.group(2))
             body = lines[:-1] if lines and lines[-1] == "" else lines
+            if len(body) == b - a - 1:      # 末块少一个空行：补回
+                body = body + [""]
             if len(body) != b - a:
                 print(f"  skip {f}: {len(body)} lines, expected {b - a}")
                 continue
