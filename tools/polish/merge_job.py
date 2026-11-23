@@ -49,8 +49,12 @@ def rebuild(outdir, n):
     if ranged:
         for f, lines in chunks:
             m = RANGE.search(f)
-            a = int(m.group(1))
-            for k2, l in enumerate(lines):
+            a, b = int(m.group(1)), int(m.group(2))
+            body = lines[:-1] if lines and lines[-1] == "" else lines
+            if len(body) != b - a:
+                print(f"  skip {f}: {len(body)} lines, expected {b - a}")
+                continue
+            for k2, l in enumerate(body):
                 if a + k2 < n:
                     text[a + k2] = l
                     covered[a + k2] = True
