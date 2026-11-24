@@ -56,7 +56,7 @@ def check(src, out):
     a, b = src.strip(), out.strip()
     if not b:
         return False, "empty"
-    if KANA.search(b):
+    if len(KANA.findall(b)) > len(KANA.findall(a)):
         return False, "kana"
     sa, sb = SPEAKER.match(to_sc(a)), SPEAKER.match(to_sc(b))
     if bool(sa) != bool(sb) or (sa and sa.group(1) != sb.group(1)):
