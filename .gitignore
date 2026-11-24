@@ -1,5 +1,6 @@
-_audit/
 __pycache__/
 *.pyc
-MEMORY.md
 nul
+_audit/
+MEMORY.md
+_BRIEF_*.md
