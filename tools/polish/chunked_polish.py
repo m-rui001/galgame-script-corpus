@@ -48,7 +48,7 @@ def set_progress(rel, offset):
         save_prog(p)
 
 
-def prepare(rel, start, end, size, fresh=False):
+def prepare(rel, start, end, size, fresh=False, count=0):
     path = os.path.join(ROOT, rel)
     lines = open(path, encoding="utf-8").read().split("\n")
     if start < 0:  # -1 = continue where the last merged round stopped
@@ -66,6 +66,8 @@ def prepare(rel, start, end, size, fresh=False):
         return
     k = 0
     for a in range(start, end, size):
+        if count and k >= count:
+            break
         b = min(a + size, end)
         k += 1
         name = f"{k:03d}_{a}-{b}.txt"
@@ -164,9 +166,10 @@ def main():
     ap.add_argument("--size", type=int, default=250)
     ap.add_argument("--dry", action="store_true")
     ap.add_argument("--fresh", action="store_true", help="wipe out/ before preparing")
+    ap.add_argument("--chunks", type=int, default=0, help="cap the number of chunks cut")
     a = ap.parse_args()
     if a.cmd == "prepare":
-        prepare(a.path, a.start, a.end, a.size, a.fresh)
+        prepare(a.path, a.start, a.end, a.size, a.fresh, a.chunks)
     elif a.cmd == "merge":
         merge(a.path, a.dry)
     else:
