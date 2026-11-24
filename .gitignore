@@ -2,3 +2,4 @@ _audit/
 __pycache__/
 *.pyc
 MEMORY.md
+nul
