@@ -47,6 +47,29 @@ def joinable(a, b):
     return True
 
 
+def unclosed_quote(t):
+    return t.count("「") > t.count("」")
+
+
+def join_dialogue(lines, limit=3):
+    """把被切成两三个对话框的同一句对白接回去。"""
+    out, joins, i = [], 0, 0
+    while i < len(lines):
+        cur = lines[i]
+        span = 0
+        while (i + 1 < len(lines) and span < limit and unclosed_quote(cur)
+               and lines[i + 1].strip()
+               and not lines[i + 1].strip().startswith(("「", "『"))
+               and not SPK.match(lines[i + 1].strip())):
+            cur = cur.rstrip() + lines[i + 1].strip()
+            i += 1
+            span += 1
+            joins += 1
+        out.append(cur)
+        i += 1
+    return out, joins
+
+
 def join_lines(lines, limit=8):
     out, joins = [], 0
     i = 0
@@ -80,6 +103,8 @@ def main():
             p = os.path.join(r, f)
             lines = open(p, encoding="utf-8", errors="replace").read().split("\n")
             new, joins = join_lines(lines)
+            new, dj = join_dialogue(new)
+            joins += dj
             if not joins:
                 continue
             rel = os.path.relpath(p, ROOT).replace(os.sep, "/")

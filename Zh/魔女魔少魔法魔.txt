@@ -359,10 +359,7 @@ var dispLines = 0;		 履歴メッセージ表示可能行数
 var canScroll = false;		 履歴がscroll可能かどうか
 var currentLine;		 当前行的字符和标签保存类
 var storeState = false;		 状態を栞に保存するか
-var wwLeading="$([{「‘“（〔［｛〈《「『【￥＄￡";  行末禁則文字
-var fontcolor;			 当前历史记录文字颜色
-var shadowLevel   = 0;		 デフォルト影レベル
-var shadowColor   = 0x000000;	 デフォルト影色
+var wwLeading="$([{「‘“（〔［｛〈《「『【￥＄￡";  行末禁則文字var fontcolor;			 当前历史记录文字颜色var shadowLevel   = 0;		 デフォルト影レベルvar shadowColor   = 0x000000;	 デフォルト影色
 var shadowWidth   = 0;		 デフォルト影幅
 var shadowOffsetX = 0;		 デフォルト影オフセットX
 var shadowOffsetY = 0;		 デフォルト影オフセットY
@@ -5089,10 +5086,7 @@ w.autoModePageWait = backup;		 待ち時間を元に戻す
 戦場に猫
 写真素材　足成
 WinddorfBlog | 免费背景图与，马拉松相机跑
-素材屋「Minical
-免费音效素材 水母工匠
-小森平的使用方法
-音效实验室
+素材屋「Minical免费音效素材 水母工匠小森平的使用方法音效实验室
 On-Jin ～音人～
 提供帮助的诸位（名称略）
 各位素材提供者及制作援助网站运营者

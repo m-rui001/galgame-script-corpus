@@ -1255,10 +1255,7 @@ APPNAME			Scarlett|～スカーレット～
  CAPTURE_NAME用于图像捕获时的文件名。
  字体缓存的设置。
  如果安装时不创建，请删除
- SPACEINDENT 决定是否自动对“「”进行缩进。1为执行，0为不执行
- INDENTOFFSET 缩进时向左右偏移
- NAMEPOPUP 决定名字是否另开窗口输出。1为执行，0为不执行
- ERASEONSPACE 要用空格键清除控制台，请设为1。
+ SPACEINDENT 决定是否自动对“「”进行缩进。1为执行，0为不执行INDENTOFFSET 缩进时向左右偏移NAMEPOPUP 决定名字是否另开窗口输出。1为执行，0为不执行ERASEONSPACE 要用空格键清除控制台，请设为1。
  KINSOKU_TYPE 0:行末に通常文字を使用可能 1:行末は行頭禁則文字専用
  NEKOMENU 将菜单格式设为NEKO格式。
  NOCONFIG 工具栏菜单中将没有速度、语音菜单
@@ -1280,12 +1277,8 @@ INSTREADME	请阅读
  可以更改行首、行尾的禁则字符(无则默认)
  ↓无设置时的标准
  GYOUTOUKINSOKU	ー、。，．」』）？！ぁぃぅぇぉっゃゅょゎァィゥェォャュョヮヵヶ゛゜ゝゞヽヾ·…：；‐】〕］｝〉》
- GYOUMATUKINSOKU	「『（【‘“〔［｛〈《
-GYOUTOUKINSOKU		ー、。，．」』）？！ぁぃぅぇぉっゃゅょゎァィゥェォャュョヮヵヶ゛゜ゝゞヽヾ·…：；‐】〕］｝〉》
-GYOUMATUKINSOKU		「『（【‘“〔［｛〈《
- 决定各种选项的初始值 speed以1000为标准0为快 Vol为0~1000
-VOICEVOL		1000		 通常は1000
-ISTALKMALE		1		 1で喋る
+ GYOUMATUKINSOKU	「『（【‘“〔［｛〈《GYOUTOUKINSOKU		ー、。，．」』）？！ぁぃぅぇぉっゃゅょゎァィゥェォャュョヮヵヶ゛゜ゝゞヽヾ·…：；‐】〕］｝〉》
+GYOUMATUKINSOKU		「『（【‘“〔［｛〈《决定各种选项的初始值 speed以1000为标准0为快 Vol为0~1000VOICEVOL		1000		 通常は1000ISTALKMALE		1		 1で喋る
 ISTALKFEMALE		1		 1で喋る
 ISPLAYMUSIC		1		 1で音楽あり
 GENDERFREE		1		 1で男女の区別無し

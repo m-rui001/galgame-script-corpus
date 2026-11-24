@@ -838,8 +838,7 @@ narrator:她这一句不经意的话，又把我心敲得乱跳。
 narrator:……我到底是怎么了。不过是刷个牙。
 narrator:搁在下巴上的手指也留了心，不叫它不自然地抖。
 protagonist:「接下来，试着作下“咿”的口型吧。」
-heroine:「好。
-narrator:“咿”……」
+heroine:「好。narrator:“咿”……」
 protagonist:「接下来是牙齿表面呢。这边也是一样每颗都照顾到，还是首先来二十次——」
 narrator:说着我才注意到。
 narrator:犬齿旁边，缺了一颗最小的臼齿。
@@ -2092,8 +2091,7 @@ narrator:我一时有些疑惑。
 narrator:就算是尿，在这儿尿出来也没什么大不了。
 protagonist:「可以哦。想尿尿的话，别想太多——」
 narrator:我这么从容又温柔地说完，立刻就后悔了。
-heroine:「啊……
-narrator:咦？」
+heroine:「啊……narrator:咦？」
 protagonist:「…………」
 narrator:视线尽头，从她腿间淌出了白色的浊物。
 narrator:被小妙当成尿的，是我先前满满注进去的东西。
@@ -2157,10 +2155,7 @@ narrator:我抱着不太负责的心情认了——
 heroine:「啊，唔……」
 narrator:她像很为难，把视线挪开。
 narrator:然后想了一会儿，开始自言自语。
-heroine:「这种时候要说吗……可以吗……可以说出来吗……？
-protagonist:「可以哦。不管什么都说出来吧！」
-protagonist:「来吧」，我这么看着她，得意地笑。
-heroine:「……你好色。」
+heroine:「这种时候要说吗……可以吗……可以说出来吗……？protagonist:「可以哦。不管什么都说出来吧！」protagonist:「来吧」，我这么看着她，得意地笑。heroine:「……你好色。」
 narrator:她嘴唇的动作那么勾人。
 narrator:眼里那份深也是。
 narrator:气氛变得又甜又微妙。我看她白皙的肌肤，终于意识到了。
@@ -2975,10 +2970,7 @@ heroine:「才没有那回事呢。」
 narrator:她信心满满地笑着。
 narrator:这一句像把立场换了过来，仿佛渴着她身子的我得了原谅。
 narrator:想要的心思当然有——她在告诉我，不管什么时候，她都在看这份心思。
-protagonist:「我知道。并且早就知道了。
-narrator:就算这样，我还是选留在这儿。
-narrator:我一直都是，已经选了的。
-narrator:那一定是被认下的喜。
+protagonist:「我知道。并且早就知道了。narrator:就算这样，我还是选留在这儿。narrator:我一直都是，已经选了的。narrator:那一定是被认下的喜。
 narrator:这孩子虽说没有爱的样板，却知道残缺的爱是什么样。
 narrator:我像撒娇一样，从后面抱住她小小的身子。
 (scene change)
@@ -3587,14 +3579,12 @@ narrator:我打开门，看见一位像公主一样的女孩。
 protagonist:「…………」
 protagonist:「…………」
 narrator:两人的目光碰了一会儿。
-heroine:「哇！超帅的——
-narrator:啊、那个……我怎么样……」
+heroine:「哇！超帅的——narrator:啊、那个……我怎么样……」
 narrator:小妙的反应让我高兴，我也把心里的想法说了。
 protagonist:「……像小公主一样。」
 heroine:「你、你骗我的吧……这么可爱的衣服，只有那些真正的公主才适合……像我这种……」
 protagonist:「不是，小妙酱像公主一样。」
-heroine:「我、我知道的。
-narrator:像我这种……诶？」
+heroine:「我、我知道的。narrator:像我这种……诶？」
 protagonist:「很可爱。衣服很适合你。」
 heroine:「诶、啊，哇……啊哈，诶嘿、诶嘿嘿嘿……」
 narrator:她终于听懂了，同时也朝我露出高兴的笑。
@@ -3620,8 +3610,7 @@ protagonist:「是小妙的问题？」
 heroine:「对，是小妙（回答）的问题……。咦？」
 narrator:她眼睛瞪圆，愣住了。
 protagonist:「对不起对不起，我逗你玩的。名字是很重要的呢。」
-heroine:「啊，真是的……
-narrator:总之，有个问题。」
+heroine:「啊，真是的……narrator:总之，有个问题。」
 narrator:我琢磨着是什么问题，又把她从头到脚看了一遍。
 narrator:还是没看出。凑近再瞧，也找不着毛病在哪。
 heroine:「你不知道吗……不知道也没关系……没关系吧……？」
@@ -3635,9 +3624,7 @@ narrator:“这样啊”这句回得有点失礼。
 heroine:「应该是吃得太饱了。肯定是这样。紧紧的……」
 narrator:男装里几乎见不到这种腰身。好像是叫束腰，贴身衣物才显得古怪？不过她肚子确实被勒着。
 protagonist:「原来如此。别硬撑。是可爱，可这个年纪束这么紧，对身子不太好。」
-heroine:「唔……但是好可惜……明明这么可爱……
-narrator:啊，不是说我可爱。
-narrator:是衣服……」
+heroine:「唔……但是好可惜……明明这么可爱……narrator:啊，不是说我可爱。narrator:是衣服……」
 narrator:她红着脸，眼睛发亮，抬眼看我。
 narrator:是催我说话，还是真害臊？我想一半一半吧。
 narrator:既然一半一半——
@@ -3768,8 +3755,7 @@ protagonist:「湿成这个样子，我还是第一次见到呢……」
 heroine:「唔……啾，那、那么湿吗……？」
 narrator:她自己好像还没察觉到。
 narrator:可对她本人来说，那儿一颤一颤地动，色情得很。
-heroine:「哈啊、哈呼……唔……
-narrator:想、想要么……变得想要了吗……唔、啾……」
+heroine:「哈啊、哈呼……唔……narrator:想、想要么……变得想要了吗……唔、啾……」
 narrator:她嘴唇离开一瞬，像嘟囔似的说了句，我再也忍不住。
 heroine:「舔、舔……啾、舔舔舔……」
 narrator:我知道自己越来越亢奋，她唇舌的动作正一点点变成强烈的快感。
@@ -3981,8 +3967,7 @@ narrator:一时想不出答案。就把这个问题当成作业吧。
 heroine:「这个时候……应该在上体育课吧……」
 narrator:她看着电视上的时间，这么嘟囔。
 protagonist:「是跳绳吧。从那之后变得更熟练了吗？」
-heroine:「没有很熟练吧……
-narrator:但是多亏了早餐，我变得喜欢上体育课了。」
+heroine:「没有很熟练吧……narrator:但是多亏了早餐，我变得喜欢上体育课了。」
 narrator:她笑着说，我也高兴得不行。
 protagonist:「因为今天有体育课，所以也带了体操服吗？  有好好清洗吗。」
 narrator:我以前常忘了把体操服带回家。
