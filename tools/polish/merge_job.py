@@ -25,6 +25,9 @@ BASES = [os.path.join(ROOT, "..", "_audit", "polish_chunks"),
          os.path.join(ROOT, "_audit", "polish_chunks")]
 RANGE = re.compile(r"(\d+)-(\d+)\.txt$")
 SPK = re.compile(r"^([^\s：:（(「『]{1,6})[：:]")
+# A real speaker line has its prefix directly followed by an opening quote.
+# 「我这才明白：……」 and 「就能猜到：……」 are narrative that merely look alike.
+SPK_Q = re.compile(r"^([^\s：:（(「『]{1,6})[：:]\s*[「『“\"乽]")
 KANA = re.compile(r"[\u3040-\u309f\u30a0-\u30fa\u30fc-\u30ff]")
 NON_WORD = re.compile(r"[^\u4e00-\u9fff0-9０-９A-Za-zＡ-Ｚａ-ｚ]")
 
@@ -64,10 +67,27 @@ def free_ok(src_block, out_block):
         return False, "kana"
     if sorted(re.findall(r"[0-9０-９]+", src)) != sorted(re.findall(r"[0-9０-９]+", out)):
         return False, "digits"
-    a = set(m.group(1) for m in (SPK.match(l) for l in src_block) if m)
-    b = set(m.group(1) for m in (SPK.match(l) for l in out_block) if m)
-    if not a <= b:
-        return False, "speakers " + ",".join(sorted(a - b)[:3])
+    if any(SPK_Q.match(l) for l in src_block):
+        a = set(m.group(1) for m in (SPK_Q.match(l) for l in src_block) if m)
+        b = set(m.group(1) for m in (SPK_Q.match(l) for l in out_block) if m)
+    else:
+        # no quoted speaker lines here: the file writes names bare. Only demand
+        # that names recurring in the block survive; one-off narrative colons
+        # like 「就能猜到：……」 are free to be rewritten away.
+        cnt = {}
+        for l in src_block:
+            m = SPK.match(l)
+            if m:
+                cnt[m.group(1)] = cnt.get(m.group(1), 0) + 1
+        a = set(k for k, v in cnt.items() if v >= 2)
+        b = set(m.group(1) for m in (SPK.match(l) for l in out_block) if m)
+    # A narrative line like 「我这才明白：……」 is not a speaker line, but the
+    # shape matches. If the "speaker" text still occurs in the output, the line
+    # only lost its colon - which is usually an improvement. Reject only when
+    # the text disappears outright.
+    gone = [s for s in sorted(a - b) if s not in out]
+    if gone:
+        return False, "speakers " + ",".join(gone[:3])
     ca, cb = len(NON_WORD.sub("", src)), len(NON_WORD.sub("", out))
     if not (0.6 <= cb / max(1, ca) <= 1.4):
         return False, f"length {ca}->{cb}"
