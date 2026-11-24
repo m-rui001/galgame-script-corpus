@@ -3577,7 +3577,6 @@ narrator:新衣服有些刺刺的，有种久违的感觉。味道闻着也不�
 narrator:我打开门，看见一位像公主一样的女孩。
 (scene change)
 protagonist:「…………」
-protagonist:「…………」
 narrator:两人的目光碰了一会儿。
 heroine:「哇！超帅的——narrator:啊、那个……我怎么样……」
 narrator:小妙的反应让我高兴，我也把心里的想法说了。

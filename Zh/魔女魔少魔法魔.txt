@@ -130,7 +130,6 @@ conductor.tagpending(elm);  後回し
 return p_locatex.toFinishTime(tick) + 1;  この+1重要
 conductor.tagpending(elm);  後回し
 return syncwaittime;	 全処理の終了待ち
-return syncwaittime;	 全処理の終了待ち
 processAffine(Infinity);	 最後の状態を表示
 Scripts.eval(elm.exp);  elm.exp を式として実行
 throw new Exception(scriptname + " の 行 " + lineofs + " から始まる"

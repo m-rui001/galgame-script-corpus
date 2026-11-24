@@ -1438,7 +1438,7 @@ narrator:我的眼睛突然睁了开来。
 narrator:脑子使劲去弄懂她的话。
 heroine:「变成大人的话，就做不到了」
 heroine:「不想对你说谎」
-narrator:眼睛就那么睁着。。
+narrator:眼睛就那么睁着。
 narrator:肩膀也被带着大幅度地晃。
 protagonist:「小茉――」
 heroine:「乖—乖—」

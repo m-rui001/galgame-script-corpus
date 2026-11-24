@@ -673,7 +673,6 @@ nine_2015_1					 测试文件
  默认指南语音
  结束标记
 1	 脚本引擎 MAJIRO (C) 2004-2005 越畑声太
-1	 脚本引擎 MAJIRO (C) 2004-2005 越畑声太
 staff	花熊.mjo
 sys	烈马.mjo		ねーちん.mjo
 yoru	剧情追加部分2.mjo	开头测试.mjo
@@ -1276,8 +1275,8 @@ APPNAME			Scarlett|～スカーレット～
 INSTREADME	请阅读
  可以更改行首、行尾的禁则字符(无则默认)
  ↓无设置时的标准
- GYOUTOUKINSOKU	ー、。，．」』）？！ぁぃぅぇぉっゃゅょゎァィゥェォャュョヮヵヶ゛゜ゝゞヽヾ·…：；‐】〕］｝〉》
- GYOUMATUKINSOKU	「『（【‘“〔［｛〈《GYOUTOUKINSOKU		ー、。，．」』）？！ぁぃぅぇぉっゃゅょゎァィゥェォャュョヮヵヶ゛゜ゝゞヽヾ·…：；‐】〕］｝〉》
+ GYOUTOUKINSOKU	ー、。．」』）？！ぁぃぅぇぉっゃゅょゎァィゥェォャュョヮヵヶ゛゜ゝゞヽヾ·…：；‐】〕］｝〉》
+ GYOUMATUKINSOKU	「『（【‘“〔［｛〈《GYOUTOUKINSOKU		ー、。．」』）？！ぁぃぅぇぉっゃゅょゎァィゥェォャュョヮヵヶ゛゜ゝゞヽヾ·…：；‐】〕］｝〉》
 GYOUMATUKINSOKU		「『（【‘“〔［｛〈《决定各种选项的初始值 speed以1000为标准0为快 Vol为0~1000VOICEVOL		1000		 通常は1000ISTALKMALE		1		 1で喋る
 ISTALKFEMALE		1		 1で喋る
 ISPLAYMUSIC		1		 1で音楽あり

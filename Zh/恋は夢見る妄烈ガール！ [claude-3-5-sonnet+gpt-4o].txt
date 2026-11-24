@@ -24,7 +24,6 @@ cgsys/extra/cgmode/差分枚数数值/num_
 cgsys/extra/cgmode/差分枚数数值/num_／
 cgsys/extra/cgmode/差分枚数数值/num_
 cgsys/extra/cgmode/达成率数值/num_
-cgsys/extra/cgmode/达成率数值/num_
 日
 月
 火
