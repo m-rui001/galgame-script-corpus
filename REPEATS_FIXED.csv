@@ -1,552 +1,379 @@
 path,punctuation,duplicates
-Zh/-atled-everlasting song [Claude-3.5-Sonnet].txt,1,0
-Zh/11月のアルカディア.txt,32,4
 Zh/2015 SSSA.txt,1,0
-Zh/2016a Yubikiri.txt,9,0
-Zh/2016b SSSA2.txt,2,0
-Zh/2017 Otomari.txt,0,1
-Zh/2018 Harem.txt,10,0
-Zh/2019 Aiyoku.txt,1,0
-Zh/2020 Yuuwaku.txt,2,0
-Zh/2022 Mainichi.txt,1,0
-Zh/2nd LOVE.txt,0,3
-Zh/428 〜封鎖された渋谷で〜 [希望的东东 v1.0.5].txt,0,29
-Zh/9-nine-EP2.txt,12,1
-Zh/ALIA's CARNIVAL! Flowering Sky.txt,6,0
-Zh/ALIA’s CARNIVAL！ [白井木学园V1.1].txt,21,1
-Zh/ALIA’s CARNIVAL！.txt,25,2
-Zh/AMATSUTSUMI.txt,9,6
-Zh/AYAKASHI アヤカシ [gemini-3.1-pro].txt,0,1
-Zh/AYAKASHI アヤカシ [gpt-4.1].txt,0,20
-Zh/AYAKASHI アヤカシ [gpt-4o-0513].txt,0,49
-Zh/Aibeya.txt,19,0
-Zh/Ajisai Shiyou ka.txt,5,3
-Zh/Amazing Grace.txt,5,9
-Zh/Ambitious Mission.txt,2,0
-Zh/Angel Magister [gemini-2.5-pro].txt,0,1
-Zh/BLACK SHEEP TOWN [gpt-4-1106-preview].txt,2,0
-Zh/Blue Destiny [gemini-3-flash].txt,1,0
-Zh/CANNONBALL ～ねこねこマシン猛レース！～.txt,0,62
-Zh/CLANNAD [Key Fans Club×光坂高校中文部].txt,18,0
-Zh/CLAVIS-クラヴィス- [gemini-2.5-pro].txt,1,3
-Zh/CROSS†CHANNEL 复刻版.txt,0,7
-Zh/Casablanca no Tsubomi.txt,3,0
-Zh/Chinkamo2.txt,12,0
-Zh/ChronoClock [夕夕口汉化组].txt,76,0
-Zh/ChronoClock.txt,42,0
-Zh/ChuSingura 46+1 武士の鼓動 [gemini-3.1-pro-preview].txt,0,5
-Zh/Cutie☆Smile ～きみと一緒に～.txt,12,0
-Zh/D.C.5 to 4 ～Luminous Memories～ [gemini-4-argon].txt,0,3634
-Zh/D.C.5 ~Da Capo 5~ Future Link + Sweet Happiness [claude-3.7-sonnet].txt,0,1
-Zh/D.C.II Spring Celebration ～ダ・カーポII～ スプリング セレブレイション.txt,42,14
-Zh/D.C.～ダ・カーポ～.txt,23,14
+Zh/2016a Yubikiri.txt,2,0
+Zh/2017 Otomari.txt,1,0
+Zh/2018 Harem.txt,4,0
+Zh/2019 Aiyoku.txt,6,0
+Zh/2020 Yuuwaku.txt,1,0
+Zh/2022 Mainichi.txt,6,0
+Zh/2nd LOVE.txt,2,0
+Zh/428 〜封鎖された渋谷で〜 [希望的东东 v1.0.5].txt,2,0
+Zh/9-nine-EP2.txt,1,0
+Zh/ALIA's CARNIVAL! Flowering Sky.txt,13,0
+Zh/ALIA’s CARNIVAL！ [白井木学园V1.1].txt,56,0
+Zh/ALIA’s CARNIVAL！.txt,46,0
+Zh/AMATSUTSUMI.txt,3,0
+Zh/Aibeya.txt,532,0
+Zh/Ajisai Shiyou ka.txt,4,0
+Zh/Amazing Grace.txt,5,0
+Zh/Ambitious Mission.txt,1,0
+Zh/CANNONBALL ～ねこねこマシン猛レース！～.txt,2,0
+Zh/CLANNAD [Key Fans Club×光坂高校中文部].txt,1,0
+Zh/Chinkamo2.txt,269,0
+Zh/ChronoClock [夕夕口汉化组].txt,515,0
+Zh/ChronoClock.txt,13,0
+Zh/D.C.4 Sweet Harmony ~ [claude-3.7-sonnet].txt,1,0
+Zh/D.C.5 to 4 ～Luminous Memories～ [gemini-4-argon].txt,9,6
 Zh/D.S.txt,1,0
-Zh/Dark Blue.txt,1,0
-Zh/Despair Witch [grok-3].txt,1,0
-Zh/ETERNITY-The Joker to a Dark Side- [gemini-2.5-pro].txt,2,6
-Zh/Einstein Yori Ai o Komete AP.txt,0,16
-Zh/Ever17 -the out of infinity.txt,2,4
-Zh/ExE.txt,2,1
-Zh/FairlyLife -フェアリーライフ- [claude-3.7-sonnet].txt,0,10
-Zh/Fate／hollow ataraxia [月译社 0.98 beta].txt,11,7
-Zh/Fate／stay night [Réalta Nua PSV 字形OCR].txt,1,8
-Zh/Green Strawberry.txt,0,5
-Zh/G線上の魔王.txt,12,0
-Zh/HAKOBUNE.txt,5,0
-Zh/Hamidashi.txt,8,1
-Zh/Happy Christmas.txt,15,0
-Zh/Hitsuji no Hakobune.txt,1,0
-Zh/Houkago Cinderella.txt,13,0
-Zh/ISLAND.txt,4,0
-Zh/Id -Rebirth Session- [Claude-3.7-Sonnet].txt,0,6
-Zh/Id -Rebirth Session- [GPT-4o-0513].txt,0,4
-Zh/IxSHE Tell [gemini-2.5-pro].txt,2,0
-Zh/Kao no nai Tsuki.txt,4,2
-Zh/LEGEND SEVEN ～白雪姫と7人の英雄～ [Claude-3.5-Sonnet].txt,0,3
-Zh/LIKE×LOVE 色川鈴音 [Claude-3.7-Sonnet].txt,1,1
-Zh/LIKE×LOVE 色川鈴音 [GPT-4o-0513].txt,3,1
-Zh/LOVELY×CATION [LOVECATION吧V1.1].txt,1,0
-Zh/LOVELY×CATION2 [LOVECATION吧&V3].txt,36,10
-Zh/LOVEREC. [黙示汉化组].txt,18,0
-Zh/LUNARiA -Virtualized Moonlight.txt,1,3
-Zh/LUNARiA.txt,1,630
-Zh/Little Busters! English Edition [Jack-Myth 2026.10.1].txt,3,37
-Zh/Lunaris Filia～キスと契約と深紅の瞳～.txt,51,0
-Zh/MOON CHILDe [gemini-3-pro-preview].txt,1,2
-Zh/MUSICUS! [gpt-4.1-2025-04-14].txt,0,1
-Zh/Making＊Lovers.txt,6,1
-Zh/Man at work.txt,1,1
-Zh/Minikui Mojika no Ko.txt,3,6
-Zh/Monkeys.txt,1,0
-Zh/Mr.Invisible -Legend of Rapest.txt,1,0
-Zh/Naive [gemini-3.1-pro].txt,2,1
-Zh/Nanairo Reincarnation.txt,2,0
-Zh/Narcissu 3rd.txt,24,2
-Zh/Narcissu.txt,20,0
-Zh/Nestle Close III [DeepSeek-R1].txt,1,0
-Zh/OrenoSugataga.txt,38,0
-Zh/Osananajimi FD.txt,2,0
-Zh/Ouchi ni Kaeru made.txt,6,0
-Zh/PRETTY×CATION [gemini-2.5-pro].txt,63,0
-Zh/PRETTY×CATION.txt,13,0
-Zh/PRETTY×CATION2.txt,29,1
-Zh/PRINCESS WALTZ.txt,20,2
-Zh/PRISONER [qwen-max].txt,7,0
-Zh/Princess Britania～ミューズの宝剣～ [grok3].txt,1,0
-Zh/Pure Marriage ～赤い糸物語 セリカ編～.txt,7,0
-Zh/PureMail -ピュアメール- [claude-3.7-sonnet].txt,2,15
-Zh/RIDDLE JOKER.txt,14,164
-Zh/RaspberryCube.txt,6,0
-Zh/Re [claude-3.5-sonnet].txt,0,2
-Zh/Reunion～3日間だけのプチ同棲～.txt,1,0
-Zh/Rewrite＋ [A.T.Field汉化组&Inmcitce Aaron个人移植].txt,23,5
-Zh/Re：birth colony -Lost azurite- [gemini-2.5-pro].txt,2,6
-Zh/STEINS;GATE [KFC特创组×无节操汉化组 v1.1 修正版].txt,15,0
-Zh/STEINS;GATE 線形拘束のフェノグラム.txt,11,11
-Zh/SWAN SONG.txt,2,0
-Zh/SaDistic BlooD.txt,3,0
-Zh/Salthe.txt,1,0
-Zh/Scarlett～スカーレット～.txt,2,1
-Zh/Scene.txt,1,3
-Zh/Skyprythem [Claude-3.7-Sonnet].txt,0,1
-Zh/Sleepover [GPT-4o-0513].txt,0,19
-Zh/Sono Hana.txt,11,0
-Zh/StarTRain [gemini-2.5-pro].txt,0,5
-Zh/Step×Steady.txt,0,3
-Zh/Sugar+Spice! Party☆Party [claude-3-haiku].txt,0,1
-Zh/To Heart2 XRATED.txt,11,7
-Zh/ToHeart2 AnotherDays.txt,11,0
-Zh/Tuinosora Remake.txt,1,9
-Zh/Tyrion Cuthbert：Attorney of the Arcane.txt,0,5
-Zh/T・M・G～うたかたの星空月夜～.txt,25,0
-Zh/W.L.O. 世界恋愛機構 L.L.S. -LOVE LOVE SHOW- [gemini-2.5-pro].txt,1,1
-Zh/W.L.O.世界恋愛機構 [gemini-2.5-pro].txt,12,4
-Zh/WHITE ALBUM2 [CK-GAL v2.01 修正版 字形OCR].txt,16,1
-Zh/We Don't Have Wings.txt,2,0
-Zh/White Blue.txt,2,0
+Zh/Dies irae ～Interview with Kaziklu Bey～ [Άργυρος个汉].txt,1,0
+Zh/Dreamin Her.txt,34,0
+Zh/ETERNITY-The Joker to a Dark Side- [gemini-2.5-pro].txt,44,0
+Zh/Einstein Yori Ai o Komete AP.txt,1,0
+Zh/ExE.txt,46,0
+Zh/Fate／hollow ataraxia [月译社 0.98 beta].txt,11,0
+Zh/Fate／stay night [Réalta Nua PSV 字形OCR].txt,4025,0
+Zh/Green Strawberry.txt,1,0
+Zh/Grisaia no Meikyuu.txt,3,0
+Zh/G線上の魔王.txt,10,0
+Zh/HAKOBUNE.txt,1,0
+Zh/Hamidashi.txt,139,0
+Zh/Houkago Cinderella Mini Fandisk.txt,29,0
+Zh/Houkago Cinderella.txt,69,0
+Zh/ISLAND.txt,12,0
+Zh/Kao no nai Tsuki.txt,7,0
+Zh/LEGEND SEVEN ～白雪姫と7人の英雄～ [Claude-3.5-Sonnet].txt,3,0
+Zh/LOVELY×CATION [LOVECATION吧V1.1].txt,756,0
+Zh/LOVELY×CATION2 [LOVECATION吧&V3].txt,519,0
+Zh/LOVEREC. [黙示汉化组].txt,4,0
+Zh/Little Busters! English Edition [Jack-Myth 2026.10.1].txt,36,0
+Zh/Lunaris Filia～キスと契約と深紅の瞳～.txt,224,0
+Zh/MOON CHILDe [gemini-3-pro-preview].txt,2,0
+Zh/Making＊Lovers.txt,6,0
+Zh/Minikui Mojika no Ko.txt,4,0
+Zh/Mugen Kairou.txt,18,0
+Zh/Narcissu 3rd.txt,147,0
+Zh/Narcissu.txt,19,0
+Zh/Orange Pocket -オレンジポケット-.txt,933,0
+Zh/OrenoSugataga.txt,463,0
+Zh/Osananajimi FD.txt,13,0
+Zh/Ouchi ni Kaeru made.txt,5,0
+Zh/PRETTY×CATION [gemini-2.5-pro].txt,24,0
+Zh/PRETTY×CATION.txt,9,0
+Zh/PRETTY×CATION2.txt,11,0
+Zh/PRINCESS WALTZ.txt,109,0
+Zh/Princess Britania～ミューズの宝剣～ [grok3].txt,7,0
+Zh/Pure Marriage ～赤い糸物語 セリカ編～.txt,16,0
+Zh/RIDDLE JOKER.txt,34,0
+Zh/RaspberryCube.txt,22,0
+Zh/Rewrite＋ [A.T.Field汉化组&Inmcitce Aaron个人移植].txt,2,0
+Zh/Re：birth colony -Lost azurite- [gemini-2.5-pro].txt,1,0
+Zh/STEINS;GATE [KFC特创组×无节操汉化组 v1.1 修正版].txt,2,0
+Zh/STEINS;GATE 線形拘束のフェノグラム.txt,6,0
+Zh/SWAN SONG.txt,1,0
+Zh/Salthe.txt,2,0
+Zh/Sono Hana.txt,181,0
+Zh/StarTRain [gemini-2.5-pro].txt,1,0
+Zh/SuGirly Wish [gemini-2.5-pro].txt,1,0
+Zh/Sugar+Spice! Party☆Party [claude-3-haiku].txt,2,0
+Zh/To Heart2 XRATED.txt,2,0
+Zh/Tyrion Cuthbert：Attorney of the Arcane.txt,3,0
+Zh/W.L.O. 世界恋愛機構 L.L.S. -LOVE LOVE SHOW- [gemini-2.5-pro].txt,1,0
+Zh/W.L.O.世界恋愛機構 [gemini-2.5-pro].txt,92,0
+Zh/WHITE ALBUM2 [CK-GAL v2.01 修正版 字形OCR].txt,19,0
+Zh/We Don't Have Wings.txt,11,0
 Zh/White x Red [gemini-2.5-pro].txt,2,0
-Zh/Worlds and World's end.txt,2,1
-Zh/as：9-nine- アズナイン [sakura-galtransl-14b-v3.8].txt,0,2
-Zh/pieces／渡り鳥のソムニウム.txt,13,0
-Zh/あかね色に染まる坂.txt,74,3
-Zh/あかね色のさき september bride.txt,10,0
-Zh/あきゆめくくる [Claude-3.5-Sonnet].txt,0,10
-Zh/あきゆめくくる [claude-neptune-v3].txt,3,12
-Zh/あけいろ怪奇譚 [gemini-3.1-pro].txt,34,10
-Zh/あなたをオトコにしてあげる！ [gemini-2.5-pro].txt,1,7
-Zh/あの蒼い海より.txt,0,1
-Zh/あまたらすリドルスター [claude-3.7-sonnet].txt,0,1
-Zh/あまなつ -あるまなつのはじめてのお話- [gemini-2.5-pro].txt,0,1
-Zh/あやかしコントラクト [GPT-4o+DeepSeek-V3].txt,17,0
-Zh/いきなりあなたに恋している.txt,10,0
-Zh/いつか夢見た風景で [AI].txt,0,4
-Zh/いもーと特区 ～妹と結婚できるいい時代になりました～.txt,3,0
+Zh/as：9-nine- アズナイン [sakura-galtransl-14b-v3.8].txt,37,0
+Zh/pieces／渡り鳥のソムニウム.txt,6,0
+Zh/puncTure [gemini-2.5-pro].txt,9,0
+Zh/あいえんきえん～柏木荘へようこそ～ [DeepSeek-R1].txt,1,0
+Zh/あかね色に染まる坂.txt,77,0
+Zh/あきゆめくくる [Claude-3.5-Sonnet].txt,1,0
+Zh/あきゆめくくる [claude-neptune-v3].txt,1,0
+Zh/あけいろ怪奇譚 [gemini-3.1-pro].txt,7,0
+Zh/あの蒼い海より.txt,6,0
+Zh/あまなつ -あるまなつのはじめてのお話- [gemini-2.5-pro].txt,2,0
+Zh/あまなつ -あるまなつのはじめてのお話-.txt,2,0
+Zh/あやかしコントラクト [Claude-4.5-opus].txt,2,0
+Zh/いきなりあなたに恋している.txt,8,0
+Zh/いつか夢見た風景で [AI].txt,1,0
 Zh/いろとりどりのセカイ HD Re：GENERATION.txt,3,0
-Zh/いろとりどりのヒカリ HD Re：GENERATION.txt,3,0
-Zh/いろとりどりのヒカリ [桜 v1.0].txt,7,0
-Zh/うみねこのなく頃に咲 ～猫箱と夢想の交響曲～ [Umineko Project CN].txt,3,8
+Zh/いろとりどりのヒカリ HD Re：GENERATION.txt,2,0
+Zh/いろとりどりのヒカリ [桜 v1.0].txt,2,0
+Zh/うみねこのなく頃に咲 ～猫箱と夢想の交響曲～ [Umineko Project CN].txt,2,0
 Zh/おいしい魔法のとなえかた。 [gemini-3-flash].txt,1,0
-Zh/おとなり恋戦争！ [claude-3-haiku+3.5-sonnet].txt,0,3
-Zh/おとなり恋戦争！ [gemini-2.5-pro].txt,0,3
-Zh/お兄ちゃんのお世話係 [DeepSeek-R1].txt,0,1
-Zh/お家に帰るまでがましまろです.txt,6,0
-Zh/かたわ少女.txt,51,2
-Zh/きっと、澄みわたる朝色よりも、.txt,8,0
-Zh/くるくる・ファナティック.txt,3,0
-Zh/くわいなしょっく！ [claude-3.5-sonnet].txt,1,6
-Zh/こころリスタ！.txt,10,1
-Zh/この大空に、翼をひろげて SNOW PRESENTS.txt,0,1
-"Zh/さくら、もゆ。-as the Night's, Reincarnation- [萌译 v0.1.8 补完版].txt",13,2
+Zh/お家に帰るまでがましまろです.txt,5,0
+Zh/かたわ少女.txt,122,0
+Zh/きまぐれテンプテーション２ ゆうやみ廻奇譚.txt,2,0
+Zh/くるくる・ファナティック.txt,1,0
+Zh/こころリスタ！.txt,6,0
+"Zh/さくら、もゆ。-as the Night's, Reincarnation- [萌译 v0.1.8 补完版].txt",1,0
+Zh/さくらぶトライアングル.txt,2,0
 Zh/さみだれグローインアップ！.txt,2,0
-Zh/さよならを教えて 〜comment te dire adieu〜.txt,5,10
-Zh/しゅ～てぃんぐ妹スター☆ ～お兄ちゃん、覚悟しててよね♪～ [grok-3].txt,0,2
-Zh/しゅ～てぃんぐ妹スター☆ ～お兄ちゃん、覚悟しててよね♪～.txt,1,2
-Zh/すたーらいと☆アイドル -COLORFUL TOP STAGE!- [claude-3.5-sonnet].txt,0,1
-Zh/ぜったい絶頂☆性器の大発明!! ―処女を狙う学園道具多発エロ―.txt,15,1
-Zh/その日の獣には、.txt,8,0
-Zh/そらふね [gemini-2.5-pro].txt,4,2
-Zh/それいけ!!杉城園芸部 [gemini-3-flash].txt,1,1
-Zh/つくとり [gemini-2.5-pro-exp-03-25].txt,6,1
-Zh/ですさいず [gemini-2.5-pro].txt,1,0
-Zh/でふこん☆わん [gemini-2.5-pro].txt,0,1
-Zh/でりばらっ! -deliverance of strays- [claude-3.7-sonnet].txt,0,1
-Zh/ときどき晴天を見上げて… [gemini-2.5-pro].txt,1,2
-Zh/となりの魔王使い [MiniMax-Text-01].txt,1,1
-Zh/とらぶる＠すぱいらる！ [gemini-2.5-pro].txt,0,7
-Zh/なつくもゆるる [claude-3.5-sonnet].txt,1,0
-Zh/なつぽち.txt,0,2
-Zh/なないろリンカネーション.txt,2,0
-Zh/ぬいぐるまー [gemini-3.1-pro].txt,0,256
-Zh/ねこまっしぐら ～ねこみみカフェにようこそ～ [gpt-4o].txt,3,1
-Zh/はっぴぃふぁくとり.txt,0,1
-Zh/はつゆきさくら [gemini-3.1-pro].txt,1,5
-Zh/はるうられ -校内赤線区域.txt,10,0
-Zh/はるまで、くるる。 [中文] (2).txt,3,9
-Zh/はるまで、くるる。.txt,3,9
-Zh/ひぐらしのなく頃に奉 [多金喵喵 Switch v2.2].txt,27,15
+Zh/しゅ～てぃんぐ妹スター☆ ～お兄ちゃん、覚悟しててよね♪～.txt,1,0
+Zh/ぜったい絶頂☆性器の大発明!! ―処女を狙う学園道具多発エロ―.txt,54,0
+Zh/その恋、保留につき、.txt,1,0
+Zh/そらふね [gemini-2.5-pro].txt,1,0
+Zh/ちゅーそつ！1st graduation～ちゅーそつのTime After Time～ [Claude-3.7-Sonnet].txt,1,0
+Zh/ちゅーそつ！1st graduation～ちゅーそつのTime After Time～ [DeepSeek-R1].txt,2,0
+Zh/でふこん☆わん [gemini-2.5-pro].txt,2,0
+Zh/ときどき晴天を見上げて… [gemini-2.5-pro].txt,1,0
+Zh/な妹き！.txt,2,0
+Zh/はっぴぃふぁくとり.txt,12,0
+Zh/はるうられ -校内赤線区域.txt,5,0
+Zh/はるまで、くるる。 [中文] (2).txt,5,0
+Zh/はるまで、くるる。.txt,5,0
+Zh/ひぐらしのなく頃に奉 [多金喵喵 Switch v2.2].txt,16,0
 Zh/ひこうき雲の向こう側 [claude-3.7-sonnet-2].txt,1,0
-Zh/ひこうき雲の向こう側 [claude-3.7-sonnet].txt,1,1
-Zh/ひこうき雲の向こう側.txt,0,1
-Zh/ひとりぼっちの天体観測.txt,3,0
-Zh/ひのまるっ [Claude-3.7-Sonnet].txt,0,2
-Zh/ひのまるっ [gemini-3.1-pro].txt,0,2
-Zh/ひ・み・つ [gemini-2.5-pro].txt,5,4
-Zh/ぶらざ～form 流美篇 [gemini-2.5-pro].txt,0,2
-Zh/へんこい 変恋≒黒歴史.txt,7,0
-Zh/ほろほろ [DeepSeek v4.1flash 1017].txt,0,16
-Zh/ぽぽたん [gemini-3.1-pro].txt,2,54
+Zh/ひこうき雲の向こう側 [claude-3.7-sonnet].txt,1,0
+Zh/ひのまるっ [Claude-3.7-Sonnet].txt,1,0
+Zh/ひのまるっ [gemini-3.1-pro].txt,1,0
+Zh/ひのまるっ [gpt-4o].txt,1,0
+Zh/へんこい 変恋≒黒歴史.txt,2428,0
 Zh/まいしすっ！☆トゥインクル [gemini-2.5-pro].txt,1,0
-Zh/まいにち好きして [gemini-2.5-pro].txt,9,0
-Zh/まことメビウス[v20909][Windows][丝绮拉工作室].txt,0,1
+Zh/まいにち好きして [gemini-2.5-pro].txt,1,0
 Zh/ましろ色シンフォニー SANA EDITION [绿茶×熊喵 v1.03 Steam移植].txt,1,0
-Zh/ましろ色シンフォニー.txt,3,0
-Zh/みずいろ [claude-3.7-sonnet].txt,0,3
-Zh/みずのかけら-once summer of islet-ORIGIN [gemini-2.5-pro].txt,1,1
-Zh/みにくいモジカの子.txt,3,6
-Zh/むすめーかーHD [gemini-2.5-pro].txt,4,2
-Zh/めたもるふぉ～ぜ　～変容！変身！大変態！？～.txt,8,0
-Zh/もののあはれは彩の頃 [Claude-3.5-Sonnet].txt,0,2
-Zh/やりなおしクランクイン [DeepSeek-V3.2].txt,0,1
-Zh/やりなおしクランクイン [gemini-2.5-pro].txt,0,1
-Zh/ゆきいろ ～空に六花の住む町～ [GLF汉化组].txt,2,4
-Zh/らいむいろ流奇譚Ⅹ ～恋、教ヘテクダサイ。～ [claude-opus-4.5].txt,0,55
-Zh/らぶでれーしょん！ [claude-3.7-sonnet].txt,0,3
-Zh/らぶでれーしょん！ [gpt-4o-2024-11-20].txt,0,1
-Zh/らぶでれーしょん！ [sakura-14b].txt,1,1
-Zh/りんくす！～キミと精霊と使い魔と～ [gemini-2.5-pro].txt,2,0
-Zh/るるるとささらの先生☆教えて～ボクは女のお坊っちゃま～ [qwen-max].txt,0,2
-Zh/アイカギ ～アフターデイズ～.txt,2,0
-Zh/アイカギ3.txt,84,0
-Zh/アインシュタインより愛を込めて APOLLOCRISIS.txt,0,16
-Zh/アインシュタインより愛を込めて.txt,1,102
-Zh/アオのリグレット [gemini-2.5-pro].txt,4,0
+Zh/ましろ色シンフォニー.txt,25,0
+Zh/みずいろ [claude-3.7-sonnet].txt,12982,0
+Zh/みにくいモジカの子.txt,4,0
+Zh/むすめーかーHD [gemini-2.5-pro].txt,1,0
+Zh/めちゃ婚 [claude-3.7-sonnet].txt,6,0
+Zh/もののあはれは彩の頃 [Claude-3.5-Sonnet].txt,2,0
+Zh/ゆきいろ ～空に六花の住む町～ [GLF汉化组].txt,10190,0
+Zh/よめはぴ～You Make Happy！～.txt,1,0
+Zh/らくがきオーバーハート.txt,2,0
+Zh/りんくす！～キミと精霊と使い魔と～ [gemini-2.5-pro].txt,14,0
+Zh/アイカギ ～アフターデイズ～.txt,94,0
+Zh/アイカギ3.txt,19,0
+Zh/アインシュタインより愛を込めて APOLLOCRISIS.txt,1,0
+Zh/アインシュタインより愛を込めて.txt,1,0
+Zh/アオのリグレット [gemini-2.5-pro].txt,1,0
 Zh/アオイシロ（steam版）.txt,1,0
-Zh/アオイトリ.txt,14,0
-Zh/アステリズム -Astraythem- [gemini-2.5-pro].txt,2,1
-Zh/アストラエアの白き永遠.txt,15,0
-Zh/アマアネ -My Sweet Sister-.txt,11,0
-Zh/アマツツミ.txt,9,6
-Zh/アンダーバーサマー [AI].txt,1,49
-Zh/オトボケめがね。～寝ても醒めてもめがねっ娘～ [gemini-2.5-pro].txt,0,2
-Zh/オモイデあ～かいぶ [gemini-2.5-pro].txt,0,4
-Zh/オレの恋人～氷川雫.txt,0,1
+Zh/アステリズム -Astraythem- [gemini-2.5-pro].txt,1,0
+Zh/アストラエアの白き永遠.txt,4,0
+Zh/アマアネ -My Sweet Sister-.txt,534,0
+Zh/アマツツミ.txt,3,0
+Zh/イヅナ斬審剣.txt,1,0
+Zh/オモイデあ～かいぶ [gemini-2.5-pro].txt,2,0
 Zh/カケオチ.txt,1,0
-Zh/カテキョしちゃお！ ～ひとつ屋根の下、むひょひょ合宿物語～ [claude-3.7-sonnet].txt,3,0
-Zh/カミツレ ～7の二乗不思議～ [claude-3.5-sonnet].txt,0,3
-Zh/キャッスルファンタジア ～エレンシア戦記～リニューアル.txt,1,0
-Zh/キュリオディーラー [claude-4.5-opus].txt,0,3
-Zh/ギャラクシーエンジェル.txt,2,2
-Zh/クレナイノツキ [gpt-4o].txt,0,2
-Zh/クレナイノツキ.txt,0,2
-Zh/クロウカシス ～七憑キノ贄～.txt,6,0
-Zh/グリザイアの楽園.txt,7,0
-Zh/グリザイアの迷宮.txt,0,1
-Zh/コイヤスミ ～夕立に濡れた幼馴染み～.txt,22,0
-Zh/ココロノ [DeepSeek-R1].txt,1,1
-Zh/コミュ - 黒い竜と優しい王国 -.txt,0,2
-Zh/サクラノ刻－櫻の森の下を歩む－.txt,2,0
-Zh/サナララ.txt,4,0
-Zh/サメと生きる七日間.txt,12,0
-Zh/シオン ～残酷な魔法の天使～.txt,0,7
-Zh/シャッターチャンス・ラブ [gemini-2.5-pro].txt,3,4
-Zh/シルヴァリオ トリニティ [gemini-2.5-pro].txt,43,4
-Zh/シルヴァリオ ヴェンデッタ [gemini-3.7-flash].txt,164,5
-Zh/シークレットラブ（仮）.txt,1,0
-Zh/シーベッド.txt,27,0
-Zh/ジェイルブレイク.txt,0,2
+Zh/キミのとなりで恋してる！ [黙示汉化组].txt,1,0
+Zh/グリザイアの楽園.txt,119,0
+Zh/グリザイアの迷宮.txt,3,0
+Zh/コイ☆カツ！ [deepseek-v3-0324].txt,1,0
+Zh/コイヤスミ ～夕立に濡れた幼馴染み～.txt,26,0
+Zh/ココロ保健室 ～キミとナイショのカウンセリング～.txt,1,0
+Zh/コンフリクトガール.txt,1,0
+Zh/ゴールデンアワー [gemini-2.5-pro].txt,1,0
+Zh/サクラノ刻－櫻の森の下を歩む－.txt,317,0
+Zh/シルヴァリオ トリニティ [gemini-2.5-pro].txt,1,0
+Zh/シークレットラブ（仮）.txt,6,0
+Zh/シーベッド.txt,3,0
+Zh/ジュエリー・ハーツ・アカデミア.txt,1,0
 Zh/スクランブル・ラバーズ [gemini-3.1-pro].txt,1,0
-Zh/ストロベリーノーツ [gemini-2.5-pro].txt,1,6
-Zh/セパレイトブルー [claude-4.5-opus].txt,0,8
-Zh/セレクトオブリージュ.txt,5,0
-Zh/センチネル [gpt-4o].txt,1,42
-Zh/セヴンデイズ あなたとすごす七日間[v19654][Windows][黙示游戏中文化兴趣小组].txt,0,2
-Zh/ソレヨリノ前奏詩.txt,8,0
-Zh/タンテイセブン [DeepSeek-R1-0528].txt,0,3
-Zh/デイグラシアの羅針盤 [DeepSeek-V3].txt,3,1
-Zh/トリノライン.txt,14,0
-Zh/トリプルペアリング -Triple Pairing- [DeepSeekV4Flash+GPT5.6].txt,703,1
-Zh/ドコのドナタの感情経路.txt,1,0
-Zh/ド田舎ちゃんねる5～こちら鈴音学園放送部～ [gemini-3-pro-preview].txt,2,0
-Zh/ナマイキデレーション [Claude-3.7-Sonnet].txt,1,1
-Zh/ナマイキデレーション [gemini-3.1-pro].txt,2,0
-Zh/ナマイキデレーション [step-2-16k].txt,0,1
-Zh/ニュートンと林檎の樹.txt,25,2
-Zh/ネガゼロ~Negative Zero~ [gemini-3.1-pro].txt,0,20
-Zh/ハッピーウィークエンド [gpt-4o].txt,1,0
-Zh/ハミダシクリエイティブ.txt,8,1
-Zh/ハミダシクリエイティブ凸.txt,3,0
-Zh/ヒトカタノオウ～ヲルノモリ～ [gemini-2.5-pro].txt,1,1
-Zh/ヒメと魔神と恋するたましぃ [claude-3.7-sonnet].txt,1,0
-Zh/ピュア×コネクト -PURE x CONNECT.txt,8,2
-Zh/ファタモルガーナの館 - COLLECTED EDITION - [XXGAME汉化组].txt,0,9
-Zh/フェイクアズール・アーコロジー [claude-3.5-sonnet].txt,1,1
-Zh/フェイント トーン.txt,1,1
-Zh/フユウソ -Snow World End.txt,1,0
-Zh/フレラバ ～Friend to Lover～ HD Renewal Edition [人工汉化].txt,1,0
-Zh/フレラバ ～Friend to Lover～ [给屌丝带来春天汉化委员会].txt,1,7
-Zh/プリマドー.txt,0,10
-Zh/ヘイズマン -THE LOCAL HERO- [gemini-3-pro].txt,1,0
-Zh/ヘリオトロープ－それは死に至る神の愛－ [Claude-3.5-Sonnet].txt,0,6
-Zh/ボクとエーヴァのヒミツの森 [gemini-2.5-pro].txt,3,0
-Zh/マイ・フェア・エンジェル [EGC汉化工作室].txt,17,0
-Zh/マブラヴ [Alternative6×杏子御津爱护同好会 v1.1].txt,1,3
-Zh/マブラヴ オルタネイティヴ [Alternative6×杏子御津爱护同好会 v1.8].txt,0,55
-Zh/ママは女子校生.txt,7,0
-Zh/マヨイヒツジの果樹園.txt,9,0
-Zh/マルコと銀河竜 [特典 gemini25pro].txt,0,2
+Zh/ストロベリーノーツ [gemini-2.5-pro].txt,2,0
+Zh/セレクトオブリージュ.txt,3,0
+Zh/ソラヘノキセキ [DeepSeek-R1].txt,5,0
+Zh/ソレヨリノ前奏詩.txt,14,0
+Zh/ツギハギめいくぴーす！ [claude-3.5-sonnet].txt,1,0
+Zh/トライアゲイン [DeepSeek-V4-Flash].txt,1,0
+Zh/トリノライン.txt,9,0
+Zh/トリプルペアリング -Triple Pairing- [DeepSeekV4Flash+GPT5.6].txt,69,0
+Zh/ナツウソ -Ahead of the reminiscence.txt,6,0
+Zh/ナマイキデレーション [Claude-3.7-Sonnet].txt,1,0
+Zh/ニュートンと林檎の樹.txt,1,0
+Zh/ハッピーウィークエンド [gpt-4o].txt,20,0
+Zh/ハミダシクリエイティブ.txt,139,0
+Zh/ハミダシクリエイティブ凸.txt,5,0
+Zh/ヒトカタノオウ～ヲルノモリ～ [gemini-2.5-pro].txt,7,0
+Zh/ヒメと魔神と恋するたましぃ [claude-3.7-sonnet].txt,117,0
+Zh/ピュア×コネクト -PURE x CONNECT.txt,8,0
+Zh/ファタモルガーナの館 - COLLECTED EDITION - [XXGAME汉化组].txt,27,0
+Zh/フユウソ -Snow World End.txt,19,0
+Zh/フレラバ ～Friend to Lover～ HD Renewal Edition [人工汉化].txt,4,0
+Zh/マイ・フェア・エンジェル [EGC汉化工作室].txt,9,0
+Zh/マブラヴ オルタネイティヴ [Alternative6×杏子御津爱护同好会 v1.8].txt,5,0
+Zh/ママは女子校生.txt,5,0
+Zh/マヨイヒツジの果樹園.txt,14,0
+Zh/ムーン・ゴースト.txt,1,0
 Zh/メイド運命録～贖罪の贄・猟奇の罠～ [gemini-2.5-pro].txt,1,0
-Zh/ヤンデレラ.txt,0,4
-Zh/ヨスガノソラ.txt,11,0
-Zh/ライク・ライフ [AI].txt,0,14
-Zh/ライムライト・レモネードジャム [gemini-2.5-pro].txt,18,1
-Zh/ラズベリーキューブ.txt,6,0
-Zh/ラブラブル～Lover Able～.txt,11,3
-Zh/リザイン.txt,2,0
-Zh/リベリオンズ Secret Game 2nd Stage BOOSTED EDITION.txt,24,0
-Zh/リリミエスタ [gemini-3.1-pro].txt,0,5
-Zh/リリミエスタ [sakura-14b].txt,0,14
-Zh/ルーデシア Spidering with Scraping [Claude-Sonnet-5].txt,0,2
-Zh/ルーデシア Spidering with Scraping [DeepSeek-V3.1].txt,0,2
-Zh/ルートダブル -Before Crime ＊ After Days- [p大汉化组×葵海计划 字形OCR].txt,0,41
-Zh/レイルロアの略奪者 [gemini-3.1-pro].txt,0,3
-Zh/レミニセンス Re：Collect.txt,7,1
-Zh/レミニセンス [心愿屋].txt,0,3
-Zh/ロイヤルガーデン～乙女に恋する皇子の戯曲～.txt,1,0
-Zh/ロスト・エコーズ [gemini-2.5-pro].txt,1,0
-Zh/ロスト・エコーズ.txt,1,0
-Zh/ローズガンズデイズ [gemini-3-flash].txt,0,1
-Zh/七ヶ音学園 -風の採譜- [gemini-2.5-pro].txt,4,1
-Zh/世界と世界の真ん中で.txt,61,44
-Zh/中世悪行奇譚 万事屋GEDO [gemini-2.5-pro].txt,1,0
-Zh/乙女が紡ぐ恋のキャンバス ～二人のギャラリー～.txt,33,0
+Zh/ヤミと祝祭のサンクチュアリ [Claude-3.7-Sonnet].txt,21,0
+Zh/ライムライト・レモネードジャム [DeepSeek R1].txt,1215,0
+Zh/ライムライト・レモネードジャム [gemini-2.5-pro].txt,7,0
+Zh/ラズベリーキューブ.txt,22,0
+Zh/リアル妹がいる大泉くんのばあい.txt,3,0
+Zh/リザイン.txt,6,0
+Zh/リベリオンズ Secret Game 2nd Stage BOOSTED EDITION.txt,137,0
+Zh/ルートダブル -Before Crime ＊ After Days- [p大汉化组×葵海计划 字形OCR].txt,13,0
+Zh/レイルロアの略奪者 [gemini-3.1-pro].txt,8,0
+Zh/レミニセンス Re：Collect.txt,4,0
+Zh/レミニセンス [心愿屋].txt,3,0
+Zh/ロイヤルガーデン～乙女に恋する皇子の戯曲～ [gemini-3-pro].txt,2,0
+Zh/ロイヤルガーデン～乙女に恋する皇子の戯曲～.txt,15,0
+Zh/ロスト・エコーズ [Claude-3.5-Sonnet].txt,1,0
+Zh/ロスト・エコーズ [claude-4-opus].txt,6,0
+Zh/ロスト・エコーズ [gemini-2.5-pro].txt,4,0
+Zh/ロスト・エコーズ.txt,4,0
+Zh/ローズガンズデイズ [gemini-3-flash].txt,1,0
+Zh/七ヶ音学園 -風の採譜- [gemini-2.5-pro].txt,9,0
+Zh/世界と世界の真ん中で.txt,13,0
+Zh/世界征服彼女 [gemini-2.5-pro].txt,2,0
 Zh/二人と始める打算的なラブコメ.txt,1,0
-Zh/仮面の拷問士.txt,0,25
-Zh/何度目かのはじめまして [claude-3.7-sonnet].txt,1,0
-Zh/保健室～マジカルピュアレッスン♪～ [claude-4.5-opus].txt,0,2
-Zh/俺たちが死んだ夏、天使のいた三日間。 [sakura-14b].txt,0,1
-Zh/俺たちに翼はない [小鸠煲汤研究所×新米 v3.1].txt,2,2
-Zh/俺の姿が、透明に! 不可視の薬と数奇な運命[希月学园×红发小女孩].txt,38,3
-Zh/俺の幼馴染みが恋愛レッスンを所望している [claude-opus-4-5].txt,14,0
-Zh/僕の未来は、恋と課金と。 [GPT5.6-Sol].txt,0,2
-Zh/僕の未来は、恋と課金と。～Charge To The Future～.txt,0,2
-Zh/冥契のルペルカリア.txt,4,3
-Zh/冬桜抄 -さくらがたり- [Claude-3.7-sonnet].txt,16,6
+Zh/保健室的老师与沉迷吹泡泡的助手.txt,30,0
+Zh/保健室～マジカルピュアレッスン♪～ [claude-4.5-opus].txt,2,0
+Zh/信天翁航海録 [DeepSeek V3-0324].txt,1,0
+Zh/俺たちに翼はない [小鸠煲汤研究所×新米 v3.1].txt,14,0
+Zh/俺の姿が、透明に! 不可視の薬と数奇な運命[希月学园×红发小女孩].txt,463,0
+Zh/俺の幼馴染みが恋愛レッスンを所望している [claude-opus-4-5].txt,2,0
+Zh/僕の未来は、恋と課金と。 [GPT5.6-Sol].txt,3,0
+Zh/僕の未来は、恋と課金と。～Charge To The Future～.txt,1,0
+Zh/僕はキミだけを見つめる 外伝 サーベルタイガー編 [claude-3.7-sonnet].txt,36,0
+Zh/冥契のルペルカリア.txt,3007,0
+Zh/冬桜抄 -さくらがたり- [Claude-3.7-sonnet].txt,1,0
 Zh/初恋＊シンドローム.txt,2,0
-Zh/初音岛5 [gemini-3.8-flash].txt,0,11871
-Zh/創世奇譚アエリアル [gemini-3.1-pro].txt,0,30
-Zh/創刻のアテリアル [GPT 6.1 sol Max].txt,13,109
-Zh/千の刃濤、桃花染の皇姫.txt,6,98
-Zh/去人たち.txt,2,6
-Zh/双子の恋は見抜けない [gemini-3.1-pro-preview].txt,2,0
-Zh/双子の恋は見抜けない [sakura-galtransl-14b].txt,635,1
-Zh/双子座のパラドクス [claude-3.5-sonnet].txt,0,4
-Zh/収斂の十二月.txt,1,0
-Zh/収穫の十二月～春～ [gemini-3.1-pro].txt,1,0
-Zh/同棲ラブラブル.txt,4,0
-Zh/向日葵の教会と長い夏休み [胧白圣歌队 v1.04].txt,8,25
-Zh/君と彼女と彼女の恋。 [沐樱汉化组 v1.00].txt,1,95
-Zh/君と恋する学園喫茶 [claude-3.5-sonnet].txt,1,19
-Zh/君の魔名はリナ・ウィッチ- [claude-3.5-sonnet].txt,1,0
-Zh/命运石之门：比翼恋理的爱人.txt,1,0
-Zh/夏いろペンギン [claude-opus-4-5].txt,0,1
-Zh/夏恋 ～The love story in summer～ [claude-3.5-sonnet].txt,0,2
-Zh/夏恋ハイプレッシャー [DeepSeek-R1].txt,0,1
-Zh/夜明け前より瑠璃色な.txt,2,2
-Zh/夢か現かマトリョーシカ [夜鸮汉化组].txt,1,0
-Zh/夢の浮橋～新釈源氏物語～ 若紫・夕顔・末摘花編 [gemini-2.5-pro].txt,1,2
-Zh/夢幻のティル・ナ・ノーグ [claude-3.5-sonnet].txt,0,1
-Zh/夢幻のティル・ナ・ノーグ.txt,1,3
-Zh/夢現の境界～奇跡の海～ [DeepSeek-V2.5].txt,1,1
-Zh/天ツ風～傀儡陣風帖～ [claude-3.5-sonnet].txt,5,0
-Zh/天使のいない12月.txt,4,0
-Zh/天神乱漫LUCKYorUNLUCKY.txt,4,1
-Zh/太陽のプロミア [gemini-3.1-pro].txt,0,2
-Zh/妄想コンプリート！.txt,4,0
-Zh/妻色少女 ～ふうふせいかつ、始めます～.txt,11,0
-Zh/姉・Summer!.txt,1,0
-Zh/姫さま凛々しく！ [deepseek-v2.5].txt,1,0
-Zh/嫁探しが捗りすぎてヤバい。 [claude-3.7-sonnet].txt,4,0
-Zh/宿星のガールフレンド2.txt,1,0
-Zh/寻找失去的未来(失われた未来を求めて).txt,1,1
-Zh/対魔忍アサギ [阿黑颜大姐头汉化组].txt,19,8
-Zh/対魔忍アサギ.txt,5,2
-Zh/少女と世界とお菓子の剣 ～Route of AYANO～.txt,8,0
-Zh/少女マイノリティ -慰めの愛- [胖次汉化组×伊甸汉化组].txt,5,2
-Zh/幸福の食卓～しあわせのはね～ [gemini-2.5-pro].txt,0,12
-Zh/幻想魔境奇譚.txt,1,0
-Zh/幼馴染と十年、夏.txt,7,2
-Zh/幽霊と恋したい！.txt,1,0
-Zh/彼と彼女と彼女の忠義.txt,4,0
-Zh/彼女と俺と恋人と。.txt,9,0
-Zh/必殺！さとみアタック！ [gemini-2.5-pro].txt,14,4
-Zh/忍ココロ [gemini-2.5-pro].txt,1,0
-Zh/思い出抱えてアイにコイ!!.txt,12,0
-Zh/性春☆ダイナマイトっ!! ～イケない放課後～.txt,1,0
-Zh/恋し彩る正義爛漫 [GPT4o-1120].txt,0,3
-Zh/恋し彩る正義爛漫 [claude-3.7-sonnet].txt,0,1
-Zh/恋し彩る正義爛漫 [gemini-3.1-pro].txt,0,2
-Zh/恋する乙女と守護の楯 薔薇の聖母.txt,36,0
-Zh/恋ではなく ―― It’s not love，but so where near. [gemini-2.5-pro].txt,0,1
-Zh/恋と魔法と管理人 [心愿屋汉化组].txt,3,0
-Zh/恋と魔法と管理人.txt,5,0
-Zh/恋はもふもふ！ラブ・ミー・テディ [gemini-3.8-flash].txt,0,1
-Zh/恋は夢見る妄烈ガール！ [claude-3-5-sonnet+gpt-4o].txt,0,1
-Zh/恋姫†無双～ドキッ★乙女だらけの三国志演義～.txt,12,16
-Zh/恋愛、借りちゃいました [gemini-2.5-pro].txt,2,0
-Zh/恋愛、借りちゃいました [黙示汉化组].txt,5,1
-Zh/恋愛教室.txt,23,0
-Zh/恋文ロマンチカ [Claude-3.5-Sonnet].txt,0,1
-Zh/恋春アドレセンス.txt,3,1
-Zh/恋祭☆綺想カメリアノート ～夢に忍ばず、斬り咲け乙女！～ [DeepSeek-R1].txt,6,0
-Zh/恋祭☆綺想カメリアノート ～夢に忍ばず、斬り咲け乙女！～ [claude-3.5-sonnet].txt,6,0
-Zh/悪魔と夜と異世界と [claude-3.7-sonnet].txt,5,1
+Zh/初音岛5 [gemini-3.8-flash].txt,17,0
+Zh/創世奇譚アエリアル [gemini-3.1-pro].txt,1,0
+Zh/創刻のアテリアル [GPT 6.1 sol Max].txt,11,0
+Zh/千の刃濤、桃花染の皇姫.txt,2855,0
+Zh/去人たち.txt,1,0
+Zh/向日葵の教会と長い夏休み [胧白圣歌队 v1.04].txt,17,0
+Zh/君と彼女と彼女の恋。 [沐樱汉化组 v1.00].txt,3,0
+Zh/夏いろペンギン [claude-opus-4-5].txt,1,0
+Zh/夏恋ハイプレッシャー [DeepSeek-R1].txt,30,0
+Zh/夢現の境界～奇跡の海～ [DeepSeek-V2.5].txt,2,0
+Zh/天ツ風～傀儡陣風帖～ [claude-3.5-sonnet].txt,1,0
+Zh/天ノ少女.txt,1,0
+Zh/天冥のコンキスタ [AI].txt,80,0
+Zh/太陽のプロミア [gemini-3.1-pro].txt,1,0
+Zh/女神的旨意 [gemini-3.8-flash+deepseek-v4-flash].txt,55,0
+Zh/妄想コンプリート！.txt,1,0
+Zh/妹のおかげでモテすぎてヤバい。.txt,1,0
+Zh/姉・Summer!2.txt,1,0
+Zh/委員長は承認せず! ～It Is a Next CHOice～.txt,1,0
+Zh/家神女房～名無し猫又は神Tuber～.txt,2,0
+Zh/宿星のガールフレンド.txt,1,0
+Zh/宿星のガールフレンド3.txt,2,0
+Zh/対魔忍アサギ [阿黑颜大姐头汉化组].txt,1666,0
+Zh/対魔忍アサギ.txt,2154,0
+Zh/少女と世界とお菓子の剣 ～Route of AYANO～.txt,1,0
+Zh/少女マイノリティ -慰めの愛- [胖次汉化组×伊甸汉化组].txt,1,0
+Zh/幻想魔境奇譚.txt,91,0
+Zh/幼馴染と十年、夏.txt,1,0
+Zh/幽霊と恋したい！.txt,2,0
+Zh/思い出抱えてアイにコイ!!.txt,2,0
+Zh/恋し彩る正義爛漫 [gemini-3.1-pro].txt,1,0
+Zh/恋する乙女と守護の楯 薔薇の聖母.txt,9,0
+Zh/恋ではなく ―― It’s not love，but so where near. [gemini-2.5-pro].txt,1,0
+Zh/恋と魔法と管理人 [心愿屋汉化组].txt,1,0
+Zh/恋と魔法と管理人.txt,2,0
+Zh/恋嵐スピリッチュ [gemini-3-pro].txt,1,0
+Zh/恋愛、はじめまして [DeepSeek-R1].txt,20,0
+Zh/恋愛、借りちゃいました [黙示汉化组].txt,1,0
+Zh/恋愛リベンジ [gemini-3.1-pro].txt,13,0
+Zh/恋愛教室.txt,2,0
+Zh/恋春アドレセンス.txt,1,0
+Zh/恋祭☆綺想カメリアノート ～夢に忍ばず、斬り咲け乙女！～ [claude-3.5-sonnet].txt,2,0
+Zh/悪魔と夜と異世界と [claude-3.7-sonnet].txt,3,0
 Zh/悪魔の娘の唄うメロディー [gemini-2.5-pro].txt,1,0
-Zh/愛してナイチンゲール [gemini-2.5-pro].txt,3,4
-Zh/愛サレるームメイト.txt,0,2
-Zh/戦国ランス.txt,135,10
-Zh/戦女神２ ～失われし記憶への鎮魂歌～ [无名的组].txt,12,45
-Zh/抜きゲーみたいな島に住んでる貧乳はどうすりゃいいですか？2[v23741][Windows][Qruppo本社爆破组&の糖菓ヤ渥DLC翻译].txt,2,0
-Zh/揺り籠より天使まで.txt,0,3
-Zh/放課後シンデレラ.txt,13,0
+Zh/愛してナイチンゲール [gemini-2.5-pro].txt,6,0
+Zh/愛サレるームメイト.txt,7,0
+Zh/戦国ランス.txt,43,0
+Zh/戦女神２ ～失われし記憶への鎮魂歌～ [无名的组].txt,58,0
+Zh/才気煥発才色兼備の君たちへ [gemini-2.5-pro].txt,10,0
+Zh/抜きゲーみたいな島に住んでる貧乳はどうすりゃいいですか？2[v23741][Windows][Qruppo本社爆破组&の糖菓ヤ渥DLC翻译].txt,553,0
+Zh/放課後シンデレラ.txt,69,0
 Zh/斬魔伐姫アナザークイーン [gemini-2.5-pro].txt,1,0
-Zh/明日の君と逢うために[CK-GAL中文化小组].txt,16,1
-Zh/明日もこの部室（へや）で会いましょう [deepseek-v3-0324].txt,1,0
-Zh/星彩のレゾナンス.txt,12,0
-Zh/星空のメモリア-Wish upon a shooting star.txt,1,0
-Zh/春萌～はるもい～ [gemini-2.5-pro].txt,2,0
-Zh/時流 [DeepSeek-V4-Pro].txt,1,11
-Zh/晓之护卫 ～罪孽深重的末世论～ [Claude3.7逆向].txt,0,2
-Zh/晓之护卫 ～罪孽深重的末世论～ [optimus-alpha].txt,0,3
-Zh/景の海のアペイリア.txt,0,1
-Zh/景の海のアペイリア～カサブランカの騎士～.txt,1,1
-Zh/暁の護衛 ～罪深き終末論～ [Claude-3.5-Sonnet].txt,0,2
-Zh/書淫、或いは失われた夢の物語。_中文对白.txt,1,3
-Zh/最果てのイマ [gpt-4o-1120].txt,3,2
-Zh/月下之煌 [qwen-max].txt,0,146
-Zh/月光のカルネヴァーレ [大师♂罗莊].txt,2,3
-Zh/月姫 [Hawkwin校润版].txt,5,26
-Zh/月姬.txt,211,0
-Zh/朝焼けの謳.txt,11,1
-Zh/東京アリス.txt,3,0
-Zh/東方学園記 疾風の章 [gemini-2.5-pro].txt,10,0
-Zh/枯れない世界と終わる花 [梦恋星空汉化组].txt,1,0
-Zh/枯れない世界と終わる花.txt,1,0
-Zh/桜ひとひら恋もよう.txt,35,0
-Zh/桜吹雪.txt,6,0
-Zh/桜花センゴク!～信長ちゃんの恋して野望!？～ [AI汉化].txt,2,0
-Zh/桜花センゴク!～信長ちゃんの恋して野望!？～ [claude-4.5-opus].txt,1,0
-Zh/樱之诗 [樱之新译].txt,2,6
-Zh/樱之诗.txt,4,0
-Zh/歌月十夜.txt,25,0
-Zh/止マナイ雨ニ病ミナガラ.txt,0,7
-Zh/死に逝く騎士、異世界に響く断末魔.txt,4,1
-Zh/残念な俺達の青春事情。 [gemini-2.5-pro].txt,1,0
-Zh/残念な姉との幸福論.txt,3,6
-Zh/水仙3.txt,14,3
-Zh/水葬銀貨のイストリア [gemini-3.1-pro].txt,0,6
-Zh/水葬銀貨のイストリア [心愿屋V2].txt,9,3
-Zh/水葬銀貨のイストリア.txt,9,0
-Zh/氷花ノ幻夜 -Eternal Waltz- [DeepSeek-R1].txt,0,2
-Zh/永ワ刻－トワコク－ [sakura-14b].txt,16,8
-Zh/沙耶の唄 [桃華月憚].txt,2,1
-Zh/河原崎家の一族2 完全版 [r514783].txt,3,0
-Zh/波間の国のファウスト [claude-3.7-sonnet].txt,1,5
-Zh/流星ワールドアクター Gaslight Bullet.txt,0,3
-Zh/海空のフラグメンツ [Claude-3.7-Sonnet].txt,0,2
-Zh/深紅のソワレ cardinal soiree [gemini-3.1-pro].txt,0,1
-Zh/源平繚乱絵巻 -GIKEI- [gemini3.1pro].txt,1,5
+Zh/春季限定ポコ・ア・ポコ! [gemini-2.5-pro].txt,1,0
+Zh/春萌～はるもい～ [gemini-2.5-pro].txt,1,0
+Zh/時流 [DeepSeek-V4-Pro].txt,1,0
+Zh/晓之护卫 ～罪孽深重的末世论～ [optimus-alpha].txt,1,0
+Zh/晴れときどきお天気雨 [claude-3.5-sonnet].txt,7,0
+Zh/晴れハレはーれむ [gemini-3.1-pro].txt,1,0
+Zh/書淫、或いは失われた夢の物語。_中文对白.txt,11,0
+Zh/最果てのイマ [gpt-4o-1120].txt,9,0
+Zh/月光のカルネヴァーレ [大师♂罗莊].txt,24,0
+Zh/月姫 [Hawkwin校润版].txt,21,0
+Zh/月姬.txt,364,0
+Zh/朝焼けの謳.txt,3,0
+Zh/東方学園記 疾風の章 [gemini-2.5-pro].txt,6,0
+Zh/枯れない世界と終わる花 [梦恋星空汉化组].txt,6,0
+Zh/枯れない世界と終わる花.txt,2,0
+Zh/桜ひとひら恋もよう.txt,20,0
+Zh/桜ノーリプライ [claude-3.7-sonnet].txt,5,0
+Zh/桜吹雪.txt,5,0
+Zh/桜花センゴク!～信長ちゃんの恋して野望!？～ [AI汉化].txt,6,0
+Zh/樱之诗 [樱之新译].txt,28,0
+Zh/樱之诗.txt,29,0
+Zh/歌月十夜.txt,3,0
+Zh/止マナイ雨ニ病ミナガラ.txt,9,0
+Zh/歪んだ嘘の恋とレッテル [gemini-2.5-pro].txt,1,0
+Zh/死に逝く騎士、異世界に響く断末魔.txt,4,0
+Zh/死舞草 [claude-3.7-sonnet].txt,64,0
+Zh/残念な俺達の青春事情。 [gemini-2.5-pro].txt,6,0
+Zh/残念な姉との幸福論.txt,5,0
+Zh/水の都の洋菓子店 [claude-3.5-sonnet].txt,2,0
+Zh/水仙3.txt,9386,0
+Zh/水葬銀貨のイストリア [gemini-3.1-pro].txt,1,0
+Zh/水葬銀貨のイストリア [心愿屋V2].txt,4,0
+Zh/水葬銀貨のイストリア.txt,3,0
+Zh/氷花ノ幻夜 -Eternal Waltz- [DeepSeek-R1].txt,1284,0
+Zh/流星☆キセキ －SHOOTING PROBE－ [AI汉化].txt,4,0
+Zh/流星ワールドアクター Gaslight Bullet [gemini-3-pro].txt,1,0
+Zh/海空のフラグメンツ [GPT-4o-0513].txt,1,0
+Zh/深紅のソワレ cardinal soiree [gemini-3.1-pro].txt,1,0
 Zh/滅び朽ちる世界に追憶の花束を [gemini-2.5-pro].txt,1,0
-Zh/潮風の街 [gemini-3-flash].txt,1,1
-Zh/爆走女装計画～もしも俺が女装させられてレディースに入隊させられたら～ [claude-3.7-sonnet].txt,0,6
-Zh/爱因斯坦.txt,0,17
-Zh/片腕のザリガニ.txt,0,2
-Zh/王の耳には届かない！ [gemini-3-pro].txt,2,0
-Zh/珊海王の円環 [claude-3.7-sonnet].txt,0,4
-Zh/理－コトワリ－ ～キミの心の零れた欠片～ [gemini-3.1-pro].txt,1,0
-Zh/甘やかせカノジョのいる生活 -一途な銀髪美少女は好きですか？-.txt,9,0
-Zh/画師～隠された思い～ [qwen-max].txt,0,5
-Zh/白光のヴァルーシア.txt,3,0
-Zh/白恋サクラ＊グラム [个人汉化].txt,7,0
-Zh/白昼夢の青写真 [KBplayEnthusiast 增补场景].txt,5,1
-Zh/白昼夢の青写真 [官中 Dir-A移植].txt,0,1
-Zh/監獄戦艦2 ～要塞都市の洗脳改造～ 完全版.txt,7,1
-Zh/監獄戰艦Premium Box.txt,6,0
-Zh/真・恋姫†無双～萌将伝～ [gemini-3.1-pro-preview].txt,0,2
-Zh/眠り姫の眠らぬ夜に… [gemini-2.5-pro].txt,2,2
-Zh/確かにキミはココにいた -You were certainly here- [gemini-2.5-pro].txt,0,1
-Zh/神サマなんて呼んでない！ [qwen-max].txt,12,0
+Zh/潮風の街 [gemini-3-flash].txt,1,0
+Zh/爱因斯坦.txt,1,0
+Zh/珊海王の円環 [claude-3.7-sonnet].txt,6,0
+Zh/理－コトワリ－ ～キミの心の零れた欠片～ [gemini-3.1-pro].txt,2,0
+Zh/甘やかせカノジョのいる生活 -一途な銀髪美少女は好きですか？-.txt,2227,0
+Zh/白恋サクラ＊グラム [DeepSeek-R1].txt,6,0
+Zh/白恋サクラ＊グラム [个人汉化].txt,3,0
+Zh/白昼夢の青写真 [KBplayEnthusiast 增补场景].txt,7,0
+Zh/百五十年目の魔法使い.txt,1,0
+Zh/監獄戦艦2 ～要塞都市の洗脳改造～ 完全版.txt,52,0
+Zh/監獄戰艦Premium Box.txt,47,0
+Zh/真・恋姫†無双～萌将伝～ [gemini-3.1-pro-preview].txt,1,0
 Zh/神様のよう.txt,7,0
-Zh/福音は謳う Holograph Memories [gemini-3.1-pro].txt,0,3
-Zh/私は私のまま、誰にでも変われる [Sakura14b].txt,1,3
-Zh/積層のAestivum [AI].txt,1,0
-Zh/穢翼のユースティア [枫笛 v1.5 修正脚本第二版].txt,6,0
-Zh/究極魔法少女 絶対☆姉貴.txt,0,1
-Zh/空の上のおもちゃ [gemini-4-argon].txt,5,10
-Zh/空色イノセント [claude-3.7-sonnet].txt,0,3
-Zh/空色イノセント.txt,0,3
-Zh/窓ごしの部屋3 [gemini-2.5-pro].txt,19,0
-Zh/竜騎士Bloody†Saga.txt,2,0
-Zh/純愛商店街 [gemini-2.5-pro].txt,1,15
-Zh/紙の上の魔法使い [活字同好会].txt,13,0
-Zh/紙の上の魔法使い.txt,24,8
-Zh/素晴らしき日々～不連続存在～ HD.txt,7,21
-Zh/紫電～円環の絆～ [gemini-3-pro].txt,1,3
-Zh/紫電～円環の絆～.txt,11,3
-Zh/終わる世界とバースデイ [gemini-2.5-pro].txt,11,0
-Zh/終ノ空 remake.txt,0,1
-Zh/絶対★魔王 ～ボクの胸キュン学園サーガ～ [gemini-2.5-pro].txt,4,4
-Zh/継照～ツギノテラス～ [optimus-alpha].txt,1,0
-Zh/终のステラ.txt,1,17
-Zh/缶詰少女ノ終末世界 [sakura14b-qwen2.5].txt,0,1
-Zh/罪ノ光ランデヴー.txt,11,0
-Zh/罪恋×2／3 [NO DATA汉化].txt,1,2
-Zh/美少女万華鏡 -忘れな草と永遠の少女.txt,10,0
-Zh/美少女万華鏡 -理と迷宮の少女.txt,1,0
-Zh/美少女万華鏡 -神が造りたもうた少女たち.txt,21,0
-Zh/聖騎士Melty☆Lovers.txt,9,0
-Zh/花鐘カナデ＊グラム 共通ルート.txt,6,0
-Zh/葛唄.txt,1,1
-Zh/虹彩都市 [gemini-2.5-pro].txt,1,6
-Zh/装甲悪鬼村正 [翼之梦].txt,1,6
-Zh/装甲騎女イリス [claude-3.5-sonnet].txt,1,0
-Zh/見上げてごらん、夜空の星を FINE DAYS [claude-3.7-sonnet].txt,0,2
-Zh/親友が美少女になって帰ってきた。 [claude-3-haiku].txt,0,1
-Zh/赤い砂堕ちる月 [gemini-3-flash].txt,0,690
-Zh/赤さんと吸血鬼 [claude-3.7-sonnet].txt,2,0
-Zh/車輪の国、向日葵の少女.txt,123,0
-Zh/車輪の国、悠久の少年少女.txt,30,0
-Zh/迷える2人とセカイのすべて LOVE HEAVEN 300%.txt,25,0
-Zh/逃避行GAME [gemini-3.1-pro].txt,1,0
-Zh/逃避行GAME [黙示汉化组].txt,4,0
-Zh/運命線上のφ [deepseek-v4.1-flash].txt,0,20
-Zh/遠望のフェルシス Horizon of the earth and sky [gemini-2.5-pro].txt,3,0
-Zh/野良猫少女との生活 CAT Girl Sweet Days [gemini-2.5-pro-v2].txt,2,0
-Zh/鈴が歌う、未来の音色― [俺要妹子×真实DE×茗月舞酒团].txt,1,0
-Zh/鈴が歌う、未来の音色―.txt,7,0
-Zh/銀ノ鏡界Ⅰ.txt,1,0
-Zh/銀色、遥か [claude-3-7-sonnet].txt,11,5
-Zh/闇を奔る刃の煌き [gemini-2.5-pro].txt,0,1
-Zh/霧上のエラスムス - The Erasmus two-faced stories.txt,3,0
-Zh/面影レイルバック [claude-3.7-sonnet].txt,1,2
-Zh/顔のない月-待宵の双椿- [claude-3.7-sonnet].txt,0,9
-Zh/顔のない月.txt,4,2
-Zh/風ヶ原学園スパイ部.txt,0,15
-Zh/鬼ごっこ！.txt,23,0
-Zh/魂響〜たまゆら〜 [qwen-max].txt,0,3
-Zh/魔剣士リーネ２ [SSTM×脸肿×GO月].txt,1,0
-Zh/魔剣士リーネ２.txt,1,0
-Zh/魔女魔少魔法魔.txt,0,1
-Zh/魔法はあめいろ [gemini-2.5-pro].txt,6,0
-Zh/魔法使いの夜 [澄空学园].txt,2,1
-Zh/魔法少女フェアリーナイツ.txt,0,6
-Zh/魔法少女ラヴィリオン [Galtransl-7B].txt,1,0
-Zh/魔法戦姫〈Magical Arms〉エンジェル☆ナナ [gemini-2.5-pro].txt,2,11
-Zh/魔物娘たちとの楽園～スライム＆スキュラ～ [claude-3-5-sonnet].txt,0,1
-Zh/魔物娘たちとの楽園～スライム＆スキュラ～ [gemini-3-flash].txt,0,2
-Zh/魔王の娘たち.txt,3,0
-Zh/魔降ル夜ノ凜 [絮足瑞林].txt,19,0
-Zh/魔降ル夜ノ凜.txt,38,0
-Zh/黄昏に煌く銀の繰眼.txt,4,0
-Zh/黒曜鏡の魔獣.txt,1,2
-Zh/Ｅスクールライフ [中文] (2).txt,6,0
-Zh/～恋魂詰～ [claude-3.5-sonnet].txt,1,2
+Zh/福音は謳う Holograph Memories [gemini-3.1-pro].txt,131,0
+Zh/私は私のまま、誰にでも変われる [Sakura14b].txt,15,0
+Zh/究極魔法少女 絶対☆姉貴.txt,4,0
+Zh/竜騎士Bloody†Saga.txt,15,0
+Zh/等間隔の黒い透明.txt,1,0
+Zh/紅い瞳に映るセカイ HD Re：GENERATION.txt,1,0
+Zh/純愛商店街 [gemini-2.5-pro].txt,3,0
+Zh/紙の上の魔法使い [活字同好会].txt,3,0
+Zh/紙の上の魔法使い.txt,4,0
+Zh/素晴らしき日々～不連続存在～ HD.txt,34,0
+Zh/紫電～円環の絆～ [gemini-3-pro].txt,4,0
+Zh/紫電～円環の絆～.txt,26,0
+Zh/終わる世界とバースデイ [gemini-2.5-pro].txt,3,0
+Zh/終ノ空 remake.txt,3,0
+Zh/絶対★魔王 ～ボクの胸キュン学園サーガ～ [gemini-2.5-pro].txt,2,0
+Zh/緋のない所に烟は立たない [Claude-3.5-Sonnet].txt,2,0
+Zh/罪ノ光ランデヴー.txt,13,0
+Zh/聖騎士Melty☆Lovers.txt,1,0
+Zh/花鐘カナデ＊グラム 共通ルート.txt,3,0
+Zh/装甲悪鬼村正 [翼之梦].txt,3,0
+Zh/車輪の国、向日葵の少女.txt,2,0
+Zh/車輪の国、悠久の少年少女.txt,131,0
+Zh/迷える2人とセカイのすべて LOVE HEAVEN 300%.txt,4,0
+Zh/追憶の向こう側 [DeepSeek R1T2].txt,19,0
+Zh/追憶の向こう側～もうひとつのプレリュード～ [DeepSeek R1T2].txt,34,0
+Zh/遠望のフェルシス Horizon of the earth and sky [gemini-2.5-pro].txt,1,0
+Zh/野良猫少女との生活 CAT Girl Sweet Days [gemini-2.5-pro].txt,1,0
+Zh/鈴が歌う、未来の音色― [俺要妹子×真实DE×茗月舞酒团].txt,4,0
+Zh/鈴が歌う、未来の音色―.txt,3,0
+Zh/銀色、遥か [claude-3-7-sonnet].txt,4,0
+Zh/雪舞う彼方に日は堕ちて.txt,1,0
+Zh/霧上のエラスムス - The Erasmus two-faced stories.txt,1,0
+Zh/青い空のカミュ [默示游戏汉化组].txt,2,0
+Zh/青い空のカミュ.txt,1,0
+Zh/顔のない月.txt,7,0
+Zh/鬼ごっこ！.txt,27,0
+Zh/魔剣士リーネ２ [SSTM×脸肿×GO月].txt,21,0
+Zh/魔剣士リーネ２.txt,25,0
+Zh/魔女魔少魔法魔.txt,1,0
+Zh/魔法使いの夜 [澄空学园].txt,7,0
+Zh/魔法少女ラヴィリオン [Galtransl-7B].txt,8,0
+Zh/魔法戦姫〈Magical Arms〉エンジェル☆ナナ [gemini-2.5-pro].txt,4,0
+Zh/Ｅスクールライフ [中文] (2).txt,24,0
+Zh/～恋魂詰～ [claude-3.5-sonnet].txt,3,0

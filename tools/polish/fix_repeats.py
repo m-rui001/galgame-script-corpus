@@ -26,6 +26,8 @@ BAD_RUNS = [
     (re.compile(r"，；"), "；"),
     (re.compile(r"？。"), "？"),
     (re.compile(r"！。"), "！"),
+    (re.compile(r"(?<=[一-鿿])[.]{2,}(?=[一-鿿」』]|$)"), "……"),
+    (re.compile(r" +(?=[，。！？；：])"), ""),
 ]
 
 
