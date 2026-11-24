@@ -87,6 +87,12 @@ def merge_free(rel, outdir, dry):
         if newl and newl[-1] == "":
             newl = newl[:-1]
         srcb = cur[st:min(en, len(cur))]
+        # 源区间与切片是否仍然对齐（自由改写会改变行数，切片随之后移）
+        chunk_src = read_lines(os.path.join(os.path.dirname(fp), "..", name))
+        cs = chunk_src[:-1] if chunk_src and chunk_src[-1] == "" else chunk_src
+        if cs and (not srcb or cs[0].strip() != srcb[0].strip()):
+            bad.append((name, "stale-range"))
+            continue
         ok, why = free_ok(srcb, newl)
         if ok:
             new.append((st, min(en, len(cur)), newl))
