@@ -18,7 +18,7 @@ otherwise they are taken in name order with a fixed stride.
 import os, re, sys, argparse
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from chunked_polish import slug, check, polishable
+from chunked_polish import slug, check, polishable, set_progress
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 BASES = [os.path.join(ROOT, "..", "_audit", "polish_chunks"),
@@ -108,6 +108,8 @@ def merge_free(rel, outdir, dry):
         out.extend(cur[last:])
         open(path, "w", encoding="utf-8", newline=chr(10)).write(chr(10).join(out))
     delta = sum(len(n) - (e - s) for s, e, n in new)
+    if new:
+        set_progress(rel, max(e for s, e, n in new))
     print(f"{outdir}\nfree mode: {replaced} sections replaced, {len(bad)} rejected, "
           f"lines {len(cur)} -> {len(cur) + delta}")
     for b in bad[:10]:
@@ -151,6 +153,7 @@ def merge_line(rel, outdir, dry):
     for b in bad[:10]:
         print("  ", b)
     if not dry and applied:
+        set_progress(rel, max(st + en - st for st, en, name, fp in blocks_of(outdir)))
         open(path, "w", encoding="utf-8", newline=chr(10)).write(chr(10).join(lines))
 
 

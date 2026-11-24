@@ -15,6 +15,7 @@ from jpkanji import to_sc
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 WORK = os.path.join(ROOT, "..", "_audit", "polish_chunks")
+PROG = os.path.join(WORK, "progress.json")
 CJK = re.compile(r"[\u4e00-\u9fff]")
 KANA = re.compile(r"[\u3040-\u309f\u30a0-\u30fa\u30fc-\u30ff]")
 SPEAKER = re.compile(r"^([^\s：:（(「『]{1,6})[：:]")
@@ -26,9 +27,32 @@ def slug(rel):
     return re.sub(r"[\\/:*?\"<>| ]+", "_", rel)[:80]
 
 
+def load_prog():
+    """Per-file next unwritten offset, so rounds walk forward instead of
+    re-polishing the head of every file over and over."""
+    if os.path.exists(PROG):
+        return json.load(open(PROG, encoding="utf-8"))
+    return {}
+
+
+def save_prog(p):
+    tmp = PROG + ".tmp"
+    json.dump(p, open(tmp, "w", encoding="utf-8"), ensure_ascii=False, indent=1, sort_keys=True)
+    os.replace(tmp, PROG)
+
+
+def set_progress(rel, offset):
+    p = load_prog()
+    if offset > p.get(rel, 0):
+        p[rel] = offset
+        save_prog(p)
+
+
 def prepare(rel, start, end, size, fresh=False):
     path = os.path.join(ROOT, rel)
     lines = open(path, encoding="utf-8").read().split("\n")
+    if start < 0:  # -1 = continue where the last merged round stopped
+        start = load_prog().get(rel, 0)
     end = min(end, len(lines))
     d = os.path.join(WORK, slug(rel))
     out = os.path.join(d, "out")
@@ -37,6 +61,9 @@ def prepare(rel, start, end, size, fresh=False):
             os.remove(os.path.join(out, f))
     os.makedirs(out, exist_ok=True)
     meta = {"path": rel, "start": start, "end": end, "size": size, "chunks": []}
+    if start >= end:
+        print(f"{rel}: past the end ({start} >= {end}) - nothing left to polish")
+        return
     k = 0
     for a in range(start, end, size):
         b = min(a + size, end)
@@ -131,7 +158,8 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("cmd", choices=["prepare", "merge", "report"])
     ap.add_argument("--path", required=True)
-    ap.add_argument("--start", type=int, default=0)
+    ap.add_argument("--start", type=int, default=-1,
+                    help="-1 (default) = resume from progress.json")
     ap.add_argument("--end", type=int, default=10 ** 9)
     ap.add_argument("--size", type=int, default=250)
     ap.add_argument("--dry", action="store_true")
