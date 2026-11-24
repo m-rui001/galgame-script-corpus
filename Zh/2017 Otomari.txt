@@ -925,7 +925,7 @@ protagonist:「起来吧。就这样吐出来——」
 heroine:「弄脏惹……」
 protagonist:「吐在我手上也没事。别介意。」
 heroine:「嘿唔……唔……」
-heroine:「啊……、诶……咳.」
+heroine:「啊……、诶……咳。」
 (scene change)
 protagonist:「……唾」
 narrator:像接小猫小狗的唾液那样，我接住了她吐出来的。

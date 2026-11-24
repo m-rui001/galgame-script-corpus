@@ -52,6 +52,10 @@ def polishable(line):
     return len(s) >= 8 and not KANA.search(s) and len(CJK.findall(s)) >= 3
 
 
+def norm_quotes(t):
+    return t.replace("乽", "「").replace("乿", "」")
+
+
 def check(src, out):
     a, b = src.strip(), out.strip()
     if not b:
@@ -61,7 +65,7 @@ def check(src, out):
     sa, sb = SPEAKER.match(to_sc(a)), SPEAKER.match(to_sc(b))
     if bool(sa) != bool(sb) or (sa and sa.group(1) != sb.group(1)):
         return False, "speaker"
-    if a.count("「") + a.count("『") != b.count("「") + b.count("『"):
+    if norm_quotes(a).count("「") + norm_quotes(a).count("『") != norm_quotes(b).count("「") + norm_quotes(b).count("『"):
         return False, "quotes"
     if sorted(DIGITS.findall(a)) != sorted(DIGITS.findall(b)):
         return False, "digits"

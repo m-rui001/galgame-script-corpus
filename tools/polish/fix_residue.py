@@ -25,16 +25,24 @@ CJK = re.compile(r"[\u4e00-\u9fff]")
 KANA = re.compile(r"[\u3040-\u309f\u30a0-\u30fa\u30fc-\u30ff]")  # 不含 U+30FB「・」
 
 
+CORRUPT_QUOTES = {"乽": "「", "乿": "」"}
+
+
 def fix_line(line):
     """Return (new_line, replacements). Deterministic, idempotent.
 
     行首的人物名前缀（`名字：`）原样保留，所有改动只发生在正文部分。
     """
+    quoted = 0
+    if any(c in line for c in CORRUPT_QUOTES):
+        for k, v in CORRUPT_QUOTES.items():
+            quoted += line.count(k)
+            line = line.replace(k, v)
     if not (any(c in line for c in "・ﾟﾞｰ")
             or CTRL.search(line)
             or re.search(r"·{2,}", line)
             or re.search(r"[一-鿿][.．](?=[一-鿿」』]|$)", line)):
-        return line, 0
+        return line, quoted
     # 假名较多的行是日文（或假名夹用的专名／标识符），整行不动
     kana = len(KANA.findall(line))
     if kana and kana / max(1, len(line)) > 0.08:

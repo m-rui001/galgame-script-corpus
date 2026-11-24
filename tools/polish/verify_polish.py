@@ -30,6 +30,10 @@ MARKERS = {
 }
 
 
+def norm_quotes(t):
+    return t.replace("乽", "「").replace("乿", "」")
+
+
 def head_text(rel):
     try:
         return subprocess.run(["git", "-C", ROOT, "-c", "core.quotepath=false", "show", f"HEAD:{rel}"],
@@ -67,7 +71,7 @@ def main():
                 bad.append(f"speaker@{i + 1}:{x.strip()[:20]}->{y.strip()[:20]}")
             if sorted(DIGITS.findall(x)) != sorted(DIGITS.findall(y)):
                 bad.append(f"digits@{i + 1}")
-            if x.count("「") + x.count("『") != y.count("「") + y.count("『"):
+            if norm_quotes(x).count("「") + norm_quotes(x).count("『") != norm_quotes(y).count("「") + norm_quotes(y).count("『"):
                 bad.append(f"quotes@{i + 1}")
             if KANA.search(y) and not KANA.search(x):
                 bad.append(f"kana@{i + 1}")
