@@ -26,12 +26,15 @@ def slug(rel):
     return re.sub(r"[\\/:*?\"<>| ]+", "_", rel)[:80]
 
 
-def prepare(rel, start, end, size):
+def prepare(rel, start, end, size, fresh=False):
     path = os.path.join(ROOT, rel)
     lines = open(path, encoding="utf-8").read().split("\n")
     end = min(end, len(lines))
     d = os.path.join(WORK, slug(rel))
     out = os.path.join(d, "out")
+    if fresh and os.path.isdir(out):
+        for f in os.listdir(out):
+            os.remove(os.path.join(out, f))
     os.makedirs(out, exist_ok=True)
     meta = {"path": rel, "start": start, "end": end, "size": size, "chunks": []}
     k = 0
@@ -132,9 +135,10 @@ def main():
     ap.add_argument("--end", type=int, default=10 ** 9)
     ap.add_argument("--size", type=int, default=250)
     ap.add_argument("--dry", action="store_true")
+    ap.add_argument("--fresh", action="store_true", help="wipe out/ before preparing")
     a = ap.parse_args()
     if a.cmd == "prepare":
-        prepare(a.path, a.start, a.end, a.size)
+        prepare(a.path, a.start, a.end, a.size, a.fresh)
     elif a.cmd == "merge":
         merge(a.path, a.dry)
     else:
