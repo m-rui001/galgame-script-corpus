@@ -22,12 +22,24 @@ That is wrong for the other two corpora:
   by a translation rather than polished.
 """
 import re
+import unicodedata
 
 KANA = re.compile(r"[\u3040-\u309f\u30a0-\u30ff]")
 CJK = re.compile(r"[\u4e00-\u9fff]")
 LATIN = re.compile(r"[A-Za-z]")
 WORD = re.compile(r"[A-Za-z][A-Za-z'’\-]*")
 DIGITS = re.compile(r"[0-9０-９]+")
+
+
+def digits_of(t):
+    """Digit multiset, NFKC-normalised.
+
+    Full-width and half-width digits mean the same number, and editors (and
+    models) normalize `２体` to `2体` constantly. Refusing a whole 450-line
+    section over that is a false positive; refusing it when the digit *values*
+    change is the real check.
+    """
+    return sorted(DIGITS.findall(unicodedata.normalize("NFKC", t)))
 QUOTES = "「」『』“”\"‘’"
 CONTENT = re.compile(r"[^\u4e00-\u9fff0-9０-９A-Za-zＡ-Ｚａ-ｚ]")
 
@@ -90,7 +102,7 @@ def check(src, out, lang="zh", spk=None):
         return False, "cjk"
     if lang in ("ja", "bi") and len(KANA.findall(b)) < len(KANA.findall(a)):
         return False, "kana lost"
-    if sorted(DIGITS.findall(a)) != sorted(DIGITS.findall(b)):
+    if digits_of(a) != digits_of(b):
         return False, "digits"
     if quote_count(a) != quote_count(b):
         return False, "quotes"
@@ -122,7 +134,7 @@ def block_ok(src_block, out_block, lang="zh"):
         return False, "kana"
     if lang == "en" and len(CJK.findall(out)) > len(CJK.findall(src)) + 2:
         return False, "cjk"
-    if sorted(DIGITS.findall(src)) != sorted(DIGITS.findall(out)):
+    if digits_of(src) != digits_of(out):
         return False, "digits"
     if quote_count(src) != quote_count(out):
         return False, "quotes"
