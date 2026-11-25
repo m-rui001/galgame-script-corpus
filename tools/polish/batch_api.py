@@ -10,8 +10,15 @@ Providers come from ~/.pi/agent/models.json so keys stay out of this repo.
 
     python tools/polish/batch_api.py --workdir _audit/polish_chunks/JA_X \
         --prompt docs/prompts/ja.md --threads 3 --limit 5
+
+Bilingual files (`--two-pass`) are cut into two single-language passes. Each
+pass masks the *other* language with `@@<line>` placeholders, asks the model to
+work on one language only, and then restores the masked lines by position, so
+the model never has a chance to touch a line it was not asked about and the two
+halves cannot drift apart.
 """
 import os
+import re
 import sys
 import json
 import time
@@ -22,7 +29,7 @@ from concurrent.futures import ThreadPoolExecutor
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from langrules import lang_of, block_ok  # noqa: E402
+from langrules import lang_of, block_ok, KANA  # noqa: E402
 
 MODELS = os.path.expanduser(os.path.join("~", ".pi", "agent", "models.json"))
 # Ordered by how well they hold a long editorial brief. The flash models are
@@ -32,6 +39,18 @@ PREF = ["cssm-gpt", "muse", "yanhuo888", "xcmapiorg", "grok-free", "ds-free"]
 
 BRIEF = ("以下是一段 {n} 行的文本切片。按系统提示的要求输出改写后的全文，"
          "不要解释，不要加代码块标记，不要省略任何行：\n\n{body}")
+
+# Simplified-only characters: a line with these and no kana is Chinese.
+SIMP = re.compile(r"[这们说时过对么让还样种觉认识该东丽举义乐习乡书买亚产亲亿仅从众优伟传伤价铁边变战听问间关开长门见现实头]")
+MASK = "@@"
+
+
+def kind(line):
+    if KANA.search(line):
+        return "ja"
+    if SIMP.search(line):
+        return "zh"
+    return "mt"
 
 
 def providers():
@@ -53,7 +72,7 @@ def chat(prov, system, user, timeout=600):
         "model": prov["model"],
         "messages": [{"role": "system", "content": system},
                      {"role": "user", "content": user}],
-        "temperature": 0.6,
+        "temperature": 0.3,
         "stream": False,
     }).encode("utf-8")
     req = urllib.request.Request(prov["url"], data=body, method="POST", headers={
@@ -76,6 +95,35 @@ def strip_fence(t):
     return t.rstrip("\n")
 
 
+def masked_chat(prov, system, lines, keep, tag):
+    """Ask for one language only; the rest of the lines are placeholders.
+
+    Line counts must stay 1:1 in this mode, because the untouched language is
+    restored by position rather than by the model. A model that merges two lines
+    is rejected here instead of silently shifting a bilingual file.
+    """
+    masked, originals = [], {}
+    for i, l in enumerate(lines):
+        if kind(l) == keep:
+            masked.append(l)
+        else:
+            masked.append(MASK + str(i))
+            originals[i] = l
+    note = ("\n\n本次只改「%s」的行。形如 @@12 的行是占位符，代表另一语言的行，"
+            "必须原样逐字保留、位置不变、不得删除或合并。行数必须与输入完全一致。"
+            % ("日文" if keep == "ja" else "中文"))
+    user = BRIEF.format(n=len(masked), body="\n".join(masked))
+    txt, secs = chat(prov, system + note, user)
+    got = strip_fence(txt).split("\n")
+    if len(got) != len(lines):
+        raise ValueError("lines %d->%d" % (len(lines), len(got)))
+    for i, l in enumerate(got):
+        if i in originals and l.strip() != (MASK + str(i)):
+            # placeholder was rewritten: the model ignored the mask
+            raise ValueError("mask %s -> %s" % (MASK + str(i), l.strip()[:12]))
+    return [originals.get(i, got[i]) for i in range(len(lines))], secs
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--workdir", required=True)
@@ -85,6 +133,8 @@ def main():
     ap.add_argument("--retries", type=int, default=3)
     ap.add_argument("--only", default="")
     ap.add_argument("--dry", action="store_true")
+    ap.add_argument("--two-pass", action="store_true",
+                    help="bilingual: polish JA and ZH in two masked passes")
     a = ap.parse_args()
 
     work = a.workdir if os.path.isabs(a.workdir) else os.path.join(ROOT, "..", a.workdir)
@@ -107,27 +157,43 @@ def main():
         todo.append(c["file"])
     if a.limit:
         todo = todo[:a.limit]
-    print("%d providers, lang=%s, %d chunks to do" % (len(provs), lang, len(todo)), flush=True)
+    print("%d providers, lang=%s, %d chunks to do, two_pass=%s"
+          % (len(provs), lang, len(todo), a.two_pass), flush=True)
 
     lock = threading.Lock()
     counter = {"done": 0, "idx": 0}
 
+    def next_prov():
+        with lock:
+            if not provs:
+                return None
+            p = provs[counter["idx"] % len(provs)]
+            counter["idx"] += 1
+            return p
+
     def one(name):
         src = open(os.path.join(work, name), encoding="utf-8").read()
-        user = BRIEF.format(n=len(src.split("\n")), body=src)
+        src_lines = src.split("\n")
         for _ in range(a.retries):
-            with lock:
-                prov = provs[counter["idx"] % len(provs)] if provs else None
-                counter["idx"] += 1
+            prov = next_prov()
             if not prov:
                 return
             try:
-                txt, secs = chat(prov, system, user)
-            except Exception as e:
-                print("  %s %s: %s %s" % (name, prov["name"], type(e).__name__, str(e)[:80]), flush=True)
+                if a.two_pass:
+                    cur, s1 = masked_chat(prov, system, src_lines, "ja", "ja")
+                    cur, s2 = masked_chat(prov, system, cur, "zh", "zh")
+                    txt = "\n".join(cur)
+                    secs = s1 + s2
+                else:
+                    txt, secs = chat(prov, system, BRIEF.format(n=len(src_lines), body=src))
+                    txt = strip_fence(txt)
+            except ValueError as e:
+                print("  %s %s: %s" % (name, prov["name"], e), flush=True)
                 continue
-            txt = strip_fence(txt)
-            ok, why = block_ok(src.split("\n"), txt.split("\n"), lang)
+            except Exception as e:
+                print("  %s %s: %s %s" % (name, prov["name"], type(e).__name__, str(e)[:70]), flush=True)
+                continue
+            ok, why = block_ok(src_lines, txt.split("\n"), lang)
             if not ok:
                 print("  %s %s: gate %s" % (name, prov["name"], why), flush=True)
                 continue
@@ -136,7 +202,7 @@ def main():
             with lock:
                 counter["done"] += 1
             print("  %s %s %.0fs lines %d->%d" % (name, prov["name"], secs,
-                  len(src.split("\n")), len(txt.split("\n"))), flush=True)
+                  len(src_lines), len(txt.split("\n"))), flush=True)
             return
         print("  %s: gave up" % name, flush=True)
 
