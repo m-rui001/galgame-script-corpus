@@ -22,7 +22,7 @@
 *Our relationship might have gone as far as us kissing (on the forehead), but still...*
 *From any standpoint, the idea that the two of us might experience our real, first lip-to-lip kiss on our reunion day is stretching reality a little bit.*
 *...And just in case anyone thinks otherwise, I'm not secretly hoping for that to happen.*
-*Feelings of both anticipation and anxiety rise inside me alternatively, mixing with one another.*
+*Feelings of both anticipation and anxiety rise inside me alternately, mixing with one another.*
 *Since all I have is her name, no contact information or anything of the sort, my plans to reunite with her have actually hit somewhat of a roadblock.*
 *It goes without saying that any sort of method, such as giving her a call or whatnot, is obviously out of the question, which is why I am strolling through the town on my own two feet at present.*
 *As I'm walking, I find myself hit by feelings of both surprise and emptiness alike while I scry through my porous memories of the past and compare them to the present.*
@@ -35,8 +35,8 @@
 *We will get to reunite, no matter what.*
 *Somewhere, deep down, I just know it.*
 *As for where this strange sense of confidence is coming from...*
-*At this very moment, I am heading towards the place where we promised to meet again─*
-*It was way back when when I became friends with her as just a young, innocent boy.*
+*At this very moment, I am heading towards the place where we promised to meet again—*
+*It was way back when that I became friends with her as just a young, innocent boy.*
 *Back then, she and I had our own special place.*
 Girl: "This is it, You-kun!"
 *The place she'd brought me to was so magnificently bright, it was almost enough to blind me.*
@@ -153,7 +153,7 @@ Girl: "Count to sixty, and then after that you can open your eyes again."
 *Thus I sat there, and cried that entire night, until someone found me the following morning while walking their dog.*
 *I couldn't remember how she and I first got to know each other.*
 *However, I did know that ever since that day when she showed me the lookout, we frequently met up there.*
-*Whenever I wanted to play with her, I would head straight there ─ to the place which offers the best view of the night sky in all of the town.*
+*Whenever I wanted to play with her, I would head straight there — to the place which offers the best view of the night sky in all of the town.*
 *We would meet up around evening, and spend time together as the sun was beginning to set, and into the arrival of nightfall when the stars came into view.*
 *We would gaze up together at those twinkling dots, their brightness mesmerizing to such an extent that it made us reach out, wanting to seize them.*
 ???: "Are you sure about skipping circle activities today?"
@@ -165,7 +165,7 @@ Girl: "Count to sixty, and then after that you can open your eyes again."
 ???: "As for me, they're the best thing in the world!"
 ???: "Oh yes, I quite know that. If I had a nickel for every single time I've heard you say that, I'd practically be a millionaire at this point."
 ???: "The problem is though, like, we've only got three more days until Tanabata! We just have to get permission for the rooftop by then..."
-???: "As members of the "Astronomy Fan Circle," orv"Astro Circle" for short, we would certainly bring shame to its name if we couldn't manage that, I agree."
+???: "As members of the "Astronomy Fan Circle," or "Astro Circle" for short, we would certainly bring shame to its name if we couldn't manage that, I agree."
 ???: "Orihime and Hikoboshi are out there waiting for meee!!"
 ???: "It's not often you have a clear sky on Tanabata, and according to the weather forecast, we'll be getting just that; I understand how you feel."
 ???: "Augh, I can't just let this chance slip by! I absolutely HAVE to see the "Magpie Bridge" with my own two eyes, no matter what!!"
@@ -221,7 +221,7 @@ Kogasaka You: "...You've gotta be fucking kidding me."
 Kogasaka You: "But why...?"
 *According to what I've always been told, the lookout beyond here is supposedly one of Hibarigasaki's sight-seeing spots.*
 *Of course, it isn't anything country-wide famous. Heck, you can even find people right here in this town that don't know about it.*
-*But the fact still remains ─ this spot offers a gorgeous, exceptional unbroken view of Hibarigasaki's nightscape.*
+*But the fact still remains — this spot offers a gorgeous, exceptional unbroken view of Hibarigasaki's nightscape.*
 *The starlit sky I used to gaze up at together with her was nothing short of breathtaking.*
 *It was so memorable to me, that whenever I would think of "summer night sky," the first thing that would pop into my mind was her.*
 *That was precisely why I had this strong desire to once again gaze up at those constellations in the night sky, with her right there with me.*
@@ -232,7 +232,7 @@ Kogasaka You: "...Goddammit."
 *...Are they doing construction work on it or something?*
 *Maybe they had temporarily closed it off to the public in order to do some renovation work on the place.*
 *But no, that doesn't add up. If that was the case, the sign here should say something indicating that, yet there is no mention at all.*
-*There are only two single words plastered on that sign, "No Tresspassing."*
+*There are only two single words plastered on that sign, "No Trespassing."*
 Kogasaka You: "So where does that leave me now...?"
 *I put my hands on the fence and rattle it a little.*
 *The lookout where we'd made our promise is only a tiny distance ahead of me...*
@@ -312,7 +312,7 @@ Girl: "So, uh, what's this consumthin tax thingy anyways?"
 *...On second thought, nevermind.*
 Girl: "We'll be able to meet again?"
 Kogasaka You: "Yep."
-Girl: "Absolutely postively?"
+Girl: "Absolutely positively?"
 Kogasaka You: "Yeah."
 Girl: "You swear upon the stars?"
 Kogasaka You: "Yeah."
@@ -379,7 +379,7 @@ Kogasaka You: "...Whoa there."
 *There were probably tears in my eyes too.*
 *In hindsight, I believe it was at that moment, that I stumbled upon a certain realization for the very first time.*
 *That I truly, honestly appreciated the fact that I'd met her.*
-*I loved that girl─*
+*I loved that girl—*
 *Which is why she can only be waiting for me to come back.*
 ???: "Welcome back, You-kun."
 *She is waiting for me.*
@@ -399,7 +399,7 @@ Kogasaka You: "...Whoa there."
 ???: "You remembered our promise."
 *However, this reunion is all too different from the heartwarming one I'd envisioned.*
 *The eye drops I have in my hand fall straight to the ground.*
-???: "Thank you for not forgetting me after all this time─"
+???: "Thank you for not forgetting me after all this time—"
 ???: "Now I can finally fulfill my duty."
 *I am currently gazing at the square-shaped snippet of the sky visible through the small kitchen window, all the while taking in the savory fragrance of breakfast coming from the sizzling frying pan.*
 *The radiant sunlight shines through the window, stinging my eyes. It is a nice, beautiful day out today.*
@@ -421,7 +421,7 @@ Chinami: "Yes! Yes it is! Did you not see the chore assignment sheet on the frid
 Kogasaka You: "Oh, yeah, the paper on the fridge."
 Chinami: "YOU KNEW ABOUT IT!!"
 Kogasaka You: "The handwriting was just so downright awful I couldn't make out a single word on it."
-Chinami: "How could y─?!"
+Chinami: "How could y—?!"
 Kogasaka You: "So yeah, I just shredded it up and threw it away."
 Chinami: "How could you be so cruel?!"
 Kogasaka You: "Well, for starters, you're very much not a morning person yourself, so there's no need to push yourself out of your comfort zone to make breakfast every day."
@@ -477,7 +477,7 @@ Kogasaka You: "That makes no sense..."
 *Which is unpacking all of our belongings the movers delivered here yesterday, and furnishing our rooms.*
 *Our first day of school is officially scheduled for next Monday, so we have a decent amount of time on our hands.*
 *All the unpacking and organizing should be done by then.*
-*I doubted I can achieve the exact same environment here as back in the city, but at the very least, I should be able to get my room to shape up to a good-enough resemblance.*
+*I doubted I could achieve the exact same environment here as back in the city, but at the very least, I should be able to get my room to shape up to a good-enough resemblance.*
 Chinami: "Onii-chan onii-chan onii-chaaaaaan!!!"
 Kogasaka You: "Hush."
 Chinami: "Owwie!!"
@@ -567,7 +567,7 @@ Kogasaka You: "No worries. I have faith in you, Chinami. You can do it."
 Chinami: "Huh..."
 Kogasaka You: "Have some confidence. You can definitely do it. After all, you're my amazing little sister."
 Chinami: "O-Onii-chan..."
-Kogasaka You: "I'm confident you'll be able to live a proud, succesful life without the need of clothing."
+Kogasaka You: "I'm confident you'll be able to live a proud, successful life without the need of clothing."
 Chinami: "'Kay! Thanks onii-chan! You're the best! Wait NO!! There's no way I can do something like that! You stinkin' perv-o!!"
 *Dealing with her is so damn exhausting.*
 Kogasaka You: "The dresser's in your room already, right?"
@@ -614,7 +614,7 @@ Kogasaka You: "Okay, okay, that's enough. Step back, I don't want you cutting yo
 Chinami: "Ah... okay."
 *I pick up the scattered glass fragments along with the cloth they were wrapped in and take both outside.*
 Chinami: "...I'm sorry onii-chan."
-Kogasaka You: "It's fine. Accidents happens sometimes, I understand."
+Kogasaka You: "It's fine. Accidents happen sometimes, I understand."
 *Chinami's face is masked with a conflicted expression.*
 *After vacuuming up all of the tinier fragments littered over the floor, I am now finally able to get back to unpacking.*
 Kogasaka You: "...Every time I try to take a step forward, it's two steps back."
@@ -639,7 +639,7 @@ Chinami: "I KNEW you'd say that!!"
 Kogasaka You: "All right, just leave the job to your big brother here."
 Chinami: "You've been so reluctant to help me all the previous times so why are you this enthusiastic now?!"
 Kogasaka You: "Sheesh, I swear sometimes. If that ribbon is soo special to you, then, I don't know, maybe don't use it in place of a cord in the first place?"
-Chinami: "Well you know me so obviously I originally used the tie for your uniform first but somehow as I was trying to tie it it frayed out and ripped so I kinda had no other option but─"
+Chinami: "Well you know me so obviously I originally used the tie for your uniform first but somehow as I was trying to tie it it frayed out and ripped so I kinda had no other option but—"
 Kogasaka You: "I'm gonna mince that stupid goddamn shelf right along with your little ribbon!!!"
 Chinami: "Oh my god onii-chan pulled out a chainsaw and now he's yelling maniacally?!"
 Kogasaka You: "AAARRRRRGGHHHH! C'MERE, LITTLE GIRL!!"
@@ -661,7 +661,7 @@ Chinami: "No duh I did! I totaaaally did! I wrote "stuff I don't like" "stuff I 
 Kogasaka You: "Alrighty then, guess I'd better start carrying my boxes up to my room. Which to start with?"
 Chinami: "And now it's like I'm not even here?!"
 Kogasaka You: "...You at least have 'something' written on your boxes, for what that's worth, so shouldn't that give you some inkling of an idea?"
-Chinami: "Well y'see there's just a whole ton of things I don't like that turn into things I actually like overnight! Way I see it that's just a kinda type of vacillation typical during puberty so it's just an it-is-what-is-is kinda thing and─"
+Chinami: "Well y'see there's just a whole ton of things I don't like that turn into things I actually like overnight! Way I see it that's just a kinda type of vacillation typical during puberty so it's just an it-is-what-is-is kinda thing and—"
 Kogasaka You: "Which cardboard box should I carry upstairs next?"
 Chinami: "Neglecting girls during their puberty years is what leads 'em into doing bad stuff you know that right?!"
 Kogasaka You: "...Are you seriously telling me your opinion on something can change from love to hate in a single night's time?"
@@ -759,7 +759,7 @@ Kogasaka You: "Just for future reference, what you usually do is, you tape the s
 Chinami: "...So I really am just deadweight."
 Kogasaka You: "Didn't we already establish that fact?"
 Chinami: "Who is this coldhearted person and what has he done with my big brother from only just a couple minutes back?!"
-Kogasaka You: "Once you're done with your bed, next up is carrying the other stuff inside. Guess I'll start with this bag here and─"
+Kogasaka You: "Once you're done with your bed, next up is carrying the other stuff inside. Guess I'll start with this bag here and—"
 Chinami: "NONONONO! DON'T OPEN THAT!!"
 Kogasaka You: "Oh, it's just your panties."
 Chinami: "You should at least get a little surprised avert your eyes blush or something else befitting of the situation!! You're such a big DUMMY onii-chan!!"
@@ -839,7 +839,7 @@ Chinami: "Is that lookout actually a special place to you?"
 Kogasaka You: "......"
 Chinami: "Aww you're embarrassed!"
 Kogasaka You: "...Buzz off."
-Chinami: "Well see according to my "Big Brother Observation Diary" I've kept up for so many many years now whenever a frown forms on your face you're either embarrassed or there's something you feel bad about so by process of elimination─"
+Chinami: "Well see according to my "Big Brother Observation Diary" I've kept up for so many many years now whenever a frown forms on your face you're either embarrassed or there's something you feel bad about so by process of elimination—"
 *I snatch the "observation diary" or whatever the hell it is out of her hands and rip it apart while throwing the shreds to the ground.*
 Chinami: "How could you?! That was my lifetime's work!"
 Kogasaka You: "Hurry it up, we don't want to make Aunt Shino wait."
@@ -878,7 +878,7 @@ Chinami: "See? My cheerfulness isn't my only positive quality I've also got my c
 Kogasaka You: "...Stop fooling around so we can get going."
 Chinami: "Aww you're embarrassed onii-chaaan."
 Kogasaka You: "Buzz off!"
-Chinami: "Well see according to my "Big Brother Observation Diary" whenever you look away real quick or get sharp-tongued it's 'cause you're either embarrassed feel bad about something or your heart's racing 'cause you're thinking of the girl you like so─"
+Chinami: "Well see according to my "Big Brother Observation Diary" whenever you look away real quick or get sharp-tongued it's 'cause you're either embarrassed feel bad about something or your heart's racing 'cause you're thinking of the girl you like so—"
 *I rip it to shreds.*
 Chinami: "Oh no God no the second copy has also met its demise!!"
 Kogasaka You: "I'm leaving you behind!"
@@ -898,7 +898,7 @@ Chinami: "Huh? Onii-chan..."
 Chinami: "Was the lookout always off-limits?"
 Kogasaka You: "No, back before we moved you could get through here no problem."
 Chinami: "Hmm. Think they're doing construction work around here or something?"
-*Like I already thought yesterday, if that is case, it'd be pretty normal to have a sign hung up somewhere to inform people of the starting date and projected completion date for the construction work written on it.*
+*Like I already thought yesterday, if that is the case, it'd be pretty normal to have a sign hung up somewhere to inform people of the starting date and projected completion date for the construction work written on it.*
 Kogasaka You: "I'm going on. Are you still coming?"
 Chinami: "Wait... you mean you're gonna just ignore it?"
 Kogasaka You: "Well, yeah."
@@ -983,7 +983,7 @@ Kogasaka You: "Yeah."
 Chinami: "What kinda stuff'd you talk about?"
 Kogasaka You: "......"
 Chinami: "What kinda girl's she?"
-*Chinami keeps bombasting me with questions about her unrelentingly.*
+*Chinami keeps bombarding me with questions about her unrelentingly.*
 Chinami: "...Is it something you wouldn't want me knowing about?"
 Kogasaka You: "Uh no, not in the least."
 Chinami: "I woulda wanted you to hesitate at least a LITTLE bit there onii-chan!!"
@@ -1016,13 +1016,13 @@ Kogasaka You: "Ah... umm..."
 *However, that only raised more questions.*
 *Why then did she bear the features that she did...*
 *Why was she so shockingly identical to that girl?*
-???: "Whose this person that you think I am?"
+???: "Who's this person that you think I am?"
 Kogasaka You: "Well, err..."
 ???: "Are you trying to get my name?"
 Kogasaka You: "...Ah, umm, yeah."
 *Overawed by a girl quite obviously younger than me by anyone's standard, I simply nodded in a dumbfounded fashion.*
 ???: "My name is Mare."
-*Mare─*
+*Mare—*
 Mare: "That what you wanted?"
 *It was a different name from the lookout girl.*
 *Far from it, in fact. Her name didn't even sound Japanese.*
@@ -1108,12 +1108,12 @@ Kogasaka You: "But, I mean, surely it isn't actually sharp enough to cut, right?
 Mare: "You'd be wrong. It is."
 *She declared so with confidence.*
 Mare: "Wanna see for yourself?"
-Kogasaka You: "Wait, wait! Hold up! I'd really not like to end seriously cut by that thing!"
+Kogasaka You: "Wait, wait! Hold up! I'd really not like to end up seriously cut by that thing!"
 Mare: "I got the impression you wanted me to cut you. You don't?"
 Kogasaka You: "It'd make you a real Grim Reaper if I ended up dying from that, right?!"
 Mare: "I AM a Grim Reaper. How can you not acknowledge that even though you are the one who called me one first?"
 *She got huffy.*
-*She had finally revealed an expression befitting her age. On one hand agitated me, but it also brought a sense of relief.*
+*She had finally revealed an expression befitting her age. On one hand, it agitated me, but it also brought a sense of relief.*
 *Contrary to her looks, she did give a more mature-esque vibe.*
 *The way she talked in particular.*
 *It was completely different from how the lookout girl used to talk.*
@@ -1169,7 +1169,7 @@ Chinami: "You know cheating is bad onii-chan! If you just absolutely gotta you s
 Kogasaka You: "Well, there aren't any girls I'm particularly close with."
 Chinami: "Not only am I not on your romantic radar I'm not even registered as a "girl" in your mind?!"
 *As I check the time on my cellphone, I note that it's about time to head back.*
-*It being July, the days are longer, but I guess this place being no exception to the fact that the hue of the sky transitions from orange to deep blue before long.*
+*It being July, the days are longer, but I guess this place is no exception to the fact that the hue of the sky transitions from orange to deep blue before long.*
 Kogasaka You: "Let's go on home. Aunt Shino's probably waiting."
 *I urge on the now sullen Chinami.*
 Kogasaka You: "Sorry I made you tag along here and all."
@@ -1184,10 +1184,10 @@ Chinami: "I dunno why the lookout's off limits and stuff but are you sure you wa
 Kogasaka You: "True, I wouldn't want that. I'll try not to come too often."
 Chinami: "...Meaning you're still gonna come here anyways. You just don't know when to give up."
 *Something inside of me is telling me that I'll only be able to see her here.*
-*Is it maybe because of the fact the she is nearly identical to the lookout girl?*
+*Is it maybe because of the fact that she is nearly identical to the lookout girl?*
 *Or because this place holds meaning to both me and the girl?*
 *Or, alternatively, is there some entirely different reason I don't know of which compels me so?*
-Chinami: "Look look! Lookie onii-chan! I drew a heart on this bark and put our names in so we'd never forget our first visit to the look─ Seriously?! I can't even finish my sentence before you get rid of it?! And extra thoroughly using paint at that?!"
+Chinami: "Look look! Lookie onii-chan! I drew a heart on this bark and put our names in so we'd never forget our first visit to the look— Seriously?! I can't even finish my sentence before you get rid of it?! And extra thoroughly using paint at that?!"
 Kogasaka You: "Listen, dear sister, you can't just go and tarnish others' memories."
 Chinami: "So what about my memories?! Do those mean stinkin' nothing to you?!"
 Kogasaka You: "Do you really need those, though?"
@@ -1217,7 +1217,7 @@ Shino: "I've baked plenty of souffles, so nothing to worry about. I'll go wrap u
 *Aunt Shino returns to the kitchen.*
 Chinami: "Those souffles taste just like Mom's onii-chan!"
 Kogasaka You: "...Huh."
-Chinami: "You think our feast for today's them?"
+Chinami: "You think these are today's feast?"
 *Pretty sure those souffles were the dessert.*
 Kogasaka You: "We're bringing those to our neighbors, so don't eat them again this time."
 Chinami: "Oh but that's such a tall order onii-chan! Souffles tarts and muffins are what keeps my body up and running! So if my eyes ever spot any one of those my very DNA itself takes full control and forces me to immediately stuff 'em in my mouth!"
@@ -1243,7 +1243,7 @@ Chinami: "Oh but that's a tall order onii-chan! You see my life goal is to hit t
 Kogasaka You: "Sometimes the vicarious embarrassment you give me is indescribable, Chinami-"chan.""
 Chinami: "That's not the kind of look you give a friend!!"
 *Tuning her voice out, I press the doorbell button on their intercom.*
-*Ten seconds ellapse with no response.*
+*Ten seconds elapse with no response.*
 Chinami: "Maybe they're gone?"
 Kogasaka You: "But I see lights on..."
 *From the window, which seems to belong to their living room, I can see a clear light shining through the gap between the curtains.*
@@ -1269,7 +1269,7 @@ Chinami: "Excuse meeeee maaaa'am! I'm from the Hibarigasaki Daily! I've come to 
 Kogasaka You: "Are you out of your goddamned mind?! That's fraud!"
 ???: "...You said something about the newspaper subscription fee?"
 *Absolutely great! Our good-natured neighbor has actually fallen for it!!*
-Chinami: "Gee willikers! I didn't except them to take the bait THIS easily!"
+Chinami: "Gee willikers! I didn't expect them to take the bait THIS easily!"
 ???: "...Bait? What bait?"
 Kogasaka You: "Ah, just ignore her! Good evening there! This is the Aoi residence, right?"
 ???: "......"
@@ -1333,7 +1333,7 @@ Shino: "I have to get back to work for a while. Call me if you need anything, al
 *Apparently having finished the dishes already as well, Aunt Shino goes back to her office.*
 *She works as a picture book author, and as such does most of her work from home, but apparently, whenever a deadline approaches, she tends to shut herself in her workroom, like now.*
 *I can't possibly thank her enough for taking time out of her busy schedule to prepare such a lavish feast to celebrate our moving-in.*
-Chinami: "Pheew... the way the hot tea just sliides it's way in through the tiny open gaps in my stomach is just woonderfuul."
+Chinami: "Pheew... the way the hot tea just sliides its way in through the tiny open gaps in my stomach is just woonderfuul."
 Kogasaka You: "Don't drink while sprawled on the sofa; that's bad manners. Plus, you'll get fat if you sleep right after eating."
 Chinami: "Don't care... Today I'm not the same as usual..."
 *I just can't for the life of me seem to locate what it is that is supposedly different about her.*
@@ -1390,8 +1390,8 @@ Kogasaka You: "That we'd definitely reunite, no matter what might happen."
 Girl: "But..."
 Girl: "...there's no telling when that's gonna be."
 Girl: "You don't know when you're gonna be able to come back..."
-Girl: "...and I don't know how long I'll have to wait for you─"
-Mare: "─I've been waiting for you, You-kun."
+Girl: "...and I don't know how long I'll have to wait for you—"
+Mare: "—I've been waiting for you, You-kun."
 *A whitish figure sits there, having expected me.*
 *This is my payoff for banking on that tiny hope despite everything pointing to the opposite.*
 *Because of that, a surge of sharp pain courses through my chest.*
@@ -1497,7 +1497,7 @@ Mare: "A Grim Reaper."
 Mare: "A Grim Reaper that reaps people's nightmares."
 Kogasaka You: "Nightmares, rather than the person's life, per usual Grim Reaper?"
 Mare: "Right."
-Kogasaka You: "And what are these "nighmares" you're talking about?"
+Kogasaka You: "And what are these "nightmares" you're talking about?"
 Mare: "Look it up in a dictionary."
 Kogasaka You: "What does "reaping a nightmare" mean?"
 Mare: "While I've reaped them before, I've never experienced myself what it's like to have a nightmare reaped, so I can't say."
@@ -1510,10 +1510,10 @@ Kogasaka You: "So then..."
 *For the slightest moment, I hesitate to voice these questions.*
 Mare: "Whenever you're hesitating between two sides, asking or not asking, you're best off going with the latter."
 *Mare says that in an indifferent tone.*
-Mare: "Questions that cause hesitation at the thought of asking are prone to considerably invading the inner heart ─ the inner feelings ─ of the other."
+Mare: "Questions that cause hesitation at the thought of asking are prone to considerably invading the inner heart — the inner feelings — of the other."
 Mare: "And if done so casually, without so much as considering the consequences, the asker wouldn't even think of taking responsibility for that..."
-Mare: "And that while that's what the receiving party whose inner heart had been seen would truthfully want."
-Mare: "And that while they would want to share their worries, their anger, their grief and their joy with the other..."
+Mare: "And that's what the receiving party whose inner heart had been seen would truthfully want."
+Mare: "While they would want to share their worries, their anger, their grief and their joy with the other..."
 Mare: "Hence, you shouldn't ask those kind of questions unless you're fully prepared to be that someone."
 Mare: "That's what's best for both parties."
 *The scythe in her hand gives off a silver glint as if to cast a warning at me.*
@@ -1523,7 +1523,7 @@ Kogasaka You: "So that means it's all right to ask once one's absolutely convinc
 *Mare's facial expression changes drastically.*
 *This happens to be the very first time I've seen a definite, visible shift in her emotions.*
 Mare: "...Well, let's say this."
-*However, as if immediately pushing those emotions to the back of her mind, she quickly returns to her usual huffy expressing before continuing.*
+*However, as if immediately pushing those emotions to the back of her mind, she quickly returns to her usual huffy expression before continuing.*
 Mare: "Should that time come, don't you think the other would bring it up of their own accord even if you kept quiet?"
 *The very next moment, clouds obstruct the starlight for a single instant, and then Mare is gone.*
 Chinami: "Onii-chan onii-chan onii-chaaaaaan!!"
@@ -1555,7 +1555,7 @@ Chinami: "Ah! ...'Kay!"
 *It is the first time in my life I've ever slept on a sofa, but it is actually a lot more comfortable than I imagined.*
 Chinami: "Oh no! Oh no! Oh noooooo!!!! I oversleeeeeeeeeeeeeeeeeept!!!!!"
 *My ears are assaulted by loud, heavy footsteps approaching from up the stairs.*
-Chinami: "Sorry onii-chan! I'll get started on breakfast right here in a sec so just─ Wait! How come you're already eating just like yesterday?!"
+Chinami: "Sorry onii-chan! I'll get started on breakfast right here in a sec so just— Wait! How come you're already eating just like yesterday?!"
 *Chinami bolts into the dining room with a blazing zeal.*
 Kogasaka You: "Morning."
 Chinami: "Don't you "morning" me while you just wipe your mouth with a napkin all gracefully mister! I asked you a question!!"
@@ -1613,7 +1613,7 @@ Kogasaka You: "Oh, may this time of peace last forever more..."
 *...*
 Kogasaka You: "Guess that'll do 'er."
 *I've finished setting up my bed.*
-*To my great delight, none of the pieces failed to fit and I didn't run out screws. It was smooth sailing from start to finish.*
+*To my great delight, none of the pieces failed to fit and I didn't run out of screws. It was smooth sailing from start to finish.*
 *I flop down on the bed to rest for a bit.*
 Kogasaka You: "Hmm, what's next..."
 *Just looking at the mountainous heaps of cardboard boxes in the room is enough to make my motivation plummet.*
@@ -1647,7 +1647,7 @@ Kogasaka You: "...Kinda takes me back."
 *It hasn't even been that many days since I last saw them.*
 *In cases like these, it might not be the amount of time that makes things feel this way, but the distance that separates you.*
 *I haphazardly throw the porn mag to the ground, and see what the rest of my female classmates have to say.*
-Chinami: "Onii-chan! Here I am!! I've washed my face and also brushed my teeth so I'm all ready to get to work! Ready to give you a helping hand! Where should I start? Huh? What is that? There's some magazine on the floor that has a lot of skin color─"
+Chinami: "Onii-chan! Here I am!! I've washed my face and also brushed my teeth so I'm all ready to get to work! Ready to give you a helping hand! Where should I start? Huh? What is that? There's some magazine on the floor that has a lot of skin color—"
 Kogasaka You: "Don't you DARE lay your stinkin' hands on thaaaaaaaaaaat!!!!!!!!!!!!"
 *I execute a diving catch while exhibiting a fearsome yakuza-style roar.*
 Chinami: "Wh-What-what-what in the what?!?!"
@@ -1655,7 +1655,7 @@ Chinami: "Wh-What-what-what in the what?!?!"
 Kogasaka You: "...Listen to me, knucklehead. You have to knock on people's doors before you just come barging in."
 *I nonchalantly get up from the floor as if literally nothing happened while hiding the porn mag behind my back.*
 Kogasaka You: "So what is it? You want something?"
-Chinami: "Yep! I was gonna thank you for all your help yesterday so I came to─"
+Chinami: "Yep! I was gonna thank you for all your help yesterday so I came to—"
 Kogasaka You: "Thanks, but no thanks."
 Chinami: "How could you turn me down before I even finished saying it?!"
 Kogasaka You: "Listen, Chinami. Your big brother here has his hands full right now, so could I please ask you to leave my room?"
@@ -1695,10 +1695,10 @@ Kogasaka You: "To begin with, did I not tell you stay out of my room?"
 Chinami: "Ah but I couldn't! I just had to! I promised Mom-in-Heaven I'd help you unpacking and furnishing as thanks for yesterday!"
 Kogasaka You: "...I see."
 Chinami: "Exactly!"
-Kogasaka You: "Look, I'm happy about that, but─"
+Kogasaka You: "Look, I'm happy about that, but—"
 Chinami: "All right then I'll get to peeling off the tape!"
 **RIP* *RIP* *RIP**
-Chinami: "See just watch and look Oonii-chan! Leave it to me and I can get rid of that petty little tape in a millisecond no hesitation not even giving that drawer's coating the time of day─ Wait! It hurts! My temples! Is that any way to thank someone?!"
+Chinami: "See just watch and look Oonii-chan! Leave it to me and I can get rid of that petty little tape in a millisecond no hesitation not even giving that drawer's coating the time of day— Wait! It hurts! My temples! Is that any way to thank someone?!"
 *After giving her a nice, thorough noogie, I lift her up in my arms.*
 Chinami: "Ahhh... a-again... the bridal carry..."
 Kogasaka You: "Under no circumstances enter my room again."
@@ -1724,7 +1724,7 @@ Chinami: "Onii-chan onii-chan onii-chaaaaaan! Fwoo~"
 *A sudden blow of air into my ear causes the glass door to slip out of my hands and plummet to the floor.*
 **CRASH**
 *It tragically shatters into countless fragments.*
-Chinami: "Y'see y'see I was thinking about making lunch so I came to ask you what you'd like to─ Wait! Why are you fists sitting on my temples onii-chan?!"
+Chinami: "Y'see y'see I was thinking about making lunch so I came to ask you what you'd like to— Wait! Why are you fists sitting on my temples onii-chan?!"
 *I execute today's third punishment.*
 Kogasaka You: "You little snot, what the heck happened to our promise?!"
 Chinami: "Well y'see thing is it's like almost time for lunch and so I figured you'd be hungry and stuff and I figured you wouldn't be able to do much work with an empty stomach and all!"
@@ -1794,7 +1794,7 @@ Chinami: "...Yeah it does."
 Kogasaka You: "No, it doesn't."
 Chinami: "Yes it does!"
 *She's gotten angry at me for some odd reason.*
-*After giving the finger I ended up cutting some first-aid treatment, I finish assembling the TV stand.*
+*After administering some first-aid treatment to the finger I ended up cutting, I finish assembling the TV stand.*
 Kogasaka You: "I've finally gotten this far, huh..."
 *Next up is the bookshelf.*
 *Once I've assembled that, all I'll have left to do is sort and shelve my books along with the other miscellaneous stuff still boxed up.*
@@ -1967,7 +1967,7 @@ Girl: "I can't tell you until you've grown up a little more, and become a real m
 "Spending time together with her was so fun that not even the passage of time can erode these memories from within me."
 *That was what I may have been taught by her.*
 *However, those memories full of fun and joy had, by now, too become blurry here and there.*
-*I suppose that basically implies that I've started to forget these precious memories I received from her; Those memories I hold so dear and cherished.*
+*I suppose that basically implies that I've started to forget these precious memories I received from her; those memories I hold so dear and cherished.*
 *It basically means that the very joyful emotion I feel spending time with her in and of itself has started to erode away inside of me.*
 *Or maybe, that eroding process already started and finished long ago?*
 *I couldn't possibly call myself a model student at this rate.*
@@ -1979,7 +1979,7 @@ Kogasaka You: "...Is she gonna be there?"
 *The eccentric girl that was a mirror image of "her," the girl who used to be my teacher when it came to "having fun."*
 *I have to get past this fence in order to see her.*
 *It is an obstacle in the way of my desire to reach the lookout.*
-*Back when I was kid, climbing Yumemi Hill itself was an obstacle.*
+*Back when I was a kid, climbing Yumemi Hill itself was an obstacle.*
 *Climbing the hill all the way to the top was hard to manage with the stamina of a kid, as one can imagine. The fact that Chinami gave up halfway and called a taxi to take her home is a good example of that.*
 *Looking back now, it was actually seriously impressive that the lookout girl managed to climb it basically every day.*
 *Whenever I arrived at the hilltop all huffing and puffing and out of breath, she always awaited me there with an unruffled expression.*
@@ -2014,7 +2014,7 @@ Mare: "Hrmm."
 Kogasaka You: "I mean, like, I didn't even have friends I played with."
 *Barring the lookout girl, of course.*
 Kogasaka You: "However, after I transferred schools, I underwent a drastic change and I began to make friends, hang out with them, messed around, the usual. Which, in turn, made me stop being a model student in a different sense I guess."
-Kogasaka You: "I wasn't all that negligible of my classes or anything like that in my opinion, but our tsundere class rep often nagged at me."
+Kogasaka You: "I wasn't all that neglectful of my classes or anything like that in my opinion, but our tsundere class rep often nagged at me."
 Mare: "Who's that?"
 Kogasaka You: "Just some girl that might've had a thing for me."
 Mare: "......"
@@ -2025,7 +2025,7 @@ Mare: "Oh."
 Kogasaka You: "Figures I wasn't a model student in regards to love either."
 Mare: "Oh."
 Kogasaka You: "So, maybe like..."
-*Maybe, because of my inadequecy, the lookout girl was trying to teach me about "love" as well.*
+*Maybe, because of my inadequacy, the lookout girl was trying to teach me about "love" as well.*
 *Maybe that was what that first kiss on my forehead meant.*
 *Back then, we had a relationship sort of like student and teacher.*
 *I guess you could say that kind of bond connected us.*
@@ -2033,7 +2033,7 @@ Kogasaka You: "So, maybe like..."
 *If I were to lose any of those two, I could very well lose any shot of meeting her again for the rest of my life.*
 *I just can't get that fear out of my chest.*
 *And that is why I have to prevent myself from forgetting them at all costs.*
-*Now matter how hazy my memories might become.*
+*No matter how hazy my memories might become.*
 *At the very least, I absolutely have to hold on to her name.*
 Mare: "So, what? What were you gonna say?"
 Kogasaka You: "...Nevermind."
@@ -2098,7 +2098,7 @@ Kogasaka You: "It's not even a national holiday, so I figure no one really cares
 Mare: "Well, it's not a day important enough to care about."
 Kogasaka You: "Yeah, I guess that's true for most people."
 Mare: "Mhm."
-Kogasaka You: "Though I do believe up, until middle school, students still hang up wish cards at school."
+Kogasaka You: "Though I do believe up until middle school, students still hang up wish cards at school."
 Mare: "Wish cards? I thought it was cake?"
 Kogasaka You: "...Does your family celebrate Tanabata with cake?"
 Mare: "Tana...bata?"
@@ -2108,7 +2108,7 @@ Kogasaka You: "Well, tomorrow's Tanabata, yeah?"
 *The Milky Way wouldn't flood.*
 *The two of them would get their long-awaited reunion.*
 Mare: "...Oh. Tomorrow's Tanabata, huh?"
-Kogasaka You: "What did you thinking it was?"
+Kogasaka You: "What did you think it was?"
 Mare: "...Nothing really."
 *She turns away from me huffily.*
 Kogasaka You: "What're you pouting for now?"
@@ -2160,7 +2160,7 @@ Mare: "...Aren't you the gentleman."
 Kogasaka You: "......"
 *Why does she keep saying things that mirror my memories?*
 *Still, I highly doubt she'd follow with something like "Have you ever kissed someone before?" like back then.*
-Mare: "Goodybe, You-kun."
+Mare: "Goodbye, You-kun."
 *And right I was.*
 Mare: "I meant to skewer your back the moment you turned around, but I let my chance slip by."
 Mare: "Your nightmare's proving to be quite the formidable one."
@@ -2239,7 +2239,7 @@ Shino: "It just blows my mind. Both the quantities of the ingredients, and the t
 *In an evident contrast to today's sky.*
 Chinami: "Oh no! Oh no! Oh noooooo!!!! I oversleeeeeeeeeeeeeeeeeept!!!!!"
 *The usual scene of my sister's awakening, already right in the process of becoming an established routine, unfolds before me.*
-Chinami: "Sorry onii-chan! I'll get started on breakfast right here in a sec so─"
+Chinami: "Sorry onii-chan! I'll get started on breakfast right here in a sec so—"
 Kogasaka You: "Phew, I'm stuffed."
 Chinami: "You monster!! You're already done eating?!"
 Kogasaka You: "No worries, there's some for you, too."
@@ -2247,7 +2247,7 @@ Chinami: "That's the hijiki and soybean simmer style omelette you threw in the g
 Kogasaka You: "I'll be up in my room finishing the furnishing and unpacking I still have left."
 Chinami: "Oh no you don't! You're gonna let me make breakfast this time! Is it that fun for you to get in my way each and every single morning?!"
 Kogasaka You: "Well, I don't know, if you wanna pin it on someone, it's probably your fault for sleeping in."
-Chinami: "No it's not! It's my stupid alarm's fault for stopping on it's own! It's all because that dumb piece of crap is broken!"
+Chinami: "No it's not! It's my stupid alarm's fault for stopping on its own! It's all because that dumb piece of crap is broken!"
 Kogasaka You: "I could hear it ringing loud and clear actually."
 Chinami: "Yeah I know but still! Still! I didn't hear it!"
 Kogasaka You: "Well, that's just 'cause idiots aren't able to hear it."
@@ -2291,7 +2291,7 @@ Chinami: "Why?! Why?! I just can't turn the doorknob! The door won't open at all
 *Okay, next I'll line up my books and stuff on the bookshelf, and...*
 Chinami: "Onii-chan onii-chan onii-chaaaaaan!!"
 **BAM* *BAM* *BAM**
-*The A6 paperbacks volumes go on the topmost shelf, the A5 ones and standalone titles on the middle one, and magazines on the lowest...*
+*The A6 paperback volumes go on the topmost shelf, the A5 ones and standalone titles on the middle one, and magazines on the lowest...*
 Chinami: "Why aren't you saying anything?! Onii-chan onii-chan onii-chaaaaaan!!"
 **BAM* *BAM* *BAM**
 *The reference books go on my desk's shelf...*
@@ -2302,7 +2302,7 @@ Chinami: "Is this actually one of those emergency situations?! I see! I know wha
 Kogasaka You: "Are you NUTS?! What kind of situation demands a chainsaw?!"
 Chinami: "ARRRRGGGHHHH! C'MERE LITTLE BOY!!"
 **VROOM* *GZZZZZZZZZZZZZ**
-Chinami: "I've broken through onii-chan! I'm coming! Just hang in there! Now that I'm here I'll give you mouth-to-mouth so─ Huh?! Why are you towering before me with that devilish grin?!"
+Chinami: "I've broken through onii-chan! I'm coming! Just hang in there! Now that I'm here I'll give you mouth-to-mouth so— Huh?! Why are you towering before me with that devilish grin?!"
 *Needless to say, I give her a very thorough punishing.*
 Kogasaka You: "...Well, for now, I've called someone to come fix the door."
 Chinami: "It wasn't my fault! It's all on you for pretending not to be there!"
@@ -2317,7 +2317,7 @@ Chinami: "Ah... okay."
 *Thanks to that, it looks like we can get the door repaired without her ever having to know about it.*
 Kogasaka You: "Tell me once the people get here to work on the door, okay? I'll be working on the rest of my packing in the meanwhile."
 *Chinami nods dejectedly.*
-*She is a real handful of a sister with a grave lacking of common sense, as she so splendidly demonstrated just now, but her personality does have some merit to me.*
+*She is a real handful of a sister with a grave lack of common sense, as she so splendidly demonstrated just now, but her personality does have some merit to me.*
 *After all, Chinami's unvarnished, 24/7 cheerfulness is the reason I don't feel depressed despite the fact that we've lost both our parents.*
 Kogasaka You: "Sheesh, I'm finally done..."
 *The unpacking and furnishing of my room has finally welcomed its happy end.*
@@ -2341,7 +2341,7 @@ Chinami: "Bingo! Strike 'er while the iron's hot!"
 Kogasaka You: "But isn't your piggy bank shivering from the cold wind blowing through its hollow crannies?"
 Chinami: "See that's where you come into play!"
 *Chinami pulls on my arm.*
-Chinami: "All you gotta do is donate some food to my oh-so-despondent piggy and─"
+Chinami: "All you gotta do is donate some food to my oh-so-despondent piggy and—"
 Kogasaka You: "Nope."
 Chinami: "I haven't even finished my sentence yet!"
 Kogasaka You: "Well, I already know you want me to lend you the money."
@@ -2352,7 +2352,7 @@ Chinami: "Please please pretty please! Say yes! Say yes! Pretty please! Buy me a
 Kogasaka You: "Sorry to disappoint you, but I'm hurting on cash, too. Tack that on to the fact that I have a sideboard to buy myself, too."
 Chinami: "My sideboard and your sideboard which is more important to you?!"
 Kogasaka You: "Is that even a question? Mine, duh."
-Chinami: "You monster!! How could say that without even batting an eye?!"
+Chinami: "You monster!! How could you say that without even batting an eye?!"
 Kogasaka You: "Do you really even need a new one though? I mean, the glass doors are just broken, that's all. Still plenty usable."
 Chinami: "Same goes for yours!"
 Kogasaka You: "What're you saying? Without the glass, everything I put on display there'll get covered in dust. Sorta defeats the purpose, don't you think?"
@@ -2369,7 +2369,7 @@ Chinami: "YAAAAAAY!!"
 Kogasaka You: "Looks like we'll just barely manage."
 Chinami: "I love you onii-chan!!"
 Kogasaka You: "As long as you don't go over 120 yen we should be good."
-Chinami: "What kind of siderboard out there costs less than a can of juice?!"
+Chinami: "What kind of sideboard out there costs less than a can of juice?!"
 Kogasaka You: "Well, within that range, I suppose you should be able to get one that can fit exactly one soft drink can?"
 Chinami: "That wouldn't even be a shelf anymore!!"
 Kogasaka You: "Oh, aren't you glad your treasured soft drink can won't have to get all dusty now?"
@@ -2424,10 +2424,10 @@ Chinami: "Though if anything I think this second move might've been a bit easier
 *And, despite the fact that having to part with my friends from the city made me feel sad and lonely, there was also a definitive anticipation that I'd meet people to fill that void here.*
 *The primary individual in that regard is the lookout girl.*
 *But it isn't limited to just her. I might also have been able to see some of my old classmates from elementary here in Hibarigasaki again.*
-*Unlike the lookout girl, whose appearance I vividly remember, I could barely remember any of their faces before now, and they might as well have been completely forgotten me.*
+*Unlike the lookout girl, whose appearance I vividly remember, I could barely remember any of their faces before now, and they might as well have completely forgotten me.*
 *Besides, nostalgic reunions aren't just limited to people. You could also apply it to the townscape I am looking at right now as I advance down the street together with Chinami.*
 Chinami: "Alrighty! Mission nostalgia exploration of Hibarigasaki is a go!"
-*Chinami's shoutout as a signal, our pace increases.*
+*With Chinami's shoutout as a signal, our pace increases.*
 *After about five minutes of walking, we happen across Hibarigasaki's station.*
 *As memory serves me, the shopping district should primarily stretch out around the nearest station, so as long as we are at Aunt Shino's house, we can easily just walk to do all of our shopping.*
 Chinami: "The station's exactly how it used to be."
@@ -2462,7 +2462,7 @@ Kogasaka You: "Nope."
 Chinami: "Why is it that you always cut me off without letting me finish what I want to say?!"
 Kogasaka You: "It's probably just the "second coming of your much-loved sideboard" you saw in a store window, am I right? And my "nope" also meant refusal to check the price."
 Chinami: "Well you're totally wrong! There was just a shop over there I've never seen before! It musta opened after we moved away dontcha think?!"
-*I direct my eyes towards the shop Chinami was pointing it.*
+*I direct my eyes towards the shop Chinami was pointing at.*
 *Just like she said, it is indeed a shop I can't find searching through my memories.*
 *Is that a cafe?*
 *It might be newly open, but in the event it opened right after we moved away from this town, "newly open" as a term wouldn't quite be fitting.*
@@ -2475,8 +2475,8 @@ Kogasaka You: "Wanna eat there before we shop for the sideboards?"
 Chinami: "Yeah! Great idea!"
 *Thus, the two of us enter the cafe together.*
 *I gaze around the cafe's interior while the old-fashioned doorbell rings behind us, signalling to the staff that customers are here.*
-*The exterior doesn't deceived our expectations. Just like we imagined, a comfortable, nice atmosphere surrounds us.*
-*Hung up paintings and vases, the furniture in addition to the music they are playing all together sooth my body, which is exhausted beyond belief from all the furnishing and unpacking.*
+*The exterior didn't deceive our expectations. Just like we imagined, a comfortable, nice atmosphere surrounds us.*
+*Hung up paintings and vases, the furniture in addition to the music they are playing all together soothe my body, which is exhausted beyond belief from all the furnishing and unpacking.*
 *I spy other customers besides us at tables here and there, so I suppose you could say this cafe is doing decent business.*
 Chinami: "Onii-chan! Let's sit over there!"
 *Following Chinami, we go over to a window table.*
@@ -2544,14 +2544,14 @@ Kogasaka You: "Yep. Although it was a bit of a pain to have to get across the ra
 *...Wait, is the elementary school she is talking about the same one I used to attend?*
 Asuho: "Wait a second... I thought you said you just moved here the other day?"
 Kogasaka You: "Err, yeah. About that."
-Chinami: "Heyy!! Onii-chan is getting all nice and chummy with the maid!! He's gonna skip lunch entirely and take the maid!! You mighta been rejected by your first love sure but that doesn't mean you can just go and pounce on any girl that comes your wa─"
+Chinami: "Heyy!! Onii-chan is getting all nice and chummy with the maid!! He's gonna skip lunch entirely and take the maid!! You mighta been rejected by your first love sure but that doesn't mean you can just go and pounce on any girl that comes your wa—"
 Kogasaka You: "Be a good girl and shut your lips."
 *I shove a second mayonnaise tube into her mouth.*
-*She finishs sucking the whole bottle clean within a mere two seconds.*
+*She finishes sucking the whole bottle clean within a mere two seconds.*
 Kogasaka You: "This knucklehead right here is my little sister. Her name's Kogasaka Chinami, and she'll be attending Hibari High too as a first-year."
 Asuho: "Yeah... she's already downed two whole bottles of mayonnaise... and she's not done..."
 Kogasaka You: "Chinami, that's bad manners. Give it a rest now, okay?"
-Chinami: "You should've stopped me sooner!! All 'cause of you I was about to fill up entirely on mayonaisse!!"
+Chinami: "You should've stopped me sooner!! All 'cause of you I was about to fill up entirely on mayonnaise!!"
 *It is entirely beyond me how she can criticize me considering her expression of pure bliss while sucking on those things.*
 Boss: "Asuho, I don't mind if you chat with our customers, but don't forget to take their orders."
 Asuho: "Oh. Sorry about that! Well then, have you two decided on your orders yet?"
@@ -2570,7 +2570,7 @@ Asuho: "Nope, it's just some honey toast."
 *...Though, honestly, I'd be a bit perturbed if a soft-shelled turtle dish was being served at a maid cafe.*
 Asuho: "And, after that, Apollo finally found Hermes, determined to get back his stolen cattle. In a terrible fluster, Hermes presented the lyre he made with the turtle shell to him as a form of apology."
 Asuho: "After some time, Apollo passed that lyre to the musician Orpheus and the melody produced by him playing it captivated humans, animals, and plants alike."
-Asuho: "Then, there came a time when Orpheus descended to the underworld in order to save his wife, the Oak Nymph Eurydice. With his lyre, he created essentially a miracle, but in the end, he still failed to save his wife, and─"
+Asuho: "Then, there came a time when Orpheus descended to the underworld in order to save his wife, the Oak Nymph Eurydice. With his lyre, he created essentially a miracle, but in the end, he still failed to save his wife, and—"
 Boss: "Asuho, mind your customers."
 Chinami: "Ummm errrr so the Lyre of Hermes is not a soft-shelled turtle dish which is why Orpheus' lyre turns into honey toast in order for him to save his wife and..."
 *Chinami's eyes are spinning in circles.*
@@ -2598,7 +2598,7 @@ Kogasaka You: "Yeah. I might become a regular from now on."
 *The food itself is also pretty good, so I suppose once I've made some friends in my new class, I could stop by this place every now and again.*
 Asuho: "Daaaad! I'm gonna go out for a bit, okay!"
 Asuho: "I've got some stuff I need to take care of at school. I'll work some more hours later to make up for this, so see you later!"
-*That maid's voice didn't have the kind of outrageous volume that ruptured your ears like Chinami's, but it still carried quit well regardless.*
+*That maid's voice didn't have the kind of outrageous volume that ruptured your ears like Chinami's, but it still carried quite well regardless.*
 *I suppose by "school" she meant Hibari High.*
 *Today is a Saturday so there shouldn't be any classes going on, but maybe she has club activities or remedial classes.*
 Chinami: "Hey onii-chan!! Lookie there! This cafe's hiring part-timers right now!"
@@ -2667,12 +2667,12 @@ Kogasaka You: "...I think it takes a dummy to know one."
 *Not to mention, I am a massive "dummy" for prioritizing seeing Mare over my search efforts.*
 *It makes more than enough sense for the lookout girl to simply be upset with me, and hence be avoiding me as a result.*
 *Yumemi Hill is a gentle slope, but in turn, it stretches out for a fair distance.*
-*It should've originally been a site-seeing spot, albeit a rarely visited one, alongside the lookout, but now the lookout is closed off for reasons unknown to me.*
+*It should've originally been a sight-seeing spot, albeit a rarely visited one, alongside the lookout, but now the lookout is closed off for reasons unknown to me.*
 *So I imagine that, at this point in time, essentially no one other than students climbs this hill.*
 *Which, in turn, means that this hill makes Hibari High students build up some good stamina.*
-???: "I would greatly appreciate it if you didn't make me repeat myself for the thousandth time. Students aren't allowed use of the rooftop; you and I both know that."
+???: "I would greatly appreciate it if you didn't make me repeat myself for the thousandth time. Students aren't allowed to use the rooftop; you and I both know that."
 *Right as I am passing that very place...*
-Asuho: "And I keep telling you over and over again, yet you never listen! If we can't go up there our, Astro Circle becomes literally pointless!"
+Asuho: "And I keep telling you over and over again, yet you never listen! If we can't go up there, our Astro Circle becomes literally pointless!"
 *There are two female students arguing near the school gate.*
 *One of them I don't know, but the other one is Minahoshi Asuho, that girl that I saw dressed as a maid just earlier today.*
 *I am fairly certain if there were more passersby besides myself, they would have stopped in their tracks to stare at them like I am now.*
@@ -2686,7 +2686,7 @@ Asuho: "No, it's totally not! Not at ALL! All the other members got bored out of
 ???: "Oh, that's valuable information. Much appreciated. Now I have a reason to take the AV room away from you."
 Asuho: "God, Komomo-chan, why do you treat us like such a thorn in your side?!"
 Komomo?: "I do NOT recall giving you permission to call me by my first name!!"
-Asuho: "It's Tanabata today!! The statistical probability for precipitation on July the 7th is over 70% percent! Yet this year, we actually have clear weather!! This is a big deal!!"
+Asuho: "It's Tanabata today!! The statistical probability for precipitation on July the 7th is over 70%! Yet this year, we actually have clear weather!! This is a big deal!!"
 Komomo?: "We're in the rainy season, so it could just rain anyway for all I care."
 Asuho: "Orihime and Hikoboshi are waiting for me!! This year, the two of them who have been torn apart by the Celestial God could finally make the lachrymal rain run dry!!"
 Kogasaka You: ""...Lachrymal rain?""
@@ -2779,7 +2779,7 @@ Kosame: "After appeasing nee-san's anger, I will pacify Asuho-san."
 *She, on the other hand, doesn't seem all too surprised, instead giving off the impression she might've been expecting me.*
 *...A tourist?*
 *That speculation doesn't come just because I haven't seen her before.*
-*Since I've been away for awhile, there are a fair share of locals who I've never seen before as well.*
+*Since I've been away for a while, there are a fair share of locals who I've never seen before as well.*
 *Rather, what leads me to thinking this was that, judging by what those Hibari High students said, it is pretty common knowledge among locals that the lookout is off-limits.*
 *And if you know that you couldn't go up to the lookout, you have virtually no reason to purposefully make the cumbersome climb up the hill.*
 *Therefore, if you were to list one group of people that wouldn't have this information, that would be outsiders, like tourists for instance.*
@@ -2798,7 +2798,7 @@ Kogasaka You: "No, I know about that."
 Kogasaka You: "Just a little something I need to take care of."
 ???: "Meaning it's not your first time coming here, huh?"
 Kogasaka You: "Well, yeah, since I'm doing stuff here."
-???: "Would you care to tell what that "stuff" is?"
+???: "Would you care to tell me what that "stuff" is?"
 *...What is with her?*
 *Why does she keep throwing these aggressive questions at me like she is conducting some police interrogation?*
 Kogasaka You: "Are you... one of the officials of whoever erected this fence, by any chance?"
@@ -2809,7 +2809,7 @@ Kogasaka You: "Are you... one of the officials of whoever erected this fence, by
 *She directs a cold gaze at my face.*
 *...How did she know I was trespassing?*
 *It is sort of like I am being interrogated, which is making me feel awfully uncomfortable.*
-???: "So, would you mind telling me why exactly you need to go the lookout up here?"
+???: "So, would you mind telling me why exactly you need to go to the lookout up here?"
 Kogasaka You: "...Umm, if you aren't an official of who put up the fence, then it's none of your concern what I'm doing and why, right?"
 ???: "I can, however, as a citizen of this town caution you for what it's worth."
 *So she isn't a tourist, but a local.*
@@ -2847,7 +2847,7 @@ Kogasaka You: "...Probably, yes."
 *I can't spot the Grim Reaper dressed girl known as Mare anywhere.*
 *The feeling of letdown causes a release of tension, and I sit down on a grassy spot nearby.*
 *It seems I am only able to meet Mare at night. This is the second time I've come here around dusk, but just like last time, she isn't here.*
-*If memory serves me, Mare herself said she wouldn't be here on cloudless nights.*
+*If memory serves me, Mare herself said she wouldn't be here at all unless the night was cloudless.*
 *So does that mean she couldn't come here when the sky isn't clear?*
 *But really, I felt for her parents. They must be absolutely worried sick with a daughter her age having a habit of sneaking out so damn late to go play.*
 *High up in the sky, over the townscape I have an unbroken view of from here, is one single star that twinkles there lonesomely like a lost child.*
@@ -2869,10 +2869,10 @@ Kogasaka You: "...Probably, yes."
 *It is all thanks to Tanabata that these strong feelings of longing alone, still vivid inside of me this very moment, haven't become cloudy.*
 *It is because I have so yearned for the starlit sky we gazed up at in Hibarigasaki, that she is the one thing I didn't forget.*
 *I couldn't forget.*
-*Who could ever possibly forget this sky that lay before me at this very moment─*
+*Who could ever possibly forget this sky that lay before me at this very moment—*
 *With the sun seen disappearing beyond the horizon far in the distance, the orange light that had engulfed the town has disappeared. Following that, the night sky I long to see has shown itself.*
 *Before my eyes the stars engage in a contest, putting on a dazzling display. Adding all that brightness together, you might just be able to compare it to the sun.*
-*The nighttime sky in the city is nothing compared to this. It doesn't even fall short of the illustrations seen in astronomy encyclopedias.*
+*The nighttime sky in the city is nothing compared to this. It even surpasses the illustrations seen in astronomy encyclopedias.*
 *At this point, the summation of the surface area of the stars exceeds that of the black in between them.*
 *The sky feels so densely lit with stars that I could just about drown in them.*
 Mare: "So this is the starry sky on Tanabata, huh?"
@@ -2941,7 +2941,7 @@ Mare: "...Mhm."
 Kogasaka You: "Orihime, having been separated from her beloved Kengyuu, thus grew motivated by the prospect of reunion once a year and started to diligently weave clothing after clothing again."
 Kogasaka You: "Kengyuu, too, took their promise of reunion to heart, and assiduously immersed himself in his work as the two of them awaited the 7th of July with anticipation."
 Kogasaka You: "However, when it rains on that day, the rainwater makes the water level of the Milky Way increase, thus rendering it impossible for Orihime to cross over to the other shore where Hikoboshi is."
-Kogasaka You: "Standing on opposite shores of the Milky Way that separates them, the two of them deeply grieve over not being able to reunite. All they can to is gaze at the river surface as they weep─"
+Kogasaka You: "Standing on opposite shores of the Milky Way that separates them, the two of them deeply grieve over not being able to reunite. All they can do is gaze at the river surface as they weep—"
 *Separated by my moving, our promise of reunion in my heart, I had indeed been zealous.*
 *I learned as much as I could about the stars.*
 *Well, sure, compared to an actual astronomer, that knowledge was presumably very little, but it exceeded the difference of knowledge between a child and a grownup.*
@@ -2962,7 +2962,7 @@ Kogasaka You: "You'd be right. That's why they appear as a flock."
 Kogasaka You: "Then they each spread out their wings as wide as can be, and line up to form a bridge, thus helping Orihime cross over to Kengyuu's side."
 Mare: "And they all lived happily ever after?"
 Kogasaka You: "Yep. They all lived happily ever after."
-*I take a hearty breathe to unwind.*
+*I take a hearty breath to unwind.*
 Kogasaka You: "Did you like it?"
 Mare: "It was okay."
 Kogasaka You: "Do you love the stars?"
@@ -3005,11 +3005,11 @@ Mare: "I'll never, ever see you again if you open your eyes..."
 "Please, don't leave me. I love you."
 "I owe you so much."
 "You were the very first person to become the friend of something like me, someone who never even thought of making friends..."
-Mare: "─Thank you so much, You-kun."
+Mare: "—Thank you so much, You-kun."
 *At that moment, something lightly touches me.*
 *However, the sensation is not on my forehead, but on my chest.*
 *Somehow, the sensation feels almost irrational in nature.*
-*For instance, is it be possible to take the sensation I'd experience from someone kissing me on the forehead, and perfectly reproduce that sensation on my chest?*
+*For instance, is it possible to take the sensation I'd experience from someone kissing me on the forehead, and perfectly reproduce that sensation on my chest?*
 *That is straight up impossible.*
 *Because, of course, I am wearing clothes. So how is it that I am able to feel this clear warmth directly on my skin, through my clothes?*
 *I open my eyes.*
@@ -3027,11 +3027,11 @@ Mare: "Your nightmare only kept growing and growing."
 *However, my voice remains stifled within me. The visual information my eyes are feeding me throws my autonomic nerves into disarray, paralyzing both my tongue and throat.*
 *Maybe that's also the reason why I don't feel any pain.*
 *Or is it because I've simply lost it that this vivid sensation feels not like pain, but like a warm light instead?*
-Mare: "With this, I've succesfully reaped one of your nighmares."
+Mare: "With this, I've successfully reaped one of your nightmares."
 *Is that why the warm light-like sensation resembles that first kiss from my memories?*
 *Is that why it feels so exactly like when the lookout girl kissed me on my forehead?*
 ***** kissed me on...*
-Kogasaka You: "Huh─"
+Kogasaka You: "Huh—"
 *Something feels terribly off.*
 *At that moment, an enigmatic anxiety surges forth.*
 *An anxiety you'd expect to feel upon being lost in a department store you've entered for the first time, only to find to your complete bafflement upon exiting that the world around you has changed entirely.*
@@ -3041,7 +3041,7 @@ Kogasaka You: "Huh─"
 *I'm trying to seize it within my mind, but I don't even know what it is I should be seizing in the first place.*
 Mare: "I've told you this how many times already..."
 *Slowly, tears streamed down Mare's face.*
-Mare: "I'm a Grim Reaper that reaps nighmares..."
+Mare: "I'm a Grim Reaper that reaps nightmares..."
 *At that very moment, her tears seem to be more beautiful than any star in the night sky, and something I've been trying to keep hold of then disappears.*
 Mare: "And I've been waiting for you because of that..."
 *It is completely gone.*
@@ -3064,7 +3064,7 @@ Mare: "I don't wanna feel this pain any more..."
 *I forgot it.*
 *I've forgotten ****'s name.*
 *Without notice. Even though there is no doubt in my mind that I clearly remembered it only mere seconds ago.*
-*That information and it alone is wiped clean from my mind, as if a gaping whole has opened up in my memories.*
+*That information and it alone is wiped clean from my mind, as if a gaping hole has opened up in my memories.*
 Kogasaka You: "What the fuck is this...?!"
 *Without it, I won't be able to see her again.*
 *I'll never be able to see her ever again.*
@@ -3103,7 +3103,7 @@ Kogasaka You: "Are you still not ready, Chinami?! Jesus, hurry up!"
 Kogasaka You: "What is taking you so long?! At this rate, we'll be late on our first day!"
 Chinami: "I can't help it! I can't okay! It's my first time putting on this school uniform so it takes some time getting the buttons and the ribbon all right and perfect!!"
 *Apparently experiencing various hardships getting herself prepared for school, my sister is still cooped up in her room.*
-*I impatiently stand down here waiting on Chinami to hurry herself up, feeling both a bit emotional and slightly unease in response to the well-starched uniform I have on.*
+*I impatiently stand down here waiting on Chinami to hurry herself up, feeling both a bit emotional and slightly uneasy in response to the well-starched uniform I have on.*
 *For both Chinami and myself, today marks our first day as official students of Hibari High.*
 *Of course, us being transfer students, we have to drop by the faculty office before the start of homeroom to meet our respective homeroom teachers, which is why I wanted to get a bit of a head start this morning, but yeah... so much for that.*
 *A quick glance at my cellphone's watch tells me we only have ten more minutes until the ringing of the bell.*
@@ -3142,14 +3142,14 @@ Kogasaka You: "Ah, hold on."
 *As I call out to her to stop, she questioningly tilts her head, looking back at me.*
 Kogasaka You: "You're going to school, right? Would you mind if I joined you?"
 *I mean to get on friendly terms with our neighbors right away.*
-*Maybe you could pin it on the calm, soothing atmosphere of Hibarigasaki, in sharp contrast to the bustling, hecticness of the city. I guess you could say, it sort of, well, made me feel more relaxed and friendly?*
+*Maybe you could pin it on the calm, soothing atmosphere of Hibarigasaki, in sharp contrast to the bustling hecticness of the city. I guess you could say, it sort of, well, made me feel more relaxed and friendly?*
 *Anyhow, it is important to maintain a wholesome relationship with those who live around you.*
 Kogasaka You: "Today's actually my first day at Hibari High, so, like I'd really appreciate it if you could maybe help me get accustomed to the place, show me where things are, you know..."
-Chinami: "Ahhh!! Onii-chan's getting all chummy with the neighbor girl!! It's only been a few days since you gobbled up that maid and now your tummy's grumbling again?! But don't worry! If it's that hard for you you can just have little Chinami here for dess─"
+Chinami: "Ahhh!! Onii-chan's getting all chummy with the neighbor girl!! It's only been a few days since you gobbled up that maid and now your tummy's grumbling again?! But don't worry! If it's that hard for you you can just have little Chinami here for dess—"
 Kogasaka You: "Um, have we met before?"
 Chinami: "And now I'm a complete stranger?!"
 ???: "...It's that weirdo from the other day."
-Chinami: "I am absolutely postively most definitely NOT some weirdo for your information! All of that was because this guy right here stabbed me in the back so it wasn't my fault he made me look bad! So yeah hope we can be BFFs Aoi-chan!"
+Chinami: "I am absolutely positively most definitely NOT some weirdo for your information! All of that was because this guy right here stabbed me in the back so it wasn't my fault he made me look bad! So yeah hope we can be BFFs Aoi-chan!"
 Kogasaka You: "Don't address her in such a casual way from the get go. Yeah, sorry, you'll have to excuse her. This knucklehead over here is quite lacking when it comes to manners."
 ???: "...It's that weird guardian-like person of the weirdo."
 *She mentally put me in the same category as Chinami?!*
@@ -3162,7 +3162,7 @@ Chinami: "Yesiree!"
 Kogasaka You: "Since Aunt Shino's still sleeping, we gotta be careful not to forget about that."
 Chinami: "Yep!"
 Kogasaka You: "All right, let's get going then."
-Chinami: "BUT! Before we go onii-chan lookie lookie! Check out my shiny sparkly brand spanking new uniform! Cute as a button right? Pretty as an angel right? If you want I'll even be willing to wear this outfit when I cook for you or when I clean the─"
+Chinami: "BUT! Before we go onii-chan lookie lookie! Check out my shiny sparkly brand spanking new uniform! Cute as a button right? Pretty as an angel right? If you want I'll even be willing to wear this outfit when I cook for you or when I clean the—"
 Kogasaka You: "Neighbor girl, wait for meeee!"
 Chinami: "Don't run away from me you big dummyyyyyyyyy!!!"
 *I hike up the hill.*
@@ -3190,7 +3190,7 @@ Kogasaka You: "I'm Kogasaka You, a second-year at Hibari High. And this is my li
 *I go ahead and introduce ourselves first to make it easy for her to reply.*
 ???: "...Same. Aoi Isuzu."
 *Still wearing that expressionless face, she answers about as concisely as concise can get.*
-Kogasaka You: "So looks you and Chinami'll be in the same grade, huh."
+Kogasaka You: "So looks like you and Chinami'll be in the same grade, huh."
 *My thoughts turn out to be correct.*
 Kogasaka You: "But say, Aoi-san, you sure you don't want to pick up your pace a little bit? I mean, the bell's about to ring in just a few minutes here."
 Isuzu: "...You're acting too friendly for comfort."
@@ -3238,10 +3238,10 @@ Chinami: "Yep!"
 *Since Chinami and I are in different grades, we also have different homeroom teachers to go see. Accordingly, this is where our ways part.*
 *By the time I've exchanged a simple introduction with my homeroom teacher, the bell has already rung. Led by that teacher, we leave the faculty room and go up to the third floor.*
 *After walking down the hallway for a short while, the teacher then halts before a door.*
-*プレートには２‐Ａとある。*
+*The nameplate on the door reads ２‐Ａ.*
 *This is the class I've been assigned to.*
 *Leaving me with a simple "Wait out here for now," he enters the classroom.*
-*I supposed he is going to introduce me to the class during the morning homeroom session that is starting now.*
+*I suppose he is going to introduce me to the class during the morning homeroom session that is starting now.*
 *When he brings me before the class, I'll have to introduce myself in front of them.*
 *Not gonna lie... I'm pretty nervous.*
 *The situation I am currently in perfectly resembles the one I experienced during my first time moving.*
@@ -3253,7 +3253,7 @@ Chinami: "Yep!"
 *...I wonder how Chinami's holding up?*
 *Knowing that girl, she'll no doubt go pointlessly overboard for her self-introduction, but with her characteristic cheerfulness and vitality at her disposal, I am quite sure she'll be friends with everyone in no time.*
 *What about me though?*
-*Will I be able to sift my way into the class as easily as her?*
+*Will I be able to settle into the class as easily as her?*
 *Will it be like last time, where I go through some hardships at first, but gradually make my way there eventually...?*
 Kogasaka You: "...Ugh, I really need to stop being so pessimistic."
 *At this rate, I'll just end up the laughing stock of the class.*
@@ -3282,7 +3282,7 @@ Kogasaka You: "Well, the thing is, I'm a transfer student and this is my first d
 *As I stand there, tilting my head in puzzlement, I hear my homeroom teacher's voice.*
 *All right. It is showtime, baby. Time to roll up my sleeves and nail this self-introduction.*
 *Because god knows I don't want to get laughed at by that girl whose name I've now forgotten.*
-*I pull open the door, and instantly find that being the only sound I hear.*
+*I pull open the door, and instantly find that the door itself is the only sound I hear.*
 *The classroom is shrouded in absolute silence.*
 *The atmosphere is evidently tense, almost making me break out into a sweat.*
 *I lined up next to the teacher, who is standing at the podium.*
@@ -3293,7 +3293,7 @@ Kogasaka You: "Well, the thing is, I'm a transfer student and this is my first d
 *Naturally, I feel a little overwhelmed. So much so that I almost inadvertently take a step back.*
 *I can even spy a few students here and there whispering back and forth between each other.*
 *It would be completely normal for them to think something was amiss with the fact that I've transferred during the odd month of July.*
-*...Though, funnily enough, there really isn't any particularly rumor-bait kind of reason.*
+*...Though, funnily enough, there really isn't any particular rumor-bait kind of reason.*
 *I know full well they aren't staring at me this intently out of spite.*
 *But still, that doesn't make things any easier.*
 *The teacher says a few brief words to the class, then writes my name on the blackboard before turning it over to me to give a short self-introduction.*
@@ -3314,7 +3314,7 @@ Kogasaka You: "Well, the thing is, I'm a transfer student and this is my first d
 *From what I remember, it was a little awkward.*
 *A self-introduction being what it is, I am pretty sure I must've said something, but I can't for the life of me remember what that something was.*
 *There is also the chance that I didn't actually say anything at all then, contrary to my thoughts.*
-*Maybe I was only reigned by the strong desire to flee that place at once, ultimately rendering me unable to say anything.*
+*Maybe I was only ruled by the strong desire to flee that place at once, ultimately rendering me unable to say anything.*
 *Maybe I just stood there, waiting for that moment of eternity to hurry up and pass by.*
 *Though I don't need to think about that. I am different now.*
 *I've grown.*
@@ -3334,7 +3334,7 @@ Kogasaka You: "Well, the thing is, I'm a transfer student and this is my first d
 *For the second goddamned time, too!!*
 *Well, there went that maturity I thought I had... Right out the window...*
 ???: "Kogasaka-kun! You can do it!!"
-*A conspiciously resonant voice amidst the boisterous classroom entered my ears.*
+*A conspicuously resonant voice amidst the boisterous classroom entered my ears.*
 Asuho: "Guys, stop whispering and give him a chance to talk!! Of course he's not gonna be able to say anything if nobody's listening!!"
 *Amidst that sea of unfamiliar faces, there is one that isn't.*
 *The girl that stood up and raised her voice is that maid I met the other day.*
@@ -3397,7 +3397,7 @@ Asuho: "Well, that'd naturally be embarrassing."
 Kogasaka You: "I mean... it's certainly less embarrassing than "You-chan.""
 Asuho: "Hm? But isn't that what I used to call you way back?"
 *Asuho once again draws closer to me with a jerk.*
-*I think about her words while challenging the limits of my bodies flexibility as I bend back even further.*
+*I think about her words while challenging the limits of my body's flexibility as I bend back even further.*
 *Way back? How far are we talking here?*
 Asuho: "You are the You-chan I'm thinking of, right?"
 *...Which You-chan?*
@@ -3412,7 +3412,7 @@ Kogasaka You: "......"
 *I didn't even try to make any.*
 *It wasn't something that really weighed on me much at all, and pretty much everyone else just accepted that and left me be.*
 *But despite that, there was a girl that always tried to get me to make friends and be social.*
-*Whether that was simply out of pity and concern for a loner like myself, or whether she simply regarded me as a "forbidden fruit" that stirred her curiosity, I could't tell.*
+*Whether that was simply out of pity and concern for a loner like myself, or whether she simply regarded me as a "forbidden fruit" that stirred her curiosity, I couldn't tell.*
 *Right... she was the class rep...*
 Asuho: "Remember me now? I was the class rep back then, too."
 *Rather than a dependable, stern kind of girl who could control the class with the snap of her fingers, she was more like the sociable girl who was friends with everyone.*
@@ -3449,7 +3449,7 @@ Asuho: "Since you went to a different one, this must be your first time seeing Y
 ???: "I'd say so. Anyway, name's Asuka Mirai. Nice to meet ya."
 Kogasaka You: "Yeah, same here."
 *It strikes me as a strange name, but I refrain from saying that out loud, not wanting to be rude.*
-Asuka: "Still, pretty strange time of year to be tranfering, huh? Like, you basically only got one month till summer break."
+Asuka: "Still, pretty strange time of year to be transferring, huh? Like, you basically only got one month till summer break."
 Asuka: "Anything... "special" behind that?"
 *He, on the other hand, just bluntly puts into words what he's thinking.*
 Kosame: "Now, Asuka-san, don't invade his privacy. Prying is poor manners. If you want to nose around regardless, you should put that off until you've become better friends."
@@ -3471,7 +3471,7 @@ Asuka: "Literally how? Not like you guys were the only two people at that school
 Asuho: "But I'm the only one who remembered You-chan right away."
 Kosame: "I'm fairly positive you won't be the only person who happens to remember him."
 Kogasaka You: "Nah, she might. It was a fair bit ago when I moved away, so it wouldn't be strange if no one else remembered me."
-Asuho: "See! I'm the priviliged one!"
+Asuho: "See! I'm the privileged one!"
 Kosame: "I think that's something you actually ought to deny if you care about your self-regard, Kogasaka-san."
 Asuka: "So, you already have all your textbooks 'n stuff?"
 Kogasaka You: "Yep, got them right here."
@@ -3530,7 +3530,7 @@ Asuho: "Hey, You-chan."
 Asuho: "You're eating in the cafeteria, right?"
 Kogasaka You: "Yep, that's the plan."
 *Asuho bends forward towards me, almost as if taking that as her cue.*
-*Her face being so awfully close, I naturally bend backward embarrassment.*
+*Her face being so awfully close, I naturally bend backward in embarrassment.*
 *I suppose she had the habit of getting real close, and up in their face when she was talking to someone.*
 *Though it isn't as though it is a constant thing. It is more like some certain things just inadvertently compel her to do it, and of course, that isn't something only limited to myself.*
 Asuho: "I usually get mine at the cafeteria, too. Then again, I think that's basically the same for most students."
@@ -3650,7 +3650,7 @@ Kogasaka You: "Wh-What??"
 Asuka: "You good with all-nighters? The type that can see well in the dark? What's your opinion on the whole Foo Fighter phenomena? Ever been abducted by aliens before?"
 *...Where do I even start??*
 Asuho: "And what the heck about that canon barrage of questions is "proper?!""
-Asuka: "Doesn't the vastness of the universe as well as it's supposed existence for 13.7 billion years make you think it's just not possible that us earthlings are the only form of intelligent life out there??"
+Asuka: "Doesn't the vastness of the universe as well as its supposed existence for 13.7 billion years make you think it's just not possible that us earthlings are the only form of intelligent life out there??"
 Asuho: "Who cares about that? We can send our hearts out to the captivating magic of constellations 13.7 billion light years away!"
 *I highly doubt there are stars located at the ends of the universe.*
 Asuka: "After all's said and done, constellations are just lame crap people thought up 'cause they were bored! Y'see, Kogasaka, come with me, and you might just get a glimpse of the mysteries that surpass the human intellect. Sounds rad, right?"
@@ -3706,7 +3706,7 @@ Asuho: "You-chan realized that "Lyre of Hermes" relates to the myth surrounding 
 Kogasaka You: "...What kind of stuff does the Astro Circle do, exactly?"
 *A weensy bit of interest has found me.*
 *I'd like to do real stargazing, at least once.*
-*It isn't like I've always had a thing for the stars. I only grew knowledgeable about them for the lookout girl. That wais all.*
+*It isn't like I've always had a thing for the stars. I only grew knowledgeable about them for the lookout girl. That was all.*
 *I merely read through tons of illustrated astronomy encyclopedias in order to learn more about them.*
 *Of course, that being the case, I've never done proper stargazing using a telescope before.*
 *Asuho's surprised expression turns over to joy.*
@@ -3769,7 +3769,7 @@ Kogasaka You: "...I feel like I won't be paid in a currency valid on this planet
 *Since I had already completed that, I then move on to the second item, which is what brought me to this floor.*
 *This is my first order of business in searching for the lookout girl whose name I've lost: Asking around for information.*
 *I scan the faces of the third-years as I pass by them in the hallway.*
-*I sneak a peak into the individual classrooms, and take a look at the faces of the girls currently indulging in that feeling of liberation brought about by the ending of the school day.*
+*I sneak a peek into the individual classrooms, and take a look at the faces of the girls currently indulging in that feeling of liberation brought about by the ending of the school day.*
 *I've forgotten the name of the lookout girl.*
 *But I still have her appearance to go off of, luckily enough.*
 *Inside my memories, she is obviously still a child, but even if she has matured and changed since then, common facial features should exist.*
@@ -3964,17 +3964,17 @@ Kogasaka You: "No, it's fine. They didn't have what I was looking for."
 *I don't know how many there are exactly, but in the event that she isn't a student here, I have no other choice but to investigate the other schools as well.*
 *...The question being: how exactly do I go about that.*
 Kosame: "Would you like to check out the other books then?"
-*Kosame has one hardback back and two paperbacks in her hands.*
+*Kosame has one hardback and two paperbacks in her hands.*
 Kosame: "Since you were looking for books on memory loss, I figured the medical section would be our best bet. All I managed to discover were these three books here..."
 Kogasaka You: "That's more than enough. Thanks."
 *Kosame-san replies with an amiable smile and starts getting ready to make me a borrower's card.*
 Kogasaka You: "Kosame-san, you've been a really great help."
 Kosame: "Oh, there's no need to thank me. After all, knowing I was of service to you brings me great joy as a member of the Library Committee."
-*The letters she writes "Kogasaka You" with on the card are tender and graceful.*
+*The way she writes "Kogasaka You" on the card is tender and graceful.*
 *The books I've borrowed at the library in my book bag, I decide to swing by the lookout on my way home.*
 *I'll end up waiting there, I suppose.*
 *For the lookout girl to show up, as well as a certain other girl.*
-*The Grim Reaper girl, named Mare─*
+*The Grim Reaper girl, named Mare—*
 *I have a barrage of questions I want to ask her.*
 "Have you really stolen away the lookout girl's name from me?"
 "Have you reaped her name, that you labeled my 'nightmare', with that massive scythe?"
@@ -3990,14 +3990,14 @@ Kosame: "Oh, there's no need to thank me. After all, knowing I was of service to
 *To begin with, if you just stop and think about it, Mare would have to have been a baby, or at the very most a kindergartner at the time. Although Mare herself denies that.*
 *Her entire identity is one huge question mark to me. She doesn't have parents, or a home, and as the cherry on the top, supposedly she's been a Grim Reaper since birth and doesn't age.*
 *...What is with that clearly non-human setting?*
-*Well, admittedly, since she is a Grim Reaper, I guess that may technically cause her to her fall under the supernatural being category.*
+*Well, admittedly, since she is a Grim Reaper, I guess that may technically cause her to fall under the supernatural being category.*
 *Asuka would likely jump for joy if he heard about that, but as for me, I could only see it as well-crafted fibbing to hide something.*
 *And, while it might be something minor, there is another mystery that has non-human elements to it.*
 *The way she keeps disappearing right before my very eyes.*
 *It happened that night...*
 *Right after Mare reaped my nightmare, she vanished into thin air.*
 *It happened abruptly, without even time for me to process what had happened.*
-*Maybe it was because I was reigned by severe confusion at the time. I might've just missed her turning her back towards me and then normally walking down the hill.*
+*Maybe it was because I was ruled by severe confusion at the time. I might've just missed her turning her back towards me and then normally walking down the hill.*
 *At the time, I was in a mental state of excessive agitation. I was unable to think straight and my brain couldn't process visual information properly either.*
 *However, thinking back with a sound mind, I haven't seen her "leave" the lookout despite having met her there several times.*
 *One second she is there, and the next she is gone.*
@@ -4024,8 +4024,8 @@ Kogasaka You: "Maybe I'm just overglorifying those memories..."
 *Though I have to admit, I kinda feel like she'd dodge the question, saying something like "Grim Reapers don't have contact information" even if I did ask her.*
 *I keep sitting on the lawn grown cold and gaze up at the melancholic night sky veiled in clouds until a fair while past nightfall.*
 Chinami: "Onii-chan onii-chan onii-chaaaaaan!!!"
-*The moment I return home, giving up on being able to see Mare in the end, Chinami rushes over to me at a speed that would put any debtor chasing bill collector to shame.*
-Chinami: "What's the matter?! What happened?! How come you're so late?! Don't tell me you've been wallowing in grief after you got bullied and couldn't make any friends in your new class?! It's at times like these that my brimming affection comes to the re─"
+*The moment I return home, giving up on being able to see Mare in the end, Chinami rushes over to me at a speed that would put any bill collector chasing a debtor to shame.*
+Chinami: "What's the matter?! What happened?! How come you're so late?! Don't tell me you've been wallowing in grief after you got bullied and couldn't make any friends in your new class?! It's at times like these that my brimming affection comes to the re—"
 *Fed up with her already, I place my ice-cold hand on her forehead.*
 Chinami: "Oh my god your hand is very very cold!! Yes my affection towards you may be a raging fire but that doesn't mean you can use me in place of a pocket heater! I'm so cold I might actually freeze to death!"
 Kogasaka You: "You're not glad to be able to go out like that? They say that for us humans no death is more beautiful than dying through freezing."
@@ -4042,7 +4042,7 @@ Shino: "Apparently, Chinami-chan has already made herself a friend in her new cl
 Chinami: "I did! I did onii-chan! I was able to meet Aoi-chan again in my new class! I became classmates with Aoi-chan!!"
 Kogasaka You: "That poor girl."
 Chinami: "Why're you giving me the exact opposite reaction I'd hoped for?!"
-Kogasaka You: "Well, good for you if you were able to became friends with her, I guess."
+Kogasaka You: "Well, good for you if you were able to become friends with her, I guess."
 Chinami: "Yep yep! I've identified Aoi-chan as my best friend number one! Aoi-chan was also totally happy about it and gave me a cheerful smile!"
 *Imagining that girl with a smile is hard enough as is...*
 *Knowing Chinami, I assume she merely decided that on her own regardless of the reality, but she really isn't one to be trifled with since if you don't be careful, you'll be dragged into that delusion next thing you know.*
@@ -4076,7 +4076,7 @@ Kogasaka You: "...I can't let myself panic, though."
 *The second you let your emotions control you, you lose the ability to think straight. That was exactly what happened when Mare stabbed me.*
 *All I did was gaze in disbelief in response to what Mare had done to me, nothing else. I simply let everything play out as it did.*
 *Maybe I would have been able to put up some resistance if I'd only tried.*
-*Maybe I wouldn't have ended up forgotting her name then.*
+*Maybe I wouldn't have ended up forgetting her name then.*
 Kogasaka You: "...Phew."
 *After taking one deep breath, I focus on the books in front of me.*
 *I start out by checking the table of contents, and then proceed to check the topics that seem like they might touch upon memory loss.*
@@ -4086,7 +4086,7 @@ Kogasaka You: "...Phew."
 *...*
 *By the time I'm done glossing over all of the related sections, it is already around midnight.*
 *Inside my head, I sort out the information I've gained from the books.*
-*Among the neurological disease known as "amnesic syndrome," which is a broader definition of memory loss, my symptoms point to a particular form called lacunar amnesia apparently.*
+*Among the neurological diseases known as "amnesic syndrome," which is a broader definition of memory loss, my symptoms point to a particular form called lacunar amnesia apparently.*
 *Memory is generally subdivided into two large categories, declarative memory and procedural memory. Defined simply, the former can be expressed through words, while the latter cannot.*
 *The memory which "cannot be expressed through words" mainly consists of motor skills and memorization of how to do various things.*
 *Basically memory that details how to use objects and move your body accordingly, like when playing an instrument or doing some sport.*
@@ -4150,7 +4150,7 @@ Kogasaka You: "Okay, see you later."
 Chinami: "Hold it right there mister! First and foremost why why WHY do you never let me make breakfast?! Do you have some sort of deep extensive grudge against me?!"
 Kogasaka You: "Uh, as I already stated, that's your fault because you keep sleeping in."
 Chinami: "And that's not my fault stupid-pants!! It's all because my much-loved piggy alarm here stopped ringing by itself!"
-Kogasaka You: "You probably just subconciously stopped it while you were sleeping."
+Kogasaka You: "You probably just subconsciously stopped it while you were sleeping."
 Chinami: "That's impossible! Lookie lookie! Right here Mister Know-It-All! Right! Here! It's properly set to 6:30 but not only is there no indication that it stopped there isn't even any indication that it rung in the first place!"
 Kogasaka You: "I hate to inform you this, but you just confused AM and PM."
 Chinami: "What in the holy name of God?!"
@@ -4193,7 +4193,7 @@ Isuzu: "...Don't tell me."
 Isuzu: "...They've caught me."
 Kogasaka You: "Who, and what?"
 Isuzu: "They're probably doing bag searches."
-*I direct my gaze to the the front of the waiting line and spot a few students with armbands that read "SC" standing there.*
+*I direct my gaze to the front of the waiting line and spot a few students with armbands that read "SC" standing there.*
 *Nearby several long tables are set up, upon which each student is placing their book bags and showing them what is inside.*
 Kogasaka You: "Bag searches by the Student Council... huh?"
 Isuzu: "Our teacher once told us during homeroom that they'd be doing bag searches once every semester."
@@ -4253,7 +4253,7 @@ Kogasaka You: "You know a lot about me."
 Komomo: "Finding out something like that's a piece of cake if I want to. It's the Student Council's responsibility to keep records of information concerning each individual student, after all."
 *Maybe the Student Council here also fulfills the role of a Disciplinary Committee.*
 Komomo: "To begin with, you've already caught my eye with that score you got on the transfer exam."
-Kogasaka You: "Stop it... you're triggerring me..."
+Kogasaka You: "Stop it... you're triggering me..."
 Komomo: "...Uh, okay? I don't really get what you're talking about."
 Komomo: "But as I was saying, with the wrong attitude, even excellent grades won't get you into the Student Council. Be more careful from now on."
 Kogasaka You: "Wait, no one ever said I wanted to join the Student Council."
@@ -4333,7 +4333,7 @@ Komomo: "First-years wear different uniforms here, and even putting that aside, 
 Isuzu: "...I feel kind of humiliated."
 Komomo: "All right, open your bag and place it on the table."
 Isuzu: "...There you go."
-Komomo: "Do we have to through this again?! That's Kogasaka-kun's bag!"
+Komomo: "Do we have to go through this again?! That's Kogasaka-kun's bag!"
 Isuzu: "...Tch."
 *It's kinda like we're going in circles here.*
 Komomo: "Hurry up and show me what's inside your bag already! If you two hold me up here until the bell rings, I will mark you tardy, just so you know!"
@@ -4385,7 +4385,7 @@ Isuzu: "...Get lost."
 *U-Uh?*
 Isuzu: "Have a good day."
 *Aoi-san nimbly snatches away the tarot cards from Hisakaki-san and quickly walks off in the direction of the school building.*
-Komomo: "Hey, get back here! We aren't done y─"
+Komomo: "Hey, get back here! We aren't done y—"
 *To Aoi-san's convenience, the bell rings.*
 Komomo: "Just great! The bell rang! And I still have to make a list of students that didn't pass the check in the Student Council Room!"
 Kogasaka You: "I'll be going then."
@@ -4417,7 +4417,7 @@ Asuho: "Yep, you really are kind."
 Asuka: "What's your sister's name?"
 Kogasaka You: "Kogasaka Chinami."
 Asuka: "Which class's she in?"
-Kogasaka You: "たしか１‐Ｃだったかな"
+Kogasaka You: "I think she's in １‐Ｃ, if I recall right."
 Asuka: "Right, right."
 *Why is he taking notes?*
 Asuho: "You know better than that, Asuka-kun!! I just know you're trying to trick You-chan's purehearted sister into your shady circle!!"
@@ -4477,7 +4477,7 @@ Kogasaka You: "Maybe I got knowledgeable about the stars because Hibarigasaki's 
 *That is just how vastly different the skies are, simply put.*
 Asuho: "That must've been around when you were in elementary school with me, right?"
 *Asuho folds her arms and lets out a pensive "hmmm."*
-Asuho: "Back then, it felt you were the kinda boy that didn't care about much of anything... and yet, you always got the best grades."
+Asuho: "Back then, it felt like you were the kinda boy that didn't care about much of anything... and yet, you always got the best grades."
 Kosame: "Asuho-san, I think you should mind where you go."
 Asuho: "Ah, I didn't mean that in a bad sense."
 Kogasaka You: "No, don't worry about it. You're not wrong."

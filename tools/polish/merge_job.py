@@ -115,7 +115,13 @@ def merge_free(rel, outdir, dry):
         print("free mode: no ranged chunk outputs")
         return
     replaced, bad, new = 0, [], []
+    applied_to = -1
     for st, en, name, fp in blocks:
+        if st < applied_to:
+            # a leftover chunk from an earlier prepare that covers text already
+            # replaced in this pass - applying it would overwrite newer text
+            bad.append((name, "overlaps-earlier-chunk"))
+            continue
         newl = read_lines(fp)
         if newl and newl[-1] == "":
             newl = newl[:-1]
@@ -129,6 +135,7 @@ def merge_free(rel, outdir, dry):
         ok, why = free_ok(srcb, newl, lang_of(rel))
         if ok:
             new.append((st, min(en, len(cur)), newl))
+            applied_to = max(applied_to, min(en, len(cur)))
             replaced += 1
         else:
             bad.append((name, why))

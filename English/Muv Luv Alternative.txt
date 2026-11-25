@@ -462,7 +462,7 @@ Yuuko: "............"
 Takeru: "The reason for it was simple. Alternative IV hadn't produced any results. So they moved onto stage 5......"
 Yuuko: "............"
 Takeru: "And we all felt horrible when we heard about it...... I'm sure you did too, Sensei."
-Yuuko: "......this is in......two months time?"
+Yuuko: "......this is in......two months' time?"
 Takeru: "That's why I keep saying there's no time!"
 Yuuko: "............"
 Takeru: "I couldn't give specifics until now since we weren't alone, but......"
@@ -1206,7 +1206,7 @@ Meiya: "I see. ......yes, I am all right with any form of address."
 Miki: "Mine makes me sound like a cat."
 Takeru: "I think it's cute. Do you mind?"
 Miki: "No, not at all."
-*
+*............*
 Miki: "O-okay......you sure?"
 Takeru: "Yes......somehow that feels much more natural for you."
 Miki: "O-okay......I'll try, Shirogane!"
@@ -1329,7 +1329,7 @@ Takeru: "What's wrong? Is there something on my face?"
 Kasumi: "No."
 Takeru: "I see. Could you hold still for a second?"
 *............*
-'Alternative IV'*
+*'Alternative IV'*
 *Thought so. It couldn't be more obvious. Why didn't this bug me more back then?*
 *Well, it did bug me, but I couldn't ask anyone what it meant.*
 Kasumi: "............"
@@ -1709,7 +1709,7 @@ Takeru: "Instructor, I'm gonna adjust it now."
 Marimo: "Okay, go to the range. Don't put the magazine in while you're moving."
 Takeru: "Understood."
 *Come to think of it......I remember being told that before.*
-*If you make people thinks it's loaded, you could easily get yourself shot.*
+*If you make people think it's loaded, you could easily get yourself shot.*
 Takeru: "............"
 *There's a slight breeze.*
 *I have to hit a target at 300 meters, so......*
@@ -2039,7 +2039,7 @@ Kasumi: "............"
 Takeru: "You know Yoroi Mikoto from Squad 207? The truth is, she's............a dude."
 Kasumi: "............"
 Takeru: "Don't tell anyone, okay?"
-Kasumi】――*nod*
+Kasumi: ......*nod*
 Kasumi: "............"
 *Crap......I think she might've believed me.*
 Takeru: "S-sorry. That one's not true."
@@ -3250,7 +3250,7 @@ Kasumi: "............"
 Takeru: "There's no time......but I'm not giving up!"
 Kasumi: "............"
 Takeru: "So make sure you do everything you can to help Yuuko-sensei too."
-Kasumi】――*nod*
+Kasumi: ......*nod*
 Takeru: "Okay! Then......I'll head back to my room."
 Kasumi: "......bye-bye."
 Takeru: "Bye-bye."
@@ -4170,7 +4170,7 @@ Marimo: "――Marimo-chan......?"
 Marimo: "Well......it doesn't matter. Shirogane, I'll overlook that for today......since celebrations are in order."
 Chizuru & Meiya & Miki & Kei & Mikoto: "――Eh!?"
 *Eh......!?*
-*
+*............*
 Marimo: "Congratulations......you've all passed the Evaluation!"
 Chizuru: "......eh!? ......but......after all those mistakes......"
 Marimo: "Sakaki, what was the number one objective?"

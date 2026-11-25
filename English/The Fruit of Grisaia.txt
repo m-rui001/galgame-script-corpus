@@ -115,7 +115,7 @@ Amane: C'mon, your tie's crooked...
 Yuuji: Hm? Really...?
 Amane: C'mere. I'll get it for you.
 Yuuji: ...Right. Thanks...
-Amane: You might play the spic-and-span soldier boy, but you definitely have your sloppy side...
+Amane: You might play the spick-and-span soldier boy, but you definitely have your sloppy side...
 Yuuji: Yeah... I get that a lot...
 Narration: *JB once offered me a similar evaluation. "You're insufficiently thorough. That sloppiness is why you always manage to bungle things in the endgame."*
 Narration: *But my master responded "That's the one and only part of this kid you could call cute―"*
@@ -200,7 +200,7 @@ Makina: Oho... I see.
 Yuuji: You still don't get it, do you?
 Makina: Nope.
 Sachi: I, however, understand entirely. An excellent way of thinking, in my humble opinion. I identified so strongly with your tale that I could barely restrain the urge to tearfully wail my agreement.
-Sachi: The supreme bliss of being necessary to another; a sympathetic master who understands the need to be neeeded... Truly, there is no greater blessing for a maid!
+Sachi: The supreme bliss of being necessary to another; a sympathetic master who understands the need to be needed... Truly, there is no greater blessing for a maid!
 Sachi: The emotional impact of such a profound reward for your daily labors must be overwhelming. If one were to receive, say, a gentle pat on the head on top of it all, it might well prove impossible to maintain control of your bladder!
 Makina: Aah... sorta like them excitable, yappy lil' dogs that piss themselves in joy when th' master says "time for a walk"...?
 Yuuji: Uh... I don't think I like the sound of this...
@@ -252,7 +252,7 @@ Michiru: I'm a humble, down-to-earth woman! I'm always filled with gratitude and
 Yuuji: ...I see... Is that just how tsunderes are, as a species...?
 Makina: 'Course, if ya overdo it, you're just gonna seem like an annoyin' jerk. Chiruchiru bein' an excellent case in point...
 Michiru: Th-That's not true! Positively probably maybe not true!
-Amane: What's with the rapidfire three-step transformation from confidence to total uncertainty...?
+Amane: What's with the rapid-fire three-step transformation from confidence to total uncertainty...?
 Makina: Nice rhythm, though. Wanna make it a catchphrase?
 Yuuji: Do me a favor and don't. I'm getting a headache already...
 Sachi: A-Anyway, let's have our lunch...
@@ -300,7 +300,7 @@ Narration: *Assuming around 24 books per box and 16 boxes in all, I've got a goo
 Yuuji: ...Might have been a little too hasty in agreeing to that request.
 Yuuji: Well, nothing I can do about it now. I accepted the job, so I've got to carry it out. In a situation like this, it's better to get moving before you start thinking too much...
 Narration: *If you stand around too long in front of a task like this, it's easy to get paralyzed by your self-pity. This'll never get done unless I finish it. Just have to chip away at the mountain.*
-Narration: *In short, it's something like mowing the maneuvering grounds. In which case, there's only one conclusion―*
+Narration: *In short, it's something like mowing the training grounds. In which case, there's only one conclusion―*
 Yuuji: ...Hmph... a mere sixteen round trips? Don't make me laugh.
 Narration: *If you ask the thinking men and women of the world, they'd probably tell you mindless jobs are the most miserable of all. But I'm not one of those people. By nature, I'm well-suited to this sort of simple work.*
 Amane: Hm? Huh? Yuuji? What on earth are you doing out here...?
@@ -445,20 +445,20 @@ Yuuji: Hey, Amane...
 Amane: Hm? What's up?
 Yuuji: ...I said I'd be here at seven. I showed up well past nine. Didn't even get in touch. Aren't you angry?
 Amane: Hmmm? Mmm... well, you know, can't say I was overjoyed about it. But I did have a feeling this might happen... You were helping Sakaki-san with the books, weren't you?
-Yuuji: Yeah, that's right. Not that's it's her fault. She just asked me to carry over those boxes, and I finished that by six. I decided to stay and help put the books away on my own initiative...
+Yuuji: Yeah, that's right. Not that it's her fault. She just asked me to carry over those boxes, and I finished that by six. I decided to stay and help put the books away on my own initiative...
 Amane: Right, and I completely understand. So I'm not particularly upset or anything.
 Amane: Ah... wait, maybe you want me to be mad? Harrumph! I'm weally angwy this time, buster! Or something along those lines...?
 Yuuji: ...Seriously annoying...
 Amane: I know, right? So, like I said. I'm not angry.
-Amane: Aah... that said, next time you're going to be a late, a phone call in advance would be nice. Just for my peace of mind, you know?
+Amane: Aah... that said, next time you're going to be late, a phone call in advance would be nice. Just for my peace of mind, you know?
 Yuuji: I'll keep that in mind...
 Amane: Okay then, thanks for waiting. You said you were in a mood for something spicy, so I made a mapo bowl.
 Yuuji: ...Hrm...
 Amane: I tried using your beloved beans in place of the ground meat. What do you think?
 Yuuji: ...Let's see...
-Narration: *Amane places the spicy tofu on rice dish in question on the table, along with a side of chinese egg soup.*
-Narration: *At a glance, it seem a perfectly normal mapo bowl, but closer examination reveals the standard minced pork has indeed been replaced with finely ground beans. Vividly pale buds of garlic create a nice visual contrast, stirring my appetite.*
-Narration: *I push my chinese spoon into the mapo bowl, scoop out a large hunk of rice covered in the thick bean paste, and take a bite. A rich flavor instantly fills my mouth. A moderately sharp, spicy tang provides a nice accent.*
+Narration: *Amane places the spicy tofu on rice dish in question on the table, along with a side of Chinese egg soup.*
+Narration: *At a glance, it seems a perfectly normal mapo bowl, but closer examination reveals the standard minced pork has indeed been replaced with finely ground beans. Vividly pale buds of garlic create a nice visual contrast, stirring my appetite.*
+Narration: *I push my Chinese spoon into the mapo bowl, scoop out a large hunk of rice covered in the thick bean paste, and take a bite. A rich flavor instantly fills my mouth. A moderately sharp, spicy tang provides a nice accent.*
 Yuuji: Nice work. This is really good.
 Amane: Isn't it? I'm glad you like it!
 Yuuji: You really can make anything delicious, can't you?
@@ -582,7 +582,7 @@ Makina: Uu? Well, I knew th' two of 'em were goin' out, but I didn't know about 
 Michiru: I-Is this really okay with you!?
 Makina: Ou? Whatcha talkin' about?
 Michiru: I mean, you've been practically glued to Yuuji lately! Are you just gonna take this sitting down!?
-Makina: Aah? Hmm, well...ya know, I'm not really lookin' for a boyfriend here. More like a father or a big brother... Somethin' along those lines.
+Makina: Aah? Hmm, well... ya know, I'm not really lookin' for a boyfriend here. More like a father or a big brother... Somethin' along those lines.
 Makina: And nothin's really changin' on that front. Onii-chan said he'd be my big bro forever, so there's no problem as far as I'm concerned.
 Michiru: O-Oh...
 Makina: Forget about me, why are you so worked up about this, Chiruchiru? Are you opposed ta Ama-nee and Onii-chan's relationship?
@@ -936,7 +936,7 @@ Narration: *―The next day, I selected "Sculpture" for my afternoon elective cl
 Narration: *In other words, it's a lesson in constructing three-dimensional works of fine art by cutting, gluing, whittling, and shaping a wide variety of raw materials.*
 Narration: *To be honest, I don't have any special interest in this particular form of artistic expression.*
 Narration: *But there weren't any other lessons that strongly appealed to me today, and as I was ruminating over my decision, Makina urged me to join her for her favorite class. So here I am.*
-Narration: *The instructor is Professor Matsuyama Minoru from a Fine Arts University in Fukuoka, an accomplished 72-year old artist. Makina, who for some reason gets along very well with the elderly, tells me she always looks forward to his class.*
+Narration: *The instructor is Professor Matsuyama Minoru from a Fine Arts University in Fukuoka, an accomplished 72-year-old artist. Makina, who for some reason gets along very well with the elderly, tells me she always looks forward to his class.*
 Narration: *Today, our material is stone clay; we haven't been given any particular theme. Our only direction was "Make whatever you feel like," exactly the sort of vague request where your artistic sensibilities are paramount.*
 Narration: *The participants are myself and Makina as well as Sachi and Michiru, for a total of four. As the good-natured old Professor offers us free-wheeling words of advice in a gentle tone of voice, we knead the clay as our whims direct us.*
 Yuuji: ...Hrm...
@@ -981,13 +981,13 @@ Sachi: ...It's rather difficult to reduce the shark to a few bullet points, but.
 Sachi: There's elegance in such focused engineering, where every component of the whole holds distinct meaning... I find that perfection quite appealing...
 Sachi: Kazami-san, I see you chose a horse in motion. Are you attempting to evoke the potential for freedom commonly associated with the trusty steed, perhaps...?
 Yuuji: Mm... well...
-Narration: *Good question, actually... Why did I pick a horse...? *
+Narration: *Good question, actually... Why did I pick a horse...?*
 Narration: *Probably the result of an unconscious thought: "If I'm going to make a statue, it might as well be something with some dignity."*
 Narration: *From time immemorial, the horse has been regarded as a noble beast.*
 Narration: *It's said that back in the days when a soldier received 15 thousandths of a yen when pressed into military service, the army compensated a full 1000 yen for every horse commandeered.*
 Narration: *The lives of men were as valuable as scraps of paper; even a broken down old nag was worth a thousand yen. I've thought about that, sometimes. Guess I've impressed the idea that horses are big earners on my subconscious.*
 Yuuji: ...A horse is worth something... has some nobility. I don't have any other reason...
-Narration: *The worlds feel outright pathetic coming out of my mouth. Something like self-pity wells up inside me. Searching for a change of topic, my eyes find a suitable distraction in Michiru's sculpture.*
+Narration: *The words feel outright pathetic coming out of my mouth. Something like self-pity wells up inside me. Searching for a change of topic, my eyes find a suitable distraction in Michiru's sculpture.*
 Yuuji: So, Michiru... uh, how about you...? Er, wait. What is this thing even supposed to be...?
 Narration: *I directed my attention to her sculpture like a man lunging for a life preserver, only to find that I'm clinging to a bizarre, avant-garde object of bewildering visual impact. I'm at a loss for words.*
 Michiru: ...A dog...
@@ -1027,7 +1027,7 @@ Narration: *People who say they're "worthless" at anything other than their spec
 Narration: *Their false humility has its purpose, though: it allows them to brush aside the dull and troublesome things in life with the convenient phrase "that's not my field."*
 Narration: *...As her classmate's bitter cry dissolved vainly in the muggy air, the perfectly oblivious Suou Amane was aimlessly whiling away an afternoon free of academic responsibilities.*
 Narration: *Driven to the air-conditioned dorm lounge by the powerful afternoon sun, Sakaki Yumiko rests her chin in her hands listlessly, absorbed in some foreign book (in the original language)―*
-Narration: *And by her side, Amane leans forward in a similar position of langorous boredom, thumbing through a magazine.*
+Narration: *And by her side, Amane leans forward in a similar position of languorous boredom, thumbing through a magazine.*
 Narration: *Apart from the low hum of the air conditioner, the whisper of their pages turning is the only sound.*
 Narration: *In the end, this peaceful atmosphere is irreparably shattered by a perfectly casual question.*
 Amane: ...Hey, Sakaki-san... ever given a blowjob?
@@ -1174,7 +1174,7 @@ Principal: Goodness. I'm almost flattered you even include me in that category. 
 Yuuji: I'm a man in a relationship, somehow or other... I don't want to make Amane pointlessly anxious if I can help it.
 Principal: Oh-hoh. My, my. And here I had you down as more of a "no woman's gonna tell me what to do!" type. After all that time playing the bad boy, you turn out to be surprisingly timid at heart...
 Yuuji: That's right, I'm a coward by nature. I think that's what kept me alive so far...
-Narration: *Cowards have a good nose for danger, and when they catch the scent they avoid it like the plague. The rank of "hero" might sound nicer, but you only get there through posthumous promotion. I'll pass for now. *
+Narration: *Cowards have a good nose for danger, and when they catch the scent they avoid it like the plague. The rank of "hero" might sound nicer, but you only get there through posthumous promotion. I'll pass for now.*
 Narration: *There are only three things worth sacrificing your life for: your country, your friends, or your woman. And if you're willing to die for your woman, you damn well shouldn't go around making her unhappy.*
 Yuuji: ...Amane reminds me of my mother in some ways... She puts up a bold front, but at heart she's pretty timid. Might act tough, but she'll fall to pieces if she tries to keep everything inside...
 Yuuji: Troublesome sort of woman, really. If you let her be for too long she'll get cranky, but if you give her too much attention it'll just make her all the more anxious.
@@ -1365,19 +1365,19 @@ Amane: We're done talking about mice!! Let's change the subject! Yeah! New subje
 Makina: Hmm? Well... if ya say so...
 Amane: Aah... geez, that's bad for the heart... Being around this girl really wears you down...
 Date: *July 30, 2011, 19:21*
-Military　Commentator: ...And in any case, I doubt Mr. Frannie is actually visiting Japan for prostate cancer treatment. It's likely a mere pretext for his defection.
-Economic　Analyst: Oh, please. You can't help connecting everything to the Republican Faction, can you? In the first place, Mr. Frannie is a "former" Secretary of Defense, not currently holding any office...
-Military　Commentator: Are you familiar with Mr. Frannie's current occupation?
-Economic　Analyst: Yes, yes. The commander of America's secret Japan-based anti-terror organization, "Silent Soldiers," was it? Utterly ludicrous...
-Economic　Analyst: A special counter-terrorist force operating within the JSDF under the control of American intelligence? I've spent 20 years in this job without hearing any credible reference to such a thing.
-Military　Commentator: Hardly surprising. It's not the kind of information that would be shared with a mere economic analyst.
-Military　Commentator: And those 20 years on the inside might be precisely why your eyes are clouded. You need to talk to your enemies to know your allies. I got this information directly from high-ranking sources in the Republic.
-Economic　Analyst: Excuse me! I'm not talking from a position of ignorance here myself! Do you know what you're suggesting!? Have you even read the US-Japan Security Treaty!?
-Economic　Analyst: I mean, an American-funded extra-judicial anti-terror combat force on Japanese soil!? Consider the idea rationally! Even a high schooler can understand no such thing could possibly exist!
-Economic　Analyst: In the first place, this dramatic "Silent Soldiers" name is purely your invention, isn't it?
-Economic　Analyst: It's precisely because of conspiracy theorists like you, who can't tell the difference between reality and fiction, that legislation restricting "undesirable publications" is being drafted as we speak!
-Military　Commentator: You're not just ignorant, you willfully reject information that conflicts with your comfortable view of the world! Those clumsy attempts at censorship are a clear sign someone's attempting to cover up their negligence!
-Military　Commentator: I've explained this to you on three separate occasions! Denouncing others on the basis of knee-jerk assumptions is far more harmful to our country than any "conspiracy theory!" Do you still not understand!?
+Military Commentator: ...And in any case, I doubt Mr. Frannie is actually visiting Japan for prostate cancer treatment. It's likely a mere pretext for his defection.
+Economic Analyst: Oh, please. You can't help connecting everything to the Republican Faction, can you? In the first place, Mr. Frannie is a "former" Secretary of Defense, not currently holding any office...
+Military Commentator: Are you familiar with Mr. Frannie's current occupation?
+Economic Analyst: Yes, yes. The commander of America's secret Japan-based anti-terror organization, "Silent Soldiers," was it? Utterly ludicrous...
+Economic Analyst: A special counter-terrorist force operating within the JSDF under the control of American intelligence? I've spent 20 years in this job without hearing any credible reference to such a thing.
+Military Commentator: Hardly surprising. It's not the kind of information that would be shared with a mere economic analyst.
+Military Commentator: And those 20 years on the inside might be precisely why your eyes are clouded. You need to talk to your enemies to know your allies. I got this information directly from high-ranking sources in the Republic.
+Economic Analyst: Excuse me! I'm not talking from a position of ignorance here myself! Do you know what you're suggesting!? Have you even read the US-Japan Security Treaty!?
+Economic Analyst: I mean, an American-funded extra-judicial anti-terror combat force on Japanese soil!? Consider the idea rationally! Even a high schooler can understand no such thing could possibly exist!
+Economic Analyst: In the first place, this dramatic "Silent Soldiers" name is purely your invention, isn't it?
+Economic Analyst: It's precisely because of conspiracy theorists like you, who can't tell the difference between reality and fiction, that legislation restricting "undesirable publications" is being drafted as we speak!
+Military Commentator: You're not just ignorant, you willfully reject information that conflicts with your comfortable view of the world! Those clumsy attempts at censorship are a clear sign someone's attempting to cover up their negligence!
+Military Commentator: I've explained this to you on three separate occasions! Denouncing others on the basis of knee-jerk assumptions is far more harmful to our country than any "conspiracy theory!" Do you still not understand!?
 Yumiko: Oh... isn't this a rare sight. Watching a news program for once...?
 Sachi: Ah... yes. Right now, every channel is running a similar special, so...
 Makina: It's a lot more interestin' than watchin' some lame stand-up duo, anyway! I'm a fan of this military critic, Ishizaka-san!
@@ -1396,28 +1396,28 @@ Yumiko: And the belief that Japan is too "fragile" to serve effectively as Ameri
 Makina: Uuu... I dun' gettit... Keep it simple, will ya? Do they exist, or not?
 Yumiko: Given a choice between those alternatives, I'd say they exist. However, I highly doubt they're the sort of heroic organization this romantic-minded military commentator makes them out to be...
 Moderator: Well then, Mr. Ishizaka, could you describe the weapon used in the attempted assassination of Mr. Frannie?
-Military　Commentator: Yes. First of all, please take a look at this image. It's an anti-material rifle manufactured by the American company B. That is to say, a sniper rifle designed to disable equipment and puncture armored vehicles.
-Military　Commentator: We've confirmed that the terrorist and would-be assassin was attempting a shot using this powerful rifle from a distance of 1200 meters, using a 50 caliber - that is to say, a  12.7x99 mm NATO bullet.
-Military　Commentator: On the other hand, the opposing escort sniper employed by the American government was using an exceptionally commonplace 7.62 mm bullet.
-Military　Commentator: Not only were they using a perfectly ordinary rifle round, they were sniping from a full 200 meters behind the man they were assigned to protect...
-Military　Commentator: In other words, they were 1400 meters from their target, the terrorist sniper. A completely unthinkable distance, normally.
-Military　Commentator: Sniping to obstruct another sniper is extremely difficult under the best of circumstances; and this individual carried out their mission in a single shot. It's no exaggeration to describe their prowess as "superhuman."
+Military Commentator: Yes. First of all, please take a look at this image. It's an anti-material rifle manufactured by the American company B. That is to say, a sniper rifle designed to disable equipment and puncture armored vehicles.
+Military Commentator: We've confirmed that the terrorist and would-be assassin was attempting a shot using this powerful rifle from a distance of 1200 meters, using a 50 caliber - that is to say, a 12.7x99 mm NATO bullet.
+Military Commentator: On the other hand, the opposing escort sniper employed by the American government was using an exceptionally commonplace 7.62 mm bullet.
+Military Commentator: Not only were they using a perfectly ordinary rifle round, they were sniping from a full 200 meters behind the man they were assigned to protect...
+Military Commentator: In other words, they were 1400 meters from their target, the terrorist sniper. A completely unthinkable distance, normally.
+Military Commentator: Sniping to obstruct another sniper is extremely difficult under the best of circumstances; and this individual carried out their mission in a single shot. It's no exaggeration to describe their prowess as "superhuman."
 Moderator: Is it really that remarkable a feat?
-Military　Commentator: I believe you'd understand if you had even the briefest experience with marksmanship yourself, but guns are not as accurate as one might think.
-Military　Commentator: Much less at extreme long-range. Beyond 1000 meters, hitting the target is half-luck for even experienced snipers.
-Military　Commentator: We've prepared a replica of the weapon used by the escort here. Please take a look.
+Military Commentator: I believe you'd understand if you had even the briefest experience with marksmanship yourself, but guns are not as accurate as one might think.
+Military Commentator: Much less at extreme long-range. Beyond 1000 meters, hitting the target is half-luck for even experienced snipers.
+Military Commentator: We've prepared a replica of the weapon used by the escort here. Please take a look.
 Moderator: This sniper rifle seems quite familiar...
-Military　Commentator: Indeed, it's very common. If you asked ten people to sketch a sniper rifle, I imagine eight of them would give you a silhouette resembling this weapon.
-Military　Commentator: It's an "M24-SWS" sniper rifle. They're commonly used in both the American Army and the Japanese Ground Self-Defense Force, among others.
-Military　Commentator: Usually, a rifle of this sort has an effective maximum range of between 700 and 900 meters. And that's in the hands of an expert sniper, assisted by a superior spotter―
-Military　Commentator: And this shot was taken from 1400 meters, nearly twice that distance.
-Military　Commentator: At such range, factors such as the temperature and humidity of the air, even the rotation of the earth, begin to strongly influence trajectory. Even with specially-designed bullets, it's exceptionally difficult.
-Military　Commentator: On another note, regarding the sniper employed by the American government for this mission―
-Military　Commentator: Rumor has it this individual is the very same sharpshooter who performed with such dramatic skill during the hijacking incident at Vancouver International Airport some years ago...
+Military Commentator: Indeed, it's very common. If you asked ten people to sketch a sniper rifle, I imagine eight of them would give you a silhouette resembling this weapon.
+Military Commentator: It's an "M24-SWS" sniper rifle. They're commonly used in both the American Army and the Japanese Ground Self-Defense Force, among others.
+Military Commentator: Usually, a rifle of this sort has an effective maximum range of between 700 and 900 meters. And that's in the hands of an expert sniper, assisted by a superior spotter―
+Military Commentator: And this shot was taken from 1400 meters, nearly twice that distance.
+Military Commentator: At such range, factors such as the temperature and humidity of the air, even the rotation of the earth, begin to strongly influence trajectory. Even with specially-designed bullets, it's exceptionally difficult.
+Military Commentator: On another note, regarding the sniper employed by the American government for this mission―
+Military Commentator: Rumor has it this individual is the very same sharpshooter who performed with such dramatic skill during the hijacking incident at Vancouver International Airport some years ago...
 Makina: Ooooh... super friggin' awesome... I love this kinda stuff...
 Yumiko: Stop that. Killers aren't people to be idolized...
 Makina: Aah... well, I guess ya got a point there... Yeah, don't wanna go around sayin' "Killin' people's okay if they're the bad guys!" or anythin'...
-Yumiko: ...Even so, there are be times when killing proves necessary, and people who assume the burden of doing so... I expect such work is far more trying and painful than we're capable of imagining.
+Yumiko: ...Even so, there are times when killing proves necessary, and people who assume the burden of doing so... I expect such work is far more trying and painful than we're capable of imagining.
 Yumiko: If nothing else, calling that "awesome" trivializes it rather rudely, don't you think?
 Sachi: Impressive words, Sakaki-san. One would almost think you know something that we don't...
 Yumiko: Komine-san... what exactly do you mean by that?
@@ -1453,7 +1453,7 @@ JB: ...Haa... forget it. You can head home for tonight. We'll handle the rest so
 Yuuji: Appreciate it...
 Yuuji: ............
 Narration: *It's hardly rare for me to disobey orders in some minor way. Quite the opposite.*
-Narration: *But today, I wasn't able to concentrate on the job. JB was probably worried about that more than anything else. *
+Narration: *But today, I wasn't able to concentrate on the job. JB was probably worried about that more than anything else.*
 Narration: *I know exactly why my focus was off.*
 Narration: *I couldn't help thinking about the way I'd burst out of the dormitory, breaking my promise to Amane without a moment's warning.*
 Narration: *I couldn't think about anything but finishing the damn job as quickly as possible, then getting back to the dorm where she was waiting for me.*
@@ -1481,7 +1481,7 @@ Amane: ...I'm in the bathroom...
 Yuuji: The bathroom...?
 Amane: Yeah... Sorry to call you over nothing...
 Yuuji: Don't say that. There's nothing to apologize for.
-Amane: Ah... right... then, I guess it should be... thanks?  Thank you for everything, Yuuji...
+Amane: Ah... right... then, I guess it should be... thanks? Thank you for everything, Yuuji...
 Yuuji: ...Hey, hold on... What's that supposed to mean? What are you doing in the bathroom?
 Amane: Don't mind me. I'll be okay by myself... Even if I'm alone, I can... keep going...
 Yuuji: ...What?
@@ -1557,7 +1557,7 @@ Narration: *As I shove the sneakers into the rack by the front door, a sudden wa
 Narration: *Goddammit, woman... I think that little "joke" of yours just took a year off my life. Seriously in bad taste.*
 Yuuji: ...Now that I think about it... all of a sudden, it seems Amane's become just that important to me...
 Narration: *I'll be honest. The instant I saw Amane's face, I was relieved from the bottom of my heart. Nothing else even registered for a moment.*
-Narration: *Amane's presence in my life is rapidly become indispensable to me.*
+Narration: *Amane's presence in my life is rapidly becoming indispensable to me.*
 Narration: *At this stage, I don't know for sure if that's a good thing or a bad thing.*
 Narration: *But I do know that I'm growing more content with the idea with every passing day.*
 Date: *July 31, 2011, 16:30*
@@ -1750,7 +1750,7 @@ Yuuji: Don't be an idiot. I wouldn't say something like that unless I meant it.
 Amane: Hehe... Yuuji, I love you... C'mon. Wanna do it? You do, right?
 Yuuji: ...Finally reached the point of fucking outdoors, huh...? We've sunk pretty low...
 Amane: ...You sure complain a lot for the guy who stood me up after promising a date...
-Yuuji: Urgh... you know how to hit me where it hurts, you know that...? Hrrrm... well, fine, no reason turn down what's offered to me. But where do you plan to do this?
+Yuuji: Urgh... you know how to hit me where it hurts, you know that...? Hrrrm... well, fine, no reason to turn down what's offered to me. But where do you plan to do this?
 Amane: Mm... c'mere, okay?
 Narration: *Amane pulls me by hand down a short flight of stairs, her wooden sandals clip-clopping against the stone. She leads me behind a Shinto shrine, the bustle of the festival growing fainter with every step.*
 Amane: Right over here...
@@ -1764,7 +1764,7 @@ Amane: Hey, y'know what? They say people figure out whether they're sexually com
 Yuuji: Yeah...
 Narration: *I remember reading something of the kind.*
 Narration: *When humans hit puberty, they develop a natural dislike for their parents.*
-Narration: *Apparently, that's at least partially the product of an built-in biological antipathy to those with similar genes, as a safeguard against genetically crippling incestuous mating.*
+Narration: *Apparently, that's at least partially the product of a built-in biological antipathy to those with similar genes, as a safeguard against genetically crippling incestuous mating.*
 Narration: *And there's a theory that we instinctively determine the genetic suitability of potential sexual partners from the information encoded in their body odor.*
 Amane: *Sniff* *Sniff*... Haa... you know, I... really love your scent, Yuuji... When I get too long a dose... I get all dizzy... and really, really horny...
 Yuuji: I see. I believe the technical term for your condition would be "estrus." Do you ever feel the need to elevate your hindquarters?
@@ -2234,7 +2234,7 @@ Narration: *"...Who is he...?"*
 Narration: *At the very least, he doesn't seem to be involved in my line of work. The face isn't familiar, but more importantly, he holds himself far too loosely for a pro.*
 Narration: *Even the Langley suits who spend most of their time behind desks project a little more menace than this.*
 Sakashita: And so, you see... when my company finally folded, I gained something of a new perspective on things... My mind had been utterly blank for so long, but all of a sudden I found something like an objective...
-Sakashita: Haha... an "objective" might be a bit grandiose, I suppose...How can I put this... I realized... "Aah, I still have things left to do," you see...
+Sakashita: Haha... an "objective" might be a bit grandiose, I suppose... How can I put this... I realized... "Aah, I still have things left to do," you see...
 Yuuji: ...Are you feeling all right...?
 Sakashita: Hmm? Whatever do you mean...?
 Sakashita: Aah, I see... Are you pressed for time? I've got quite a lot on my hands, personally... but I suppose it must have been rather dull, hearing my little story out of nowhere... I do apologize...
@@ -2339,7 +2339,7 @@ Amane: So... what do you have planned for the future, Yuuji?
 Yuuji: ...That's an amazingly vague question... What are you asking me, specifically?
 Amane: Well... c'mon... uhm... you said you'd stay with me for the rest of my life, right...?
 Yuuji: Ah, I get it. You want me to propose?
-Amane: Yes. Well, sure, I do. But here's thing, Yuuji. When we head back to the dorm later, I think you ought to look up the word "delicacy" in the dictionary, okay?
+Amane: Yes. Well, sure, I do. But here's the thing, Yuuji. When we head back to the dorm later, I think you ought to look up the word "delicacy" in the dictionary, okay?
 Yuuji: Of course, I'm thinking about marriage as well...
 Yuuji: But since I've been living pretty selfishly and irresponsibly up until now, it's honestly kind of difficult to even imagine...
 Narration: *I've never lived the sort of life I could tell others about with pride.*
@@ -2479,7 +2479,7 @@ Narration: *After all, a "mass murder of female students by their own teacher" w
 Narration: *Since it had a stronger tinge of scandal than the alternative, the media leapt onto this new theory with all the enthusiasm of a dog thrown red meat, adding in insinuations of sexual assault toward his pupils just for spice―*
 Narration: *With their slander, they tore apart Ochi's starved, pitiful corpse far more cruelly than any knife could have.*
 Narration: *In consideration of the extreme extenuating circumstances, no posthumous charges were ever filed against Ochi. But much like the lone surviving girl, society presumed him guilty.*
-Narration: *Very quickly, the name Yoshihiko Ochi became infamous throughout Japan: the young teacher who had committed a mortal sin that no circumstances could "extenuate." Apparently, his only surviving relative was the single-mother who had raised him.*
+Narration: *Very quickly, the name Yoshihiko Ochi became infamous throughout Japan: the young teacher who had committed a mortal sin that no circumstances could "extenuate." Apparently, his only surviving relative was the single mother who had raised him.*
 Narration: *He had been his mother's one and only child, finally gifted to her after passing forty. And after the details emerged, everyone around her offered their consolation for this loss by shunning her as the woman who birthed a "demon."*
 Narration: *Hiding as best she could from the public eye, she scraped out a miserable existence. She had a grave built for her son, but it was cruelly vandalized again and again; on shopping trips, young children shrieked "demon hag" to her face.*
 Narration: *In the end, worn down by the stones and arrows of her neighbors, she died a solitary death in the tiny single-room apartment that had been her final refuge.*
@@ -2513,7 +2513,7 @@ Yuuji: Quiet!!
 Narration: *...What is this? There's something unpleasant in the air...*
 Narration: *It's too quiet. Not even a bird singing.*
 Narration: *As the trees rustle in the wind, I finally pick up the "scent" of a familiar, menacing presence. My breath catches in my throat.*
-Narration: *In an open, rocky clearing with little in the way of shelter―  I've caught the murderous scent of an "enemy."*
+Narration: *In an open, rocky clearing with little in the way of shelter― I've caught the murderous scent of an "enemy."*
 Yuuji: Amane!! Get down!!
 Amane: ...Huh? Kyaaa!!
 Narration: *Reacting instantly, I leap to push Amane aside, shielding her with my body. But before we hit the ground, there's a violent thrust against my right shoulder from behind.*
@@ -2569,7 +2569,7 @@ Sakashita: Of course, I requested the most thorough possible search... Including
 Sakashita: No one ever suspected... the bus might have tumbled off some old road well off the planned route, trapping her in this... awful place...
 Sakashita: Of course, it never occurred to me either... At one point I was half-convinced my girl had been kidnapped and shipped off to some foreign country... All my efforts were woefully off-target, in retrospect...
 Sakashita: ...And then... when everyone around me had begun to give up hope... you returned alive all by yourself. Of course, we instantly reorganized the search party, and they sped off to the rescue... but we were too late...
-Sakashita: When they recovered Chiaki's body from the scene...  I learned my child had been cut into eight pieces. Torn limb from limb, quite literally...
+Sakashita: When they recovered Chiaki's body from the scene... I learned my child had been cut into eight pieces. Torn limb from limb, quite literally...
 Sakashita: I felt as though... a part of my own body had been ripped away. Yes, as you might imagine... I cried...
 Sakashita: In the hospital where they'd brought the remains, I clung to what was left of Chiaki through the white sheet they'd wrapped her in, and I wept and screamed like a child...
 Sakashita: Such cruel misfortune... I would have taken her place if I could... For a time, I did my best to content myself with that miserable fantasy...
@@ -2792,7 +2792,7 @@ Narration: *"Just my mind playing tricks on me..."*
 Narration: *―Nothing but a child after all.*
 Narration: *Lightly exhaling in relief, Sakashita took one step forward toward the white uniform.*
 Narration: *In that instant―*
-Yuuji: 　...You just let down your guard, didn't you...?
+Yuuji: ...You just let down your guard, didn't you...?
 Sakashita: ...!!?
 Narration: *His face contorted with agitation and fright, Sakashita spun around toward the voice, swinging his gun up to his chest. But there was no one behind him.*
 Yuuji: ...Wrong way...
@@ -2876,7 +2876,7 @@ Narration: *It's the third kind of face a woman can show you.*
 Narration: *Not the face of a woman "you can kiss;" not the face of a woman "you can't kiss." The so-called "special case" expression.*
 Narration: *Staring blankly at that expectant, almost demanding face, I suddenly feel very, very tired.*
 Yuuji: ...Not yet... An expedition isn't over until you reach your front door. Save it for when we get back.
-Amane: Whaaaaaaaat? C'mo... Heeey! Yuujiiii?
+Amane: Whaaaaaaaat? C'mon... Heeey! Yuujiiii?
 Yuuji: ...We're going home... I'm exhausted...
 Amane: Geeeez...
 Narration: *Impassively allowing Amane's disgruntled mutterings to roll over my aching back, I lead her down the mountain.*
@@ -2944,7 +2944,7 @@ Yuuji: ...So that's how it is...
 Amane: Huh? So, wait... what does that mean, exactly? You're going to attend a technical school?
 Yuuji: Probably, yeah.
 Amane: Does that mean you're going to transfer...?
-Yuuji: No. I'd be starting the new school in one and half years. In other words, after my graduation.
+Yuuji: No. I'd be starting the new school in one and a half years. In other words, after my graduation.
 Amane: Ah, so it's not happening right away?
 Yuuji: That's right. After graduating from here, I'll be going to a new school for about seven years, at a guess.
 Yuuji: Mind holding off on the marriage until after that?
@@ -2962,7 +2962,7 @@ Yuuji: Well, even as a student I'll be earning a 106,600 yen monthly stipend, wi
 Yuuji: And from what JB tells me, the head office covers a certain percentage of housing costs and other living expenses, including an additional allowance for married employees.
 Amane: So I can be a full-time housewife instead?
 Yuuji: If you want to work, I won't stop you. Shouldn't really be necessary, though.
-Amane: Right, okay. In that case, I'll be able to concentrate on raising the children. Maybe I should starting learning how to knit baby socks or something?
+Amane: Right, okay. In that case, I'll be able to concentrate on raising the children. Maybe I should start learning how to knit baby socks or something?
 Yuuji: Think you're jumping the gun a bit on that one...
 Narration: *"Jumping the gun a bit." "Still a ways off." Those thoughts proved surprisingly transient; time always passes more quickly than you expect. All too quickly, half a year had passed, and Amane graduated from Mihama Academy.*
 Narration: *That said, she immediately rented an apartment within walking distance of the school, so I didn't exactly have to go out of my way to see her.*
@@ -2974,7 +2974,7 @@ Narration: *―Another year after that. This time, it was my turn to graduate.*
 Narration: *And as planned for some time now, I entered a special "technical school" specified by headquarters.*
 Narration: *In addition to the monthly written exams, my new "student" life involved irregular (sometimes completely unannounced) physical fitness tests, often amounting to something like a very rigorous and painful game of musical chairs.*
 Narration: *At first I was living in Amane's room and commuting, but the daily travel on top of the grueling training proved too much. I rented a room near my new school's campus and returned to Amane on the weekends, a pattern that held for some time.*
-Narration: *But after about two years of this "temporary solution," Makina finally chirped "When are ya gonna get married already?" Startled, Amane and I looked into each others' faces―*
+Narration: *But after about two years of this "temporary solution," Makina finally chirped "When are ya gonna get married already?" Startled, Amane and I looked into each other's faces―*
 Narration: *Having reached the mutual conclusion that it was in fact "about time we got around to that," we were married soon thereafter, finally fulfilling our promise to each other.*
 Narration: *―And not long ago, five years after my graduation from Mihama.*
 Narration: *After various trials and tribulations, I cleared the last of my required exams well ahead of schedule by virtue of my superb "grades." At long last, I entered the permanent reserve, gaining a degree of freedom.*
@@ -3032,7 +3032,7 @@ Narration: *After what happened back then, was it wrong of me to be so very trul
 Narration: *Even then, if he's at my side―*
 Narration: *If Yuuji's by my side, then surely...*
 Narration: *Surely, the day will come when my sin is washed away at last―*
-Narration: * Somehow, I'd come to believe that.*
+Narration: *Somehow, I'd come to believe that.*
 Narration: *Eventually, Makina too graduated from Mihama Academy, and decided to leave our apartment.*
 Narration: *She had chosen to continue her studies at a German school of art, and most likely wouldn't be coming back to Japan for quite some time.*
 Narration: *As much of a handful as the girl always was, now that she'd left... it felt almost as though my own daughter had left the nest. A complex, slightly lonely feeling.*
@@ -3053,7 +3053,7 @@ Narration: *He'd always been the sort to suffer in silence. When they found the 
 Narration: *Even so, nothing much changed.*
 Narration: *We lived our ordinary lives; we spent our ordinary days together, secure in the knowledge tomorrow would be just as ordinary as today.*
 Narration: *And on a Sunday morning five months after his diagnosis, almost as though he'd been counting down the days... Yuuji passed away, surrounded by his family.*
-Narration: *Yuuji had died as well. Once more, I was alone. But on his deathbed, he told me "Your punishment isn't over yet," And I continued to obey his words―*
+Narration: *Yuuji had died as well. Once more, I was alone. But on his deathbed, he told me "Your punishment isn't over yet." And I continued to obey his words―*
 Narration: *Even without him to remind me, I decided to spend the rest of my years saying "thank you."*
 Narration: *But even now that Yuuji's gone, I'm not as lonely as I'd expected.*
 Narration: *When I close my eyes, memories of the time I spent with him flicker back to life with perfect clarity, one after the other.*
@@ -3061,7 +3061,7 @@ Narration: *Of course, we'd had plenty of fights over the years, but looking bac
 Narration: *I'm sure I don't have that long myself.*
 Narration: *I don't have many lingering regrets still tying me to this life, either. But then again... I can see him again whenever I want, so why not keep him waiting a while longer?*
 Narration: *I never did lose my fondness... for teasing Yuuji about things like this.*
-Narration: * ―The fifth summer after Yuuji's death.*
+Narration: *―The fifth summer after Yuuji's death.*
 Narration: *Counting back, this would be the fiftieth summer since I met him.*
 Narration: *My daughter and her husband arrived from Tokyo for a visit, their youngest daughter in tow.*
 Narration: *It'd been some time since I last saw my littlest grandchild's face in person... She looks quite a lot like I did at her age. Come to think of it, Yuuji said "She kind of resembles you" just after her birth.*
@@ -3075,7 +3075,7 @@ Narration: *When I close my eyes, I can still recall the faces of my friends. Th
 Narration: *Even now, the faces that swim before my eyes one by one are distorted with agony, filled with anger and grief.*
 Narration: *Everyone... I'm sorry... and thank you...*
 Narration: *I've lived a very long time now... How much longer will it take before you can forgive me...? Will that day ever come...?*
-Narration: *Even though Yuuji's no longer here to punish me... *
+Narration: *Even though Yuuji's no longer here to punish me...*
 Narration: *Hey... Kazuki... What should I do...? I can't find the answer all by myself...*
 Suzune: Hey, Grandma!
 Amane: ...Hm? Yes, dear?
@@ -3162,7 +3162,7 @@ Narration: *In between those clouds, so close I felt I could reach out and touch
 Narration: *And when I wept and cried out, shameless as a child, he smiled his familiar clumsy smile.*
 Narration: *I heard his voice, saying simply "Amane," and I reached out to him.*
 Narration: *When he clasped his hand with mine, it was as wonderfully warm as it had been back then―*
-Narration: * That made me so very happy―*
+Narration: *That made me so very happy―*
 Narration: *The moment I took that hand, I knew with perfect clarity That at long last, everything was forgiven―*
 
 Narration: *―We're in no position to have a debate about this.*
@@ -3172,7 +3172,7 @@ Yuuji: Okay, good girl... I'll be the decoy and run to the right... you break in
 Amane: Yeah...
 Amane: ...!!
 Yuuji: ...Tch... "Break time's over, get running," huh...? The man's got no patience...
-Yuuji: Listen to me, Amane. Focus on keeping yourself alive... Don't even thinking about giving up. I'm not Kazuki... I'm going to survive this, and I'm going to hold you in my arms again!
+Yuuji: Listen to me, Amane. Focus on keeping yourself alive... Don't even think about giving up. I'm not Kazuki... I'm going to survive this, and I'm going to hold you in my arms again!
 Yuuji: The only thing you need to do is believe in me and run! Understand!?
 Amane: ...Ah! Yuuji...!!
 Amane: ...Yuuji...
@@ -3329,7 +3329,7 @@ Sakashita: Why die like a dog for a piece of garbage like her?
 Yuuji: ...Don't be an idiot... I'm off the clock right now. I've got no intention of "dying like a dog" for anything other than my country...
 Sakashita: Come now, you're mere moments away from dying for that Amane-san of yours...
 Yuuji: ...I was finally going to have a family of my own... If I die for her... no matter how or where... it'll never be a dog's death!
-Sakashita: Haaaah... in the end, its nothing but a brat's prattle...? You've let me down...
+Sakashita: Haaaah... in the end, it's nothing but a brat's prattle...? You've let me down...
 Sakashita: I mean, please. It seems that piece of trash really has run off to save her own skin, you know...?
 Sakashita: Here you are, suffering so nobly on her behalf, and she doesn't even try to come to your aid... I hear they call her a cockroach, but that's hardly fair to the poor creatures, is it? The woman's a loathsome, spineless dung beetle!
 Yuuji: ...I gave her a strict order to stay away. She's a well-behaved, understanding woman...
@@ -3421,12 +3421,12 @@ Narration: *And now... with this done... I can finally die...*
 Narration: *So... thank you, Yuuji...*
 Narration: *And... I'm sorry, Yuuji...*
 Sakashita: Haa, haa, haa, haa... The hell is this woman... Is she even human...? Goddamn monster...!
-Sakashita: Haa, haa... Shit... God, that hurts... She ripped the flesh right off my arm...Unbelievable... Fucking cannibal! Rot in hell!!
+Sakashita: Haa, haa... Shit... God, that hurts... She ripped the flesh right off my arm... Unbelievable... Fucking cannibal! Rot in hell!!
 Yuuji: ...Ama...ne...
 Sakashita: Hey there, Kazami-san! Your woman's fucked in the head!!
 Narration: *Maintaining a constant stream of curses, Sakashita pulls Amane's broken teeth from his wound one by one, hurling them onto the ground at his feet with a disgusted shudder.*
 Narration: *Amane... you fought hard, didn't you...? To the very last... you never gave up...*
-Narration: *Just what I'd expect to see from the woman I fell in love with... You've got some real goddamn guts... Well done... I'd give you a hand of applause if I could... No matter what anyone says, you're the best woman in the whole damn world.*
+Narration: *Just what I'd expect to see from the woman I fell in love with... You've got some real goddamn guts... Well done... I'd give you a round of applause if I could... No matter what anyone says, you're the best woman in the whole damn world.*
 Narration: *You can run on ahead with that arm of Sakashita's... I'll take care of the rest... Not to worry, I'll catch you up soon. Just sit on your heels and wait...*
 Sakashita: ...Christ... Stubborn beyond fucking belief, the pair of them... First time I've shot a human being, but they're a hell of a lot more tenacious than you'd think...
 Sakashita: Well then, sorry to have kept you waiting. You're next, Kazami-san...
@@ -3445,7 +3445,7 @@ Narration: *She's dead. She's been dead. But even in death, she won't release he
 Yuuji: ...I see... I see how it is, Amane... One arm wasn't enough for you, eh...? Haha... greedy woman... You'll never change... Haha... ahahahahahahahaha!!!!
 Narration: *With my sudden burst of laughter, the last slender thread holding Sakashita to something resembling sanity snaps.*
 Sakashita: HiaaaaaaaaAaagGgKHAAAAaaAAAA!!!
-Narration: *Somehow gulping in great mouthfuls of air even as he shrieks, Sakashita kicks his his leg frantically into the air, staring with goggling eyes at Amane's white hand, fighting its implacable grip to no avail.*
+Narration: *Somehow gulping in great mouthfuls of air even as he shrieks, Sakashita kicks his leg frantically into the air, staring with goggling eyes at Amane's white hand, fighting its implacable grip to no avail.*
 Narration: *Terrifying.*
 Narration: *Truly terrifying.*
 Narration: *Is this what human hatred can be? A thing that takes on a life of its own? A spirit that grows only fiercer in death...?*
@@ -3475,7 +3475,7 @@ Yuuji: That's right... I spelled it out for you, didn't I? "If I survive this, i
 Yuuji: Sorry to keep you waiting... Slipped my mind for a moment there...
 Yuuji: ...It's your turn now...
 Narration: *I gently pull the shotgun out of Sakashita's unconscious hands.*
-Yuuji: ...I haven't been, so I can't speak from experience... but hell might not be so bad once you get used to it, you know? Well, you head along first and send back me a postcard...
+Yuuji: ...I haven't been, so I can't speak from experience... but hell might not be so bad once you get used to it, you know? Well, you head along first and send me back a postcard...
 Yuuji: I'm sure your daughter's waiting for you on the other side...
 Narration: *―Once again, I failed. Once again, I couldn't protect anyone.*
 Narration: *If only I could turn back time, it'd all be different. Just one more chance, and I'd pull it off beautifully...*
@@ -3651,7 +3651,7 @@ Sachi: Yes... What can I do for you, Kazami-san?
 Yuuji: Just a moment ago, I said "I have no idea what to say to you at this point." Allow me to correct myself in retrospect...
 Yuuji: ...I was wrong. I've only now come to understand what it truly means to be "lost for words"... I'm sure that anything I say now would sound like an excuse to you...
 Sachi: ...Courageously owning up to your mistake the instant it becomes apparent to you... How truly admirable...
-Sachi: Please, allow me to imitate your example and admit a misunderstanding of my own, one that only recently become clear to me...
+Sachi: Please, allow me to imitate your example and admit a misunderstanding of my own, one that only recently became clear to me...
 Yuuji: Uh, right...
 Sachi: Where "soccer" is a sport, this photo depicts a "sucker," yes?
 Yuuji: God dammit... She's not wrong!!
@@ -3721,7 +3721,7 @@ Amane: ...Shaaaap, she says...
 Makina: Shaaa-p? Wonder if it's got somethin' to do with th' Sha River...?
 Amane: I think not. What the heck is the Sha River, anyway?
 Sachi: The site of a fierce two-week land battle in the Russo-Japanese war... Uh, more importantly, is it really all right to leave Michiru-sama to her own devices?
-Amane: Well, I do feel kinda bad, but that might be for the best.  She did say "don't follow me," after all...
+Amane: Well, I do feel kinda bad, but that might be for the best. She did say "don't follow me," after all...
 Makina: Ya sure about that one? That punk's definitely hidin' somewhere for a little secret BJ practice, ya know? Usin' that sausage from her lunch box...
 Sachi: Oh goodness... In other words, she's off mumbling "D-Don't get the wrong idea!" while licking it from top to bottom?
 Makina: Talk about nasty... I'mma have to sneak up on her later an' get a photo of her dumbass blowjob-face...
@@ -3900,7 +3900,7 @@ Narration: *There's no reason to overthink this anymore. No reason to get caught
 Narration: *If I have a home, all I need to think about is how to keep on finding my way back to it.*
 Narration: *I'm done worrying.*
 Date: *July 22, 2011, 12:10 - Mihama Academy - School Gate*
-Amane: Yuujiii!♪　It's that time again. Let's break out the lunchbox!
+Amane: Yuujiii!♪ It's that time again. Let's break out the lunchbox!
 Yuuji: Yeah, sounds like a plan.
 Amane: Today, we've got a stew with veggies rich in beta-carotene and roots packed full of saponin... And for the main course, grilled mackerel bursting with omega-3 fatty acids!
 Amane: Lots of calcium for a growing boy, too! Good for the bones!
@@ -3976,7 +3976,7 @@ Makina: Indeed! Very satisfactory! A meatball next, and make it snappy!
 Sachi: Yes, one meatball coming up. I rolled these up myself, you know? My hands were still all gooey from fingering myself at the time, so it was quite a messy job. Here, open wide... Do you like it?
 Makina: Delectable work, maggot!!
 Amane: Hey, uh, Yuuji? Don't you think it's about time we put a stop to this? With physical violence, if necessary.
-Yuuji: What the hell...? Is that really how we appear to them...? If so, I think I may have to consider a bout of borderline- suicidal depression... I mean, do I really go around talking like a drill instructor with a stick up his ass...?
+Yuuji: What the hell...? Is that really how we appear to them...? If so, I think I may have to consider a bout of borderline-suicidal depression... I mean, do I really go around talking like a drill instructor with a stick up his ass...?
 Amane: Whatever else you can say about me, I always wash my hands before I cook!
 Sachi: Okay, Yuuji. Next up is fried shrimp. It's tasty right down to the tail!
 Makina: Very well! However, chewing it would be a pain in the ass. You're going to masticate it for me, woman!
@@ -4056,7 +4056,7 @@ Yuuji: I really don't remember flirting with anyone...
 Michiru: <NO! NO> excuses! Zip it and listen! I don't know what you think about Amane, nor do I care! But here's the thing! Amane's serious about this!!
 Yuuji: Well, yeah, I guess you wouldn't usually give a guy your virginity as part of an elaborate practical joke...
 Michiru: Mukiiiiiii!! There you go again! What's with that attitude!?!
-Michiru: I guess from your point of view, Amane's just some innocent country girl you can play around with for a while, then toss aside when you get bored, huh!? You monster! Uhm...  <debil!>
+Michiru: I guess from your point of view, Amane's just some innocent country girl you can play around with for a while, then toss aside when you get bored, huh!? You monster! Uhm... <debil!>
 Yuuji: ...Amane's from Tokyo, I'm pretty sure.
 Michiru: What the heck does that matter!? That's not the point! I'm trying to say that Amane's way more pure and fragile than a jerk like you might think! Geez! Can't you figure that out for yourself!? God, you're so thickheaded!!
 Yuuji: You're completely incomprehensible... What do you want from me, exactly?
@@ -4080,7 +4080,7 @@ Yuuji: ...How long have you been there?
 Amane: Hm? I heard Michiru snarling, so I came to take a look... but it seemed like you guys were talking about me, so it was kind of hard to butt in...
 Yuuji: Do you have any idea why she was so angry at me in the first place...?
 Amane: Aah, well... I think she was probably showing some concern for me, in her own way.
-Yuuji: Yeah, but it kind of felt like she was throwing a hissy fit while she was it at...
+Yuuji: Yeah, but it kind of felt like she was throwing a hissy fit while she was at it...
 Amane: Mmm... yeah, she might have been letting off some frustration as well... I mean, think about it. We started dating pretty much out of nowhere, after all. Can't have been that fun to have that news dropped on her...
 Yuuji: Maybe it was a surprise, I don't see how us dating affects her in any way.
 Amane: Even stuff that doesn't affect you can be irritating, right? Also, you might be a little surprised to hear it, but the girl doesn't really dislike you.
@@ -4211,9 +4211,9 @@ Makina: But of course! This summer, I'm aimin' to become a saksak artisan!
 Amane: Saksak artisan...? What's that supposed to mean?
 Sachi: Ah, uhm... I think she's talking about learning to bake bread...
 Yuuji: Oh, right... isn't "saksak" that bread made with starch from the sago palm tree...?
-Sachi: Yes indeed. The other day, I made belgian waffles for Michiru-sama and Maki-chan at snack time, and we ended up talking about different sorts of pancakes...
+Sachi: Yes indeed. The other day, I made Belgian waffles for Michiru-sama and Maki-chan at snack time, and we ended up talking about different sorts of pancakes...
 Makina: Right! Therefore, I'mma become a baker! I'll learn ta extract sago from th' trees, and use it to make saksak pancakes an' bread! I'll be able ta get by even if I end up stranded in New Guinea!
-Yumiko: ...Stranded? Were you planning to visit Papa New Guinea in the first place?
+Yumiko: ...Stranded? Were you planning to visit Papua New Guinea in the first place?
 Makina: Huh? Ah... uhh, not really, but...
 Yuuji: The girl's found herself some motivation, no need to be a wet blanket... It's better than idling away the time without any objective whatsoever, wouldn't you say?
 Yumiko: Well, yes, I suppose...
