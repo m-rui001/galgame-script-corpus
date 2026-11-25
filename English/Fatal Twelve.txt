@@ -135,11 +135,11 @@ Rinka: "What's that...?"
 *For whatever reason, my mind leaps to a conclusion that I've only read in fiction...*
 Rinka: "It's a bo—"
 *Before I can finish, it happens.*
-*A flash emits out of the bag.*
+*A flash bursts out of the bag.*
 Naomi: "A bo?"
 Rinka: "Naomi!"
 *The detonation is almost instantaneous.*
-*A wave of heat propels throughout the train car, enough to feel like my skin is being seared off.*
+*A wave of heat blasts through the train car, strong enough to feel like my skin is being seared off.*
 *A sharp, explosive roar comes right after, puncturing my eardrums.*
 *I duck in front of Naomi to protect her and then push her away.*
 *I feel my body being pushed by the explosive shockwave, too.*
@@ -307,11 +307,10 @@ Rinka: "Huh? What's that...?"
 *It's an auburn color, with some gold leaf decorations on it... I assume these are gears.*
 *I take care when cracking it open, trying not to get it dirty.*
 Rinka: "What the...?"
-*There are no pages inside, rather, there's a rectangular gap in the middle.*
+*There are no pages inside. Rather, there's a rectangular gap in the middle.*
 *I close the book immediately, having more questions now than when I spied it.*
 *Might as well message gran about it tomorrow, considering it's already this late.*
 *Looks pretty expensive, so I shouldn't mess around with it.*
-*Might as well message gran about it tomorrow, considering it's already this late.*
 *My phone vibrates after I turn the lights off and hop into bed. It's a message from Naomi.*
 Rinka: "Let's see, 'Thank you for offering to help. I'm looking forward to this!' She's a sincere girl, isn't she?"
 *I send a quick emoji in response, and then place my phone beside my pillow without checking to see if she reads it or not.*
@@ -337,9 +336,9 @@ Lethe: "But before the curtains rise on this play, let's kick start your memory 
 *Flames powerful enough to flake the skin from my bones.*
 *Flames that produce enough smoke to smother my lungs.*
 *My life turns to ash. My inability to move even my fingers tells me as much.*
-Linda: "――――"
-Linda: "――――!"
-Linda: "――――! ――――!"
+Linda: "————"
+Linda: "————!"
+Linda: "————! ————!"
 *I hear someone shouting.*
 *Whoever it is keeps shouting, over and over...*
 *Their calls are eventually drowned out by the roaring flames that continue to spread.*
@@ -464,7 +463,7 @@ Naomi: "I-I hope you don't expect an answer from me..."
 *After putting the book upstairs, I return with one of my English textbooks.*
 Rinka: "Throw some questions at me."
 Naomi: "Okay. How about basic vocab? Let's see..."
-*She throws some questions at me like I ask, and lo and behold, I can barely answer them.*
+*She throws some questions at me like I asked, and lo and behold, I can barely answer them.*
 Rinka: "See? Bad doesn't begin to describe my English skills."
 Naomi: "I understand that, but... now I'm concerned for a different reason."
 *She tries to be as polite as possible when pointing out my inadequacy. Funnily enough, she didn't even have to look back to the textbook for the last few questions.*
@@ -581,7 +580,8 @@ Miharu: "Today's truly been a good day. It's not often you respond like that, af
 *And yet, here we sit in utter silence. She's looking a bit shy, but there's determination in her expression as well, so I can't bring myself to say anything.*
 *The park staff sets up barricades near the bench during this time to make sure no one can get in the way of the parade before they start to organize people into lines.*
 *We could just stay seated, but doing so while the rest of the crowd waits around all excited feels too awkward.*
-Rinka: "Hey..." "Rinka..."
+Rinka: "Hey..."
+Miharu: "Rinka..."
 *We speak at the same time, possibly because we're thinking the same thing.*
 Rinka: "What is it?"
 Miharu: "You go first."
@@ -615,7 +615,7 @@ Rinka: "Next event is... the fireworks display in August, I guess. Haven't talke
 Miharu: "Definitely."
 *She replies with one clear, simple word.*
 *So clear, in fact, that it worries me a little. Normally you wouldn't be so firm about planning a night out with friends.*
-*My phone vibrates. Mao has just sent me a message, and when I turn around upon reading it, both her and Naomi are walking toward us.*
+*My phone vibrates. Mao has just sent me a message, and when I turn around upon reading it, she and Naomi are both walking toward us.*
 Rinka: "Oh, here they come. Let's get going, then."
 Miharu: "......"
 Rinka: "Miharu?"
@@ -695,7 +695,7 @@ Parca: "However, your lives all came to an end before that could occur. You were
 Parca: "This occurrence is what we refer to as the juncture of causality."
 *The juncture of causality. Okay.*
 *Call it whatever you want, but I'm struggling to keep up.*
-*If what she's saying is true, then me and Miharu, not mention the others here... We're dead.*
+*If what she's saying is true, then me and Miharu, not to mention the others here... We're dead.*
 *That can't be right, though. I've been living my life normally until now.*
 *So... am I a ghost? That makes even less sense.*
 *Confused though I may be, I listen to what this girl has to say.*
@@ -720,7 +720,7 @@ Parca: "Nothing good comes from being impatient. I am about to mention the most 
 *She gives a stern, yet composed warning.*
 Parca: "Let us return to the topic at hand."
 Parca: "Of the twelve present, only one will be able to realize the rest of their fate."
-Parca: "The cause of your deaths have been temporarily silenced while Divine Selection proceeds, but this will be undone for all those eliminated during it."
+Parca: "The cause of your deaths has been temporarily silenced while Divine Selection proceeds, but this will be undone for all those eliminated during it."
 Parca: "Not only that, but any events in the real world caused by an eliminated member will also be undone during this period."
 Parca: "It may be wise to consider yourselves existences removed from the natural state of the world until Divine Selection has run its course."
 Parca: "In other words, you cannot die by any means other than Divine Selection, although injuries and the like will occur as normal."
@@ -736,9 +736,9 @@ Miharu: "...Such an unpleasant description."
 *I don't have it in me to take a good look at all the others gathered.*
 *My eyes are glued to the person on platform VI — she sits in the fetal position, lifeless — almost as if asleep.*
 *I go back to focusing on Parca after that in an attempt to take my mind off the uneasiness welling up in me.*
-*I can decide whether or not to believe this after she finishes.*
+*I'll decide whether or not to believe this after she finishes.*
 Parca: "Three cards are required in order to eliminate someone."
-Parca: "Each of you have been dealt cards detailing a name, a cause of death, and a regret. These represent the present, past, and future, respectively."
+Parca: "Each of you has been dealt cards detailing a name, a cause of death, and a regret. These represent the present, past, and future, respectively."
 Parca: "You all have a personal card with information regarding yourselves, so I'm sure you understand."
 Parca: "Of course, Divine Selection requires its participants to have some manner of clue in order for it to proceed, so you have all been allocated three cards at random with information regarding your peers."
 Parca: "What you need to do now is gather the remaining cards on your own. Obtaining information on the other participants is key, as this information will mold itself into the form of a card."
@@ -780,11 +780,11 @@ Parca: "In such a case, where the procedure grows more complex, the order become
 *I ended up dying at some point without realizing it, and now I'm being forced to take part in this ordeal. It's why I was given these cards.*
 *She calls it Divine Selection, but this whole thing... Collecting cards and eliminating others... It's practically a game. A game with our futures at stake.*
 *Gathering information on complete strangers isn't an easy task, but so long as you can manage that, then...*
-Rinka: "It's basically over should anyone gather all three piece of information about you, right? That's just..."
+Rinka: "It's basically over should anyone gather all three pieces of information about you, right? That's just..."
 Miharu: "...There does seem to be a solid strategy where you can keep yourself safe."
 *My eyes are affixed to Miharu after hearing her, as I hope she'll continue.*
 Miharu: "It involves holding the three cards relevant to whoever elects you."
-Miharu: "You can use those to protect yourself, causing both your and the cards of whoever elected you to disappear. Or so I assume."
+Miharu: "You can use those to protect yourself, causing both you and the cards of whoever elected you to disappear. Or so I assume."
 Miharu: "They won't be able to elect you after that, but you won't be able to elect them, either."
 Miharu: "But if the one who elects you opts to reveal one of their personal cards in response, they cancel your defense. That's the gist of it, right?"
 Parca: "Indeed. I am glad at least one of you can recount the details."
@@ -904,7 +904,7 @@ Mao: "Whoa, there! Let's not imply that I'm always late on Mondays, even though 
 *Ironically enough, Miharu hasn't arrived by the time classes begin.*
 *In fact, she doesn't come to school at all.*
 *I've sent her a message, but it is listed as being unread.*
-*This, following what's happened last night, causes me to panic. Fortunately, Mao has some calming news for me.*
+*Coming on top of what happened last night, this sends me into a panic. Fortunately, Mao has some calming news for me.*
 Mao: "Seems like Miharun skipped out today 'cuz she was feeling sick. She said she's in good enough shape to go to work, though."
 Rinka: "Huh? She replied to you?"
 Mao: "Yup. In a flash, too."
@@ -949,9 +949,9 @@ Rinka: "There's just one issue, though..."
 Naomi: "Umm... Do you come to places like this often?"
 Rinka: "Nope, this is my first time. I was hoping to chat with Miharu since she works here, but..."
 *Miharu's workplace is a maid cafe located in Akihabara.*
-*It's a small, privately run establishment, so the staff just has to wear maid outfits. Meaning none of the usual business you see from bigger outlets, but it still takes some courage to stroll in.*
+*It's a small, privately run establishment, so the staff just has to wear maid outfits. No corporate fuss like you'd get at the bigger chains, but it still takes some courage to stroll in.*
 *There's no way I could have done it on my own, which is why I brought Naomi along as my sacrifice, of sorts.*
-*Unsurprisingly, all the customers are guys, which helps us to feel especially out of place.*
+*Unsurprisingly, all the customers are guys, which only makes us feel more out of place.*
 Miharu: "I'd appreciate it if you learned to act a little more lady-like, Rinka."
 *Miharu sounds beyond exhausted as she drops off my coffee.*
 Rinka: "Sorry, but I needed to talk with you... no matter what."
@@ -1007,7 +1007,7 @@ Rinka: "Can't say I'm too impressed by whoever that was. It's still work, even i
 Miharu: "It's one of those jobs where you get paid a lot for relatively easy work, so I'm not surprised. You won't find many of us working there actually trying to make a living off it. Most of us are there just to make some money on the side."
 Miharu: "Hehe... It carries extra weight when you of all people talk about someone's work ethic, though."
 Rinka: "The same applies to you."
-*The majority of Miharu's wage goes straight into living expenses, thanks to her situation at home. She doesn't pay for a tuition either, thanks to a scholarship.*
+*The majority of Miharu's wage goes straight into living expenses, thanks to her situation at home. She doesn't pay tuition either, thanks to a scholarship.*
 *I don't know the full story, but her parents got divorced, so it's just her and her mom at home, I think. What's worse, her mom isn't in the best condition, so she struggles to keep a consistent income.*
 *I might not be working for the money myself, but I can't really compare myself with Miharu when I've got my gran supporting me.*
 *Speaking of which, she mentioned once that most of the money she makes comes from real estate. She always brushes me off when I try to dig deeper into it.*
@@ -1104,7 +1104,7 @@ Odette: "I wonder. It's pretty obvious that everyone's first move in this Divine
 Odette: "You wanted codenames, but hey, it ain't gonna stop anyone from finding out our real names."
 Odette: "Cause of death, too. We all died at the same time, so all it'll take is a bit of digging to find out how everyone kicked the bucket, especially when it involves people like us."
 Odette: "You catch my drift, right?"
-Federico: "Yeah, yeah. No need to treat me like an idiot. I'm aware that information warfare's the name of the game here. Gotta find out one others' regret, too."
+Federico: "Yeah, yeah. No need to treat me like an idiot. I'm aware that information warfare's the name of the game here. Gotta find out other people's regrets, too."
 Odette: "The fact that you wanted to use codenames in spite of that proves you're just a small fry. You should forget all about your real name."
 Federico: "Everyone's regret card was handed out to other participants at random, right? That means one of 'em knows yours and one knows mine."
 Odette: "Well yeah, but there ain't no way someone's gonna luck out and get all three pieces of info on either of us when they're handed out at random."
@@ -1187,7 +1187,7 @@ Federico: "Yeah. Count me in."
 *The next morning, I notice that I have Ro's card in my own book, too.*
 *Later that day, Odette gets me to start tailing him.*
 *Needless to say, this is for the sake of getting information regarding his regret.*
-*Divine Selection takes place at 12 p.m. on Sunday, JST, so we'll be in a good spot if we manage to get all three piece of info on him before then.*
+*Divine Selection takes place at 12 p.m. on Sunday, JST, so we'll be in a good spot if we manage to get all three pieces of info on him before then.*
 *As for why I'm tailing him on my own, well... Odette's down with a hangover.*
 *Not in the way you'd imagine, though. She ain't suffering in bed — she's pissed off and screaming at everyone and everything.*
 *Can't believe she's making me second-guess her usefulness just one day later.*
@@ -1918,7 +1918,7 @@ Naomi: "Oh, no... I didn't want you to apologize... but, well... I do want an an
 Naomi: "So long as you do that, I'm sure I'll be fine, even if I have the same dream again."
 Rinka: "Sorry, but I..."
 *I desperately hold myself back from saying something I'll regret.*
-*I'm far worse at lying than I thought, judging by how I keep apologizing and evade the question.*
+*I'm far worse at lying than I thought, judging by how I keep apologizing and evading the question.*
 *Her head is cast downward, but her eyes are glancing up at me. The tears in her eyes are a lot more obvious than before.*
 *And it's my fault that she's crying.*
 Naomi: "If there's anything on your mind, then please talk to me about it... The last thing I want is for you to just... disappear someday..."
@@ -2051,7 +2051,7 @@ Rinka: "I mean, I don't even know my own regret..."
 Naomi: "Is it not enough that people like myself and Miharu want you to live?"
 Naomi: "I can't say for sure whether or not eliminating others for your own sake is the right thing to do. What I can say, though, is that I don't want you to die — no matter what!"
 Naomi: "If the idea of committing that sin scares you, then... at the very least... Share half of that responsibility with me."
-Naomi: "Naomi... why would you go this far?"
+Rinka: "Naomi... why would you go this far?"
 *Why would she go this far for my sake?*
 Naomi: "Before everything was undone, you chose to prioritize my life over your own. That's the kind of person you are. But... that's irrelevant now."
 Naomi: "I'm willing to go this far because it's for you, Rinka. That's all there is to it."
@@ -2146,7 +2146,7 @@ Rinka: "Ugh, fine..."
 Rinka: "...This is tougher than I thought it'd be."
 *After I lock the store up, I proceed to the hospital.*
 *When I arrive, the nurse I speak to showers me with praise.*
-*It's hardly surprising. I think most people would praise a highschooler who has obviously exhausted herself by carrying a patient all the way to a hospital in the middle of the night.*
+*It's hardly surprising. I think most people would praise a high schooler who has obviously exhausted herself by carrying a patient all the way to a hospital in the middle of the night.*
 *The nurse wastes no time in taking her away, so I guess she really is a patient here.*
 *Thanks to this, I manage to learn her name, as well.*
 *Kamebuchi Keiko.*
@@ -2169,7 +2169,7 @@ Rinka: "Whoa—"
 *The moment I do, the light begins to rise above the book itself.*
 Rinka: "Wh-What's going on...?"
 *All I can do is watch as it eventually congregates to one spot almost two feet above my table.*
-*It eventually molds inself into a rectangular shape. Well, to be more specific, the shape of a card.*
+*It eventually molds itself into a rectangular shape. Well, to be more specific, the shape of a card.*
 *Once the transformation is complete, the light dissipates.*
 *The card floats in mid-air for a brief moment before it quietly lays itself to rest atop the book.*
 Rinka: "So this is how new cards are made..."
@@ -2220,7 +2220,7 @@ Rinka: "Right..."
 *I pick up one of the books closest to me. While thinner than the card book, it's packed full of text.*
 *I probably shouldn't try my hand at a book like this when I know absolutely nothing about medicine.*
 *Thinking that, I pick up another one, only to reach the same conclusion.*
-*The only stuff I read other than manga are novels, so ideally there'll be something a bit simpler among all these...*
+*The only stuff I read other than manga is novels, so ideally there'll be something a bit simpler among all these...*
 *As I think this over, it leads to me repeating the same scenario over and over in my mind.*
 Naomi: "Umm... Rinka...?"
 Rinka: "What's wrong?"
@@ -2286,7 +2286,7 @@ Naomi: "I'm sure people would resort to such a method when they know their lives
 Naomi: "It's the same reason behind why you can't obtain a card detailing your own cause of death, I believe. We need something more concrete than your hazy memory and my dream..."
 *So in the end, it's all up to me remembering the exact details of what happened that day.*
 *I can't see myself doing that today, at least. The fact that it's yet to come back to me probably means I need something specific to trigger my memories.*
-*I push those thoughts away and Naomi back to the topic at hand.*
+*I push those thoughts away and steer Naomi back to the topic at hand.*
 Naomi: "Hmm... This is my personal conjecture, but it seems that blood loss is the most common cause of death during pregnancy. Meaning the same would apply to Keiko."
 Rinka: "Knowing that's not enough though, is it? I need to understand the precise details that led to its occurrence in the first place."
 *The lack of any new card materializing proves that.*
@@ -2354,7 +2354,7 @@ Naomi: "Right... I assume she's aware of the potential risk in approaching you a
 Rinka: "Let's do this."
 *After I ensure that my book is in my bag, I guide Naomi to the hospital.*
 *By the time we reach the lounge, I realize that I never did ask Naomi how she plans on approaching Keiko's family.*
-*Even without me there, it doesn't change the fact that she's just a random highschooler to them.*
+*Even without me there, it doesn't change the fact that she's just a random high schooler to them.*
 *I highly doubt they'll be willing to share private information with a stranger like that.*
 *Fortunately, the lounge is on the same floor as Keiko's room, so I'll be able to hear Naomi scream should anything go wrong while I wait.*
 *She isn't quite as clumsy and shy in front of me anymore, but this is Naomi we're talking about. I can't help but worry about her.*
@@ -2369,7 +2369,7 @@ Rinka: "Ack! You startled me..."
 Rinka: "Welcome back. How'd it go?"
 Naomi: "M-My heart's about to explode, for one. As for actual information, most of what I learned will only help us to narrow down the possible causes."
 Rinka: "So you didn't learn anything specific?"
-Naomi: "Right. It seems like she's always had a frail disposition, but no particular diseases to speak of. However, she'd been entering preterm labor on a consistent basis, which eventually lead to a premature birth via emergency C-section."
+Naomi: "Right. It seems like she's always had a frail disposition, but no particular diseases to speak of. However, she'd been entering preterm labor on a consistent basis, which eventually led to a premature birth via emergency C-section."
 Naomi: "The child had to be admitted afterwards, so both of them have been in the hospital for close to three weeks now."
 *That overlaps with the timing of Divine Selection.*
 *The books we were reading yesterday mentioned preterm labor and premature birth.*
@@ -2381,11 +2381,11 @@ Naomi: "I... told a little white lie."
 *Her tone is more hushed than usual.*
 *It's probably why she seemed a bit gloomy afterwards.*
 Naomi: "I told them that I noticed her whenever I'd come here to visit my friend, who'd also been hospitalized. I said I was worried about her, but felt it would be rude to ask her about her situation directly. I... also said I would bring her some flowers soon."
-Naomi: "That... eventually lead to them telling me what I just told you..."
+Naomi: "That... eventually led to them telling me what I just told you..."
 Rinka: "Naomi..."
 *She looks like she's ready to cry.*
 *She pried information from Keiko's family for the express purpose of eliminating her.*
-*Knowing how kind of a person she is, there's no doubt she's beating herself up over it.*
+*Knowing what a kind person she is, there's no doubt she's beating herself up over it.*
 *All I can do is grit my teeth.*
 *She did this for my sake, so I can't give her some half-hearted consolation.*
 *Figuring it'd be too risky to discuss things further here, we make our way back to Lion House.*
@@ -2442,7 +2442,7 @@ Naomi: "I agree... We should make our way back to the hospital."
 *Neither of us are too surprised, though.*
 Naomi: "Sorry... Part of me realized this would happen, but..."
 Rinka: "We might need to go about this another way."
-Naomi: "But you say the next round is tomorrow night, isn't it? If we miss our opportunity, then it's likely that both her and the other participants will be working even harder to find out more information...!"
+Naomi: "But you said the next round is tomorrow night, isn't it? If we miss our opportunity, then it's likely that both her and the other participants will be working even harder to find out more information...!"
 Naomi: "We should do as much as we can now..."
 Rinka: "I know you're right, but..."
 *I get where she's coming from.*
@@ -2451,7 +2451,7 @@ Rinka: "I know you're right, but..."
 *I honestly have no idea what else we could try.*
 Naomi: "...I'll speak with her personally. She may suspect me, but I'll do what I can to pass myself off as someone else."
 *She tells me to wait here as she gets up, ready to run off.*
-*I try to stop her, but all I do is cause her trip over her own feet.*
+*I try to stop her, but all I do is cause her to trip over her own feet.*
 Naomi: "Oompf!"
 Rinka: "S-Sorry..."
 *Fortunately, the fall brings her back to her senses.*
@@ -2701,7 +2701,7 @@ Rinka: "Security should be here any minute now... Even you won't be able to esca
 Alan: "Let them come. I'll simply escape with her child."
 Alan: "Dealing with a few people on the way is easy enough. It may complicate things afterwards, but it doesn't change the fact that I will come to possess Keiko Kamebuchi's information."
 *He answers right away and continues his threat.*
-Alan: "You have thirty seconds. I'll kill the child in the bed next to yours if you haven't answer by then, followed by another child thirty seconds after that. If you still haven't answered, then yours will be the next."
+Alan: "You have thirty seconds. I'll kill the child in the bed next to yours if you haven't answered by then, followed by another child thirty seconds after that. If you still haven't answered, then yours will be the next."
 Rinka: "They have nothing to do with this!"
 Keiko: "Keep calm... If you don't, he'll add your own info into a part of the deal."
 *She whispers this just quietly enough so that he can't hear.*
@@ -2838,8 +2838,8 @@ Keiko: "Hey, mind if we have a little chat?"
 *She's the only customer at the moment, so I accept her offer.*
 Keiko: "The truth is, I couldn't help but think how lovely your name was the moment I saw it on the card."
 Rinka: "That came out of nowhere."
-Keiko: "I've been meaning to tell you since we first met... I felt that your name didn't suit you once I saw that you in the dream world — just a scared little child."
-Keiko: "I was disappointed, in all honesty. Your name invokes a certain dignified image, and yet you are quite the opposite."
+Keiko: "I've been meaning to tell you since we first met... I felt that your name didn't suit you once I saw you in the dream world — just a scared little child."
+Keiko: "I was disappointed, in all honesty. Your name evokes a certain dignified image, and yet you are quite the opposite."
 *That's kind of annoying to hear, but I can't really argue with it.*
 *I really must've looked helpless in the dream world.*
 Keiko: "Anyway, you're completely different in person. The look in your eyes here is far more dignified than that of any other participant. Your words are filled with passion."
@@ -3032,13 +3032,13 @@ Alan: "The resemblance — truly striking..."
 *I don't bother to ask what he means by that.*
 *I can't say for sure whether or not he's shouldering a story of his own, but right now, I have zero desire to exchange words with him.*
 Parca: "Tonight's session resulted in one elimination. I bid you all farewell for now."
-*Shortly after, Parca brings and end to tonight's round.*
+*Shortly after, Parca brings an end to tonight's round.*
 Naomi: "The child had to be admitted afterwards, so both of them have been in the hospital for close to three weeks now."
 *That overlaps with the timing of Divine Selection.*
 *I wake up feeling refreshed. I must've gotten a good night's sleep for the first time in a while.*
 *Keiko has been eliminated, but I don't feel sad about it. Just... empty.*
 *My eyes wander over to my table.*
-*Both the letter I received from Keiko and the one I had written are both there.*
+*Both the letter I received from Keiko and the one I wrote myself are still there.*
 *However, when I get up and take a closer look at Keiko's letter, its contents have vanished.*
 *Her actions during Divine Selection, as well as their effects, have been erased...*
 *I next check my transcription of her letter and confirm that it remains intact.*
@@ -3090,7 +3090,7 @@ Rinka: "E-Excuse me..."
 *The "Kei" in Keiko represents a type of olive plant in China, as well as Japan's katsura trees.*
 *Her name is in reference to how pleasant smells are associated with sincerity. Not only that, but also because her parents wanted her to be as healthy and sturdy as a katsura tree.*
 *Having remembered that after Keiko's death, her husband told his mother that he wanted to decide on the baby's name himself.*
-*He wanted to give the child a name linked to trees—like his mother—but couldn't think of anything appropriate.*
+*He wanted to give the child a name linked to trees — like his mother — but couldn't think of anything appropriate.*
 *Because he wanted his son to be straightforward and earnest, he decided to use a kanji for "tree" and then added "haru" at the beginning, since the child was born in spring. Thus, Haruki.*
 *I think back to what Keiko had written in her letter.*
 Keiko: "I never was as healthy and sturdy as they'd hoped, but the desire to be so remained in my heart until the very end."
@@ -3418,7 +3418,7 @@ Miharu: "I have to admit, I'm happy that we can still spend time together like t
 Rinka: "I'm happy about it, too."
 Miharu: "Rinka..."
 Rinka: "You're probably going through some tough times thanks to this whole situation as well, so... just being able to sit here and forget about it for a while really is nice."
-Miharu: "I really meant was I said... I know that I'll do everything I can for the sake of your smi—"
+Miharu: "What I really meant was what I said... I know that I'll do everything I can for the sake of your smi—"
 Rinka: "Let's... not get into that for the time being."
 *Miharu's expression as she declared her intention to give her life for mine flashes across my mind all of a sudden.*
 *I've gotten over a lot of things lately, but that's not one of them.*
@@ -3430,7 +3430,7 @@ Rinka: "I've come to terms with the reality of our participation in Divine Selec
 Miharu: "I see no issue with it. You don't need to do anything special, because I'll protect you. Even at the cost of my own li—"
 Rinka: "Miharu!"
 *I realize that I've raised my voice far louder than intended.*
-Rinka: "Sorry... I didn't meant to shout."
+Rinka: "Sorry... I didn't mean to shout."
 Miharu: "No, it's my fault. There's something I want to ask you anyway, so let's change the subject."
 Miharu: "You haven't been meeting with Naomi recently, have you?"
 *It is a pretty standard question, but her face looks deadly serious.*
@@ -3616,7 +3616,7 @@ Sonya: "...Yes."
 Miharu: "As I thought, something isn't quite right."
 Sonya: "How so...?"
 Miharu: "You called me by name before Rinka ever said it in front of you. That means you already knew it."
-Miharu: "I ask this already knowing the answer, but... you have my name card, don't you?"
+Miharu: "I'm asking this already knowing the answer, but... you have my name card, don't you?"
 Sonya: "...I'm sorry."
 Miharu: "Why are you apologizing?"
 Sonya: "Because I never told you about having it."
@@ -3640,7 +3640,7 @@ Rinka: "Yeah, okay."
 *I want to discuss things with Miharu now that the cat's out of the bag, but we decide it is best to go back to my room after watching Sonya let out a big yawn.*
 *Basically, I don't get to find out anything regarding Miharu's name card.*
 *School ends up flying by somehow.*
-*Once classes are over, the three of us met up at the gate.*
+*Once classes are over, the three of us meet up at the gate.*
 *We couldn't have Sonya infiltrate the school again, so we got her to wander around the university campus instead.*
 *Not only is it open to everyone, but there's a library there, as well. I'm sure she surprised a few students there, but oh well.*
 *However, once we meet up, I realize getting her to do that was a mistake.*
@@ -3759,7 +3759,7 @@ Miharu: "In that case, they'd never let her have fatty foods like pizza. Bear in
 Miharu: "I don't think she would've been able to see the world like she wanted had she stayed with her parents. Do you understand where I'm going with this yet?"
 *I think back to Sonya's comment about having the freedom to eat what she likes.*
 *Pointing that out must mean she previously didn't have that freedom.*
-Rinka: "Sonya's definition of 'seeing the world at large' differs from ours, and Numeral's XI's actions enabled her to fulfill that one desire..."
+Rinka: "Sonya's definition of 'seeing the world at large' differs from ours, and Numeral XI's actions enabled her to fulfill that one desire..."
 Miharu: "Of course, I doubt she expected Sofiya to run into us. Even then, the desire for her to minimize that regret is definitely there."
 Miharu: "Two or three days likely isn't enough for her to completely remove her regret, but I think it's safe to say that her tears tonight would've held a completely different meaning had she been with her parents."
 Rinka: "I see. That makes sense. Not sure I can say this was the correct option, but at the very least, Sonya seems to have been happy from the bottom of her heart."
@@ -3829,7 +3829,7 @@ Sonya: "I want you to show it the world in my place."
 Miharu: "There's no point in handing it over to me..."
 Sonya: "This is a request for the both of you."
 *She leaves Passazhir on the table at which Miharu is sitting and prepares to continue with her request.*
-*Miharu unconsciously strokes its head with her finger. At least, I assume it is unconscious of her, since she retracts her finger the moment she realizes what she's doing.*
+*Miharu unconsciously strokes its head with her finger. At least, I assume she is unconscious of it, since she retracts her finger the moment she realizes what she's doing.*
 Sonya: "Would you mind listening to what I have to say?"
 Sonya: "The goddess said that, originally, all twelve of us were supposed to have gathered in the same place twelve weeks from the beginning of Divine Selection."
 Sonya: "In reality, my parents planned to take me on a trip if my condition didn't get any worse."
@@ -3995,7 +3995,7 @@ Parca: "With that decided, Numeral II and Numeral X... Allow me to begin the ele
 *A familiar tremor accompanies her statement.*
 *Shortly after, Miharu's and Sonya's platforms ascend to the upper stratum.*
 *Miharu and Sonya face one another in the upper stratum of the Court of Fate.*
-*Neither look too happy about what will soon take place.*
+*Neither looks too happy about what will soon take place.*
 *Regardless, they make sure to maintain eye contact.*
 Sonya: "...Thank you, Miharu."
 Miharu: "I'm the one that should be thanking you. I certainly never expected such a proposition from you, but your decision is the right one."
@@ -4025,7 +4025,7 @@ Miharu: "Her regret... was not having the freedom to see the world at large."
 *All three cards begin to move on their own in response.*
 *Once they reach the middle of the Court of Fate, they come together and form a triangular shape.*
 Sonya: "Goodb—"
-Miharu: "I'm not fond of goodbyes. I'd much prefer you to pray for myself and Rinka's happiness."
+Miharu: "I'm not fond of goodbyes. I'd much prefer you to pray for Rinka's happiness and mine."
 Sonya: "Okay."
 *She takes a deep breath before clasping her hands together and offering up a prayer.*
 Sonya: "May Rinka and Miharu find joy in their future."
@@ -4034,7 +4034,7 @@ Miharu: "May your soul rest in peace."
 *The light from Miharu's cards grows stronger and brighter until it engulfs the entire area.*
 *Miharu makes sure to keep her eyes on Sonya's tear-stained face, no matter how blinding the light grows.*
 *Feelings of regret and emptiness begin to flow into her.*
-*She finds herself laying on Sofiya's bed in her room.*
+*She finds herself lying on Sofiya's bed in her room.*
 *The doctors rushed in as her parents looked on, praying for her safety.*
 *The girl reflected upon her life as her breathing grew ever more pained.*
 *The ceiling of this room was perhaps the most-viewed scenery she'd witnessed throughout her life.*
@@ -4053,7 +4053,7 @@ Miharu: "Wait a minute... You mean to tell me you had no say in the matter, desp
 Parca: "I'm not terribly fond of needless curiosities."
 *Parca utters her words only after Miharu has gotten far enough away.*
 *Numeral II comes back down instead of Odette this time.*
-*It's been obvious that her and Numeral I know each other ever since this whole thing started. I also figure they aren't at odds with each other, which means it's likely they're working together — like me and Odette.*
+*It's been obvious that she and Numeral I know each other ever since this whole thing started. I also figure they aren't at odds with each other, which means it's likely they're working together — like me and Odette.*
 *Damn, did tonight ever take me by surprise.*
 *I was sure she'd back down once Odette said she would.*
 *Odette's obviously going to prioritize protecting her own information over eliminating Sofiya.*
@@ -4073,7 +4073,7 @@ Miharu: "I'll take Numeral I's cause of death."
 Rinka: "Wh-What's going on here? She had that all along...?"
 *Doesn't look like anyone's more surprised by this turn of events than Numeral I herself.*
 *Can't blame her. Out of all the cards Numeral II could've picked, she went with one belonging to the person she's working together with.*
-Miharu: "Why do you satisfy your urge to keep talking? Understand that the situation you're in requires being silent above all else."
+Miharu: "Why do you keep giving in to the urge to talk? Understand that the situation you're in requires being silent above all else."
 *Numeral II slaps her with a frigid verbal warning.*
 *Numeral I is obviously taken aback, but it does cause her to keep quiet.*
 Parca: "Now that your election is over, I'd like you to hand me the personal card of your choosing in exchange for obtaining the right to eliminate Numeral X."
@@ -4097,8 +4097,6 @@ Parca: "Tonight's session resulted in one elimination. I bid you all farewell fo
 *And hey, watching Odette get taken for a ride felt amazing.*
 *I was even planning on approaching Miharu, had she opted to go with Odette's info, but... seems like I'm best off sticking with Odette for now.*
 *When all is said and done, I have to put some serious effort into containing this newfound ambition of mine.*
-*She places both of her hands on the glass and takes a sip.*
-*There's no doubt I'll face situations similar to when I confronted Alan at the hospital again.*
 *It's time to meet up with Odette at the hotel, and I still haven't gotten over my excitement about what happened last night in the dream world.*
 Federico: "Yo, didja see those two last night? Looks like Numerals I and II have some major issues to work out, huh?"
 Federico: "Man! There's just something thrilling about watching a falling-out like that."
@@ -4381,8 +4379,7 @@ Rinka: "Thank you for the concern."
 Naomi: "Something's definitely suspicious about the situation between those two..."
 *I'm curious about her thoughts on the matter, but that would just invite the same gossip as that lady.*
 *I need to handle this on my own. It's down to me to gather as much info as I can.*
-*Instead, I simply reply with an, "It's all good." to which she responds with an emoji.*
-*I need to handle this on my own. It's down to me to gather as much info as I can.*
+*Instead, I simply reply with an "It's all good." to which she responds with an emoji.*
 *I prep to open the store as soon as I get back.*
 *A few people swing by, but no one stays for long because it's a weeknight.*
 *Once 9 p.m. rolls around, I close up shop.*
@@ -4492,9 +4489,8 @@ Miharu: "Assuming things went as planned, then some of the other participants ma
 Rinka: "The timing couldn't have been more perfect."
 Miharu: "Indeed. Regardless, I really should be on my way." nointeract
 Rinka: "I'll see you tomorrow."
-*She smiles and makes an ever-so-elegant exit from the store.*
 Rinka: "Okay. Take care."
-*She tilts her head at my reply, but opts to make a quiet exit rather than ask about it.*
+*She smiles, then tilts her head at my reply, but opts to make a quiet exit rather than ask about it.*
 *Funny. I made coffee thinking we'd be talking for a while, but the real conversation only began after we'd finished drinking it.*
 *I take a moment and stare at Miharu's empty cup before getting back to my usual routine.*
 Rinka: "Mmm... Already morning..."

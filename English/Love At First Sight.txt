@@ -11,7 +11,7 @@ Akemi: "Oh, Ma-kun, g'morning! You're here earlier than usual. How unlike you!"
 You: "Good morning, Akemi. I see you're getting a head start on being loud and obnoxious today."
 Akemi: "There's nothing wrong with being energetic!"
 *This overly spirited person is Tsunemi Akemi.*
-*She's always like this - the kind of person who's always going full throttle from the moment she wakes up until the moment she falls asleep.*
+*She's always like this — the kind of person who's always going full throttle from the moment she wakes up until the moment she falls asleep.*
 You: "You're not energetic, you're out of control... but I guess that's what I should be expecting by now. Morning, Tomo. You know her better than I do, right? Does she have a volume knob?"
 Tomoyori: "Morning. I've known Akemi for a long time, and I can say for sure that no, she doesn't."
 *This is Ochiai Tomoyori. He's a zombie in contrast to Akemi's liveliness.*
@@ -76,7 +76,7 @@ You: "You eat way too fast!"
 Akemi: "Hey, what were you two talking about?"
 Tomoyori: "I was recounting the epic saga of how you won your fame. He seemed to be really interested in it, so I wanted him to hear it from the source."
 You: "Wait, what?"
-Akemi: "Really?! Sure thing, Ma-kun! Do you want to hear about when I saved the town for the first time with my fantastic powers? I hadn't met Tomo-kun yet, and--"
+Akemi: "Really?! Sure thing, Ma-kun! Do you want to hear about when I saved the town for the first time with my fantastic powers? I hadn't met Tomo-kun yet, and—"
 You: "No, no, I really don't want to hear about that. Come on, Tomo!"
 Tomoyori: "A minute ago, you told me to take care of her, and now I'm telling you to do it. I haven't even touched my food yet, so you be her friend for a bit."
 *And without a second glance, he starts eating his lunch in silence.*
@@ -143,7 +143,7 @@ You: "Do you... need something to wipe your face?"
 *Her uniform is black, so I can't tell if it's wet from her crying into it. She doesn't have a handkerchief or anything, though. I produce my own handkerchief from my pocket and move to offer it to her.*
 *I approach the girl sitting at the top of the stairs to give her the handkerchief, and once again she starts shivering in fear.*
 *She's looking at me like I'm some kind of monster. Am I really that scary? Isn't she the monster here?*
-???: "......"
+???: "…"
 ???: "Th-Thank you."
 *I hold the handkerchief out stiffly for several seconds. Then, cautiously, oh so cautiously, she takes the handkerchief and wipes her face.*
 *Those are the first words she's spoken so far, but her trembling voice is so quiet that I almost don't hear her.*
@@ -155,7 +155,7 @@ You: "Er... I only transferred to this school about two months ago. I don't thin
 You: "We must be in different classes since I haven't seen you around before. What grade and class are you in? I'm in class 2-2."
 ???: "... Class 1-2."
 *She actually gave me a proper response this time. She really is a student here, I guess, not a monster or something.*
-*Suddenly, it hits me that I have been sharing the same school -- and hell, the same world -- with this... person all this time.*
+*Suddenly, it hits me that I have been sharing the same school — and hell, the same world — with this... person all this time.*
 You: "Oh, one year lower, then?"
 ???: "... Y-Yeah."
 *The conversation grinds to a halt again. I can't think of anything else to say... Actually that's not true. I have a mountain of things I want to ask her.*
@@ -191,7 +191,7 @@ You: "Whatever, it's not worth dwelling on."
 You: "I'm home."
 Mom: "Oh, welcome home. You're a little late, aren't you? What were you doing?"
 You: "Akemi roped me into being her errand boy. She wanted me to deliver something for her."
-*......*
+*…*
 *...*
 You: "Haah."
 *Later that night, I let out a deep sigh as I'm lying in my futon, unable to sleep.*
@@ -229,7 +229,7 @@ Tomoyori: "What do you want me to do? Stop Akemi from being Akemi?"
 Akemi: "Mmffgmgm!!"
 You: "Akemi's always too loud, and Tomo doesn't have the best manners, but I promise they're good people."
 Sachi: "O-Okay."
-Akemi: "Hey, don't talk about us like we're not right in fron-- Mmg!"
+Akemi: "Hey, don't talk about us like we're not right in fron— Mmg!"
 *Akemi's recovering from Tomo's intervention more quickly than usual, but Tomo's ready for it, and he crams more food in her mouth as soon as she opens it. Those two have gotten pretty close...*
 You: "Sorry, it's not easy keeping those two in check. If they get out of hand, just tell them to shut up."
 Sachi: "N-No, I couldn't..."
@@ -270,7 +270,7 @@ Sachi: "Um, senpai?"
 *Sachi doesn't seem to get it either, and she looks up at me with a puzzled expression.*
 You: "I'll tell you about it later as well."
 *Well, it might take some time, but I'm sure Sachi will be comfortable around these two soon enough.*
-*......*
+*…*
 *...*
 You: "What did you think of Akemi and Tomo? Not too bad, right?"
 Sachi: "Not at all. Tomo-senpai seemed a little scary at first, but I realized that he wasn't scary at all once I started talking to him. Akemi-senpai is really cheerful and lively, and they're both really nice."
@@ -322,7 +322,7 @@ You: "... All right, just a sec."
 *With the bandages off of her head, Sachi opens her eye and looks up at me.*
 *I look down to meet her eye as it gleams wetly from the faint light that penetrates the alley.*
 *Gazing at the upturned eye before me, I suddenly feel like I'm falling into it. The feeling is so intense, and I can't tear myself away from that black pit.*
-Sachi: "...Go ahead."
+Sachi: "... Go ahead."
 *She shuts her eye again. Closing what little distance is left between us, she puts her hand to my chest and leans into me.*
 *Her touch takes me by surprise, but after a moment, I put my own hand on her shoulder.*
 You: "..."
@@ -347,9 +347,9 @@ Sachi: "... I'm okay."
 *I'm just touching her wound, but it's starting to feel like I'm doing much more than that to her.*
 *Sachi, huddled in my arms as she is, seems so drained.*
 *It's like she doesn't even have enough strength to stand up anymore, and I'm the only thing supporting her.*
-*......*
+*…*
 You: "Thanks, uh... for that. I think I'm satisfied."
-*Yeah, right. Really, I don't know what I might have done if we hadn't stopped. I wanted to stay like that so badly - her pressed against me with my arms wrapped around her - but I had to end it.*
+*Yeah, right. Really, I don't know what I might have done if we hadn't stopped. I wanted to stay like that so badly — her pressed against me with my arms wrapped around her — but I had to end it.*
 Sachi: "Oh, okay."
 *Sachi seems reluctant to separate from me, and she stares up at me longingly.*
 *For several moments, neither of us can tear ourselves away from each other's gaze, but I force myself to break away. I gather our bags up off the floor and hand Sachi's over to her.*
@@ -361,7 +361,7 @@ You: "Yeah?"
 Sachi: "Did you... er, like it?"
 You: "Oh, yeah, I did. Thanks."
 Sachi: "You can touch it anytime you want, senpai."
-You: "...Sure."
+You: "... Sure."
 *I feel like I might lose my mind if this sort of thing keeps happening. I can't ask her to let me do that again.*
 Sachi: "..."
 You: "..."
@@ -379,7 +379,7 @@ Mayumi: "Sachi, I know you just got home, but I'd like you to do some shopping f
 Sachi: "Y... Uh, Y-Yes. I'll go change my clothes."
 Mayumi: "No need. I'd prefer if you'd do it right away. Here's a list with everything I need and some money. Just go to the convenience store. It should only take ten minutes or so, I'd think."
 Sachi: "O-Okay. Um, see you tomorrow, senpai."
-*Sachi, oblivious, takes the note Mayumi handed her and starts off - almost running - toward the convenience store.*
+*Sachi, oblivious, takes the note Mayumi handed her and starts off — almost running — toward the convenience store.*
 *What the hell? What was the point of having her do that?*
 *Mayumi didn't really look like she was in a hurry to get whatever it was she sent Sachi for. Come to think of it, why didn't she at least wait until I was gone to send Sachi out?*
 You: "Uh... I'll be going now."
@@ -411,7 +411,7 @@ You: "None of that is Sachi's fault...!"
 Mayumi: "In the back of my mind, I knew the girl was innocent, but I had just lost my beloved sister, and I had no one to blame but her, so I convinced myself that she was responsible."
 Mayumi: "... I never told her that I blamed her, but I'm sure she knew it nonetheless, and she soon began to keep her head down even in the house. After that, there was no conversation between us beyond the bare minimum."
 You: "..."
-Mayumi: "I behaved like a child. I tried to involve her in my life as little as possible, and she did the same to me. She had just lost her mother, but I was too caught up in my own grief - too selfish to spare even one kind word for her. Thinking back, it is a truly shameful way to have behaved."
+Mayumi: "I behaved like a child. I tried to involve her in my life as little as possible, and she did the same to me. She had just lost her mother, but I was too caught up in my own grief — too selfish to spare even one kind word for her. Thinking back, it is a truly shameful way to have behaved."
 Mayumi: "But once she got to high school, she started coming home with numerous cuts and bruises. It was then that I realized I had neglected my beloved sister's final wish. I knew then that I had let her down."
 You: "But if you realized that, why didn't you try to help her?"
 Mayumi: "I did try. I wanted to know what was happening to her, of course, but she only told me that she had fallen, that nothing had happened to her. And now it's too late for me to help her..."
@@ -424,7 +424,7 @@ You: "Oh... Y-Yeah, no problem."
 Mayumi: "Ever since the day I first saw you in front of our house, that girl has been smiling more than ever before. She goes back to staring at the ground as soon as she notices me, of course..."
 Mayumi: "But still, when I gave her money on the day you two went out, she was the happiest I'd ever seen her. She even thanked me several times."
 Mayumi: "I'd never seen her like that before, and it actually startled me, but her face at that time, delighted as she was, was nothing less than adorable. That was the first time she had ever asked something of me as well. It made me quite happy. And all of that is thanks to you."
-You: "...So you don't hate Sachi, then, I take it?"
+You: "... So you don't hate Sachi, then, I take it?"
 Mayumi: "I do not. I thought I did for a long time, however, and I'm paying for that now."
 You: "If you're admitting all of this to me now, why not tell it all to Sachi, too?"
 Mayumi: "I'm not sure she'd be willing to listen even if I tried. I'm the source of many bitter memories for her, you know."
@@ -528,7 +528,7 @@ You: "Y... Yeah, sure."
 Sachi: "...♪"
 *Sachi happily wraps her arm around mine.*
 *I don't think I've seen her fawn over me this much before. Well, then again, she has been pretty open with her affection lately.*
-Akemi: "By the way, the place we're going to is-- Aw, you guys look so cute!"
+Akemi: "By the way, the place we're going to is— Aw, you guys look so cute!"
 *Akemi, looking back at us, seems almost upset as she says this. Sachi recoils from her outburst, suddenly embarrassed, and lowers her gaze, but she doesn't let go of my arm.*
 *Akemi's actually making me uncomfortable as well, but if Sachi's not letting go, I'm not about to force her to.*
 Akemi: "Tomo, I want to do that, too!"
@@ -739,11 +739,11 @@ Sachi: "Yeah, just one more bite."
 *Sachi's going to try and be the first one out the classroom again, but today, I'm not going to let her get away.*
 *I reach the doorway before her and stop her from leaving.*
 Rui: "Hey."
-Sachi: "...Y... Yes?"
+Sachi: "... Y... Yes?"
 Rui: "Come here, I want to talk to you."
 *I grab her arm before she can say anything and drag her out of the classroom.*
 Sachi: "Th-That hurts...!"
-*......*
+*…*
 *...*
 *I would normally start using her as my punching bag right then and there, but this time, I need to find somewhere we won't be disturbed.*
 *School's over, and the only students on the stairway are those going to their club activities.*
@@ -794,7 +794,7 @@ Sachi: "Eek!"
 Rui: "Oh, shit...!"
 *We're on the stairway. There's no floor behind me.*
 *I had sent her flying with more force than I meant to use. Everything seems to slow down as she flies down the stairs toward the landing far below her.*
-*......*
+*…*
 *...*
 You: "Wait, Sachi's not here yet?"
 Tomoyori: "I thought you went to find her."
@@ -1375,7 +1375,7 @@ Sachi: "... Mamoru-senpai?"
 You: "No worries. This isn't the street I usually take, but my house is in this direction. What street do you turn on?"
 Sachi: "I don't turn... Or, I mean, the street changes, but basically... I head in this direction the whole way."
 You: "I see. That's good. My house is pretty much straight ahead, so we're probably right in the same neighborhood. Does it take long for you to get to school?"
-Sachi: "I think.. I'm pretty close. It doesn't take too long or anything."
+Sachi: "I think... I'm pretty close. It doesn't take too long or anything."
 You: "Is that so? Cool, cool."
 Sachi: "... Isn't that heavy? Er, I think I can help you carry it..."
 You: "I'm telling you, it's fine. I did drag this all the way to school from my house this morning, you know."
@@ -1481,7 +1481,7 @@ Tomoyori: "To her house? That's pretty... uh, daring."
 *It's not like it's a big loss of time, but since the fastest way to school is to go straight ahead from my house, I don't normally use this road.*
 *Of course, it's not like I'm just choosing to go this way for no reason. I can go faster if I take streets without many people on them.*
 *And of course, even if it's unlikely, I thought that if I go this way, I might...*
-*......*
+*…*
 *As I walk on, I see a figure ahead of me.*
 *The torn uniform, the messy hair, the slim build, and, of course, the bandages on her head. There's no mistaking who it is in front of me: Sachi.*
 *I speed up to catch her and nudge her shoulder.*
@@ -1502,7 +1502,7 @@ You: "I said you could take your time, didn't I?"
 Sachi: "A-Are you sure?"
 You: "Of course. What should I give you next? Oh, actually, which of those did you like best?"
 Sachi: "Um... Both were good, but I liked this one the best. The one with the boy who can see ghosts..."
-*......*
+*…*
 *As we continue walking and talking about the manga's contents, the school comes into view.*
 *Sachi has been fairly talkative on the way here, holding an actual conversation with me. Carrying all that manga for her was definitely worth it if it makes her that happy.*
 You: "We're already here, huh? I usually walk to school alone, but this is more fun."
@@ -1529,7 +1529,7 @@ Sachi: "Okay, see you."
 *So that was the infamous Sadokawa Rui, huh?*
 *Since I've never actually talked to her, I can't say for sure, but I can tell just from looking at her that she has an aggressive personality.*
 *Making friends with Sachi is good and all, but I should probably find out what I can about Sadokawa as well.*
-*......*
+*…*
 *...*
 *Morning classes are over, and it's lunchtime now.*
 *However, it's only Tomo and me in the empty classroom today.*
@@ -1544,10 +1544,10 @@ Tomoyori: "Since we were in different grades, we didn't meet her right away, but
 Tomoyori: "So then Akemi, with her motto at the time being 'love and peace,' went and tried to rehabilitate her."
 You: "Somehow, I'm not surprised."
 Tomoyori: "Well, I didn't say that she succeeded. Sadokawa made fun of her mercilessly, but even still, Akemi refused to give up. That girl's so damn stubborn. It finally ended when the two got in a nasty fight."
-You: "...No one tried to stop them?"
+You: "... No one tried to stop them?"
 Tomoyori: "Well, I rushed to intervene, but it's not like Akemi just stood there and took Sadokawa's blows. It looked like Akemi lost her cool, and she fought Sadokawa with everything she had. That was not something I was expecting from her."
-You: "What happend to her?"
-Tomoyori: "It was not just a simple squabble. Akemi's always had good reflexes, and Sadokawa seemed to have had a lot of experience in fights. They kicked and punched, and natually when they started using their knees and elbows, I had to stop them."
+You: "What happened to her?"
+Tomoyori: "It was not just a simple squabble. Akemi's always had good reflexes, and Sadokawa seemed to have had a lot of experience in fights. They kicked and punched, and naturally when they started using their knees and elbows, I had to stop them."
 You: "I never would have guessed Akemi would be able to fight."
 Tomoyori: "Even I didn't know she could, and I've known her for a long time. I saw a side of her I never knew existed that day."
 You: "Did Sadokawa say something to make Akemi so angry?"
@@ -1646,14 +1646,14 @@ You: "Great, next. Open up."
 *I present the next bite I've gathered between my chopsticks to her.*
 Sachi: "Th-That's enough. I don't want you to have less food because of me."
 You: "It's really no big deal."
-Sachi: "...Well... ...Mn... mm. Mng."
+Sachi: "... Well... ...Mn... mm. Mng."
 *As I watch Sachi meekly peck at the ends of my chopsticks, I start to feel like a mother bird feeding its chick or something. I can't help but think it's a little cute.*
-Sachi: "...Erm, that's enough, really."
+Sachi: "... Erm, that's enough, really."
 You: "Open wide."
-Sachi: "...Mm, mm. Mng."
+Sachi: "... Mm, mm. Mng."
 *I almost feel like someone else is controlling my hand. Not that I'm about to stop them.*
-Sachi: "Y-You could at least let me eat by--"
-Sachi: "...ah...Amn, nm, nm."
+Sachi: "Y-You could at least let me eat by—"
+Sachi: "... ah...Amn, nm, nm."
 *I'm sure this is embarrassing for her. As I keep making her eat, I notice that her cheeks get redder and redder.*
 *...She's... so damn cute.*
 Sachi: "I... I've already eaten half of your lunch! The rest is yours!"
@@ -1666,10 +1666,10 @@ Sachi: "N-No, it's all right. I was happy that you fed me some of your lunch... 
 You: "It's okay, I understand. I wasn't trying to be mean or anything."
 Sachi: "I know. Anyway, er, thank you very much."
 You: "Of course. No problem. I suppose I'll clean up the rest."
-Sachi: "...Um."
+Sachi: "... Um."
 You: "Hm?"
 *As I'm about to start on what's left in my lunchbox, Sachi stares at the chopsticks.*
-You: "...Oh."
+You: "... Oh."
 *I should have realized it sooner, but the chopsticks I'm about to eat with are the same ones I had been using just a moment ago to put food directly into Sachi's mouth.*
 You: "Uh, sorry. I forgot... That would have been kind of gross, huh?"
 Sachi: "N-No, I don't really mind. But if you think it's gross, it might be best to wash them. Don't worry about me, though."
@@ -1694,7 +1694,7 @@ Sachi: "S-Sure. I'd be happy to."
 *Her face lights up with genuine excitement. Even though we've only known each other for about a week.*
 *I don't know how we ended up doing things like going to and from school and eating lunch together, but if it makes Sachi happy, why should I care how it happened?*
 *Most of all, if being together makes her happy, then I'm happy, too.*
-*......*
+*…*
 *...*
 *School's almost over.*
 *As I returned to my classroom after lunch, I realized something. I'm happy that we promised to go home together, but we never chose a place to meet before we parted ways.*
@@ -1806,7 +1806,7 @@ You: "What about you, Tomo?"
 Tomoyori: "If you do hand the tickets off to us, that means I have to spend the day with Akemi, which is a pretty tiring prospect. Then again, I can't exactly refuse your generosity. I am free that day, and going to a movie might be a worthwhile diversion."
 Akemi: "Wow, I didn't realize you were that excited to go on a date with me, Tomo~"
 Tomoyori: "Look, I'll do it, but do you know how much energy it takes the average human to keep up with you?"
-*The two keep talking, but I think they've aleady forgotten what has to happen before they get the tickets.*
+*The two keep talking, but I think they've already forgotten what has to happen before they get the tickets.*
 You: "Thanks for your input, guys. Anyway, I'm done with my lunch, so I'm going to hurry up and go find Sachi."
 *I stand up and head for the stairway...*
 Sachi: "Oh, Mamoru-senpai."
@@ -1845,9 +1845,9 @@ Sachi: "No, that's not it. I'm grateful to her for taking care of me, I just don
 You: "I see... Thanks for telling me all that."
 Sachi: "I've never had anyone to talk to before, so... thank you for listening to me."
 You: "But you know, I really do want to hang out with you. If you want, I can pay for the train ride and stuff. I don't mind at all."
-Sachi: "No, I couldn't. I want to hang out with you, too, but I have to ask Mayumi if I can first. But if you have to pay for me, we should just not go. I don't want to be a nuisance to you anymore than to my aunt."
+Sachi: "No, I couldn't. I want to hang out with you, too, but I have to ask Mayumi if I can first. But if you have to pay for me, we should just not go. I don't want to be a nuisance to you any more than to my aunt."
 You: "I don't know about your aunt, but you're not being a nuisance to me at all."
-Sachi: "...B-But..."
+Sachi: "... B-But..."
 You: "There's no rush. Why don't you decide after you've asked her?"
 Sachi: "... Y-Yeah, all right."
 You: "By the way, since we have to go all the way to the next town to get to the movie theater, why don't we get there early so we can just wander around a bit? The movie starts in the afternoon, so we can get lunch or something."
@@ -1875,14 +1875,14 @@ You: "I'm glad you think so, then."
 *The bell chimes as lunch period ends.*
 Sachi: "Oops, looks like we need to get going. I'll ask my aunt about the movie when I get home."
 You: "All right, great. See you later."
-*......*
+*…*
 *...*
 *The next day. I've got a lot on my mind as I'm walking to school along the route Sachi always takes.*
 *Hopefully Sachi talked to her aunt about coming to hang out with me.*
 *I wonder what her aunt will say. Sachi doesn't seem to think she likes her very much.*
 *Sachi's covered in wounds, but her aunt didn't seem concerned about it in the slightest when I met her. Maybe Sachi's right.*
 *Actually, I did kind of get that impression. She seemed really cold. Although I can't really judge her based on the tiny amount of contact I've had with her, so I don't know if that's really how she is.*
-*If her aunt didn't say it was okay, Sachi will naturally refuse, but I still want to take her out even if have I have to force her to let me pay for her train ticket.*
+*If her aunt didn't say it was okay, Sachi will naturally refuse, but I still want to take her out even if I have to force her to let me pay for her train ticket.*
 *If her family isn't supporting her, then that's all the more reason for me to do so.*
 *I mull these things over as I walk, staring at the passing pavement beneath me without looking up.*
 Sachi: "Good morning, Mamoru-senpai."
@@ -1898,7 +1898,7 @@ Sachi: "Yes!"
 Sachi: "I'm looking forward to Sunday."
 You: "Yeah, me, too. Speaking of which, I heard the movie is actually based off of some German novel..."
 *We continue chatting about the movie, what we'll do that day, and other little things until we arrive at school. Sachi seems to be more excited about this than I thought she would be. She doesn't even know that much about the town we're headed to.*
-*......*
+*…*
 *...*
 *Sunday. The day I'm going out with Sachi.*
 *We decided I would meet her at her house since it's so close to my own.*
@@ -1931,7 +1931,7 @@ Sachi: "Y-Yeah, sure."
 You: "What's wrong?"
 Sachi: "Huh? What do you mean...?"
 *I was so distracted with thinking about Mayumi that I didn't notice that Sachi's wearing casual clothing. This is the first time I've seen her in anything other than her uniform.*
-*She's wearing a plain skirt and a worn-out hoodie*
+*She's wearing a plain skirt and a worn-out hoodie.*
 *I realize Sachi put her hood up and her head down as soon as we started walking.*
 You: "... Do you really have to walk that way?"
 Sachi: "Huh? This is how I always do it. Do you... not like it?"
@@ -1945,8 +1945,8 @@ Sachi: "Okay. Y-Yeah, you're right."
 *She's still anxious, and she's still keeping her head down, but at least she seems to have given up on the hood for now.*
 You: "Right. Let's get going then, shall we?"
 Sachi: "O-Okay."
-*.........*
-*......*
+*…*
+*…*
 *...*
 *Since it's the weekend, the street to the station has quite a few people on it, and that goes double for the shopping center we have to go through to get there. The train itself isn't any better. It's so packed, in fact, that I don't think it's going to be possible to have any kind of conversation with Sachi until we arrive at our destination.*
 *That said, since our destination isn't particularly far away, it doesn't take that long to get there, and we both feel a little relieved once we get off the train.*
@@ -1980,7 +1980,7 @@ Sachi: "I do want to... but isn't this a little..."
 *Her voice becomes a whisper as she stares at the ground, but after a moment she tilts her head up just enough to look at me.*
 Sachi: "Senpai, is this really okay?"
 You: "Of course. I don't see anything wrong with it."
-Sachi: "Okay, then... let's go.... Thanks... Thank you."
+Sachi: "Okay, then... let's go... Thanks... Thank you."
 *Her grip on my hand tightens ever so slightly.*
 *Actually, I'm finding myself getting a little flustered as well, but I don't think I could let go of her hand even if I wanted to.*
 You: "..."
@@ -2076,7 +2076,7 @@ You: "Huh? Uh..."
 Sachi: "..."
 *Sachi doesn't say anything else, and instead just squeezes my hand tightly as we start walking.*
 *...*
-*......*
+*…*
 *Before long, we arrive at the cafe we found earlier. Luckily, there aren't too many people, and we find a table more or less immediately.*
 *It's warm enough today that sitting outside is comfortable, so we take one of the outdoor tables and start looking through the menu.*
 You: "I wonder if I should get a sandwich or not. I'm not sure I'm that hungry."
@@ -2151,14 +2151,14 @@ Sachi: "There are already people lining up?"
 You: "Looks like it. They'll probably let everyone in soon, though."
 Sachi: "I can't wait to see the movie."
 You: "Yeah, I hope it's a good one."
-*......*
+*…*
 *...*
 *The movie is less than two hours long, and we soon find ourselves out in front of the theater again. I stretch and breathe in the cool evening air, happy to be moving around again after sitting inside for so long.*
 Sachi: "That movie was great, wasn't it?"
 You: "Yeah, better than I thought it was going to be."
 *The story was about a mischievous kid who gets put in a boarding school, makes some friends, and works with his teacher to make their school play a success.*
 *It's based off a children's book, so the whole thing is fun and light-hearted.*
-*We discuss what we thought of the movie - Sachi seems to have loved it - but eventually, her voice gets quieter and she starts hanging her head again.*
+*We discuss what we thought of the movie — Sachi seems to have loved it — but eventually, her voice gets quieter and she starts hanging her head again.*
 Sachi: "The main character sure had a lot of friends and a nice teacher... And they were able to win in a tough situation... It's a... really nice story..."
 Sachi: "Maybe if I was born a normal person... I'd be stronger like him..."
 *She gets quieter and quieter, and eventually I can barely make out what she's saying. I'm not sure if she's talking to me anymore.*
@@ -2166,7 +2166,7 @@ You: "... Hey, Sachi."
 Sachi: "Oh, yes?"
 You: "Earlier, you were saying how you wanted to repay me for what I've done for you, right? But you know, just getting to be with you is enough for me."
 Sachi: "..."
-*I know I can't decide for her what she thinks no matter how times I say that.*
+*I know I can't decide for her what she thinks no matter how many times I say that.*
 *But we spent all day together. That shows how I feel pretty clearly, doesn't it?*
 You: "I know I've said this before, but I'm here for you no matter what. Anything you need, I'll help however I can."
 *I don't know if I can be considered a good-natured person, but I can say for sure that I care for her from the bottom of my heart. What I felt when I first saw her can only be described as love at first sight.*
@@ -2224,7 +2224,7 @@ Tomoyori: "... Huh? Oh, I thought I saw someone just now. Yeah, I'm listening. S
 Akemi: "What? No! You did that on purpose!"
 Tomoyori: "Yep, I sure did."
 Akemi: "You meanie!!!"
-*......*
+*…*
 *...*
 Sachi: "(I guess I really have stolen him from his other friends...)"
 *I wonder if those are the friends he said he was going to introduce me to yesterday. He did say he told them about me.*
@@ -2266,7 +2266,7 @@ You: "Sorry, I didn't mean to take so... Sachi?"
 Sachi: "... Mamoru-senpai, thank you so much for all you've done for me, but I'll be fine on my own from now on. I don't mind going home and having lunch by myself, so..."
 *Sachi's voice wavers, and I'm certain something bad must have happened to her if she's saying this.*
 *I take a step toward her, determined to find out what.*
-You: "What are you saying all of the sudden? Did Sadokawa do something to you again?"
+You: "What are you saying all of a sudden? Did Sadokawa do something to you again?"
 Sachi: "No. She's not involved. I just think it's best if... you have nothing to do with me. That's all."
 You: "What? I don't understand why you think that."
 Sachi: "There's nothing... to understand..."
@@ -2297,7 +2297,7 @@ Sachi: "But why? It's stupid... Can't you trust that I have a good reason for do
 You: "I... I love you, Sachi."
 Sachi: "Huh?"
 You: "Going to the movie together yesterday, that was more or less a date. I guess you didn't realize it."
-Sachi: "...Wha... That..."
+Sachi: "... Wha... That..."
 You: "I understand if you hate me."
 Sachi: "Of course I don't hate you. Senpai, I really like you... I love you."
 You: "If that's true, don't tell me to abandon you. I'm happy when I'm with you, and I could never dream of abandoning you."
@@ -2307,14 +2307,14 @@ Sachi: "I know I couldn't stand it if you abandoned me, then... But I'm only goi
 You: "That's fine. As long as you're by my side, I can handle any trouble that comes our way."
 Sachi: "... S-Sen... pai...!"
 *I go to her and take her into my arms, and she starts crying her eye out. She sobs into my chest for a long while.*
-*......*
+*…*
 *...*
 *When she finally calms down, I wipe away her tears. It's time we started heading home.*
-*She told me about my friends - who, from the sound of it, were definitely Tomo and Akemi - and what she heard them saying.*
+*She told me about my friends — who, from the sound of it, were definitely Tomo and Akemi — and what she heard them saying.*
 You: "Hmm, that doesn't seem like something they'd say. You must have misunderstood something. I'll ask them about it tomorrow, don't worry."
 Sachi: "O-Okay."
 You: "Don't worry, I said. Even if you heard them right, I won't abandon you."
-Sachi: "...Thank you."
+Sachi: "... Thank you."
 *She's still upset, but there's genuine relief in her voice.*
 *We soon arrive at Sachi's house.*
 You: "I'll deal with my friends, don't worry. See you tomorrow, okay?"
@@ -2322,13 +2322,13 @@ Sachi: "Okay... Um, senpai?"
 You: "Yes?"
 Sachi: "Um... Can I... Can I be your... girlfriend?"
 You: "Do you want to?"
-Sachi: "...Yes!"
+Sachi: "... Yes!"
 You: "Well, then, I guess this is the official start of our relationship. I'm... looking forward to it."
 Sachi: "Yeah. Me, too."
 *Sachi looks so happy throughout this whole awkward exchange. It makes me that much happier seeing her like that, and I smile back at her.*
 Sachi: "Um, then, see you tomorrow?"
 You: "Yep, see you tomorrow."
-*......*
+*…*
 *...*
 *It's late in the afternoon. Sachi should be home from school soon.*
 *Sachi's wounds seem to have healed quite a bit lately, and she doesn't seem to be getting any more.*
@@ -2360,7 +2360,7 @@ Sachi: "Oh, y-yeah. See you tomorrow."
 *Mamoru-kun, being the considerate young man that he is, makes his exit.*
 Sachi: "Um, so... What did you want to talk about?"
 Mayumi: "You see... What I really want to talk to you about... Well, you'll probably think it's silly, but I've been thinking about it for quite some time. Will you hear me out?"
-Sachi: "...Y-Yes, of course."
+Sachi: "... Y-Yes, of course."
 *I wonder if she has an idea of what I'm about to say just by the serious expression I'm wearing.*
 *I am talking to her now, just as I planned. I must have confidence.*
 Mayumi: "Thank you."
@@ -2516,19 +2516,19 @@ Sachi: "..."
 You: "... We probably shouldn't tell anyone else."
 Sachi: "Yeah, probably not..."
 You: "Yeah."
-Sachi: "...So, do you want to touch them?"
+Sachi: "... So, do you want to touch them?"
 You: "Huh? ... Well, um... Are you sure?"
 Sachi: "Yes."
 You: "But... The bruises on your face are gone. All of the obvious ones have healed, haven't they?"
 Sachi: "Well, yes, but you don't normally see under my skirt. There's, um... still a pretty big one on my calf..."
 You: "Un...der... Under your skirt?"
-Sachi: "...Go ahead."
-You: "......"
-Sachi: "...... ........."
+Sachi: "... Go ahead."
+You: "…"
+Sachi: "… …"
 Tomoyori: "I'm back. Sorry it took so long, I went to meet our resident idiot, Akemi, and..."
 Sachi: "!!!"
 You: "!!!"
-Tomoyori: "...Excuse me."
+Tomoyori: "... Excuse me."
 Akemi: "Huh? Why'd you stop, Tomo? Aren't they in there?"
 Tomoyori: "No, no one's here."
 You: "No, Tomo, wait! You've got it wrong! You've got the wrong idea!"
