@@ -42,8 +42,8 @@ def main():
             dlg = sum(1 for l in lines if DIALOG.search(l))
             kana = len(KANA.findall(s)) / max(1, len(s))
             top = rel.split("/")[0]
-            lang = {"English": "en", "JA": "ja", "Zh": "zh"}.get(top, "other")
-            bilingual = "中日对照" in fn
+            lang = {"English": "en", "JA": "ja", "Zh": "zh", "Bilingual": "bi"}.get(top, "other")
+            bilingual = "中日对照" in fn or top == "Bilingual"
             reference = rel.startswith("Zh/_reference/")
             flags = []
             if len(s) < 300: flags.append("short")

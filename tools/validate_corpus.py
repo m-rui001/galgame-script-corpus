@@ -63,6 +63,14 @@ def main():
             cjk = len(CJK.findall(s)) / max(1, len(s))
             latin = len(LAT.findall(s)) / max(1, len(s))
             top = rel.split(os.sep)[0]
+            if top == "Bilingual":
+                stats["bilingual"] += 1
+                # a bilingual file must actually hold both languages
+                if kana < 0.01:
+                    warnings.append((rel, "bi-no-japanese"))
+                if cjk < 0.05:
+                    warnings.append((rel, "bi-no-chinese"))
+                continue
             if bilingual:
                 stats["bilingual"] += 1
                 continue

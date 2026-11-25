@@ -28,7 +28,8 @@ CODE = re.compile(r"^(if\(|for\(|function|var |const |let |console\.|\{|</?[a-z]
 OPENQ = re.compile(r"^[\s　]*[「『“‘\"]")
 SPK = re.compile(r"^[\s　]*[^\s：:（(「『]{1,8}[：:]")
 SPK_JA = re.compile(r"^[\s　]*[^\s「『（(]{1,10}(「|『)")
-ZHW = re.compile(r"[的了这那们吗呢很没吧啊]")
+# Simplified-only hanzi; the particle test (的 了 那) false-positives on 旦那様.
+ZHW = re.compile(r"[这们说时过对么让还样种觉认识该东丽举义乐习乡书买亚产亲亿仅从众优伟传伤价铁边变战听问间关开长门见现实头]")
 SPK_EN = re.compile(r"^[\s]*[A-Z][A-Za-z0-9 .'\-]{0,24}:\s")
 SKIP = re.compile(r"^(=====|#|\s*$|\{)")
 JOINERS = {"zh": "", "ja": "", "en": " "}
@@ -94,9 +95,8 @@ def fix(path, dry=False, verbose=0):
     text = open(path, encoding="utf-8").read()
     lines = text.split("\n")
     # mixed Japanese/Chinese files need a classification decision, not repair
-    zh_lines = sum(1 for l in lines if CJK.search(l) and not KANA.search(l)
-                   and ZHW.search(l))
-    if lang == "ja" and zh_lines > len(lines) * 0.05:
+    zh_lines = sum(1 for l in lines if ZHW.search(l) and not KANA.search(l))
+    if lang in ("ja", "bi") and zh_lines > len(lines) * 0.05:
         print(f"skip  {os.path.basename(path)[:56]} - mixed JA/ZH "
               f"({zh_lines}/{len(lines)} chinese-looking lines)")
         return 0

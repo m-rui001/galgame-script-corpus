@@ -29,6 +29,11 @@ KANA = re.compile(r"[\u3040-\u309f\u30a0-\u30ff]")
 CJK = re.compile(r"[\u4e00-\u9fff]")
 LATIN = re.compile(r"[A-Za-z]")
 TAG = re.compile(r"\{[^{}\n]{1,24}\}|<[a-zA-Z/][^<>\n]{0,24}>|\[[a-zA-Z]{2,}[^\]\n]{0,16}\]")
+# Simplified-only characters: Japanese writes these with a different form
+# (説 時 過 対 様 認 東 麗 変 戦 問 見 現 実 …), so a line containing them and no
+# kana is Chinese. Particles like 的/了/那 do NOT work as a signal - 旦那様,
+# 没落 and 了解 are ordinary Japanese and the particle test flags them.
+SIMP = re.compile(r"[这们说时过对么让还样种觉认识该东丽举义乐习乡书买亚产亲亿仅从众优伟传伤价铁边变战听问间关开长门见现实头]")
 TERM = re.compile(r"[。！？…‥」』）)】!?\.\"'~～ー―—]$")
 SPK = re.compile(r"^[^\s：:（(「『]{1,8}[：:]")
 
@@ -51,7 +56,9 @@ def classify(p):
             wrapped += 1
 
     kana_in_en = sum(1 for l in lines if KANA.search(l)) if "English/" in p.replace("\\", "/") else 0
-    zh_in_ja = sum(1 for l in lines if CJK.search(l) and not KANA.search(l)) if "/JA/" in p.replace("\\", "/") else 0
+    pp = p.replace("\\", "/")
+    zh_in_ja = (sum(1 for l in lines if SIMP.search(l) and not KANA.search(l))
+                if ("/JA/" in pp or "/Bilingual/" in pp) else 0)
     return dict(path=p.replace("\\", "/"), lines=len(lines), kana=kana, cjk=cjk, latin=latin,
                 ja_ratio=round(ja_ratio, 3), wrapped=wrapped,
                 wrapped_ratio=round(wrapped / max(1, len(lines)), 3),
@@ -64,7 +71,7 @@ def main():
     if "--csv" in sys.argv:
         out = sys.argv[sys.argv.index("--csv") + 1]
     rows = []
-    for d in ("Zh", "English", "JA"):
+    for d in ("Zh", "English", "JA", "Bilingual"):
         for p in sorted(glob.glob(os.path.join(ROOT, d, "*.txt"))):
             rows.append(classify(p))
     if out:
@@ -74,16 +81,21 @@ def main():
             w.writerows(rows)
         print(f"{len(rows)} rows -> {out}")
         return
-    for lang, key in (("EN", "kana_in_en"), ("JA", "zh_in_ja")):
-        sel = [r for r in rows if r["path"].startswith("English/") == (lang == "EN")]
-        print(f"\n== {lang}: lines in the wrong language ({key}) ==")
+    bands = (("EN", "English", "kana_in_en"),
+             ("JA", "JA", "zh_in_ja"),
+             ("BI", "Bilingual", "zh_in_ja"))
+    for lang, d, key in bands:
+        sel = [r for r in rows if r["path"].replace("\\", "/").find("/%s/" % d) >= 0]
+        if not sel:
+            continue
+        print("\n== %s: lines in the other language (%s) ==" % (lang, key))
         for r in sorted(sel, key=lambda r: -r[key])[:12]:
             if r[key]:
-                print(f"{r[key]:>6}/{r['lines']:<7} {r['path']}")
-        print(f"== {lang}: wrapped-line share ==")
-        for r in sorted(sel, key=lambda r: -r["wrapped_ratio"])[:12]:
+                print(f"{r[key]:>6}/{r['lines']:<7} {os.path.basename(r['path'])[:62]}")
+        print("== %s: wrapped-line share ==" % lang)
+        for r in sorted(sel, key=lambda r: -r["wrapped_ratio"])[:8]:
             if r["wrapped_ratio"] >= 0.05:
-                print(f"{r['wrapped_ratio']:>6.1%} {r['wrapped']:>6} {r['path']}")
+                print(f"{r['wrapped_ratio']:>6.1%} {r['wrapped']:>6} {os.path.basename(r['path'])[:62]}")
 
 
 if __name__ == "__main__":

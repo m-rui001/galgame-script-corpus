@@ -12,11 +12,14 @@ That is wrong for the other two corpora:
   that the volume stays within 0.6-1.4x. Adding kana or CJK is a failure;
   removing it (that is, translating a line the export left in Japanese) is the
   whole point and must not be blocked.
-* `ja` - Japanese originals. These are the reference text the ZH translations
-  were made from, so nothing in this corpus may be rewritten, only repaired
-  (unwrapped, de-mojibake'd, punctuation-normalised). The gate therefore keeps
-  kana present, keeps digit and quote counts, and holds the volume to
-  0.92-1.08x - a repair should not gain or lose much text.
+* `ja` - Japanese originals. Polishing is allowed here (the owner's call: a
+  script can be improved in Japanese as well as in Chinese), but the translation
+  pipeline depends on these files staying comparable to their ZH counterparts,
+  so the gate demands that digits, quote counts and the amount of kana survive.
+* `bi` - Bilingual JA/ZH files: the original and its translation sitting in the
+  same file, line by line. Both halves may be polished; the gate additionally
+  forbids losing kana, because a line that loses its Japanese has been replaced
+  by a translation rather than polished.
 """
 import re
 
@@ -28,13 +31,28 @@ DIGITS = re.compile(r"[0-9０-９]+")
 QUOTES = "「」『』“”\"‘’"
 CONTENT = re.compile(r"[^\u4e00-\u9fff0-9０-９A-Za-zＡ-Ｚａ-ｚ]")
 
-VOLUME = {"zh": (0.60, 1.40), "en": (0.60, 1.40), "ja": (0.92, 1.08)}
+VOLUME = {"zh": (0.60, 1.40), "en": (0.60, 1.40), "ja": (0.60, 1.40),
+          "bi": (0.60, 1.40)}
+# On a six-character line a ratio gate is noise, not protection: adding three
+# words is 1.5x and perfectly reasonable. Short lines are judged by an absolute
+# allowance instead.
+SHORT = 12
+SHORT_SLACK = 8
+
+
+def _volume_ok(va, vb, lang):
+    lo, hi = VOLUME[lang]
+    if va and lo <= vb / max(1, va) <= hi:
+        return True
+    return va <= SHORT and abs(vb - va) <= SHORT_SLACK
 
 
 def lang_of(path):
     p = path.replace("\\", "/")
     if p.startswith("English/") or "/English/" in p:
         return "en"
+    if p.startswith("Bilingual/") or "/Bilingual/" in p:
+        return "bi"
     if p.startswith("JA/") or "/JA/" in p:
         return "ja"
     return "zh"
@@ -44,7 +62,7 @@ def polishable(line, lang="zh"):
     s = line.strip()
     if lang == "en":
         return len(WORD.findall(s)) >= 4
-    if lang == "ja":
+    if lang in ("ja", "bi"):
         return len(s) >= 6 and bool(KANA.search(s) or CJK.search(s))
     return len(s) >= 8 and not KANA.search(s) and len(CJK.findall(s)) >= 3
 
@@ -52,7 +70,7 @@ def polishable(line, lang="zh"):
 def volume(t, lang="zh"):
     if lang == "en":
         return len(WORD.findall(t))
-    if lang == "ja":
+    if lang in ("ja", "bi"):
         return len(KANA.findall(t)) + len(CJK.findall(t))
     return len(CONTENT.sub("", t))
 
@@ -70,15 +88,14 @@ def check(src, out, lang="zh", spk=None):
         return False, "kana"
     if lang == "en" and len(CJK.findall(b)) > len(CJK.findall(a)) + 2:
         return False, "cjk"
-    if lang == "ja" and KANA.findall(a) and not KANA.findall(b):
-        return False, "kana gone"
+    if lang in ("ja", "bi") and len(KANA.findall(b)) < len(KANA.findall(a)):
+        return False, "kana lost"
     if sorted(DIGITS.findall(a)) != sorted(DIGITS.findall(b)):
         return False, "digits"
     if quote_count(a) != quote_count(b):
         return False, "quotes"
-    lo, hi = VOLUME[lang]
     va, vb = volume(a, lang), volume(b, lang)
-    if va and not (lo <= vb / max(1, va) <= hi):
+    if not _volume_ok(va, vb, lang):
         return False, f"volume {va}->{vb}"
     return True, ""
 
@@ -92,7 +109,7 @@ def block_ok(src_block, out_block, lang="zh"):
     out = "\n".join(out_block)
     if not out.strip():
         return False, "empty"
-    if lang == "ja":
+    if lang in ("ja", "bi"):
         # A repair that adds only bracket marks is the whole point of the ja
         # pass: Salthe arrives with 1,456 unmatched 「 because the exporter ate
         # them. Accept it when the text is byte-identical once the brackets are
@@ -109,8 +126,7 @@ def block_ok(src_block, out_block, lang="zh"):
         return False, "digits"
     if quote_count(src) != quote_count(out):
         return False, "quotes"
-    lo, hi = VOLUME[lang]
     va, vb = volume(src, lang), volume(out, lang)
-    if not (lo <= vb / max(1, va) <= hi):
+    if not _volume_ok(va, vb, lang):
         return False, f"volume {va}->{vb}"
     return True, ""
