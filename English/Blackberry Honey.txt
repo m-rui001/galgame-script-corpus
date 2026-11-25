@@ -2685,7 +2685,7 @@ Lorina: "I’m such an idiot..."
 *The other maids were fast asleep.*
 *If only Ethel was there. Ethel would have known what to say.*
 *Ethel always knew what to say.*
-*Though Ethel was only fifteen, their mother always said she was an ‘old soul in a  young body’. Lorina thought it a fair comparison.*
+*Though Ethel was only fifteen, their mother always said she was an ‘old soul in a young body’. Lorina thought it a fair comparison.*
 *Ethel was popular with the opposite sex. She was a sensible sort of girl, good with managing finances and making ends meet, who would make an enviable wife.*
 *It didn’t hurt that she was so very pretty.*
 *Prettier than Lorina.*
@@ -3789,7 +3789,7 @@ Constance: "Well, what else could you do? I don’t think any man could fall for
 Constance: "You don’t let me play the piano as much as I ought, and you refuse to let me read Sappho! What kind of bland, boring woman can’t appreciate Sappho?"
 Constance: "I’m only twelve, but I’ll probably receive my first kiss long, long before you ever will!"
 Miss Ingrid: "That is _quite_ enough!" with dissolve
-*With this  sudden exclamation, Miss Ingrid slammed her palms against the table. The volume of Homer’s _The Odyssey_ jumped. So, too, did Lady Constance’s cup of herbal tea." with dissolve
+*With this sudden exclamation, Miss Ingrid slammed her palms against the table. The volume of Homer’s _The Odyssey_ jumped. So, too, did Lady Constance’s cup of herbal tea." with dissolve
 *Some of the light brown liquid spilt over the rim of the cup. A small stain of sweet-smelling tea began to form on the opened pages of Homer’s great epic — but Miss Ingrid, in an uncharacteristic pique of frenzy, didn’t even realise.*
 Miss Ingrid: "You are only a child! You have no right to talk to me like that!"
 *Lady Constance remained unmoved. She looked at Miss Ingrid, her eyes large and unblinking.*
@@ -6138,7 +6138,7 @@ Pauline: "And what about you, Lottie? What do you think?" with dissolve
 Lieselotte: "Well..." with dissolve
 *The Swiss maiden of the Alps, who’d been previously engaged in the long and involved process of brushing her golden tresses, paused." with dissolve
 *She looked Lorina up and down, a small frown playing about her lips...{w} and then she said:*
-Lieselotte: "I think Isobel  might have a point." with dissolve
+Lieselotte: "I think Isobel might have a point." with dissolve
 *Lorina winced. It felt like the air had been knocked out of her lungs." with dissolve
 Lieselotte: "You _have_ been looking glum lately, Lorina — and my Uncle Rudolf always says walking is the best cure for a grieving heart!" with dissolve
 Lieselotte: "The hallways of Bly are not the Alps, of course. There are no gentians or cornflowers or asters, but I think it would be beneficial!"

@@ -885,7 +885,7 @@ Ann: "Hm."
 *Ann spins around on her heels and leave the room.*
 *As the automatic door closes behind her, you notice two papers flying out of her pocket and slowly land face down on the floor.*
 You: "..."
-You:  "?"
+You: "?"
 *You walk over and grab one of them. To your surprise, it's not paper, instead... It's a photo.*
 You: "What in the world?"
 You: "Why would a woman like her walk around with these photos..."
@@ -1420,7 +1420,7 @@ You: "(But then again, I have yet to have any proof to the contrary..."
 *Cutting off your train of thought, your phone suddenly vibrates.*
 You: "?"
 *Turns out... It's a text from Ann.*
-You: "I knew it... Just a little pressure  is all it takes to get her to say yes."
+You: "I knew it... Just a little pressure is all it takes to get her to say yes."
 You: "I know just what to do."
 You: "Firstly, I have to go and check whether they have that thing in the store..."
 *...*
@@ -1577,7 +1577,7 @@ Ann: "*Mph* *Mph*
 *She bobs her head up and down - arms still chained behind her back.*
 *By now, even her tits have started to get dripped on as they bounce up and down with her head.*
 You: "Argh!"
-*Finally you feel the pressure  overcome you as you start cumming - your dick still in Anns mouth.*
+*Finally you feel the pressure overcome you as you start cumming - your dick still in Anns mouth.*
 Ann: "!"
 *She pulls her head away, and long shots of cum splash out on her.*
 *You cover her face, and as she moves further back, her chest gets splattered too.*
@@ -2375,7 +2375,7 @@ You: "Yes, another one."
 *You say, loud enough for everyone to hear.*
 You: "This time I have some more-"
 Bonnie: "Drinks!"
-Bonnie: "Good! Great! We ran out of stuff to drink  last time I was  helping you learn where everything is in this stupidly big school!"
+Bonnie: "Good! Great! We ran out of stuff to drink last time I was helping you learn where everything is in this stupidly big school!"
 Bonnie: "That's fine, we will do like last time!"
 *You throw a look around, and it's clear Bonnie least of all wanted people to suspect what was actually going on...*
 *Even if many seemed a bit unconvinced of what she just said.*
@@ -3157,7 +3157,7 @@ You: "Urgh... Does it have to be like this."
 You: "Does she really think being amongst other people will hide her?"
 You: "Well."
 *Order her to come back*
-You: "Bonnie! Come back here right now!" with Move((10, 50), (-10, -50), .10, bounce=True, repeat=True, delay=.4)
+You: "Bonnie! Come back here right now!" with Move((10, 50), (-10, -50).10, bounce=True, repeat=True, delay=.4)
 *You shout the command loud enough for the entire room to hear.*
 *Bonnie stops dead in her tracks, and everyone else turns to look at you.*
 Bonnie: "What!?"
@@ -4896,7 +4896,7 @@ You: "True, certainly. This is the best I've felt in years."
 Junior: "Then let's celebrate! Come, I can teach you all about being young!"
 You: "What? Nonsense. I know all about being hip Junior."
 Junior: "... That sentence proved that you don't."
-You:  "*cough*... I see... But being young huh? It reminds me of an old movie I once saw where the villain  tried to steal such device that could turn him young again.*
+You: "*cough*... I see... But being young huh? It reminds me of an old movie I once saw where the villain tried to steal such device that could turn him young again.*
 Junior: "No no, dad don't start talking about villains now! We have to celebrate."
 You: "Hold on Junior, I have to check my guide!"
 Junior: "Oh no..."
@@ -15626,7 +15626,7 @@ You: "..."
 You: "I remember that. We made up that lie so hastely that I was sure someone would figure it out. The video never even showed his face."
 ???: "---....--.-"
 You: "But no one questioned it..."
-???: "..--.-...,.--."
+???: "..--.-....--."
 You: "... Impressive how easy it is to lie to an entire population if they just trust-"
 ???: "---.-...-....-."
 You: "Okay, what in the world is that sound?"

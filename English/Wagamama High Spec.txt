@@ -1091,7 +1091,7 @@ Kouki: "N-No, of course not."
 *Honestly, I don't think I can even come up with anything weird to do...*
 *I guess this is how the council works. The president's nonchalant attitude backed by the vice president's seriousness.*
 Kaoruko: "See? Kouki-kun agrees."
-Ashe:  "...All right. If you say so, Kaoruko-senpai."
+Ashe: "...All right. If you say so, Kaoruko-senpai."
 Ashe: "......"
 Kouki: "S-Stop scowling at me. I swear I won't do anything. I know it's hard to believe after all this, but please."
 Ashe: "It's good that you understand."
@@ -1848,7 +1848,7 @@ Kaoruko: "Ah, so the cat and duck..."
 Kouki: "Probably wandered in because of her."
 Ashe: "I find that hard to believe, since I don't know her personally."
 Kouki: "Well, you'd have to see it first-hand."
-*Seeing is believing.That's all that can be said about something this absurd.*
+*Seeing is believing. That's all that can be said about something this absurd.*
 *After completing my report, they dismiss me for the day. I stop to buy some groceries on the way home.*
 *Council made me later than usual, so I have to hurry.*
 Kouki: I'm back.
@@ -3544,7 +3544,7 @@ Mihiro: "Fu fu fu. There's no need to go to such lengths."
 *Mihiro addresses Pres's suggestion by proudly sticking out her chest.*
 Mihiro: "When you talk about cooking, you talk about me. When you talk about me, you talk about cooking. I am cooking itself!"
 Mihiro: "I, Miyase Mihiro, shall prepare a home-cooked meal for everyone today!"
-Kouki & Toa:  "Oooh. "
+Kouki & Toa: "Oooh. "
 Kaoruko: "Oh right, you mentioned your house was a restaurant."
 Kouki: "Aah, Pres and Sakuragi haven't had Mihiro's cooking yet."
 Toa: "You haven't lived until you've tried it."
@@ -10325,7 +10325,7 @@ Kouki: "Do your best, my Student Council President. I love you."
 Kaoruko: "I shall never forget this slight."
 *...and leaves behind a vow of vengeance.*
 Kouki: "I just can't beat the deadline."
-*I'll have to check on her later. Give her some extra care.But for now...*
+*I'll have to check on her later. Give her some extra care. But for now...*
 Kouki: "I'll just work until I fall asleep."
 *If a miracle occurs, I might just spend some time in Pres's room after school.*
 ====================かおるこルート15b.ks.json====================
@@ -14296,7 +14296,7 @@ Kouki: "Yeah..."
 *I want to keep being with her.*
 *I've never felt this way with anyone else.*
 *Which means I...*
-Kouki & Ashe:  "Say... "
+Kouki & Ashe: "Say... "
 *I suddenly blurt out.*
 *No, both of us blurt out at the same time.*
 Ashe: "Wh-What is it...?"
@@ -16252,7 +16252,7 @@ Yukari: "Well... I was wondering about your career path."
 Kouki: "My career? Haven't decided yet."
 Yukari: "I see. Well, good luck."
 Kouki: "Haaa..."
-*What was that all about?Does my career concern her that much?*
+*What was that all about? Does my career concern her that much?*
 *She probably wants to know if I'll go to college since I already have a writing job.*
 *I head to the rooftop with a lot of things on my mind.*
 *Strong sunlight greets me as I open the door.*
@@ -16520,7 +16520,7 @@ Ashe: "......"
 Ashe: "I decided to go on my own. Although I did consult with Narumi-kun, it was just to inform him."
 Kaoruko: "So Ashe-chan... should we celebrate your transfer...?"
 Ashe: "Of course. I do feel sad we have to part ways, but I don't want to fall behind anyone else."
-Ashe: "That's why I want to study composition in Vienna.That way I can stand proudly beside all you talented people."
+Ashe: "That's why I want to study composition in Vienna. That way I can stand proudly beside all you talented people."
 Mihiro: "Ashe-san..."
 Ashe: "Geez... Don't be so sad. I might come home for New Year."
 Kouki: "That's right. There's no better place for her to study composition. Vienna's the music capital of the world."
@@ -17627,7 +17627,7 @@ Kouki: "...Yes, ma'am."
 *I've still got nothing.*
 *Well, not nothing, but what I did come up with is just terrible.*
 Kouki: "(Maybe the date I had with Toa was a failure...)"
-*No matter what I come up with, it ends up  being something like "Getting Bullied by Your Little Sister Feels Great, Doesn't It?"*
+*No matter what I come up with, it ends up being something like "Getting Bullied by Your Little Sister Feels Great, Doesn't It?"*
 *I couldn't possibly ask the readers to awaken their masochistic tendencies for an entire volume's worth of manga.*
 Kouki: "Aghh... dammit..."
 Kinjirou: "...Your stomach hurts or something?"
@@ -17856,7 +17856,7 @@ Toa: "...What am I even doing?"
 Kouki: "Three in the morning and still zero progress, huh?"
 *The TV that's just been left on plays soothing music. For some reason, it makes me feel melancholic.*
 Kouki: "It really felt like I was on the cusp of getting somewhere, too..."
-*I shake my head after having warmed up and stand up from  my chair.*
+*I shake my head after having warmed up and stand up from my chair.*
 *...Let's take a bath.*
 ====================兎亜04.ks.json====================
 *The fateful lunch break...*
@@ -18532,7 +18532,7 @@ Mihiro: "Hehehe, you sure are cute, Toa."
 *If I were to score myself on my shopping today, it'd be over 90 points, that's for sure.*
 Kouki: "(I've pretty much perfected my errand boy skills, huh...?)"
 *I finished the tasks that would get harder later on in the day (there's a ton of people moving in and out of Akiba before and after lunch).*
-*I was at front of the queue for the trial copy distribution at 2  p.m., so I got it without any problems.*
+*I was at front of the queue for the trial copy distribution at 2  p.m. so I got it without any problems.*
 Kouki: "Bet I could release an amateur guidebook on how to shop around Akiba."
 *The one regret I do have is not being able to eat anything.*
 Kouki: (Oh, next station...)
@@ -19474,7 +19474,7 @@ Kouki: "I feel the same. I want to be responsible for as much as I can when it c
 Kouki: "Though I am curious about what authors would cook up, as they say."
 Chitose: "As the series grows bigger, there'll be many other chances for that. For example, derivative works..."
 Chitose: "...Or perhaps the use of video as the medium."
-Kouki & Kaoruko:  "...Ugh!"
+Kouki & Kaoruko: "...Ugh!"
 Chitose: "Ahem. Now, for the drama CD... and the spinoff... can we begin talks on that soon?"
 Kouki: "Of course! I'll do my best!"
 Kaoruko: "...Kouki-kun!"
@@ -21884,14 +21884,14 @@ Kouki: "Huh?"
 *I turn to see what has her attention. What caught her eye...?*
 *I notice a small animal flailing about in the center of the river.*
 Kouki: "...Is that a duck?"
-*It's that duck that wandered into school looking for Mihiro.It looks like it's splashing about for some reason...*
+*It's that duck that wandered into school looking for Mihiro. It looks like it's splashing about for some reason...*
 Mihiro: "Is it drowning...?"
 Kouki: "No way, it's a duck. How could it drown?"
 Mihiro: "But it looks like it's sinking..."
 Kouki: "What?! How can a duck not swim?!"
 Mihiro: "We have to save him!"
 Kouki: "Ah, hey! Mihiro!"
-*She wastes no time in dashing towards the embankment.Does she plan on jumping in the river to save it?!*
+*She wastes no time in dashing towards the embankment. Does she plan on jumping in the river to save it?!*
 Kouki: "Wait, just calm down! I'll do it!"
 Mihiro: "Kyaaa!"
 Kouki: "...See, this is why you don't run down a slope...!"
@@ -23249,12 +23249,12 @@ Kouki: "I've written a lot of confession scenes... but actually using them as re
 *They're all lines that would only fly in a manga.*
 *I can't use them. No way. I'll die of embarrassment.*
 Kouki: "Dammit, the fictional gentleman has such a strong heart. I'm jealous...!"
-*Should I just go in without a plan?Forget having a plan. I should just let the heat of the moment—!*
+*Should I just go in without a plan? Forget having a plan. I should just let the heat of the moment—!*
 Kouki: "Oh, who's that?"
 *It's a message from Mihiro to all of the Student Council members.I read through its contents.*
 Kouki: "I'll be helping out at another shop, so I'll be taking some time off the Student Council..."
 *Another shop...? What is she talking about?*
-*Mihiro sends me another message—this time, it's addressed only to me.Nervous, I open the mail.*
+*Mihiro sends me another message—this time, it's addressed only to me. Nervous, I open the mail.*
 Kouki: "My father worked at this shop before. I'll be working with them for a week to train..."
 Mihiro: "It's outside the city, so I'll be spending my time there after school for a week."
 Mihiro: "My father learned a lot of things there when he was younger. It's a great opportunity for me to expand my knowledge."
@@ -23329,7 +23329,7 @@ Kouki: "Uh, no... I'm not exactly sick or feeling bad, I just...!"
 *...That's the most embarrassing thought I've had all day.*
 Toa: "He said he'll die if he doesn't have coffee. Mihiro, get us two cups of coffee please."
 Mihiro: "O-Okay. Just hang in there."
-*Mihiro disappears into the kitchen while lugging her stuff behind her.Good cover, Toa.*
+*Mihiro disappears into the kitchen while lugging her stuff behind her. Good cover, Toa.*
 Toa: "Onii-chan, calm down. You're making a scene."
 Kouki: "...Sorry."
 *Just three more days until Mihiro's done with her training.*
@@ -23507,7 +23507,7 @@ Tsubame: "Honey, let's have some tea. The coffee will be ready in a bit as well.
 Kouki: "Oh, sure. Thank you very much."
 Sai: "...You too, Mihiro."
 Mihiro: "O-Okay. What is it?"
-*Sai-san sits at the opposite end of the table.This feels really weird...*
+*Sai-san sits at the opposite end of the table. This feels really weird...*
 Sai: "......"
 *He's looking at me.*
 *I can feel daggers shooting out of his eyes...*
@@ -23548,7 +23548,7 @@ Sai: "......"
 Mihiro: "Wow, Mom, you're so brave...!"
 Tsubame: "A woman has to be strong, Mihiro-chan. You can't just sit there and wait. If there's something you want, you have to go grab it."
 Mihiro: "O-Okay...! I'll do my best...!"
-*They're... an amazing mother-daughter pair.Or maybe this is how it usually is for most people?*
+*They're... an amazing mother-daughter pair. Or maybe this is how it usually is for most people?*
 Tsubame: "I can rest easy leaving Mihiro-chan in your hands, Kouki-kun. Isn't that right, honey?"
 Sai: "...Yes, I suppose."
 Kouki: "Th-Thank you very much...! I promise I'll never make Mihiro cry!"
@@ -23900,7 +23900,7 @@ Kaoruko: "Okay... Anyway, congratulations."
 Ashe: "You better not start making mistakes because you're excited."
 Toa: "...Zzz."
 Kouki: "...Got it."
-*I'm sad that they completely ignored my joke, but I got that announcement out of the way.Now, let's get down to business.*
+*I'm sad that they completely ignored my joke, but I got that announcement out of the way. Now, let's get down to business.*
 Kaoruko: "Oh, could you grab those documents over there, M-chan?"
 Kouki: "Bwuh?!"
 Mihiro: "Huh? M-chan... You mean me?"
@@ -23929,7 +23929,7 @@ Toa: "You didn't talk to me about any of this. I was completely ignored. Care to
 Kouki: "I can't talk to my sister about relationships!"
 Toa: "Well, I gave advice to Mihiro anyway. Feel free to blab about my brother's secrets."
 Mihiro: "...O-Okay."
-*Why would you blush at that?What did Toa tell her...?*
+*Why would you blush at that? What did Toa tell her...?*
 Kaoruko: "All right, let's get to work. We'll celebrate the two of you getting together some other time."
 Kaoruko: "Oh, yeah. What happened to our correspondence letters from last week?"
 Mihiro: "Right, I have them right here. I've finished the article that's going to be in the school newspaper about them, as well."
@@ -24855,7 +24855,7 @@ Kouki: "Mm... Can you last until tomorrow with this?"
 Mihiro: "...I wonder. I'm quite selfish, you see."
 Kouki: "Oh, you're hopeless. One more time then."
 Mihiro: "Mm...! Mhngh... Fuh...!"
-*Our tongues slide across each other.Mihiro is standing on her tiptoes with eyes that crave more. She's adorable.*
+*Our tongues slide across each other. Mihiro is standing on her tiptoes with eyes that crave more. She's adorable.*
 Kouki: "Haa... Well? Satisfied?"
 Mihiro: "......"
 Kouki: "Uh, Mihiro? What's wrong?"
@@ -26231,7 +26231,7 @@ Ashe: "Huff... Thank you for the meal."
 *Sakuragi cleans up the last bowl without leaving a single grain of rice.*
 *She wipes the edges of her mouth after each meal. Very polite.*
 Kouki: "......"
-*A mountain of bowls covers the entire table.Sakuragi... How fearsome!*
+*A mountain of bowls covers the entire table. Sakuragi... How fearsome!*
 Mihiro: "I'm all out of ideas... We're almost out of ingredients, too..."
 Kouki: "You did well. We'll call it for today."
 Ashe: "I think you're on the right track. It's just that none of them made me go, 'This is the one!'"
@@ -26311,7 +26311,7 @@ Kinjirou: "Come on, we're pals, aren't we?! Don't be such a stranger."
 *Find three hungry youths, and you'll have yourself testers to use as you see fit.*
 Kotarou: "Thank you for inviting us, Kouki-senpai."
 Kouki: "No problem. Sorry for the short notice."
-Masato: "So, you told us that we're taste testing today?What are we eating, and what input are you looking for?"
+Masato: "So, you told us that we're taste testing today? What are we eating, and what input are you looking for?"
 Mihiro: "We're coming up with a new menu. Thank you for your cooperation."
 Kinjirou: "Seriously?! I get to have Miyase's homecooking?!"
 Mihiro: "I'll try my best. Look forward to it."

@@ -1,9 +1,9 @@
 *The air is still dry today.*
-*It was like that yesterday, the day before, and probably even long before I was born.The air in this land is always dry.*
+*It was like that yesterday, the day before, and probably even long before I was born. The air in this land is always dry.*
 *My skin feels as crinkled as the aluminum foil used to wrap chocolates,and my eyes are coarse and scratchy, like grit-covered baseballs.*
 *Every part of my body can be described as dry in some way,and my heart, following suit, is drying out as well.*
 *The heat from the scorching sunlightbeats down on the air around us, as if trying to fry us to the core.*
-*Everything is dry.Not a thing is spared.*
+*Everything is dry. Not a thing is spared.*
 *Indeed, not a single thing...*
 *The morning sun lights up the kitchen.*
 *I stand in the kitchen holding a spatula, listening to the girl before me read from the note in her hand.*
@@ -467,8 +467,8 @@ Aisia: "......"
 Aisia: "Right. Leon, I will do my best."
 *Aisia cheerfully responds, bowing so vigorously that I half-expect to hear her spine snap.*
 *The air is still dry today.*
-*It was like that yesterday, the day before, and probably even long before I was born.The air in this land is always dry.*
-*The age when there was moisture in the world has passed.Gone, like the wind that blows into the distance.*
+*It was like that yesterday, the day before, and probably even long before I was born. The air in this land is always dry.*
+*The age when there was moisture in the world has passed. Gone, like the wind that blows into the distance.*
 *It is now an age when people are slowly beginning to resign themselves to rest.A haze has washed over our view, clouding the path to the next age.*
 *To the west of the continent, in a small diner...*
 *...our grand little story begins.*
@@ -1162,9 +1162,9 @@ Leon: "I'll go get the car, then."
 *Leaving Lucia behind me, I run to the car.*
 *The unbroken line of wheel tracks that leads home, illuminated by the moonlight, appears ever so beautiful.*
 *The air is still dry today.*
-*It was like that yesterday, the day before, and probably even long before I was born.The air in this land is always dry.*
+*It was like that yesterday, the day before, and probably even long before I was born. The air in this land is always dry.*
 *My skin feels as crinkled as the aluminum foil used to wrap chocolates,and my eyes are coarse and scratchy, like grit-covered baseballs.*
-*Everything is dry.Not a thing is spared.*
+*Everything is dry. Not a thing is spared.*
 *...However.*
 *Though parched, we keep each other company,and while hollow, we fill each other's voids.*
 *Perhaps by doing so,we can turn the thirst for water in our throats into the gift of rain in our hearts.*
@@ -1616,7 +1616,7 @@ Aisia: "But, um... that would be why it was so thrilling for me to watch the two
 Aisia: "Leon, when you do it with me... will it be just as thrilling as it was for Lucia?"
 Leon: "Well, um... uh, of course."
 Aisia: "Mmhmhm, that is good to know~"
-Lucia: "...Geez, Leon. It'd be really nice if, you know,  at least in this particular moment, you'd keep your mind on me."
+Lucia: "...Geez, Leon. It'd be really nice if, you know, at least in this particular moment, you'd keep your mind on me."
 Leon: "Oh! S-Sorry!"
 Aisia: "She does indeed have a point. In that case, I shall go to sleep. The two of you can talk to your heart's content."
 Leon: "O-Okay... Sure."
@@ -1624,7 +1624,7 @@ Aisia: "Right, then. Off to sleep I go~"
 *And with that, Aisia pulls the covers over herself.*
 ================================================================================
 *Once upon a time, a great misfortune befell the human race in the form of the Disaster.*
-*There were places that experienced crippling civil wars.There were cities where large-scale terrorism wreaked havoc.*
+*There were places that experienced crippling civil wars. There were cities where large-scale terrorism wreaked havoc.*
 *There were countries ravaged by the spread of terrible diseases,and there were regions in which countries were swept up by the flames of war.*
 *Before anyone knew it, the human race had already lost over three quarters of its total population,and the extended period of time spent in mortal peril had severely damaged its ability to reproduce.*
 *Realizing that its very existence as a species was at risk, the human race turned to other creatures for aid.*
@@ -1634,7 +1634,7 @@ Aisia: "Right, then. Off to sleep I go~"
 *However, even making use of these methods, the human race failed to stop its decline.*
 *Conflicts erupted between these humans and the original, unchanged ones, followed shortly thereafter by persecution.*
 *The race's attempt to halt its decline merely reignited the very conflicts that caused it.*
-*This is a time when hybrids known as the Others—those who are human, yet not—exist in great numbers.This is a time of senescence for the human species. This is the "Age of Dusk".*
+*This is a time when hybrids known as the Others—those who are human, yet not—exist in great numbers. This is a time of senescence for the human species. This is the "Age of Dusk".*
 *On this day, during these times, a grand little story begins again...................*
 Aisia: "Ahm, mmm, nom... Mmmm~ Delicious!"
 Lucia: "Huh? Leon, are we not delivering to the town hall today?"

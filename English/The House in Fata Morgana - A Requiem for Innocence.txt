@@ -87,7 +87,7 @@ Unknown: "...Ahem!"
 Michelle: "Ah."
 Lydie: "Sometimes, I think there might be no hope for the three of you. Not even a word to your dear mother?"
 Didier: "G-Good day, Mother. My apologies. I meant to see you as soon as I returned, but..."
-Georges: "Crap, crap, crap! Mom’s gonna flip her lid!We’d better get out of here before she brings her wrath down on us, Michelle!"
+Georges: "Crap, crap, crap! Mom’s gonna flip her lid! We’d better get out of here before she brings her wrath down on us, Michelle!"
 Michelle: "B-But..."
 Lydie: "...Georges. I heard every last word."
 Georges: "What big ears you have."
@@ -190,7 +190,7 @@ Michel: "............"
 *It made me think getting worked up over some stupid words on scraps of paper was a waste of time and energy.*
 *So while I wasn’t at the point of gleefully cozying up to her, it was true that her presence had made my life easier.*
 Morgana: "I can’t stand the sight of it. It’s utterly dreadful."
-*The witch wanted me to kill them,  but instead, I crouched down to get a better look.*
+*The witch wanted me to kill them, but instead, I crouched down to get a better look.*
 Michel: "They... seem to be dead already?"
 *It appeared someone had died on my doorstep.*
 *And because of the way they were clothed, I couldn’t make anything out beyond that at a distance.*
@@ -1876,7 +1876,7 @@ Gratien: "That’s it! Next, overhead!"
 *He whispered so quietly that by all rights, I could never have heard it, but his intentions came through loud and clear.*
 *As if being controlled by that voice, I swung my sword down.*
 *After about a half-dozen such clashes, we locked blades and had a brief shoving match before putting a little distance between each other. And then we went at it again.*
-*To the audience, it would have looked like a fierce battle to the death, but I felt more like we were dancing than anything.Well, he was dancing; I was merely following his lead.*
+*To the audience, it would have looked like a fierce battle to the death, but I felt more like we were dancing than anything. Well, he was dancing; I was merely following his lead.*
 *But if that was his plan—whatever his plan was—I had no choice but to dance to his beat.*
 *The only thing improvisation would get me is a sword through the heart.*
 *Meanwhile, sticking to the plan, I had nothing to worry about. No reason to fear his sword might go off course.*
@@ -11086,8 +11086,8 @@ Without it, she’ll lose her church.
 She needs the money.
 I needed some way of getting enough money to keep her church running.
 So the lord made me an offer:
-t h e   l o r d . . . ?
-    w h   y      h   i m        a  g    a       i  n
+t h e l o r d . . . ?
+    w h y h i m a g a i n
 If I brought him the witch with the miracle blood, he would finance a whole new church for her.
 So don’t take it personally...
 You get to be the sacrifice...
@@ -11095,9 +11095,9 @@ To keep her church from collapsing. To keep her world from collapsing.
 So don’t take it personally, witch.
 Barnier: "Cheers! A saint’s blood and good fortune to all!"
 Barnier: "You’re a damned witch wearing a saint’s skin!"
-    n          o
-        i  ’    m      n   o   t
-                             a                    w      i       t        c           h
+    n o
+        i  ’    m n o t
+                             a w i t c h
 After cutting off my left arm the strange-looking man stuffed me into a
 sack and tied me up and threw me over his shoulder and carried me
 away somewhere, and while he was walking he muttered at me over his
@@ -14052,7 +14052,7 @@ Morgana: "All right, well, get to it. And then be done with it so I can leave."
 Ceren: "You’re no fun, Morgs..."
 Morgana: "I don’t want to spend any more time here than necessary."
 Ceren: "Jacky, Jacky! You make sure she doesn’t go anywhere! And while you’re at it, hold her tight and whisper sweet nothings!"
-Morgana: "D o   i t   a n d   y o u ’ r e   d e a d e r   t h a n   d e a d ."
+Morgana: "D o i t a n d y o u ’ r e d e a d e r t h a n d e a d ."
 Jacopo: "........................................................................"
 Jacopo: "I feel like things would proceed much smoother without me..."
 Gratien: "Hey now! Don’t be such a downer! We’re brothers-in-arms. I’d be real upset if ya left."
@@ -14267,7 +14267,7 @@ Morgana: "...................................."
 Jacopo: "About that, Morgana... I, uh..."
 Morgana: "The only “whooshing” I will be doing is sending your soul straight to Hell."
 Jacopo: "What?"
-Morgana: "Y o u r   s o u l .   S t r a i g h t .   T o .   H e l l ."
+Morgana: "Y o u r s o u l .   S t r a i g h t .   T o .   H e l l ."
 Jacopo: "............"
 Ceren: "This is the one screwup you really can’t talk yourself out of. Though it’s at least more understandable than how it was presented in the main game, I think?"
 Ceren: "That was the super short version of it, so you didn’t get to see much of how he had painted himself into a corner."

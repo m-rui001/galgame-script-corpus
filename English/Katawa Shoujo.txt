@@ -17388,7 +17388,7 @@ Lilly: "…Okay."
 *This whole situation, come to think of it, is bizarre.*
 *While I've known of Hanako's upcoming birthday party for a while now, I had no idea of exactly what the celebrations would be until I found a single note left in the abandoned tea room earlier today.*
 *I hold it up and read it again, doublechecking the instructions. The plain black handwriting's fairly legible despite Lilly's blindness, clearly thanks to considerable effort and care.*
-Letter: "Hisao,We'll be holding a party at my place. Please come at six o'clock to room 225 in the girls' dormitory.Sorry for notifying you this way, but I have class representative duties.- Lilly Satou"
+Letter: "Hisao,We'll be holding a party at my place. Please come at six o'clock to room 225 in the girls' dormitory. Sorry for notifying you this way, but I have class representative duties.- Lilly Satou"
 *Not reassured, I continue walking down the hallway until I reach Lilly's dormitory room. I hesitate for a second, but eventually give three sharp taps on the door.*
 *A brief and muffled exchange of words can be heard from the other side. Listening closer, I can just pick out Hanako and Lilly's voices.*
 *As they finish, Lilly calls out.*
@@ -30706,7 +30706,7 @@ Shizune: "It's the perfect bait. Doesn't everything look irresistible? I tried t
 *The only thing that has changed is that by viewing it as another sort of challenge for herself, she can put her worries aside and throw herself into it recklessly.*
 *It has worked well enough for Shizune so far. It wouldn't surprise me if it's the only way she knows how to live.*
 Hisao: "It's a little early, though…"
-Shizune: "It's already eight in the morning, that's late! Even Misha gets up at eight or nine. She goes to bed at 7:00 p.m., but that isn't important."
+Shizune: "It's already eight in the morning, that's late! Even Misha gets up at eight or nine. She goes to bed at 7:00 p.m. but that isn't important."
 Hisao: "It's very important."
 *Shizune ignores me, gagging my hands by taking them in hers instead of a more proper rebuttal. The way she lingers against me a moment longer than expected feels really comforting.*
 Shizune: "The point is, she's awake right now, walking around somewhere. Let's go find her."

@@ -142,7 +142,7 @@ Ashley: "Oh hey, nice to see you again."
 <USER>: "About that job thing..."
 <USER>: "Well, you see..."
 <USER>: "There is this place that I go to wash the dishes occasionally."
-<USER>: "And, it just happens that the boss, Mr.Bear, is looking for a waitress."
+<USER>: "And, it just happens that the boss, Mr. Bear, is looking for a waitress."
 *(And I would like seeing someone as you there besides him.)*
 Ashley: "A waitress? Me?"
 Ashley: "<USER>, I already told you that have ZERO experience with any kind of work."
@@ -156,28 +156,28 @@ Ashley: "I'm bad with this kind of stuff, talking with adults, I mean..."
 Ashley: "Nice! See you later, <USER>."
 <USER>: "So, this is the place."
 *(Is not great, but at least is clean.)*
-Mr.Bear: "Welcome!"
-Mr.Bear: "Oh, it's you, <USER>."
+Mr. Bear: "Welcome!"
+Mr. Bear: "Oh, it's you, <USER>."
 <USER>: "So, how was your date?"
-Mr.Bear: "Perfect! She's a woman of culture, much to my taste."
-Mr.Bear: "I could talk to her for hours about anythings."
+Mr. Bear: "Perfect! She's a woman of culture, much to my taste."
+Mr. Bear: "I could talk to her for hours about anythings."
 <USER>: "Really? That's good to hear."
 *(That's unexpected, but at least the big guy is happy.)*
-Mr.Bear: "You're truly eager to make some cash, huh?"
-<USER>: "Not today, Mr.Bear. Actually, I'm here to introduce you to Ashley."
+Mr. Bear: "You're truly eager to make some cash, huh?"
+<USER>: "Not today, Mr. Bear. Actually, I'm here to introduce you to Ashley."
 <USER>: "She's that friend of mine that I talked about, remember?"
 <USER>: "You said you were looking for a waitress, right? She's the perfect person."
-Mr.Bear: "Really? Well, yeah, I'm looking for a good waitress to help me out."
-Mr.Bear: "Where did you work before, Ashley?"
+Mr. Bear: "Really? Well, yeah, I'm looking for a good waitress to help me out."
+Mr. Bear: "Where did you work before, Ashley?"
 Ashley: "Actually, I..."
 <USER>: "She has no experience, but she's quick at learning."
 *(And I can vouch for that.)*
-Mr.Bear: "Really? Well..."
-Mr.Bear: "We don't have a whole lot of movement at the time, so I guess I could take her."
-Mr.Bear: "IF she's willing to learn, that is."
+Mr. Bear: "Really? Well..."
+Mr. Bear: "We don't have a whole lot of movement at the time, so I guess I could take her."
+Mr. Bear: "IF she's willing to learn, that is."
 Ashley: "Really?!"
 Ashley: "Oh my god, thank you so much."
-Mr.Bear: "Right, right. You can drop by tonight, we'll start your training."
+Mr. Bear: "Right, right. You can drop by tonight, we'll start your training."
 Ashley: "<USER>, want to walk me home?"
 *(That's a strange proposition.)*
 <USER>: "Hmmmm. Dunno, I'm pretty tired."
@@ -284,7 +284,7 @@ Mary: "(I'll just pretend it never happened...)"
 *(This is a sign!)*
 *(I can't simply enter this room, leave my dirty clothes behind and ignore whatever I see.)*
 <USER>: "I can't!"
-*(As easy  it should be, my eyes keep focusing on the red underwear.)*
+*(As easy it should be, my eyes keep focusing on the red underwear.)*
 *(Those are... the same as last time.)*
 *(Some part of me just wants to believe that she's wearing those every week just to make me happy.)*
 *(But in reality I would believe anything just to put my hands again on those panties.)*

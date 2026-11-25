@@ -500,7 +500,7 @@ You: "Well, and can I ask you what are we going there for?"
 Ada: "Yeah, sure..."
 You: "..."
 Ada: "I'm going to talk to the photographer about getting a photo shoot, my uncle is convinced I can be a model."
-Ada: "Apparently he got in touch with a photographer in town and they arranged a deal to do a set  for me."
+Ada: "Apparently he got in touch with a photographer in town and they arranged a deal to do a set for me."
 You: "Oh!"
 You: "I think your uncle has a good eye."
 Ada: "No, it's just that everyone is so nice to me."
@@ -637,7 +637,7 @@ Ada: "Then what did I give you the TV for?"
 You: "Well, every now and then I watch the news on Channel 7."
 Ada: "What a bore!"
 Ada: "You have to watch Ninja Storm!"
-You: "Ok, Ok,  I'll do it."
+You: "Ok, Ok, I'll do it."
 You: "So, how was the call yesterday?"
 Ada: "Good, my uncle was very happy."
 Ada: "He was saying he was going to tell the guys I'm going to be a model."
@@ -1028,7 +1028,7 @@ Ada: "It's just that I have to do it as payment for the portfolio thing, isn't i
 Ada: "Isn't that the fair thing to do in exchange?"
 You: "..."
 You: "I guess so."
-Ada: "But, I never  expected you to tell me to go alone."
+Ada: "But, I never expected you to tell me to go alone."
 You: "Of course I'll go with you."
 *Ada smiles.*
 Ada: "As you say..."
@@ -1047,7 +1047,7 @@ Francis: "Let's be honest."
 Francis: "You're a very provocative, striking woman."
 Ada: "What?"
 Francis: "Sure, I mean, you have a very nice body."
-Francis: "If it wasn't for that alone, I would have never agreed to do your photos,  let alone ask you for help with the store."
+Francis: "If it wasn't for that alone, I would have never agreed to do your photos, let alone ask you for help with the store."
 Ada: "..."
 *Ada seems nervous hearing his words.*
 Francis: "Hey, that's not a bad thing, getting by on just your looks."
@@ -1270,7 +1270,7 @@ You: "Yes, on the way I'll tell you where all the confusion from the other day i
 *You take advantage of the trip to bring Ada up to date.*
 *You tell her about Thomas's methods and his intention to try to keep the store from closing.*
 *You try to give her as much detail as you can so that she fully understands the situation.*
-Ada: "So that’s the whole story   "
+Ada: "So that’s the whole story "
 You: "It looks like it."
 Ada: "Do you trust them <USER>?"
 You: "..."
@@ -1420,7 +1420,7 @@ Francis: "Huh? You don't like the angle, come here and look at it man."
 Ada: "B...but if you do that..."
 Francis: "Easy, easy..."
 *You smile as you walk away.*
-*It's clear they’re  going to have a great time.*
+*It's clear they’re going to have a great time.*
 Francis: "Perfect guys, that's the pose I was looking for."
 *Ada is on top of Thomas, spread-eagled, dressed in fishnet lingerie*
 *She's looking up at Francis while you witness the whole scene.*
@@ -1627,7 +1627,7 @@ Thomas: "Not at all, now I control myself like a Buddhist."
 *While you are talking you see how Francis leaves the camera on the table.*
 *He walks up to you and says in a very matter-of-fact way.*
 Francis: "What an ass, huh? Holy cow."
-*You and Thomas look at each other and you look at  Francis.*
+*You and Thomas look at each other and you look at Francis.*
 Francis: "Did I say something wrong?"
 *At that moment Ada comes out dressed in her striped dress.*
 Ada: "Well, will the pictures do?"
@@ -2581,7 +2581,7 @@ Ada: "Thank you for helping me <USER>."
 Ada: "But I feel sorry for the attendant."
 You: "What are you saying?"
 Ada: "Look at him."
-*You turn to look at where he's sitting, dejected, as if suddenly  coming to terms with everything he's been doing.*
+*You turn to look at where he's sitting, dejected, as if suddenly coming to terms with everything he's been doing.*
 You: "Ada..."
 You: "You are too kind for this world."
 Ada: "..."
@@ -2912,7 +2912,7 @@ Felicity: "Eehmmm...."
 *Something else is going on here, and the Professor knows something.*
 Felicity: "I don't know what you're talking about..."
 Profesor: "You know perfectly well what I'm talking about, you don't need to tell me anything."
-Profesor: "Because  you and me already know, don't we?"
+Profesor: "Because you and me already know, don't we?"
 Profesor: "We know perfectly well what you are doing here."
 *You can see Felicity's expression.*
 *You start to feel a cold sensation running down your back.*
@@ -3571,7 +3571,7 @@ You: "I respect that..."
 Profesor: "<USER>."
 Profesor: "Why did I think you would know anything about respect?"
 Profesor: "You don't have a clue about anything, you fucking punk, talking to a teacher like that!"
-Profesor: "I  don't know why I even thought to ask you anything."
+Profesor: "I don't know why I even thought to ask you anything."
 You: "Don't cut yourself, you can give me details if you want."
 Profesor: "Shut up!"
 Profesor: "Shut up now!"
@@ -4973,7 +4973,7 @@ Rachel: "Don't get in my way asshole."
 *She drops her backpack on the ground.*
 *At this hour, you can see few people around.*
 *She is away from the lampposts on the promenade, hidden from anyone's view.*
-*The movements shestarts to  make are familiar to you.*
+*The movements shestarts to make are familiar to you.*
 *No doubt Rachel is practicing martial arts.*
 *Why on the beach at this hour?*
 *You've been standing still in the same area for a long time, ideal for getting her attention.*
@@ -5047,7 +5047,7 @@ Rachel: "And of that nigh..."
 *The door suddenly opens.*
 *A pot-bellied, old Asian man slowly enters the building.*
 *He looks strangely familiar.*
-*Rachel however  looks at him strangely.*
+*Rachel however looks at him strangely.*
 Rachel: "Excuse me..."
 Rachel: "The school is closed..."
 Rachel: "But we'll be open soon..."
@@ -5081,7 +5081,7 @@ Rachel: "What's wrong with you?"
 *The man stops laughing.*
 *He looks seriously at Rachel as their eyes again meet.*
 Liu Fang: "I know your father...a good martial artist."
-Liu Fang: "When he came to this town he paid his respects to me, and  accepted him and showed him the path forward."
+Liu Fang: "When he came to this town he paid his respects to me, and accepted him and showed him the path forward."
 Liu Fang: "I don't understand why he now offends me by opening a new school without telling me anything..."
 Liu Fang: "And having it lead by nothing more than with his daughter!"
 Liu Fang: "What happened to your father?"
@@ -5203,7 +5203,7 @@ Albert: "I know that he owns some of them , and that he runs a sort of council o
 You: "A council?"
 Albert: "Yeah well, you know, a bunch of old guys who discuss very important things."
 *The laugh he ends it on tells you his thoughts on the matter.*
-Albert: "Most likely they just make plans to have a stranglehold on the  businesses so they don't lose money to competition."
+Albert: "Most likely they just make plans to have a stranglehold on the businesses so they don't lose money to competition."
 Albert: "Although I suppose they also set out certain rules all of them must abide by, to keep the peace between them all and to enforce on competition."
 You: "Like for example...that a girl can't go into business?"
 Albert: "Yes, it sounds to me like it might be something like that."
@@ -5271,7 +5271,7 @@ You: "..."
 Profesor: "I know, I don’t think it’s very original either."
 Profesor: "That's enough?"
 You: "Oh no, I’m sure that he is very busy, I wouldn’t want to disturb him there, I’ll find her somewhere else."
-You:  "Though I guess that you know him personally then?"
+You: "Though I guess that you know him personally then?"
 Profesor: "Well, yes, ,but I’m not going to just tell you personal stuff about the man..."
 You: "I know you are a learned man, I'm sure the two of you have had heated debates about the philosophy of the martial arts."
 Profesor: "Well... I can't lie..."
@@ -5303,7 +5303,7 @@ You: "Of course."
 You: "Hi, excuse me for a moment..."
 Liu Fang: "You!"
 *Liu Fang puts the hotdog down on the tray and stands up, heading towards you before you can get to him.*
-Liu Fang:  "What nerve you have showing up here."
+Liu Fang: "What nerve you have showing up here."
 Liu Fang: "How dare you?"
 You: "Let me explain to you please."
 You: "I'm very sorry for what happened."
@@ -5326,7 +5326,7 @@ Liu Fang: "It's fucking self-control!!!"
 Liu Fang: "And in that place there is no such thing as self-control!"
 You: "But it was me who kicked him."
 Liu Fang: "Do you take me for a fool?"
-Liu Fang:  "I saw perfectly well that she was going to do it!"
+Liu Fang: "I saw perfectly well that she was going to do it!"
 Liu Fang: "You just went ahead in some foolish attempt at protecting her!"
 You: "Well, she's a little temperamental."
 Liu Fang: "It hurt like hell."
@@ -5372,7 +5372,7 @@ You: "Hi."
 Rachel: "Hey <USER>."
 You: "Hey, I talked to Liu Fang."
 Rachel: "Really?"
-You: "Yeah, well, it looks like he came to school with that attitude  because it was a test."
+You: "Yeah, well, it looks like he came to school with that attitude because it was a test."
 Rachel: "A test?"
 You: "Yes."
 Rachel: "What kind of test?"
@@ -5398,7 +5398,7 @@ Rachel: "You're an idiot!"
 You: "It was just a joke Rachel."
 Rachel: "Yeah, right, since it's not your school that's at stake."
 Rachel: "And let's not talk about all the worry this will cause my dad with all this crap going on!"
-You:  "I'm sure he'll be able to take care of the matter and talk to old Liu Fang."
+You: "I'm sure he'll be able to take care of the matter and talk to old Liu Fang."
 Rachel: "What?"
 Rachel: "No way."
 Rachel: "My father has placed his trust in me and I don't intend to bother him with this."
@@ -5450,7 +5450,7 @@ You: "You were so much braver before, what happened?"
 You: "You would have taken on vampires all by yourself!"
 You: "And now you're scared of an old man?"
 Rachel: "..."
-You:  "Look you have no choice but to give it your all on this."
+You: "Look you have no choice but to give it your all on this."
 Rachel: "I..."
 You: "What you have to do is train, train as hard as you can."
 Rachel: "We don't even know when the fight might be held."
@@ -5690,7 +5690,7 @@ Rachel: "Yes, thank you <USER>!"
 *Time to train.*
 Rachel: "Yes!"
 Rachel: "That way the fight will be over soon."
-Rachel: "Being so old, if I can hit him really hard he'll be knocked out cold  bet."
+Rachel: "Being so old, if I can hit him really hard he'll be knocked out cold bet."
 You: "I don't know I...."
 Rachel: "Bah, what do you know?"
 You: "..."
@@ -5742,7 +5742,7 @@ Rachel: "Aren't you afraid?"
 Rachel: "Don't you have any worries?"
 Rachel: "I'm sick of all that worthless philosophical bullshit from you."
 Rachel: "That fucking bastard is trying to tear down everything my father is trying to build."
-Rachel: "And it's  a bad thing, martial arts helps people, and I want to help people, so not more talk, it’s time to act!"
+Rachel: "And it's a bad thing, martial arts helps people, and I want to help people, so not more talk, it’s time to act!"
 You: "..."
 Rachel: "Are you going to keep quiet, nothing to say?"
 You: "No, of course not..."
@@ -6172,9 +6172,9 @@ Liu Fang: "Yes...that's good."
 *The old man looks at you.*
 Liu Fang: "<USER>."
 Liu Fang: "You've done a great job of witnessing."
-Liu Fang: "Unfortunately , now you must leave, forget about Rachel, since I don't think my special training with her will be done  for a long time."
+Liu Fang: "Unfortunately , now you must leave, forget about Rachel, since I don't think my special training with her will be done for a long time."
 *The truth is, you were expecting that.*
-*It's not like you see much more to do here  either.*
+*It's not like you see much more to do here either.*
 *Rachel is in love with domination, something that doesn't go 100 percent with your philosophy of life.*
 You: "Thank you for your time Master Fang."
 *ou give a classic bow.*
@@ -7592,7 +7592,7 @@ Ada: "See you around."
 *Your parents left you a nice inheritance and you've rented an apartment a subway ride away from your new school.*
 *That's right, this will be your new life.*
 *Enrolled in night classes and with little else to do.*
-*Except to  not attract too much attention...*
+*Except to not attract too much attention...*
 *But who knows?*
 *Maybe something interesting will happen...*
 *No?*
@@ -7688,7 +7688,7 @@ Profesor: "I won't take my eye off him <USER>."
 *At least you had fun.*
 *You didn't expect that end, huh?*
 *Or maybe yes...*
-*Someone pushes  you on the shoulder again.*
+*Someone pushes you on the shoulder again.*
 *The action is so hard that you're knocked off the controls long enough to lose your concentration.*
 *You lose, game over.*
 *When you look around you see her again.*
@@ -7699,7 +7699,7 @@ You: "..."
 You: "..."
 *The girl runs off like a rat.*
 *Now you're starting to get angry.*
-*Someone pushes  you on the shoulder.*
+*Someone pushes you on the shoulder.*
 *The action is so hard that you're knocked off the controls long enough to lose your concentration.*
 *Inevitably...*
 *You lose...*
@@ -7921,7 +7921,7 @@ You: "Listen man...."
 Profesor: "I said Mr. Professor!"
 You: "Okay okay...Mr. Professor."
 Profesor: "That's right."
-Profesor: "Don't go looking to be making  trouble with me!"
+Profesor: "Don't go looking to be making trouble with me!"
 Profesor: "Take education seriously and everything will be fine."
 Profesor: "Is that clear to you?"
 You: "Very clear..."
@@ -8247,7 +8247,7 @@ Ursula: "What, you're falling asleep too?"
 You: "What?"
 Ursula: "Wake up, the class is over..."
 You: "Ah... yeah, thank you."
-You: "I... it's just that it started going a little  downhill the last 40 minutes."
+You: "I... it's just that it started going a little downhill the last 40 minutes."
 Ursula: "Yes, I totally understand you."
 You: "My name is <USER>!"
 Ursula: "I'm Ursula."
@@ -9107,7 +9107,7 @@ Mister D.: "That's why I served in Vietnam."
 Mister D.: "That's why I serve you today with my record label."
 You: "What?"
 You: "What does one thing have to do with the other?"
-*Mr. D., Take a deep breath, but still don't look at you.*
+*Mr. D. Take a deep breath, but still don't look at you.*
 Mister D.: "You see..."
 Mister D.: "When I served my country in that hole..."
 Mister D.: "I had to see and do horrible things..."
@@ -9319,7 +9319,7 @@ Ursula: "They were all in the same platoon."
 Ursula: "They were nobody special."
 Ursula: "But they had several battles in the jungle that were very tough."
 Ursula: "My father told me about the starvation they went through and some of the atrocities committed."
-You: "Something happened with Mister D., didn't it?"
+You: "Something happened with Mister D. didn't it?"
 Ursula: "..."
 Ursula: "Mister D. was one of those friends."
 Ursula: "According to my father, he's still a good friend."
@@ -9543,7 +9543,7 @@ Mister D.: "Damn hairless apes..."
 Mister D.: "Fucking pigs."
 Mister D.: "Do you know how long it took me to regain that lost consciousness?"
 Mister D.: "You can't understand it...."
-Mister D.:  "Like your father and his friends, what do they know..."
+Mister D.: "Like your father and his friends, what do they know..."
 Mister D.: "Their existence in ignorance is their greatest condemnation, just like yours..."
 *Ursula looks confused.*
 *But all her chatter to you scares you more than confuses you.*
@@ -9552,7 +9552,7 @@ Mister D.: "Quit if you want to, but you'll pay me that 10,000 one way or the ot
 *Mister D. doesn't change the expression.*
 *Unlike you, who has grown tired of hearing it.*
 *He's either unbalanced or stupid, or worst of all...*
-*He's  dangerous...*
+*He's dangerous...*
 *But you're not going to let Ursula continue to have a hard time because of him.*
 You: "Well, that's it."
 You: "Ursula, go quietly."
@@ -9585,7 +9585,7 @@ You: "Yes, let's go."
 *You see, the photographer looks amused at the whole scene while having a soda.*
 Francis: "Well, nothing."
 Francis: "Have a good time."
-Francis: "Mr. D., I've got to get back to work."
+Francis: "Mr. D. I've got to get back to work."
 Mister D.: "..."
 *You don't even wait; you walk out the apartment door and down the stairs to the street, straight to the subway.*
 *Already in the subway, Ursula looks at you smiling.*
@@ -9961,7 +9961,7 @@ Mister D.: "Take it! Enjoy it!"
 Ursula: "B...big..."
 Mister D.: "Yes, all for you!"
 Mister D.: "I can already feel you squeezing; you're about to cum, huh?"
-Mister D.:  "Come on, move your hips and that big ass more."
+Mister D.: "Come on, move your hips and that big ass more."
 Mister D.: "That's it!"
 *Ursula starts moving faster, almost at a frantic pace.*
 Mister D.: "Perfect, you're a real slut, Ursula."
@@ -10040,7 +10040,7 @@ You: "..."
 *You look at Francis.*
 You: "You can do better than that to Ursula, Francis."
 You: "Especially if you change the male actor."
-Francis:  "Ha ha ha ha ha ha, very good!"
+Francis: "Ha ha ha ha ha ha, very good!"
 Francis: "Between you and me, I don't like that guy either."
 You: "Well, thanks for showing me your secret video."
 Francis: "You're welcome, man!"
@@ -10603,7 +10603,7 @@ You: "I can't stop..."
 *At that moment you go down a little lower and your cock touches the skin of her leg.*
 *The shorts are so short that they don't protect all of her crotch, part of her pussy is exposed.*
 *You rub your cock against that area, letting yourself fall a little on top of her.*
-*She spasms as she looks at you and moans.She spasms as she looks at you and moans.*
+*She spasms as she looks at you and moans. She spasms as she looks at you and moans.*
 Ursula: "Ah!... <USER> , you’re so hard..I can feel it touching me..."
 You: "It's your fault Ursula."
 Ursula: "I..my...fault...."

@@ -3227,7 +3227,7 @@ Riki: "Kamikita-san, you can go first."
 Kamikita: "Fue? Um... That is..."
 Kamikita: "...You'll see it, so..."
 *...She spoke hesitantly as if being embarrassed about something.*
-Kamikita: "Um..., and, you see, today it's Mr. Bear..."
+Kamikita: "Um... and, you see, today it's Mr. Bear..."
 Kamikita: "Wa, aaaah, I didn't really have to say it."
 *...She looked as though she had just performed a self-destruction, while I was still trying to understand what she had meant.*
 *But, ah well... I think I got the gist of it.*
@@ -10507,7 +10507,7 @@ Tokido: "The contents are different though."
 Riki: "Umm... it says "a bread made by kneading together strained bean paste and sweet bean jam in turn, then baking.""
 Tokido: "Tch..."
 Tokido: "........."
-Tokido:  "That's right! I didn't notice! It's the dreaded 1-pointer, which totals 6 points when added to my 5-point sandwich! I got half your score! I'm wretched! Pitiful, right?! Just go ahead and laugh! Give me your best "Ahahaha!""
+Tokido: "That's right! I didn't notice! It's the dreaded 1-pointer, which totals 6 points when added to my 5-point sandwich! I got half your score! I'm wretched! Pitiful, right?! Just go ahead and laugh! Give me your best "Ahahaha!""
 Tokido: "Ahahaha!"
 *There it was again! Her mysterious self-deprecating performance.*
 Tokido: "Damn... I thought you wouldn't notice if I kept my mouth shut..."
@@ -15672,7 +15672,7 @@ Nishizono: "...I don't remember it clearly."
 *She probably did it more or less unconsciously.*
 Riki: "So, you did have it before P.E. class?"
 *There was only a short time between the beginning of 5th period and when she noticed she had lost her book.*
-*She had been in the classroom since the end of P.E., so she could only have lost it during that one period.*
+*She had been in the classroom since the end of P.E. so she could only have lost it during that one period.*
 *At some point in that timeframe, the book had been lost.*
 Riki: "Do you know if anybody else lost anything?"
 *This was the room where the girls had been changing.*
@@ -15935,7 +15935,7 @@ Nishizono: "...I don't remember it clearly."
 *She probably did it more or less unconsciously.*
 Riki: "So, you did have it before P.E. class?"
 *There was only a short time between the beginning of 5th period and when she noticed she had lost her book.*
-*She had been in the classroom since the end of P.E., so she could only have lost it during that one period.*
+*She had been in the classroom since the end of P.E. so she could only have lost it during that one period.*
 *At some point in that timeframe, the book had been lost.*
 Riki: "Do you know if anybody else lost anything?"
 *This was the room where the girls had been changing.*
@@ -38562,7 +38562,7 @@ Riki: "Or is there someone here you want me to meet...?"
 Black Cat: "......"
 *The cat stared at me with it's yellow eyes.*
 *Maybe someone was manipulating the cat, just like Kyousuke did...*
-Riki: "Is the  'master' of this world  here?"
+Riki: "Is the 'master' of this world here?"
 Riki: "Hey, is there anybody here?"
 *I called out.*
 *However, I didn't get any reply.*
@@ -59914,10 +59914,10 @@ Haruka: "Oh well."
 *How could those prefects accuse her like that even after she insisted she hadn't done anything wrong.*
 *Well, when you cry wolf enough times...*
 *But I didn't think she would really do such things.*
-Haruka: "...But, Riki-kun, ...you."
+Haruka: "...But, Riki-kun...you."
 Riki: "Eh?"
 *Since she had mumbled them, I asked her to repeat the words of gratitude.*
-Haruka: "T h a n k  y o u, I said."
+Haruka: "T h a n k y o u, I said."
 Haruka: "...For believing in me."
 *And she smiled a little.*
 *This smile was different from her usual, insolent grin.*
@@ -73792,7 +73792,7 @@ Kanata: "...If you say we should end it, then let's end it."
 ???: "I received so much I couldn't hold it all..."
 ???: "I don't need any of it anymore!"
 *The two of us wished for this to keep going forever.*
-*If there is nothing but despair left when  it all comes to an end...*
+*If there is nothing but despair left when it all comes to an end...*
 *...I would hate to keep going.*
 *by giving up my wish, something will probably change, even if it's something small.*
 *Wherever this ultimately leads, I won't be here to see it.*
@@ -74001,7 +74001,7 @@ Haruka: "I mean I..."
 Haruka: "......!"
 *Haruka-san opened her eyes widely.*
 Riki: "...N..."
-Haruka: "...Nn..., Riki... -kun."
+Haruka: "...Nn... Riki... -kun."
 Riki: "We'll continue later, Haruka-san."
 Haruka: "...Yeah... thank you..."
 Riki: "N..."

@@ -10877,7 +10877,7 @@ Unknown: "And I hope... you can make your own list about me too."
 Unknown: "This is just the beginning, after all... We've got a long, long time ahead of us."
 Unknown: "Plenty enough to get to know each other, no?"
 *__*
-*It's dark. ...Dark.It's dark. It's dark again.It's dark. Dark. Dark. Dark.Constantly. Coooonnnnstantly engulfed innn darrrrrknnnnness.You threw it away, every single time I must break out of this darkness I'll give you a world that's not cruel to you I must escape... and take her hand.Because that'sAhahahahahahahahahathe reasonOh, I've got a _wonderful_ ideaI came here!You can curse them with me!I must return... I must reclaim...We can think of new ways to torture them... We'll _all_ be happier if you stay here. Just think about it. Stay here, in this world... You'll be right at home. No! I did the best I could for you, nothing more. This is not where I belong! No matter how much a world of darkness may suit me... You'll never be able to do it. I must reclaim my true self!*
+*It's dark. ...Dark. It's dark. It's dark again. It's dark. Dark. Dark. Dark. Constantly. Coooonnnnstantly engulfed innn darrrrrknnnnness. You threw it away, every single time I must break out of this darkness I'll give you a world that's not cruel to you I must escape... and take her hand. Because that'sAhahahahahahahahahathe reasonOh, I've got a _wonderful_ ideaI came here! You can curse them with me!I must return... I must reclaim...We can think of new ways to torture them... We'll _all_ be happier if you stay here. Just think about it. Stay here, in this world... You'll be right at home. No! I did the best I could for you, nothing more. This is not where I belong! No matter how much a world of darkness may suit me... You'll never be able to do it. I must reclaim my true self!*
 Monolog: "Reclaim yourselfAhaha... this is brilliant. Do you have any idea how _terrible_ a decision that is? Do you have any idea _why_ I fabricated that story? It was _all_ for you. So _stay here_. Stay _right where you are_. The darkness suits you better..."
 Monolog: " Reclaim yourselfRemember what someone told you not long ago? That you could handle the stories because they weren't your own. That you were able to bear the tragedies because they happened to others. If that _had_ been your suffering... if the secrets you had kept buried away for so long had come out... you couldn't _possibly_ have endured it."
 Monolog: " Reclaim yourselfBut you're a sharp one—I'm sure you intend to keep those secrets tucked away forever. Do you really think _I'm_ going to let you do that, though? Whatever you try to hide... I'll make sure your beloved hears every last detail."
@@ -29404,7 +29404,7 @@ Lord: "watch thiiiiiiiis!"
 *“............” *
 *“I know you can hear me. I brought ointment, so let me put it on you.” *
 *“It's a waste of time.” *
-*“You don't know that. Your arms look much better than before.It won't be long before your face starts healing too.” *
+*“You don't know that. Your arms look much better than before. It won't be long before your face starts healing too.” *
 *“The ointment isn't free. You're wasting your money.” *
 *“It's my money. I can use it however I please. So just shut up and let me do this.” *
 *“You're a very obnoxious man, you know.” *
@@ -29413,7 +29413,7 @@ Lord: "watch thiiiiiiiis!"
 *With a forlorn graveyard as their backdrop, a young man applied salve to a girl's raw, exposed flesh. It was quite possibly the least romantic sight in the world. *
 *I would have, at the very least, preferred a somewhat more pleasant location. *
 *As the thought fluttered through my mind, I let out a defeated laugh, and I could soon feel her glaring at me. *
-*Morgana could be a bit standoffish, but honestly, I didn't mind.For her, this was actually quite sociable, in fact. When I first met her,she didn't act her age at all, but now, she was starting to show signs of the twelve-year-old girl hidden inside.*
+*Morgana could be a bit standoffish, but honestly, I didn't mind. For her, this was actually quite sociable, in fact. When I first met her,she didn't act her age at all, but now, she was starting to show signs of the twelve-year-old girl hidden inside.*
 *Three years prior, when I met Morgana, she had been the victim of unspeakable abuse at the hands of the lord. I didn't know why he had done those things to her, and I didn't ask either—because I knew doing so would only reopen old wounds. All I knew was that the lord was so far gone as a human being as to brutally torture a nine-year-old girl. *
 *At the time, the only thing that ever seemed to come out of her mouth was the word of God. Everything she said or did was ostensibly for the benefit of others, but it felt to me more like she was acting out of some sort of sense of duty rather than genuine concern. Honorable, but ultimately hollow.*
 *I much, much preferred this Morgana, even if she could be a bit... jaded.*
@@ -29449,7 +29449,7 @@ Lord: "watch thiiiiiiiis!"
 *“............”*
 *“Okay, that should be everything. Does it sting anywhere?” *
 *“Not particularly, no.” *
-*“All right. Oh, also, finish up here and get back to Maria soon.Unless you'd rather I drag you there.” *
+*“All right. Oh, also, finish up here and get back to Maria soon. Unless you'd rather I drag you there.” *
 *“Why?” *
 *“Seriously? It's your damned birthday, that's why.” *
 *“...And?” *
@@ -29863,7 +29863,7 @@ Lord: "watch thiiiiiiiis!"
 *“Yes, I know her. Or, I knew her, years ago...” *
 *“I see... What do you want to do then, lord? You look sick.” *
 *“This doesn't change anything... We lock the witch up and proceed as planned.”*
-*Why Why couldn't I tell her the truth? How How could I keep her imprisoned? What What had I wanted power for in the first place?Would anyone ever believe me if I said this wasn't how I wanted things to turn out?*
+*Why Why couldn't I tell her the truth? How How could I keep her imprisoned? What What had I wanted power for in the first place? Would anyone ever believe me if I said this wasn't how I wanted things to turn out?*
 *Would anyone...*
 *ever believe me...*
 *Before me floats a man, twisted and writhing in pain. *
@@ -30719,7 +30719,7 @@ White hair: "I want you to be the one who does it."
 White hair: "Please."
 *............*
 White hair: "Kill me."
-*I can't.You're asking too much of me...*
+*I can't. You're asking too much of me...*
 *Yes, I want to save Morgana's soul...*
 *but do you really have to die for that to happen?*
 *Is there not some other way?*
@@ -30769,7 +30769,7 @@ White hair: "I couldn't ask for a greater honor..."
 White hair: "...than to be erased from the world by you, my idol."
 *...and then ask me to kill you?*
 White hair: "Please, Michel. Be the one to send me off."
-*I can't do it.No matter how many times you ask...*
+*I can't do it. No matter how many times you ask...*
 *I can't kill someone who's told me they wanted to live...*
 *I know what it's like... to wish for life...*
 White hair: "I don't know if you've realized it yet, Michel,"
@@ -34558,7 +34558,7 @@ Michel: "Ah— nrgh!"
 *As plump drops of rain poured down upon the village, they gathered around newborn me in exultation.*
 * “Ahh, she is the child of God!”*
 *Perhaps there would be more wonder in claiming I had magical powers. Perhaps it would make a better story if I were to say there were higher forces involved. But all these years later, here is what I truly think:*
-*It was nothing more than a fluke. An improbable stroke of luck.An unbelievably fortunate accident for my mother and the village—and an indescribably unfortunate accident for myself.*
+*It was nothing more than a fluke. An improbable stroke of luck. An unbelievably fortunate accident for my mother and the village—and an indescribably unfortunate accident for myself.*
 *“I am with child, though I have known no man”? Ahaha... as if that's even possible. *
 *Maybe she had fooled around with a man who had gone and abandoned her, and she spouted those lies to convince herself it had never happened.*
 *None of the village men made any claim to be my father. Perhaps he was someone else's husband, and as such, he _couldn't_ reveal himself, as adultery is a sin in the eyes of God.*
@@ -34618,7 +34618,7 @@ Michel: "Ah— nrgh!"
 *Or was it that I, daughter of God, lamented my misfortune like a mortal?*
 *I decided it was a trial. *
 *My Father, the Lord God, was testing my worthiness of beingHis daughter. So I choked back my urge to cry and sat there in silent contemplation.*
-*For almost three weeks was I rocked around in the carriage.The coachman treated me well enough, but I'm certain it was only because he didn't want his precious cargo dying before he coulddeliver it. He did not, by any means, think me the child of God.*
+*For almost three weeks was I rocked around in the carriage. The coachman treated me well enough, but I'm certain it was only because he didn't want his precious cargo dying before he coulddeliver it. He did not, by any means, think me the child of God.*
 *The third week, the carriage arrived at a city. It was much larger than the village I had grown up in, with many, many more people crowding the streets. Something about them _felt_ different too. *
 *They all spoke in a tongue foreign to me, which is when I realized I was far, far away from home.*
 *I was delivered to the lavishly decorated mansion of the region's lord. Brightly colored flowers bloomed wildly in the garden as guests laughed and ate extravagant meals. *
@@ -34638,7 +34638,7 @@ Michel: "Ah— nrgh!"
 *That was when I realized, the lord was only interested in the approval of others. He reveled in their envy as he pranced about, showing off his curious new toy—me. *
 *He didn't need my miracles. *
 *Neither he, nor any of his guests were afflicted with disease or misfortune. They were all richly blessed.*
-*Every time he threw a banquet, he drained me of my blood.It became nearly impossible to find a spot on either of my arms that _wasn't_ a swollen, reddish-black gash. And soon, because my arms weren't providing enough blood for him, the cutting spread to my legs.*
+*Every time he threw a banquet, he drained me of my blood. It became nearly impossible to find a spot on either of my arms that _wasn't_ a swollen, reddish-black gash. And soon, because my arms weren't providing enough blood for him, the cutting spread to my legs.*
 *I lived in a haze of half-consciousness. Honestly, I'm amazed it didn't kill me, though perhaps the lord was simply taking care not to take more than my body could spare.*
 *Watching the wealthy partygoers laugh and sip my blood through bleary eyes, another wave of despair came over me. My miracles—my blood—were not meant to be an appetizer at a feast. They were meant for the sick and the poor. *
 *But despite my wishes, the lord persisted to squeeze me dry day in and day out for his own enjoyment.*

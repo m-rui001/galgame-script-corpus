@@ -1706,7 +1706,7 @@ The children laugh in excitement.
 Nagisa: "Thanks, Sawai. That helped a lot."
 After putting in Ami's IV needle, Senpai pats me on the shoulder in relief. I've really got to pick up a bunch of techniques to distract kids while I give them shots... And when I think about that...wow, being a nurse is a tough job!
 ====================scr00201.kgo====================
-A dark, dark world...            Where am I...?           Am I in an ambulance?     Oh...when I think about it,     I was in a car accident as a kid, wasn't I.     But I don't remember anything from that.     I was still in elementary school and sustained severe     injuries, so my memories got scrambled...and I probably     don't want to remember it, either.  The flurry of confusing events might have made me forget...  or it might have been side effects of the anesthetic.  ...But lately,  I can't help the feeling that  I've forgotten something important.   However, I have no idea what I forgot,   and that just worries me to no end...      That's probably where my androphobia came from, too. My mother tells me that, after my accident, I grew terribly afraid around adult men, but I have no idea why...         ...It just might be...this image,         hiding away in my mind.      This man with a tense, fearsome face is tucked away      in a corner of my head.  I think that man is at the core of my fear  of men as a whole.  I wonder if that terrifying man was in the car that hit me?  Is that why he's stuck in my head...?         But no matter how much I think about it,         I can't remember a thing.         My absent memories provide no answer.        ...But        the fear that bubbles up        from that void just won't leave me...              "Kaori."
+A dark, dark world...            Where am I...?           Am I in an ambulance?     Oh...when I think about it, I was in a car accident as a kid, wasn't I.     But I don't remember anything from that.     I was still in elementary school and sustained severe injuries, so my memories got scrambled...and I probably don't want to remember it, either.  The flurry of confusing events might have made me forget...  or it might have been side effects of the anesthetic.  ...But lately, I can't help the feeling that I've forgotten something important.   However, I have no idea what I forgot, and that just worries me to no end...      That's probably where my androphobia came from, too. My mother tells me that, after my accident, I grew terribly afraid around adult men, but I have no idea why...         ...It just might be...this image, hiding away in my mind.      This man with a tense, fearsome face is tucked away in a corner of my head.  I think that man is at the core of my fear of men as a whole.  I wonder if that terrifying man was in the car that hit me?  Is that why he's stuck in my head...?         But no matter how much I think about it, I can't remember a thing.         My absent memories provide no answer.        ...But the fear that bubbles up from that void just won't leave me...              "Kaori."
             I hear a voice.         It's calling out to me.            ...Who are you?    This isn't the first time you've appeared in my dreams.    Who are you?         "It's okay to forget.          All the pain...all the suffering...          you should just forget about it all."
           What?! I can't do that!        No memories are worth forgetting!      The pain, the hurt...      they're all dear memories to me!              "...Urgh..."
              It...hurts...?         "Ah...mm...!"
@@ -2769,7 +2769,7 @@ Kaori: "I'm sorry, I couldn't help staring!"
 Hatsumi: "......"
 Nagisa: "Wait, what did you say?!"
 Kaori: "Huh? I...ahh!!"
-         "I'm sorry,          I couldn't help staring!"
+         "I'm sorry, I couldn't help staring!"
 I said I was staring!
 Hatsumi: "S-Sawai..."
 Th-That makes me sound like a real weirdo!
@@ -3570,7 +3570,7 @@ Kaori: "I'm sorry, I can't do that."
 A wave of disappointment comes over her face.
 Ami: "Wh...but, why...?"
 I wouldn't mind her calling me "big sis"
-that much, truth be told. But I'm a nurse at this hospital, and Ami is a patient. And in a work environment like this, that would be inappropriate.     "Patients aren't your friends.      What do you think you're doing,      having a patient call you ‘big sis’?"
+that much, truth be told. But I'm a nurse at this hospital, and Ami is a patient. And in a work environment like this, that would be inappropriate.     "Patients aren't your friends.      What do you think you're doing, having a patient call you ‘big sis’?"
 Ahh, it's so easy to imagine her saying that...! And besides, if Ami calls me big sis, the other kids will want to, too. Because she's not the only one lonely in the hospital. The other kids in the room look pretty pleasant, but I think they're just hiding their loneliness. They've been separated from their families, and they're away from home... And when I think of that, I realize I can't give Ami special treatment....Though I do feel bad for her.
 Kaori: "I'm sorry, Ami. I'm really glad you feel that way, truly."
 Ami purses her lips when she hears that.
@@ -4432,7 +4432,7 @@ Kaori: "O-Oh, no need to thank me...I didn't do much."
 
 Hatsumi: "But you did really come through for me tonight, so...oh, I know! How about we go and get something nice to eat? You must be hungry, right?"
 Hungry...?     "Hey, I'm starvin' as all hell. Could eat a horse!      How 'bout you, Sawai?"
-      "I'll give you enough to cover what ya need,       so buy whatever you want at the store."
+      "I'll give you enough to cover what ya need, so buy whatever you want at the store."
 Kaori: "Ah!"
 I'd totally forgotten about Yamanouchi!
 Kaori: "Ch-Chief! I just remembered I was in the middle of something important! I have to be on my way!"
@@ -4784,7 +4784,7 @@ I find myself groaning in front of a completely blank nurse report.
 Yasuko: "...Wait, you groanin' to yerself in front of yer reports again?"
 Yasuko: "Fujisawa, you been teachin' her right?"
 Nagisa: "Wait, you're blaming this on me?"
-Kaori: "Oh, Senpai, I've been wondering this for a while now,  but...why are some reports written in red?"
+Kaori: "Oh, Senpai, I've been wondering this for a while now, but...why are some reports written in red?"
 Hatsumi: "...Say, Fujisawa..."
 Nagisa: "I'm sorry! Her being stupid is entirely my fault!"
 Huh? W-Wait, what? Why is Senpai apologizing? And wait, was she talking about me when said "stupid"?
@@ -5992,17 +5992,17 @@ What you see really isn't all that you get. I mull over that as I stroke Ami's h
 ====================scr00401.kgo====================
 ...Oh, it's happening again...            I'm having that dream again...               Ahhh!              ...It really hurts...              ...It really hurts...           I hurt all over...and I'm burning up...           I can't breathe...my chest is killing me...              "You..."
              I hear a voice.         "...You must live."
-         Someone is talking somewhere.      "You can't die. No matter what happens,       you gotta survive."
-Who are you?         "You must live.          Live the life          she couldn't."
+         Someone is talking somewhere.      "You can't die. No matter what happens, you gotta survive."
+Who are you?         "You must live.          Live the life she couldn't."
              Who are you?           Who's "she"?        "I'm sorry, I'm really sorry..."
-                Who...?           "Kaori,            please...don't die..."
+                Who...?           "Kaori, please...don't die..."
                 Who are you?        Who are you, and why do you know me?           "Open your eyes.            I won't allow you to die."
-          ...Who are you two?            And is it just me,            or does it feel nice and...soft,            here...?      I can't feel the pain that plagued me a while ago.      Can I just...stay like this...?           Right then, my consciousness fades.              ...There's no one here anymore.              I can't hear anything.              It's cold, here.           Pain. Pain runs through my entire body...           "Nooo!"
+          ...Who are you two?            And is it just me, or does it feel nice and...soft, here...?      I can't feel the pain that plagued me a while ago.      Can I just...stay like this...?           Right then, my consciousness fades.              ...There's no one here anymore.              I can't hear anything.              It's cold, here.           Pain. Pain runs through my entire body...           "Nooo!"
 Kaori: "*Pant, pant*...!"
 ...I look around me. I'm...in my room... And I had that dream again. Is it a dream of that car accident...? I don't remember what happened too well, but my cells might. Maybe that's why I keep having this dream.
 Kaori: "*Sigh*..."
-My pajamas are drenched in sweat. But, I have to wonder...         "You must live.          Live the life          she couldn't."
-          "Kaori,            please...don't die..."
+My pajamas are drenched in sweat. But, I have to wonder...         "You must live.          Live the life she couldn't."
+          "Kaori, please...don't die..."
 Who are those voices that keep appearing in my dreams? They're a woman's voice and a girl's voice... And they feel strangely...familiar. Just who are they...?
 ====================scr00402.kgo====================
 After getting to a good place in my morning reports, I take a look at the clock.
@@ -7234,7 +7234,7 @@ When she turns around and starts moving, I call out to her.
 Kaori: "Make sure you drink lots of water and go right to bed, okay?"
 Nagisa: "Yeah, I'll be sure to. Sorry for everything! Good night!"
 Kaori: "Good night..."
-Left alone in my room, I find myself thinking. Senpai sure was strange today... I guess she's still got what happened this afternoon hanging over her... And if she hadn't pulled away from me when she did...what would have happened with us...? I wonder if doing that comforted her? I want to cheer her up somehow, but I'm not sure what a greenhorn nurse like me can do for her... Frustration wells up when I realize my powerlessness. I remember what Yamanouchi said this afternoon.     "This is a wall she's gonna have to get over. But don't think      it's none of your business, Sawai, because it hits us all.      And it's gonna hit you."
+Left alone in my room, I find myself thinking. Senpai sure was strange today... I guess she's still got what happened this afternoon hanging over her... And if she hadn't pulled away from me when she did...what would have happened with us...? I wonder if doing that comforted her? I want to cheer her up somehow, but I'm not sure what a greenhorn nurse like me can do for her... Frustration wells up when I realize my powerlessness. I remember what Yamanouchi said this afternoon.     "This is a wall she's gonna have to get over. But don't think it's none of your business, Sawai, because it hits us all.      And it's gonna hit you."
 Kaori: "A wall she has to get over..."
 I've always looked up to Senpai, and how perfect she is...and this wall made her drink herself into a stupor. And this is a wall I'm going to encounter eventually, too... Though I can't deny the worry I feel, my answer is already set in stone....There's no turning back.
 Kaori: "...Senpai..."
@@ -8211,7 +8211,7 @@ Kaori: "It's not about winning arguments!"
 I chuckle at my own words and take Miss Sakai's IV bottle in hand. That's right. I wonder exactly when it was that I realized the best course of action was to just let Miss Sakai complain and not say anything back. Ever since I realized I should just take in whatever complaints she had, things with her have been so much easier. Maybe she isn't complaining just because she wants to. I came up with this idea one day in the bath tub. Maybe the unbearable pain inside her that no one else understands is making her say such mean things. Thinking of it that way, Miss Sakai seems so sad. That's why I want to find her hidden feelings behind all those spiteful words, and let her share those with me, too. Hm? No one's answering. Is she not in her room? I quietly open the door and peek inside.
 Kaori: "Miss Sakai, it's time to change your IV!"
 Kaori: "Hm? Miss Sakai?"
-Where could she have gone?      "You could just leave me alone,       but you go out of your way like this."
+Where could she have gone?      "You could just leave me alone, but you go out of your way like this."
 Oh, the roof! I should go check up there! If she's not up on the roof... Well, I'll think about that later. Okay... Aha! There she is! Tsukushi is with her, too! Miss Sakai has really taken a liking to her. I'd feel bad interrupting, so I'll just watch from here for a minute.
 Tsukushi: "So...I'm going to give this to you for now, Sayuri!"
 Sayuri: "Oh, how adorable! You'll let me have it?"
@@ -8964,7 +8964,7 @@ Hatsumi: "It's getting late. We have work tomorrow, so let's get to sleep."
 I hear the Chief turn over on the mat. That's as good a sign as any that the conversation is over.
 Kaori: "You're right. Good night."
 Hatsumi: "...Good night."
-          ...ve.           You must live.               ...Huh?        Is this...a continuation of that dream I always have...?        But I didn't hear the car horn        or the brakes screeching...
+          ...ve.           You must live.               ...Huh?        Is this...a continuation of that dream I always have...?        But I didn't hear the car horn or the brakes screeching...
 Hatsumi: "Oh, you're finally up? Good morning. You're surprisingly hard to wake up."
 ...Huh? What's the Chief doing here...?
 Hatsumi: "I want to check up on the night shifters, and I need to stop by my room, so I'll be heading off first. Do make sure you're on time."
@@ -9957,12 +9957,12 @@ It's so shameful to have someone see just how weak you really are. I clench my f
 Hatsumi: "Admit it. You made a mistake. Make sure you use your experience to better treat other patients."
 Harsh, yet kind words. Hearing them makes me feel like I can do my best now. I have to make sure I don't do anything to disappoint my patients like that ever again!
 ====================scr00601.kgo====================
-I'm having a dream.               I'm having a dream.               A scary dream.         It always starts         with the sound of a car horn         and emergency breaks.            Today's no exception.         Then,         a truck rolls out         and hits me.     ...I've been hit by a truck...        ...Are these my body's memories?   Is this a memory of the past that every cell of my body   remembers? The pain of the accident?              And then...              A comfortable place.      This is probably      a near death experience.     If there is an afterlife, anyway.        Then, a voice speaks to me.              "You must live."
-       "You must live the life         she couldn't."
-         I must be gravely injured         and on death's door right now.         If I wasn't, they wouldn't be calling out         to me so desperately.        If I had an older sister,        I bet she'd be like this...         "Open your eyes.          I won't let you die."
-    This voice, with its perfect balance     of kindness and strictness....I want to listen to it some more, to let it caress me...           "Kaori... Please,            don't die..."
-          Oh no,           I made you cry...            "I'm sorry,             ***..."
-            I find my lips moving.        But I couldn't hear        the most important part.            I don't know her name.        I'm sorry.        I should know it,        but I don't know your name.      It was my voice,      they were my words,      but I don't even know the name I spoke...        That lack of understanding leads to worry.           ...Hey,           who are you two...?
+I'm having a dream.               I'm having a dream.               A scary dream.         It always starts with the sound of a car horn and emergency breaks.            Today's no exception.         Then, a truck rolls out and hits me.     ...I've been hit by a truck...        ...Are these my body's memories?   Is this a memory of the past that every cell of my body remembers? The pain of the accident?              And then...              A comfortable place.      This is probably a near death experience.     If there is an afterlife, anyway.        Then, a voice speaks to me.              "You must live."
+       "You must live the life she couldn't."
+         I must be gravely injured and on death's door right now.         If I wasn't, they wouldn't be calling out to me so desperately.        If I had an older sister, I bet she'd be like this...         "Open your eyes.          I won't let you die."
+    This voice, with its perfect balance of kindness and strictness....I want to listen to it some more, to let it caress me...           "Kaori... Please, don't die..."
+          Oh no, I made you cry...            "I'm sorry,             ***..."
+            I find my lips moving.        But I couldn't hear the most important part.            I don't know her name.        I'm sorry.        I should know it, but I don't know your name.      It was my voice, they were my words, but I don't even know the name I spoke...        That lack of understanding leads to worry.           ...Hey, who are you two...?
 Kaori: "...Ah..."
 I slowly open my eyes. I'm in a dark room. Is this...the continuation of the dream? I slowly pick myself up. As my eyes grow accustomed to the darkness, I realize I'm in my room.
 Kaori: "Ah! What time is it?!"
@@ -10100,8 +10100,8 @@ Kaori: "......"
 Her word presses down hard on my heart. She didn't seem like she would say anything more to me, so I bowed my head and left the room. A hypocrite, huh...? I have to write my report, but...
 Kaori: "......"
 I can't move my pen an inch.        "...You're such a cruel person."
-I hear Miss Sakai's words in my mind over and over again.        "I can't believe you'd tell me to live,         knowing what I'm ill with."
-   "With a body like this, I'd be better off dead...and you're    telling me to live? You really are cruel."
+I hear Miss Sakai's words in my mind over and over again.        "I can't believe you'd tell me to live, knowing what I'm ill with."
+   "With a body like this, I'd be better off dead...and you're telling me to live? You really are cruel."
                "Hypocrite."
 She's probably right. I might be a hypocrite. I don't know what I should do for her. I don't even know what I can do. Still...I don't want to think about her disappearing. Even if it's part of the job, I don't even want to consider it.
 Kaori: "......"
@@ -11561,7 +11561,7 @@ The nurse call rings. The calls will never wait on you, no matter what you're go
 Kaori: "Hello, what seems to be the issue?"
 When work ends, I find myself stopping on the way home. What can I do for the patients? Will I be able to become a real nurse someday? One that my coworkers and patients can trust? And... Will I get a partner someday? Who I trust and trusts me? Someone I can let my walls down around...?
 ====================scr00701.kgo====================
-I slowly open my eyes.           I'm in a quiet place. A place with nothing.         There's a girl standing in front of me.              I don't know her. Her face looks somewhat familiar, but I can't remember where I've seen her.           She's just staring at me,           this elementary school-aged girl.     ...No,     she's not staring.     She's glaring.              With a scary, harsh face.         She looks like she wants to say something,         but she makes no effort to.         Why?         Why do I feel such anxiety in my heart?
+I slowly open my eyes.           I'm in a quiet place. A place with nothing.         There's a girl standing in front of me.              I don't know her. Her face looks somewhat familiar, but I can't remember where I've seen her.           She's just staring at me, this elementary school-aged girl.     ...No, she's not staring.     She's glaring.              With a scary, harsh face.         She looks like she wants to say something, but she makes no effort to.         Why?         Why do I feel such anxiety in my heart?
 Kaori: "...Who are you?"
 ???: "I am you. The me that's always lived inside of you."
 Kaori: "...?"
@@ -11927,7 +11927,7 @@ Kaori: "You don't have to be embarrassed. Or do you just not want to show that s
 Hatsumi: "Shouldn't that be a ‘big silly’ kid?"
 Nose-to-nose, we stare into each other's eyes... Then we both burst into laughter. Is it really okay for me to feel this happy...?
 ====================scr00703.kgo====================
-...Huh?      I'm back in that dream again, aren't I?      The girl stands in front of me.     She's staring at me with a look of determination     etched onto her face.
+...Huh?      I'm back in that dream again, aren't I?      The girl stands in front of me.     She's staring at me with a look of determination etched onto her face.
 ???: "...Do you really love my big sister?"
 I'm taken aback by the girl's sudden question.
 Kaori: "Your big sister...? Who do you mean?"
@@ -11939,7 +11939,7 @@ Kaori: "So you must be the Chief's little sister then...?"
 My head starts to throb. An incomprehensible fear wells up inside of me. It feels like all the cells in my body are screaming at me, telling me that I mustn't remember. Even so...! No matter how much it hurts, and how much I'm afraid, I have to!
 ???: "Kaori!"
 It's a girl's voice. I feel like the lid on my memories is about to burst open.
-Kaori: "Umm..., Hatsumi...Otsuka, big sister..."
+Kaori: "Umm... Hatsumi...Otsuka, big sister..."
 Just then, I remember the first time I went to the ward and saw the Chief at the nurses station...!
 Kaori: "..."
 My eyes open with a jolt and I'm back in my room....I feel like something I can't quite remember is hidden deep within my heart... I was so close. I get up slowly and head for the sink. There I am in the mirror. That girl who called the Chief "big sister"
@@ -12049,12 +12049,12 @@ Miss Sakai shoos me away with her hand.
 Kaori: "G-Goodnight..."
 I bang my head several times on the corridor wall outside. This is so depressing...
 ====================scr00704.kgo====================
-I'm dreaming again.        But this dream is different from the others.              There's no one else here.              I can't see anything.    All I see is pitch blackness stretching out far before me.              ......           I wander around the darkness,           looking for the little girl.        All of a sudden,        a lonely voice calls out.        "My big sister was always so different from me,         I was so shy, but she had so many friends."
-      "And then this happened,       and my big sister changed..."
-    "My big sister decided to walk the path      that I was supposed to take,      all for my sake."
-    "She didn't have to do that, though.      She could have just forgotten all about me      and set out to find her own happiness."
-      "I really want for her to be happy...       That's how I truly feel,       but...I beg you!"
- "...Please,   don't take her! Big sister,   don't take *** away from me...!"
+I'm dreaming again.        But this dream is different from the others.              There's no one else here.              I can't see anything.    All I see is pitch blackness stretching out far before me.              ......           I wander around the darkness, looking for the little girl.        All of a sudden, a lonely voice calls out.        "My big sister was always so different from me, I was so shy, but she had so many friends."
+      "And then this happened, and my big sister changed..."
+    "My big sister decided to walk the path that I was supposed to take, all for my sake."
+    "She didn't have to do that, though.      She could have just forgotten all about me and set out to find her own happiness."
+      "I really want for her to be happy...       That's how I truly feel, but...I beg you!"
+ "...Please, don't take her! Big sister, don't take *** away from me...!"
                Huh...?     What is she talking about?     The sirens are getting louder, I can't hear her anymore!           Who's being taken away...?!
 Kaori: "...!"
 I suddenly come to....I'm back in my room? What was that just now...? It sounded like skidding followed by a thump, but what in the world...?
@@ -12134,15 +12134,15 @@ Kaori: "..."
 I'm so happy. Kissing Hatsumi for the first time makes my chest burst with memories of its warmth and tenderness and how ticklish it was. But... One corner of my brain is whispering to me that I'm not allowed to be happy... I have no idea why I feel that way.
 ====================scr00705.kgo====================
 ......              I'm dreaming once again.            There's nobody else here today, either.            Or is there...?         I can't see them, but I can feel their presence.         "Hey, is anybody there?!          You must be there, right?!"
-         I need to talk to the little girl,         so I shout across the blackness.         "Please, just come out already!          I have something that I need to ask you!"
-         But the little girl is nowhere to be found.      I can hear a voice echoing from somewhere.      "...I'm sorry.       It's my fault that things       ended up this way."
+         I need to talk to the little girl, so I shout across the blackness.         "Please, just come out already!          I have something that I need to ask you!"
+         But the little girl is nowhere to be found.      I can hear a voice echoing from somewhere.      "...I'm sorry.       It's my fault that things ended up this way."
    "Kaori...!    Kaori, I love you. I really, really, really love you.    I love you from the bottom of my heart."
-      "But...it's all       because of me that you..."
+      "But...it's all because of me that you..."
     "Please don't die, Kaori."
-       "I don't need anything,         I don't need this life,         nor this body, I just need Kaori."
-      "As long as Kaori is alive and happy       then that's all I need."
-    "Please! Use me.      I'll support her and protect her,      that's all I want."
-    "Even if Kaori forgets all about me,      for her sake, I'll..."
+       "I don't need anything, I don't need this life, nor this body, I just need Kaori."
+      "As long as Kaori is alive and happy then that's all I need."
+    "Please! Use me.      I'll support her and protect her, that's all I want."
+    "Even if Kaori forgets all about me, for her sake, I'll..."
 Kaori: "...!"
 My eyes jerk open....It's because I opened my eyes that I left my dream world... Ahh... I still wasn't able to hear all that the little girl had to say. I slowly start to get up. Even if Kaori forgets all about me, for her sake, I'll... I can still hear her voice reverberating in my ears. Even though I feel like the lid on my memories if finally about to pop off, it still feels like something stands in my way. I can't remember any of the important parts. My intuition is telling me that the accident is the key to everything. The accident from 10 years ago that I can't even remember. The more I think about it, the more strange it feels that even though I'm the one who was seriously injured, I'm the one who doesn't remember a damn thing. Why can't I remember? If there's a reason that I can't remember then what is it? Thinking about it, whenever I have tried to remember what happened I've always developed a severe headache that stops me from thinking any further. I only had a slight headache today, though. My gut suddenly whispers something new to me. What if my memories about the accident have been sealed away somehow? What if my memories were sealed away for some reason and then for some other reason the seal is starting to break now? ...But what would my memories need to be sealed away for? What's the benefit of sealing them off? And who in the world would be able to even do something like that anyway? And what would happen if I did remember everything about the accident? Would anything change? I don't mind if everything just stays the same, but I wouldn't want to remember what happened if it meant that things would change......... Should I remember the accident? Or would it be better if I carry on as I am and not look any further into it? I don't know what to do.
 Kaori: "...*Sigh*..."
@@ -12324,22 +12324,22 @@ I get back from Yamanouchi's room and carefully massage my right hand in the bat
 Kaori: "Okay... And send..."
 I doubt that I'll get a reply. But that's okay. Because I do love Hatsumi. And I'm sure that Hatsumi loves me in the same way that I love her. I hope so, anyway. But Hatsumi is the chief nurse of the internal medicine ward. She probably has a different perspective and is bound by obligations and reasoning that I just can't understand. She must be confused by a lot of things. I bet that she's unsure of whether to even reply to my message or not and in the end puts it off. That's how our relationship will have to be. I'd be happiest if I did get a response, but right now, all I want is for Hatsumi to really think about what it is that she wants. She told me that she loved me back then, but then and now are completely different times. I want to hear the answer of a Hatsumi who has thought this through, who has swung between reality and emotion. I may still be a newbie at work who can't hope to follow in the Chief's footsteps just yet. But I want to be able to follow what Hatsumi does in private....That's why I'll wait. Until Hatsumi can say with pride that she loves me.
 ====================scr00706.kgo====================
-Ah...           I'm having that dream again...         That girl who's always in my dreams         isn't here today.                 But.     "You just don't have any courage, sis! Look at you,      you can't even tell the person you love that      you love her! Coward!"
+Ah...           I'm having that dream again...         That girl who's always in my dreams isn't here today.                 But.     "You just don't have any courage, sis! Look at you, you can't even tell the person you love that you love her! Coward!"
           I hear a voice from afar. The voice is high strung, harsh...and sounds like it's arguing.  "I have my position to think about!   I can't let a spark of emotion dictate my actions!"
-                Huh?         There are two voices...?        And they're definitely fighting, aren't they?        "Listen to you, trying to sound         so authoritative -- you're just afraid         of admitting how you feel!"
-   "Of course I'm scared, how could I not be?!    You might have merged with the person you love,    but this is the only way I know!"
+                Huh?         There are two voices...?        And they're definitely fighting, aren't they?        "Listen to you, trying to sound so authoritative -- you're just afraid of admitting how you feel!"
+   "Of course I'm scared, how could I not be?!    You might have merged with the person you love, but this is the only way I know!"
                 Hm?           What way is she talking about?         "That's just an excuse!          You're not being fair!"
- "You can't say that! I'm not like you!   You were always with the person you loved,   and I'm not like that!"
-               W-Wait, what?        The mood gets even worse...   "You're just making more excuses!    I was with her, but we didn't have    any mental connection!"
-      "I'm the one       who's jealous of you, sis!"
+ "You can't say that! I'm not like you!   You were always with the person you loved, and I'm not like that!"
+               W-Wait, what?        The mood gets even worse...   "You're just making more excuses!    I was with her, but we didn't have any mental connection!"
+      "I'm the one who's jealous of you, sis!"
     "Then let's trade, how about that!      Could you say the same thing in my position?!"
-      "Yeah, I could!       I'd throw away anything       for her!"
- "Then do it if you can! Oh, that's right,   you can't -- not when you're like that!"
+      "Yeah, I could!       I'd throw away anything for her!"
+ "Then do it if you can! Oh, that's right, you can't -- not when you're like that!"
          "I can't believe you said that!          You dummy!"
                Ahhh!         Don't fight, you two!      "What did you call me?!       Only dummies call people dummy!"
-       And it's a REALLY childish fight,        too!     "What's wrong with calling a dummy a dummy?!      You can't just get mad and shift the blame to me      because I hit the nail on the head!"
-      ...It's a childish fight,      but they're using grown up words.     "I'm not shifting anything!      And besides, you're the one who decided to retire      and watch things from afar!"
-    Wait,     could you not fight in my dream?! ...*Sigh*... That was a strange dream I had this morning. The girl that usually shows up was arguing with a girl I didn't know...and apparently, the new girl was called "sis"... She...she was Hatsumi, right...? Was my intuition just wrong...?
+       And it's a REALLY childish fight, too!     "What's wrong with calling a dummy a dummy?!      You can't just get mad and shift the blame to me because I hit the nail on the head!"
+      ...It's a childish fight, but they're using grown up words.     "I'm not shifting anything!      And besides, you're the one who decided to retire and watch things from afar!"
+    Wait, could you not fight in my dream?! ...*Sigh*... That was a strange dream I had this morning. The girl that usually shows up was arguing with a girl I didn't know...and apparently, the new girl was called "sis"... She...she was Hatsumi, right...? Was my intuition just wrong...?
 Hatsumi: "Hey, Sawai!"
 Kaori: "Y-Yes ma'am?!"
 Oh no, I was spacing out on the job! I'm going to get yelled at again!
@@ -14416,15 +14416,15 @@ Kaori: "......"
 Miss Sakai's words are terribly cold. They're very cold, but they're also right. Nursing may be a specialized, technical job, but it's also a service job. And if I'm not at a satisfactory level in technique or service, of course I'm going to get chewed out.
 Sayuri: "...Could you leave if you're done? You're in the way."
 Kaori: "O-Oh, right...I'll be going, then..."
-Miss Sakai is right. She's right, but...that's what makes it so depressing... What an exhausting day. I drop into bed without even changing. I really just want to fall asleep right now, but I think back to what Miss Sakai told me.   "This is your workplace, isn't it?    And you know how it works: We patients pay you,    and you work for us."
- "Whether she's a good person or not means nothing.   The problem is if she can provide 100\% of the services   we patients desire."
+Miss Sakai is right. She's right, but...that's what makes it so depressing... What an exhausting day. I drop into bed without even changing. I really just want to fall asleep right now, but I think back to what Miss Sakai told me.   "This is your workplace, isn't it?    And you know how it works: We patients pay you, and you work for us."
+ "Whether she's a good person or not means nothing.   The problem is if she can provide 100\% of the services we patients desire."
 ...I feel so down. I don't think she could hit me with a better pinpointed criticism. I start to tear up....But. I squirm up from my bed. I've graduated and gotten my license, but all I've done is stand on the starting line. I've got to thank Miss Sakai for making me realize that. All right, time to study! I may lack experience, but I can at least hammer knowledge about our patients' diseases into my head!
 Kaori: "Huh? Senpai?"
 Senpai's name is displayed on the screen.
 Kaori: "H-Hello?"
 Nagisa: "Oh, Sawai? I'm about to get off work. Mind if I come over?"
 Kaori: "Senpai..."
-Nagisa: "I'm in the changing room right now,  but let me know if you want me to buy anything."
+Nagisa: "I'm in the changing room right now, but let me know if you want me to buy anything."
 Kaori: "U-Um..."
 I hesitate to answer for a moment. Drinking with Senpai is always really fun. We chat all night and eat snacks...and if we slept together again, I'd love that. But...
 Kaori: "I'm thinking of studying for today....Sorry."
@@ -14545,7 +14545,7 @@ The Chief's voice grows quieter and farther away. I quietly descend deeper into 
 Kaori: "Ah...?!"
 I shoot my eyes open and lunge up. It's morning already?! I scramble to look at the clock. The hour hand is already past nine.
 Kaori: "I-I'm going to be late...?!"
-When I throw myself out of bed, a piece of paper flutters on my table. Huh? Wait, what happened to the Chief? I pick up the paper fluttering on my table. There's some very businesslike writing on it.        "Today will count as paid leave.         Take the day to rest and get back         to work tomorrow."
+When I throw myself out of bed, a piece of paper flutters on my table. Huh? Wait, what happened to the Chief? I pick up the paper fluttering on my table. There's some very businesslike writing on it.        "Today will count as paid leave.         Take the day to rest and get back to work tomorrow."
     "I'll leave a sandwich and coffee in the refrigerator.      Make sure to eat when you wake up."
 The Chief wrote this, didn't she? And did she say paid leave...? Well, whatever the case, I've got to call the ward! I quickly pull out my phone and call the hospital. The receptionist transfers my call to the ward, but the Chief is absent, so Yamanouchi answers the phone.
 Yasuko: "Yeah, yer off today, right? I already heard."
@@ -14892,7 +14892,7 @@ My pained heart sheds tears of blood... It's so painful, so depressing... My wor
 Nagisa: "How long are you going to be on top of me?! Get off!"
 She strongly pushed my chest. I remove myself from her as she pushes me away.
 Nagisa: "You're horrible! I don't want to see your face again!"
-Senpai stands up and spits out those words, then slams the door shut. I'm left by myself in the lonely hallway. I drop down to the ground, and my tears fall to my knees....Senpai... I drove Senpai into a tight corner... I absentmindedly look up at the closed door. Will this door never be opened for me again...?           In that dream again...         I hear a crying voice from somewhere.            Somebody is crying.        I think it must be that girl.           I look for that girl           and wander in a dark dream.            I suddenly see the shadow of a person.  A girl is standing there sobbing.
+Senpai stands up and spits out those words, then slams the door shut. I'm left by myself in the lonely hallway. I drop down to the ground, and my tears fall to my knees....Senpai... I drove Senpai into a tight corner... I absentmindedly look up at the closed door. Will this door never be opened for me again...?           In that dream again...         I hear a crying voice from somewhere.            Somebody is crying.        I think it must be that girl.           I look for that girl and wander in a dark dream.            I suddenly see the shadow of a person.  A girl is standing there sobbing.
 Kaori: "Why are you crying?"
 I ask her a question. I'm the one who wants to cry. I'm the one being confused by riddles that I don't understand. On top of that, when she's crying like this, I can't just ignore her, right?
 ???: "My selfishness... My existence is hurting you and her."
@@ -15215,7 +15215,7 @@ Yasuko: "You're tired, too, right? Ya can stop for today."
 Kaori: "Really?!"
 I'm elated so I can't help but raise my head, and Yamanouchi is grinning.
 Yasuko: "One condition: bring Fujisawa to help out next time!"
-               What...        I'm...I'm back in that dream again...      The same girl is standing      in front of me looking up at me.            She seems lonely.      It feels as though my chest will become tight just      by looking at her face...
+               What...        I'm...I'm back in that dream again...      The same girl is standing in front of me looking up at me.            She seems lonely.      It feels as though my chest will become tight just by looking at her face...
 Kaori: "...What's the matter?"
 Why do you look like you're about to cry? I wanted to ask her that, but I can't say anything because there's a lump in my chest. Tears fall down the girl's cheek.
 ???: "I'm sorry I couldn't help..."
@@ -15468,7 +15468,7 @@ Nagisa: "Kaori? C'mon, let's go!"
 Senpai grins at me and takes my hand. I've lost the ability to heal everyone, but that's okay with me. The desire to heal everyone will never leave me. Plus, I'm polishing up on my skills and knowledge to make that desire come true....I don't need the healing hands anymore. Besides, Senpai is now here to heal me like this all the time. Yup, Senpai's hands are the healing hands in my life. I'll become the healing hands meant only for her, too.
 Nagisa: "Okay, we'll be late for real if we don't hurry!"
 Kaori: "Oh no! I'll be in for another scolding by the Chief if I'm late!"
-       Cherry blossom petals ride on the warm spring breeze        and softly dance through the air.      We secretly bring our faces closer, our cheeks closer,      in the cover of the fluttering downpour of      cherry blossom petals--         We smile at each other after the blissful,         soft touch.     Then we join hands once again     and hurry off together.     Our destination is our stations inside     our respective wards inside     Yurigahama General Hospital!   We're headed to the location where Senpai and I,   as well as everyone else in nurse uniforms, will be!
+       Cherry blossom petals ride on the warm spring breeze and softly dance through the air.      We secretly bring our faces closer, our cheeks closer, in the cover of the fluttering downpour of cherry blossom petals--         We smile at each other after the blissful, soft touch.     Then we join hands once again and hurry off together.     Our destination is our stations inside our respective wards inside Yurigahama General Hospital!   We're headed to the location where Senpai and I, as well as everyone else in nurse uniforms, will be!
 ====================scr00821.kgo====================
 I never did get contacted by Senpai yesterday. She doesn't want to see my face anymore, huh? That was shocking to hear, but... But if I think about her feelings, it makes sense she'd say that...
 Kaori: "*Sigh*..."
@@ -15516,7 +15516,7 @@ Hatsumi: "Fujisawa told me she wants to resign. The hospital plans to wait until
 Hatsumi: "It was my mistake transferring her to the Surgical Ward... Yet another nurse is leaving the nursing field."
 The Chief's words sound distant to me.   "You're the worst!    I don't want to see you ever again!"
 I can't believe those were the last words I exchanged with Senpai...           "It's been a while, Sawai!"
-   "I'll treat you to a bunch today, Sawai,    so cheep cheep with me!"
+   "I'll treat you to a bunch today, Sawai, so cheep cheep with me!"
              ".......!!"
    "It'll wipe your fears away and make you sleep well."
     "Hey, Sawai? ...Is your heart...racing?"
@@ -15577,7 +15577,7 @@ I hear Senpai's voice in the distance.
 Kaori: "Please let me stay here with you forever."
 Nagisa: "I love you, Kaori..."
 Kaori: "I love you...with all my heart, too..."
-      Did I get the words out all right?   Did I convey my feelings to Senpai?           I love you, Senpai.      But...please let me...sleep now.              Just for a bit...  I'll return to my normal, healthy self after a bit of sleep.     Let's kiss a lot once I wake up,     Senpai...      Good night...until then...
+      Did I get the words out all right?   Did I convey my feelings to Senpai?           I love you, Senpai.      But...please let me...sleep now.              Just for a bit...  I'll return to my normal, healthy self after a bit of sleep.     Let's kiss a lot once I wake up, Senpai...      Good night...until then...
 ====================scr00851.kgo====================
 My heart pounded a bit, but we managed to get to the hospital from the dorm without anyone questioning us. I turn to Senpai beside me, and she winks as if to say, ‘see, that wasn't so bad.’ How many times have I walked from the dorm all the way to the ward with Senpai like this now? And I'm sure we'll be able to keep on going to work together, too! ...But we can only stay together until we get to the stairs.
 Nagisa: "See you! Let's do our best today!"
@@ -15776,7 +15776,7 @@ Hatsumi: "He'll come back in a wheelchair if nothing goes wrong, so there's noth
 Y-You say that now, but...! I haven't dealt with a post-op patient since my days in school! This is terrifying -- Senpai, hellllp! ...But, well, turning to Senpai for help won't help me grow, so I get to studying about shunt surgery as soon as I get home.
 Kaori: "Kato's right handed, so they're going to make the shunt in his left..."
 Kaori: "And when they make the shunt, you can't apply pressure to his left hand under any circumstances..."
-Details of the surgery don't really click for me. I wonder if I should just basically be on watch for the sound it makes? I want to ask Senpai about post-op care when she gets back, but she's out really late today.  "Well, their faces were awfully close together, and they seemed   to be getting along a tad...too well. It felt like they were   meeting in...secret? It was all terribly suspicious."
+Details of the surgery don't really click for me. I wonder if I should just basically be on watch for the sound it makes? I want to ask Senpai about post-op care when she gets back, but she's out really late today.  "Well, their faces were awfully close together, and they seemed to be getting along a tad...too well. It felt like they were meeting in...secret? It was all terribly suspicious."
 Kaori: "......"
 Urgh...I'm starting to feel kind of frustrated... Oh! Senpai's back!
 Kaori: "Welcome back! Hey, Senpai, there's this patient tomorrow who..."
@@ -16236,9 +16236,9 @@ Kaori: "Likewise!"
 We giggle at each other as close as we can get.
 Nagisa: "Now to seal this vow with a kiss..."
 Kaori: "...I love you, Senpai."
-I think this is how it'll be. We'll stumble, stop, and worry along the way sometimes, but I know we're going to keep on walking forward.   Sometimes we'll fight,   but we'll always forgive each other,   making up with a kiss like this...      That's the kind of future I can see for us.
+I think this is how it'll be. We'll stumble, stop, and worry along the way sometimes, but I know we're going to keep on walking forward.   Sometimes we'll fight, but we'll always forgive each other, making up with a kiss like this...      That's the kind of future I can see for us.
 ====================scr00901.kgo====================
-I slowly open my eyes.           I'm in the dark and can't see anything.        ...I'm...inside my dream.   It's a strange feeling,   but for some reason I know that   I am in my own dream. Suddenly a girl floats up right before my eyes.
+I slowly open my eyes.           I'm in the dark and can't see anything.        ...I'm...inside my dream.   It's a strange feeling, but for some reason I know that I am in my own dream. Suddenly a girl floats up right before my eyes.
 Kaori: "Who are you...?"
 ???: "......"
 The girl grins.
@@ -16337,7 +16337,7 @@ Ami buries her face into my chest. Her feelings of hopelessness come across. It 
 Kaori: "I can't say she's going to be okay, but...let's believe in Miss Sakai's recovery and wait for her, okay?"
 Ami slightly nods on my chest.
 ====================scr00902.kgo====================
-Again...              In that dream again...        It's a dream similar to dreams        I've been seeing since a lot time ago...         What on earth could be         the purpose of this dream?
+Again...              In that dream again...        It's a dream similar to dreams I've been seeing since a lot time ago...         What on earth could be the purpose of this dream?
 Kaori: "Ah!"
 Someone runs into me from behind with a thud. An innocent laugh fills my surroundings.
 ???: "I love you!"
@@ -16352,7 +16352,7 @@ The girl smiles. Then she suddenly disappears.
 Kaori: "...What..."
 ...There is nobody in this space, and I can't hear anything. I'm left alone in a wide space and quickly become nervous.
 Kaori: "Hey... Hey?!"
-I try to call out, but for the first time I realize that I don't know the girl's name.        What I hear coming from far away        is...the siren of an ambulance?        The siren is moving closer...         ...It gradually gets closer...
+I try to call out, but for the first time I realize that I don't know the girl's name.        What I hear coming from far away is...the siren of an ambulance?        The siren is moving closer...         ...It gradually gets closer...
 Kaori: "!"
 I jump to my feet.
 Kaori: "Ah..."
@@ -16605,7 +16605,7 @@ Nagisa: "Oh, she's back! We were really worried about you!"
 Kaori: "I'm sorry, Senpai..."
 Yasuko: "Go on yer trysts in moderation. Anyway, I'm gonna catch some more shut-eye."
 Kaori: "Whuh? T-Trysts?!"
-Yamanouchi says no more and holes back up in the break room. Nothing else happens through the night, and we make it to the morning.           I'm...dreaming, again?              It's the same dream I usually have.     That dream with the girl who looks an awful lot like me.           Today, she's sleeping           with her head on my lap.            I gently stroke her hair.     When I do, her eyes open up.
+Yamanouchi says no more and holes back up in the break room. Nothing else happens through the night, and we make it to the morning.           I'm...dreaming, again?              It's the same dream I usually have.     That dream with the girl who looks an awful lot like me.           Today, she's sleeping with her head on my lap.            I gently stroke her hair.     When I do, her eyes open up.
 ???: "...Hey, you're not going to leave me, right? Will you always stay by my side?"
 Her eyes seem like they're trying to peer right into my heart.
 Kaori: "H-Hey, that was really sudden...you gave me a scare."
@@ -16927,7 +16927,7 @@ Sayuri: "...I-I was just saying that! Don't take it seriously, you amoeba!"
 Kaori: "Amoeba...?"
 Before I can dig deeper, she closes the door on me. So should I take that as her saying she's not bored with my omelets yet? I totally can, right? And her calling me an amoeba was just her hiding how embarrassed she was, right?
 Kaori: "*Giggle*... Heh heh..."
-A wave of laughter comes over me. *Giggle*! I even skip my way back to the nurses station!                 Oh...            I'm having that dream again...      The girl who looks a lot like me when      I was younger appears before me.           She's looking at me           with a worried face.              What's wrong?         I try to speak,         but I have no voice.         She's on the verge of crying.        Looking awfully lonely and holding back tears,        she leaves.               Wait!               Don't go!        I hear a sound drawing closer...        An ambulance siren...?
+A wave of laughter comes over me. *Giggle*! I even skip my way back to the nurses station!                 Oh...            I'm having that dream again...      The girl who looks a lot like me when I was younger appears before me.           She's looking at me with a worried face.              What's wrong?         I try to speak, but I have no voice.         She's on the verge of crying.        Looking awfully lonely and holding back tears, she leaves.               Wait!               Don't go!        I hear a sound drawing closer...        An ambulance siren...?
 ====================scr00904.kgo====================
 It's finally the day of Miss Sakai's transfer. We wait for the taxi in the hospital lobby. We don't have many words to share, but it doesn't feel too awkward. Come to think of it, this is where I first met Miss Sakai, down here in the outpatient ward.
 Sayuri: "...I wonder if I'll be able to come back here."
@@ -17181,7 +17181,7 @@ Kaori: "Huh? Why're you bringing up Senpai?"
 Ami: "Gosh, you're so dense! I don't know you anymore, Kaorin!"
 Fuming mad, Ami takes her leave.
 Kaori: "......??"
-Why is Ami so mad? But...she sure was cute when she was angry. I'm really jealous -- I wish I could fume that cutely.                 Oh...            I'm...I'm dreaming again.         There's the expressionless girl in front of me.     I'm standing across from her.     I feel like she seems     kind of like Miss Sakai.
+Why is Ami so mad? But...she sure was cute when she was angry. I'm really jealous -- I wish I could fume that cutely.                 Oh...            I'm...I'm dreaming again.         There's the expressionless girl in front of me.     I'm standing across from her.     I feel like she seems kind of like Miss Sakai.
 Kaori: "Are you...Miss Sakai...?"
 I ask timidly. Her expression doesn't change.
 ???: "I am you. The me inside of you. But...I'm more like her than you."
@@ -17194,7 +17194,7 @@ Tears roll down her emotionless face. I have no idea who this girl is. But the l
 Kaori: "It must have been so hard..."
 As she cries with a blank expression, I gently embrace her. Then, something...something that shakes my heart flows from her into me.              "I love you!"
          "I love you, Kaori!"
-   "Don't cry, big sis.    I'm alive inside of Kaori,    and I live for her!"
+   "Don't cry, big sis.    I'm alive inside of Kaori, and I live for her!"
 I look up quickly. I take a good look at the girl's face....I've seen this face before.
 Kaori: "Who...are you?"
 ???: "I'm..."
@@ -17270,15 +17270,15 @@ We all clam up when the Chief comes in shouting. Then, she leaves the room witho
 Yasuko: "......"
 Nagisa: "......"
 Kaori: "...*Giggle*"
-You know, I really like this routine...           ...I'm having that dream again.      But this time, there's no one there.      I turn my head quizzically,      but then I hear a child's voice.      "Mom's at work again today.       I really miss her, but she has to,       I guess...dad's not around."
-               That voice...     "I got 100 on my test.      100! ...I wonder if mom      will praise me now?"
-       "I've heard this voice before,         but who is it?"
-    "I'm...I'm not a burden. I'm working really hard,      I'm doing my best..."
-      "...I don't need any friends.       People who try to drag me down       aren't friends."
+You know, I really like this routine...           ...I'm having that dream again.      But this time, there's no one there.      I turn my head quizzically, but then I hear a child's voice.      "Mom's at work again today.       I really miss her, but she has to, I guess...dad's not around."
+               That voice...     "I got 100 on my test.      100! ...I wonder if mom will praise me now?"
+       "I've heard this voice before, but who is it?"
+    "I'm...I'm not a burden. I'm working really hard, I'm doing my best..."
+      "...I don't need any friends.       People who try to drag me down aren't friends."
    "Blood truly is thinner than water.    You don't need to be blood-related to have a bond."
 "The world is teeming with idiots. Do I seriously need to live in a place like this?"
-   ...Whose voice is this, so filled with despair but   hanging onto hope, trying desperately to be strong...?     "What I really think?      You think this is a front?      I am me, and don't try to tell me how to live!"
-                !!            When it hits me, a powerful wind            blows past me.         And after the powerful wind comes a quiet.         Then,         I hear a voice from somewhere. "You don't even know the first thing about me!           Oh, that's the girl that's           always here. "If I just take all the pain, then big sis won't have to be hurt..."
+   ...Whose voice is this, so filled with despair but hanging onto hope, trying desperately to be strong...?     "What I really think?      You think this is a front?      I am me, and don't try to tell me how to live!"
+                !!            When it hits me, a powerful wind blows past me.         And after the powerful wind comes a quiet.         Then, I hear a voice from somewhere. "You don't even know the first thing about me!           Oh, that's the girl that's always here. "If I just take all the pain, then big sis won't have to be hurt..."
        "Kaori!         Kaori, you can't die!"
             My name?   "I'll stay here, so...you have to live!    Be happy out there for me!"
     "It'll be okay, big sister...      Watch over her for me, okay?"
@@ -18128,7 +18128,7 @@ I decide to come clean and apologize. Sayuri calms down, and after letting out a
 Sayuri: "I'm not out of approaches yet! There's no time for me to feel sorry for myself!"
 Kaori: "...You sure are strong, Sayuri."
 Sayuri: "Of course! Who do you think I am?!"
-               However.      There was an emergency before we could think      of our next move. Yamanouchi, who had come to start her night shift, dashed into the nurses station.
+               However.      There was an emergency before we could think of our next move. Yamanouchi, who had come to start her night shift, dashed into the nurses station.
 Yasuko: "Kohaku's pukin' her guts out!"
 Kaori: "What...?!"
 Hatsumi: "Sawai, Sakai, take the emergency cart and a change of linens! And don't forget to check her vitals!"
@@ -18333,8 +18333,8 @@ Sayuri: "*Giggle*... You know...I think that instead of having love blown into y
 Sayuri: "I feel like the more you get your love sucked up, the more it pours out from deep within you."
 Kaori: "...Sayuri, that sounds kind of suggestive."
 Sayuri: "*Giggle* That was on purpose. Don't like me when I'm being dirty?"
-She giggles at me. She really is a handful. But...  "How could I not like you?   I love you enough that I want to suck up your heart   until I'm completely full of your love."
-         "...*Giggle*... Oh,          Kaori, I love you..."
+She giggles at me. She really is a handful. But...  "How could I not like you?   I love you enough that I want to suck up your heart until I'm completely full of your love."
+         "...*Giggle*... Oh, Kaori, I love you..."
        She's a handful, but she sure is cute.         What am I going to do?         Sayuri's just too cute!
 ====================scr01001.kgo====================
 Yamanouchi has become my preceptor. With a crafty old fox like Yamanouchi teaching me the ropes I can become every bit the pro she is!! Yeah, I've got to seize this bull by the horns!! ...But I can only get so far by psyching myself up.
@@ -18619,7 +18619,7 @@ Yasuko: "Well... Ya know how to make a girl go bright red."
 I could never tell her. Just look at how her face is lighting up.
 Yasuko: "Well, you've wrangled my arm Sawai. You know, maybe I will make that debut."
 Kaori: "Y-You absolutely should take my advice! I'm you're number one fan, after all!"
-I shoot her a toothy grin, hiding my discomfort.           I open my eyes groggily.        A lone girl stands in a world        of nothingness.           Ah, I'm having that dream again...
+I shoot her a toothy grin, hiding my discomfort.           I open my eyes groggily.        A lone girl stands in a world of nothingness.           Ah, I'm having that dream again...
 ???: "Should I accept their offer, or turn them down? I posed the question to myself, like I'd become Hamlet himself."
 Kaori: "...What are you...?"
 I blurt the words out. But the girl continues reading out loud. Apparently, my voice isn't getting through to her.
@@ -18803,7 +18803,7 @@ Yasuko: "...You know how to sugarcoat things."
 Kaori: "I'm not sugarcoating anything! I really mean it!!"
 Yasuko: "Uh-huh. Sure, fine... That door's over there, by the way."
 Kaori: "........."
-Nothing I say is sticking. I decide to quietly leave. That's all I can do for today. She told me about her past. Does that mean she's opened up her heart to me a little?           I am having that dream again.        A girl is reciting what sounds like a novel        into the void.        The girl stops reciting,        and lets out a sighing breath.
+Nothing I say is sticking. I decide to quietly leave. That's all I can do for today. She told me about her past. Does that mean she's opened up her heart to me a little?           I am having that dream again.        A girl is reciting what sounds like a novel into the void.        The girl stops reciting, and lets out a sighing breath.
 ???: "...If anyone... Just one person... If just one person had reached out to me then..."
 Why do this girl's words make my heart ache? I stretch a hand out towards the girl. This girl has to be--!
 Kaori: "Ya...Yamanouchi...!"
@@ -19213,7 +19213,7 @@ A drop patters onto the Moe Sawanouchi legend. What thoughts and feelings did Ya
 Kaori: "...Erg."
 Several color-warped blotches mark the paper.
 ====================scr01101.kgo====================
-I open my eyes nice and slowly.            There's nothing. Only darkness.     Then, a little girl I've never seen     appears in front of me.
+I open my eyes nice and slowly.            There's nothing. Only darkness.     Then, a little girl I've never seen appears in front of me.
 ???: "...Hey. What are friends?"
 Kaori: "What...?"
 She bears no particular expression on her face, yet for some reason she seems so hurt.
@@ -19637,7 +19637,7 @@ Hatsumi: "Sawai. It looks like you need to cool off your head as well. Think abo
 Yasuko: "I reckon y'all know this, but yer not allowed to go to each other's rooms while y'all are on suspension. No phonin' or textin', neither."
 Yasuko: "Ya both need to think about how bad your mistake was, and how stupid you sounded sayin' all that stuff, respectively!"
 ====================scr01104.kgo====================
-This dream again...         One little girl,         standing in the middle of nothingness. She looks straight at me.
+This dream again...         One little girl, standing in the middle of nothingness. She looks straight at me.
 ???: "My friend called me a harbinger of death that only brings misfortune to people. What should I do?"
 That's so mean! That takes skill.
 Kaori: "That's so mean! You can't just take that lying down!"
@@ -20184,7 +20184,7 @@ Sayuri: "If you're done here, could you please leave? I'm getting sick just look
 Kaori: "Oh, yeah. Sorry..."
 A hypocrite...? It hurts, but I can see why she would call me that. I'm curious about Miss Sakai's thoughts of suicide, but... Why did Mayuki say that to me in the first place? I don't think her illness is one that could kill her anytime soon.
 ====================scr01203.kgo====================
-This dream again...        The girl stands there as she always does,        with a sad smile on her face.
+This dream again...        The girl stands there as she always does, with a sad smile on her face.
 ???: "Time heals. It blurs even the most vivid memories and softens the sting of sadness."
 ???: "A long time ago, she was hurt by someone she loved, and she can't heal that wound."
 ???: "Right now, it's only her sister and you that support her."

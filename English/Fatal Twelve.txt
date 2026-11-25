@@ -988,7 +988,7 @@ Naomi: "Th-That isn't quite what I meant..."
 *Ignoring Naomi's stuttering, I make an effort to start on my coffee.*
 *We finish up our drinks in a hurry and leave just as quickly.*
 *We get on the same train back as well, but have to split up at Shinjuku Station — my stop.*
-*Once it hits 9 p.m., I start preparations to close up shop.*
+*Once it hits 9 p.m. I start preparations to close up shop.*
 *I opened up pretty late today, so there weren't many customers.*
 *We used to get lots of people coming along for lunch when my gran ran the store, but I can't make much. It's no surprise that they'd stop coming.*
 *Even so, the fact that some people still come by because they enjoy being able to relax and chat here makes me happy.*
@@ -1428,7 +1428,7 @@ Rinka: "...That's not true."
 Rinka: "Might as well go to bed."
 *I say this out loud for no reason.*
 *From what I remember, I was taken to the dream world at midnight last time. Might as well go to sleep now if that'll happen again.*
-*I glance over to the clock, which says it's 11 p.m., and then I shut my eyes.*
+*I glance over to the clock, which says it's 11 p.m. and then I shut my eyes.*
 Rinka: "I guess it doesn't matter whether I'm awake or asleep..."
 *I find myself in the Court of Fate once again...*
 *It's as impressive as ever.*
@@ -1808,7 +1808,7 @@ Rinka: "You realize no one else works here, right?"
 *Here's how things typically go when Naomi's around:*
 *We open at 4 p.m. on weekdays, and the hour or so after that, it's either completely dead or we have very few customers inside.*
 *That's when we either brew some coffee together, or she reads up on different types of coffee beans. The latter is more out of personal interest than anything else, since it won't come in handy for the culture festival.*
-*Around 6 p.m., the regulars who are just finishing up work start dropping by, so that's when I have her help out for an hour.*
+*Around 6 p.m. the regulars who are just finishing up work start dropping by, so that's when I have her help out for an hour.*
 *Afterwards, she kills some time either studying or reading books. Sometimes we chat when I've got the time, too.*
 *That's how things went last week, anyway.*
 Rinka: "Right, let's get started."
@@ -2447,7 +2447,7 @@ Naomi: "We should do as much as we can now..."
 Rinka: "I know you're right, but..."
 *I get where she's coming from.*
 *None of the other participants have approached me so far, so right now I'm best off focusing on her. Both in terms of efficiency and to prevent my own info from being dug up.*
-*It's 7 p.m., so visiting hours will end in an hour. We won't be able to stick around much longer.*
+*It's 7 p.m. so visiting hours will end in an hour. We won't be able to stick around much longer.*
 *I honestly have no idea what else we could try.*
 Naomi: "...I'll speak with her personally. She may suspect me, but I'll do what I can to pass myself off as someone else."
 *She tells me to wait here as she gets up, ready to run off.*
@@ -13856,7 +13856,7 @@ Naomi: "That's fine! Reading something this old is thrilling in and of itself."
 Naomi: "S-Sorry, I got a bit carried away..."
 Rinka: "Back to your normal self, I see. Let's keep studying."
 *That said, we settle on another hour of hitting the books.*
-*We study until around 8 p.m., taking infrequent but always welcome breaks.*
+*We study until around 8 p.m. taking infrequent but always welcome breaks.*
 Naomi: "I should probably get going now."
 *Naomi starts packing up to leave.*
 *She can't stop herself from smiling after learning just how much Rinka dislikes studying. It has no effect on her impression of Rinka, but seeing this side of her has been a nice surprise.*
@@ -14987,7 +14987,7 @@ Rinka: "It's the goddess's card..."
 *Maybe it's my way of forcing myself to accept the truth I've just uncovered.*
 Rinka: "Thank you for coming."
 *Closing time arrives once I've rung out the last customer.*
-*It's a little early, only a bit past 4 p.m., but I've been open since 8 a.m.*
+*It's a little early, only a bit past 4 p.m. but I've been open since 8 a.m.*
 *That's the norm when the store's open all through the weekend, really.*
 Miharu: "You're such a hard worker."
 Naomi: "She sure is!"

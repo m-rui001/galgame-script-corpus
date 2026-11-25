@@ -8,7 +8,7 @@
 *All of them ended in massive failure.*
 *He even tried to become a vtuber, but alas, he barely got a handful of viewers.*
 *He started to realize that his dream was fading away.*
-*But as he began to  give up, he had no clue his life was about to change forever.*
+*But as he began to give up, he had no clue his life was about to change forever.*
 *The adventure he always dreamed of was about to begin.*
 *......*
 *...*
@@ -758,7 +758,7 @@ Laia: "Okay, let's party up, and let's go!"
 Laia: "Alright, we need to retrieve a missing object for this quest."
 Virgil: "Again?"
 Laia: "We are level one, so what do you expect?"
-Virgil: "*sigh* At least we are close to quest  already."
+Virgil: "*sigh* At least we are close to quest already."
 Laia: "Yep! But don't expect to be slaying dragons any time soon!"
 Virgil: "Come on, Laia, don't kill the dream. Let's go now."
 Laia: "Okay, take the lead!"
@@ -940,7 +940,7 @@ Virgil: "That's intriguing! So what is what I can do?"
 Tamara: "Yours is the magic of temptation; the ability to create and raise people's desire."
 Tamara: "With enough practice, you'll be able to shape people's wants and use that to your advantage."
 Tamara: "You might not be able to destroy a building on a whim, but if you are savvy, you'll control kings and wizards to do that for you."
-Tamara: "But beware;  one of the reasons that this magic is so scarce it's because its users are hunted down. "
+Tamara: "But beware; one of the reasons that this magic is so scarce it's because its users are hunted down. "
 Tamara: "After all, this is also one of the biggest threats this place can face."
 Virgil: "Auch, sounds like a curse in disguise."
 Tamara: "That'd be up to you; If you go around turning everyone into mindless bimbos, they'll catch you very quickly."
@@ -2660,7 +2660,7 @@ Narrator: "Our hero was worrying in vain; if he were caught, his punishment woul
 *...*
 *There is a bug at the event handler for the house.*
 Narrator: "As our hero arrived at the living room tonight, he found his household waiting for him."
-Sybil: "Hey,  Virgil, are you going to join tonight?"
+Sybil: "Hey, Virgil, are you going to join tonight?"
 Alistar: "Yes, come on! Tonight's dinner is delicious!"
 *How can I say no to them?*
 Virgil: "Well... I could use a hot meal, for sure."

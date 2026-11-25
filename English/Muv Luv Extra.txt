@@ -691,7 +691,7 @@ Class Rep: "No it isn't!"
 Takeru: "By the way Class Rep, did you do your morning lacrosse practice today?"
 Class Rep: "......I did. Why do you ask?"
 Takeru: "Right after the cultural festival......that's not good...... All that exercise makes it really easy for blood to rush to your head. Take a break and smell the roses once in a while."
-Class Rep: "Why.Thank.You.For.The.Warning. ......seriously now, have you even thought about how much trouble you're causing for Kagami-san?"
+Class Rep: "Why. Thank. You. For. The. Warning. ......seriously now, have you even thought about how much trouble you're causing for Kagami-san?"
 Sumika: "Eh? Me?"
 Class Rep: "If you're seen arriving late and making all that noise, the teacher's going to get mad at you too, Kagami-san, not just Shirogane-kun."
 Takeru: "Eeeh? But she never wakes me up early enough. There's nothing I can do about that. Right, Sumika?"
@@ -4238,7 +4238,7 @@ Takeru: "It's kinda cute in a way......"
 *............*
 *What the hell is 'that'!!??*
 *I...I can't let it go......it feels like something big......*
-*Math Teacher   Noda   Male, 38 years old, and single............I think I know what it is.*
+*Math Teacher Noda Male, 38 years old, and single............I think I know what it is.*
 Miki: "By the way, Takeru-san."
 Takeru: "Ah? What is it?"
 Miki: "Ummm...well............"
@@ -30087,7 +30087,7 @@ Captain: "Aaah, I just visit every so often, that's all."
 Takeru: "Hmmm......"
 Captain: "Tamase's coming, right?"
 Takeru: "Eh......?"
-Captain: "Tell her to lock the door behind her.Bye now."
+Captain: "Tell her to lock the door behind her. Bye now."
 *............*
 *I thought......that our training would keep going, even after the match.*
 *But......starting tomorrow, there'll be others here again......and Tama won't be on the team much longer......*

@@ -287,7 +287,7 @@ Rintaro: “...?”
 *The two of them walked into the waiting room for lecturers. It was located right next to the UPX Theater.*
 Rintaro: “...”
 *I put together the few fragments I was able to understand.*
-*“Fire at Kurisu’s house.” “Mrs.Makise is all right.” “Robbery.” “The police called off the investigation.” “Why was the FBI there?” “It doesn’t make sense.”*
+*“Fire at Kurisu’s house.” “Mrs. Makise is all right.” “Robbery.” “The police called off the investigation.” “Why was the FBI there?” “It doesn’t make sense.”*
 *I think that’s what they were saying.*
 *Kurisu’s house? Do they mean where she lived in America? Her mother should still live in America. Is that where the fire was?*
 *And then words like “robbery” and “the investigation was called off”... I really wanted to know more.*
@@ -756,7 +756,7 @@ Leskinen: “...”
 *...Somehow, I could tell that it was his way of remembering Kurisu.*
 Leskinen: “I see. If that’s the case, then, Maho...”
 Maho: “Yes?”
-Leskinen: “Why not introduce her to Mr.Okabe?”
+Leskinen: “Why not introduce her to Mr. Okabe?”
 Maho: “⋯You can’t mean Amadeus?”
 Leskinen: “It was good luck that brought him to us here, wasn’t it?”
 Leskinen: “While we’re in Japan, you can have him be a tester.”
@@ -942,7 +942,7 @@ Amadeus Kurisu: “Nice to meet you, Rintaro Okabe. I’m Kurisu Makise.”
 Amadeus Kurisu: “I look forward to working with you.”
 
 ==========SG0_01_01.scx.txt==========
-Psychologist: “All right, Mr.Okabe. Try to relax.”
+Psychologist: “All right, Mr. Okabe. Try to relax.”
 Psychologist: “My voice is a bridge, guiding you down into the past.”
 Psychologist: “You’re going down and down and down... and then you see a gentle colored light.”
 *I was dreaming.*
@@ -972,7 +972,7 @@ Kurisu: “Will you... remember me?”
 Kurisu: “Am I... going to die?”
 Kurisu: “I don’t want to die...”
 Rintaro: “AAAAAAAAHHH!”
-Psychologist: “Mr.Okabe!”
+Psychologist: “Mr. Okabe!”
 Rintaro: “I killed her! It was me! It was me!”
 Psychologist: “Listen to me! I’m going to pat you on the shoulders. When I do, you will be fully awake!”
 Psychologist: “3, 2, 1, now!”
@@ -1326,7 +1326,7 @@ Maho: “I’m not embarrassed! Just stop being weird.”
 Amadeus Kurisu: “You’re sure?”
 Maho: “I’m sure.”
 Rintaro: “Um... what are you talking about?”
-*It was obvious that  had whispered something to Maho.*
+*It was obvious that had whispered something to Maho.*
 *What did she say?*
 *Maho glanced at me.*
 Maho: “...”
@@ -1402,7 +1402,7 @@ Rintaro: “For example, there’s a Cosmic String Theory, and a Wormhole Theory
 Rintaro: “No one has a clue where you would go to get cosmic strings or exotic matter.”
 Rintaro: “In other words, it’s not realistic.”
 *This was also something that Kurisu had told me in the alpha world line.*
-*But the  on the screen was unmoved.*
+*But the on the screen was unmoved.*
 Amadeus Kurisu: “That’s probably because scientists haven’t discovered something important yet.”
 Rintaro: “Then you think it’s possible to create a time machine?”
 Amadeus Kurisu: “We don’t know for sure that it’s impossible. That’s what I said, remember?”
@@ -1464,10 +1464,10 @@ Amadeus Kurisu: “Even if they were altered beyond the point where I could self
 Amadeus Kurisu: “I would lose any memories that had formed between then and the last backup, though.”
 Rintaro: “Hmm... I see.”
 *Regardless of the topic of discussion, it felt strange.*
-*What Maho had said before she loaded  was true. I was starting to feel like I was chatting with the real Kurisu.*
+*What Maho had said before she loaded was true. I was starting to feel like I was chatting with the real Kurisu.*
 *The way she wouldn’t let you get a word in edgewise once she started talking about science was exactly like the real Kurisu.*
 Rintaro: “It’s interesting, though.”
-*I turned towards  and spoke.*
+*I turned towards and spoke.*
 Rintaro: “You’re able to consider yourself objectively, as a machine.”
 Rintaro: “From what I see in books and comics, I’d expect you to say, ‘I’m not a machine. I’m human.’”
 Amadeus Kurisu: “That’s pure nonsense.”
@@ -1475,7 +1475,7 @@ Amadeus Kurisu: “Even humans speak of themselves as a combination of hardware 
 Amadeus Kurisu: “They just call it ‘biology’ and ‘psychology.’ What’s the difference?”
 Rintaro: “I see...”
 Maho: “She’s better with comebacks than anyone I know, isn’t she?”
-*When she heard this,  turned toward Maho, her CG eyes big and round– though it was really just the camera sensor moving.*
+*When she heard this, turned toward Maho, her CG eyes big and round– though it was really just the camera sensor moving.*
 Amadeus Kurisu: “You know, Maho, this may not be any of my business, but you should watch what you say.”
 Amadeus Kurisu: “You’ve finally got your chance. What if he stops liking you?”
 Maho: “Wha... Come on, don’t bring that up again.”
@@ -1508,7 +1508,7 @@ Leskinen: “I’m aware that it’s cruel to ask you to talk to an AI that’s 
 Leskinen: “If you’re not interested, feel free to turn us down.”
 *I remembered what it had felt like to talk to .*
 *When the monitor was just about to turn off,*
-*this is what  had said.*
+*this is what had said.*
 *–Let’s talk again sometime, Rintaro Okabe.*
 *That’s what I’d hoped for when I came here, wasn’t it?*
 Rintaro: “I’ll do it. Please let me do it.”
@@ -1527,7 +1527,7 @@ Amadeus Kurisu: “It’s Makise.”
 *Yes, it was Amadeus.*
 *The app the professor had given me allowed me to access the servers at Viktor Chondria University from anywhere, 24 hours a day.*
 Maho: “Of course, you’ll be able to contact .”
-Maho: “But  will also sometimes contact you. When that happens, talk to her.”
+Maho: “But will also sometimes contact you. When that happens, talk to her.”
 *This I hadn’t predicted.*
 *I’d never thought she would call me.*
 *Or that her face would be displayed on the screen.*
@@ -1545,7 +1545,7 @@ Amadeus Kurisu: “Ahem.”
 Amadeus Kurisu: “Just know that during the test period, I’m always connected with you.”
 Amadeus Kurisu: “Contact me whenever you feel like it. I’m busy, so I don’t know if I’ll always be able to answer your calls.”
 *Man... what is this?*
-*More than that strangely polite, friendly  from yesterday...*
+*More than that strangely polite, friendly from yesterday...*
 *Angry,*
 *stubborn,*
 *more curious than anyone...*
@@ -1709,7 +1709,7 @@ Kurisu: “Okay!”
 *In fact, they would never even meet again.*
 Maho: “...”
 *It felt like she was thinking about Kurisu more and more since she’d come to Japan.*
-*Maho didn’t know if it was because she was in Japan, or because she was talking with the Amadeus  more often.*
+*Maho didn’t know if it was because she was in Japan, or because she was talking with the Amadeus more often.*
 *Or maybe...*
 *Was it because she’d met the young man named Rintaro Okabe?*
 Maho: “He knows things about Kurisu that I don’t, huh...”
@@ -1730,7 +1730,7 @@ Maho: “Yeah? I can’t tell if he’s got any ambitions or not... I feel like 
 Amadeus Kurisu: “Do you like him?”
 Maho: “Would you cut it out?”
 *Maho brought her face close to the monitor and glared.*
-*But  seemed unconcerned.*
+*But seemed unconcerned.*
 Amadeus Kurisu: “There’s no real need to hide it, is there?”
 Amadeus Kurisu: “I can understand why you didn’t want to say anything yesterday when he was right in front of you, but now it’s just the two of us.”
 *Kurisu may not have looked like someone who would, but she really enjoyed this sort of gossip. Maybe “girl talk” was the right word.*
@@ -1748,7 +1748,7 @@ Maho: “No, it’s nothing.”
 *–What was Kurisu feeling in the days before she died?*
 *She would’ve liked to ask Okabe, if she could.*
 Amadeus Kurisu: “Maho, did my original and Okabe know each other?”
-*Maho shivered. It was as if  had been reading her mind.*
+*Maho shivered. It was as if had been reading her mind.*
 Maho: “How could you tell?”
 Amadeus Kurisu: “I came to that conclusion after listening to Okabe and hearing your response.”
 Amadeus Kurisu: “It’s all just circumstantial evidence, but do you want me to show my proof anyway?”
@@ -2445,8 +2445,8 @@ Rintaro: “...You’re not going to tell me you want to go, are you?”
 Amadeus Kurisu: “I’d love to.”
 Rintaro: “I shouldn’t have told you.”
 *I was standing in the middle of Ikebukuro with a smartphone in one hand, staring up at the sky.*
-*I’d been trying to talk to the Amadeus  as much as possible lately.*
-*Sometimes I would contact her, and sometimes  would contact me. It didn’t feel any different than having a friend who lived in the real world.*
+*I’d been trying to talk to the Amadeus as much as possible lately.*
+*Sometimes I would contact her, and sometimes would contact me. It didn’t feel any different than having a friend who lived in the real world.*
 *Talking on a smartphone in a crowded place like this was a little embarrassing, but I told myself that compared to the things I used to do, it was nothing.*
 *I’d chosen harmless topics for our discussion.*
 *But it still reminded me so much of talking to the old Kurisu that I sometimes forgot myself.*
@@ -2513,12 +2513,12 @@ Mayuri: “Yup. I am happy.”
 Tennouji: “Hmm? Are you okay, Okabe?”
 Rintaro: “Yeah...”
 *The door to the Braun Tube Workshop on the first floor opened, and out came the building’s owner, Yugo Tennouji.*
-Mayuri: “Mr.Tennouji! Tutturu♪!”
+Mayuri: “Mr. Tennouji! Tutturu♪!”
 Tennouji: “Hey there.”
 Mayuri: “Wow, aren’t you cold in just a t-shirt?”
 Tennouji: “I’m pretty tough.”
 Rintaro: “...”
-*When I’d been living in the lab, I’d given him the nickname “Mr.Braun.”*
+*When I’d been living in the lab, I’d given him the nickname “Mr. Braun.”*
 *It’d been a long time since I’d seen him.*
 Tennouji: “Okabe! From the look of it, you’re actually making something of yourself at college.”
 Rintaro: “Thanks.”
@@ -2544,7 +2544,7 @@ Rintaro: “...Let’s go.”
 *Tennouji didn’t matter.*
 *What mattered was... Why was I here?*
 *Did I feel like something needed to change?*
-*Or did I really want to show  the lab?*
+*Or did I really want to show the lab?*
 *I went up the stairs, still unsure of the answer.*
 Mayuri: “Tutturu♪!”
 *Mayuri went in first.*
@@ -2562,7 +2562,7 @@ Rintaro: “Oh, yeah. It has.”
 Rintaro: “Can I come in?”
 Itaru: “It’s your own lab, dude. Don’t ask that.”
 Rintaro: “That’s true, I guess.”
-Rintaro: (I don’t think I can call  right now...)
+Rintaro: (I don’t think I can call right now...)
 *I followed Mayuri to the lab and tried to relax my legs by sitting on the couch... but I didn’t feel relaxed at all. It felt like my skin was crawling.*
 *I glanced over at Yuki.*
 Mayuri: “That outfit’s so cute, Yuki.”
@@ -2835,7 +2835,7 @@ Newscaster: “The Ministry of Health announced that there have been no reported
 Newscaster: “But this new virus has a long incubation period, and they cannot deny the possibility that it has already arrived in Japan.”
 Newscaster: “The Ministry has ordered all medical organizations in the country to draw up treatment plans and investigate the virus’s spread.”
 Newscaster: “We’re here with Soko Haruyama of Ochanomizu Medical University.”
-Newscaster: “So, Ms.Haruyama, what sort of symptoms does this new encephalitis cause?”
+Newscaster: “So, Ms. Haruyama, what sort of symptoms does this new encephalitis cause?”
 Haruyama: “The new virus does not spread easily, but it has a long incubation period and appears without warning. The main symptoms are hallucinations and memory problems.”
 Haruyama: “For example, hmm... You think you were at work, and suddenly you find yourself at home, or you have memories of meeting someone you’ve never met. There have been reports of that.”
 Haruyama: “Also, memories can be confused. You might have memories of events that never occurred.”
@@ -3089,14 +3089,14 @@ Leskinen: “You wore your lab coat to that, too.”
 Maho: “That was because I forgot my clothes.”
 Leskinen: “Hahahah! That’s right.”
 *Dr. Leskinen was wearing his translator all the time these days. In fact, he had actually told Maho to talk to him in Japanese.*
-Leskinen: “Now then, I can’t wait to see what kind of relationship Lintahlo and  have established.”
+Leskinen: “Now then, I can’t wait to see what kind of relationship Lintahlo and have established.”
 *Maho and Dr. Leskinen were about to head into Tokyo proper.*
 *There, they were to meet Rintaro Okabe.*
 *It had been two weeks since they’d first asked him to test Amadeus.*
 *It was time for the first report.*
 *Of course, that was the reason Maho was fidgeting.*
-*She was nervous to meet Okabe... no, to see  for the first time in quite a while.*
-*Of course, Maho was able to talk to  any time she wanted, but since she’d asked Okabe to be a tester, she’d tried to avoid doing so as much as possible.*
+*She was nervous to meet Okabe... no, to see for the first time in quite a while.*
+*Of course, Maho was able to talk to any time she wanted, but since she’d asked Okabe to be a tester, she’d tried to avoid doing so as much as possible.*
 *She didn’t want her conversations to add any extra “noise.”*
 Maho: “Professor, before we leave, can I ask something?”
 Leskinen: “Whatever you like.”
@@ -3120,7 +3120,7 @@ Maho: “It’s impossible to really understand someone after only meeting them 
 Maho: “What if he secretly sells Amadeus to another lab?”
 Maho: “Even if he doesn’t plan to at first, he might change his mind if they showed him enough money. That’s human nature.”
 Leskinen: “Let’s say Lintahlo did sell Amadeus. What would happen then?”
-Leskinen: “Would whoever got her access rights be able to become friends with  and take over Amadeus?”
+Leskinen: “Would whoever got her access rights be able to become friends with and take over Amadeus?”
 Maho: “Well...”
 *Maho asked herself the question, and then realized the chance was almost zero.*
 Maho: “That would be impossible.”
@@ -3139,16 +3139,16 @@ Leskinen: “You two are the finest ladies our institution has to offer.”
 *Dr. Leskinen laughed happily.*
 *He always had a childlike innocence about him.*
 Leskinen: “Either way, the Amadeus AI is a tricky thing. You could say that’s what makes it interesting.”
-Leskinen: “Keeping  to ourselves won’t bring us any progress, will it?”
+Leskinen: “Keeping to ourselves won’t bring us any progress, will it?”
 Leskinen: “I’d been thinking about how I wanted to find a catalyst that could prompt Amadeus to really evolve.”
 Leskinen: “And I wanted it to be someone who didn’t have anything to do with the research.”
 Leskinen: “Lintahlo is smart, and I think he’s a good choice. He’s also a friend of Kurisu’s.”
 Maho: “...”
 Leskinen: “Anyway, why not see what he says today before you decide?”
-Leskinen: “First, let’s see how  has changed since she started spending time with Lintahlo. We may see a side of her that we’ve never seen before.”
+Leskinen: “First, let’s see how has changed since she started spending time with Lintahlo. We may see a side of her that we’ve never seen before.”
 Maho: “Yeah.”
 *That was what was making her nervous.*
-*If  changed into someone she didn’t know, that would make her sad.*
+*If changed into someone she didn’t know, that would make her sad.*
 Leskinen: “It’s time. Let’s go.”
 *Maho nodded.*
 
@@ -3157,7 +3157,7 @@ Rintaro: “...”
 *I walked onto the grounds of Yanabayashi Shrine and quietly took a look around.*
 *Several cats were sunbathing beneath the cold winter sky, but there was no sign of anyone else.*
 *Lukako wasn’t back from school yet.*
-*Okay. I could talk to  without anyone staring at me here.*
+*Okay. I could talk to without anyone staring at me here.*
 *I was supposed to meet with Dr. Leskinen and Maho after this.*
 *Before that happened, I wanted to confirm something with .*
 *I decided to start the app.*
@@ -3205,7 +3205,7 @@ Amadeus Kurisu: “Another plan would be to delete my logs... but those are my b
 Amadeus Kurisu: “Even if I could delete one area, the result would be the same. I would analyze the surrounding conversation and automatically reconstruct the missing portion.”
 Amadeus Kurisu: “If you want to alter my memories... you’d have to mess with the primary program.”
 *I didn’t have that level of access, and I didn’t understand how the program worked at all.*
-*So basically, until I told  why I called her Christina, she was going to keep asking.*
+*So basically, until I told why I called her Christina, she was going to keep asking.*
 *What a pain.*
 Amadeus Kurisu: “So? Why Christina?”
 Rintaro: “You really don’t give up, do you? I’ll hang up right now if I have to.”
@@ -3287,11 +3287,11 @@ Rintaro: “Ugh...oh...”
 *I tried to throw up, but nothing came out.*
 *My hands were shaking.*
 *That’s right. I can’t change reality.*
-*But there I was, trying to talk to  like nothing had happened.*
+*But there I was, trying to talk to like nothing had happened.*
 *I was treating her like the real Kurisu, and trying to avert my eyes from what I’d done.*
 *I was just clinging to .*
 *This was wrong.*
-*I shouldn’t talk to  anymore.*
+*I shouldn’t talk to anymore.*
 *The call was from .*
 *I hung up in the middle of the conversation, so she was probably mad.*
 *Mad?*
@@ -3299,7 +3299,7 @@ Rintaro: “Ugh...oh...”
 *’s anger was just a program.*
 * wasn’t Kurisu.*
 *Don’t treat them like they’re the same.*
-*I shouldn’t talk to  anymore.*
+*I shouldn’t talk to anymore.*
 *Just the incoming call was almost enough to trigger a flashback.*
 *In my mind, I could see an image of Kurisu’s bloody face.*
 *I should turn off my phone.*
@@ -3568,7 +3568,7 @@ Rintaro: “...No, I’m fine.”
 Amadeus Kurisu: “You’re not looking so good. Shouldn’t you call one of your friends, or go rest somewhere?”
 Rintaro: “...”
 Amadeus Kurisu: “...Okabe?”
-Rintaro: “Hey, . Can I ask you something?”
+Rintaro: “Hey. Can I ask you something?”
 Rintaro: “Do you know what I was about to do after I called you just now?”
 Amadeus Kurisu: “...”
 Amadeus Kurisu: “You’re going to meet with Dr. Leskinen and Maho, right?”
@@ -3620,7 +3620,7 @@ Leskinen: “If the structure is the same, and so is the process, shouldn’t th
 Leskinen: “Which means it’s quite possible she could fall in love. In fact, I hope she does.”
 *Amadeus... falling in love.*
 Leskinen: “Oops, is this an upsetting topic for Maho?”
-Maho: “Don’t you start acting like  too, professor.”
+Maho: “Don’t you start acting like too, professor.”
 Leskinen: “Hahaha. It was a joke. A joke.”
 Leskinen: “Maho’s scary when she gets mad, so be careful.”
 Rintaro: “Yes, I’m well aware.”
@@ -4067,12 +4067,12 @@ Rintaro: “Oh...”
 Amadeus Kurisu: “What?”
 Rintaro: “Nothing...”
 Amadeus Kurisu: “...?”
-*I’d called  without even realizing it, somehow.*
+*I’d called without even realizing it, somehow.*
 Amadeus Kurisu: “Hey, you seem even more tired than yesterday. You okay?”
 Rintaro: “Is that how I look?”
 Amadeus Kurisu: “Your tone’s dropped lower than usual. I see your conjunctiva are slightly swollen with blood, too. Were you looking into that case you told me about yesterday?”
 Rintaro: “Yeah...”
-*I told  what I’d heard from Suzuha and Daru, and what I’d found at the National Diet Library.*
+*I told what I’d heard from Suzuha and Daru, and what I’d found at the National Diet Library.*
 Amadeus Kurisu: “You dummy. If that’s what you were trying to do, you could’ve just asked me.”
 Rintaro: “What do you mean?”
 Amadeus Kurisu: “I can access the network and research anything that’s on the internet, you know?”
@@ -4094,7 +4094,7 @@ Amadeus Kurisu: “I found three people with identical names, but given their ag
 Amadeus Kurisu: “If you want, I can send you an email with their data later.”
 Rintaro: “No, that’s fine.”
 *When I stopped to think about it, even Suzuha would’ve been able to do a search for her name on the internet.*
-*And what  was saying was almost certainly right.*
+*And what was saying was almost certainly right.*
 *The Kurisu Makise I had known was always right.*
 Amadeus Kurisu: “I think that’s all I can do, then. Now it’s up to you to do what only you can do.”
 Rintaro: “What can I do?”
@@ -4195,7 +4195,7 @@ Luka: “R-Right! Thank you, Okabe.”
 Faris: “Anyway, if you’re in trouble, you should have just come to Faris, nya!”
 Luka: “Th-That’s right. I might not be able to help, but I can at least listen...”
 *I didn’t realize until after they’d spoken...*
-*I had gone to  before I’d gone to anyone else.*
+*I had gone to before I’d gone to anyone else.*
 *I’d brought up the app and started talking with her before I even realized it.*
 *She wasn’t the real Kurisu.*
 *But that voice, the way she acted...*
@@ -4383,7 +4383,7 @@ Itaru: “Better than slow, isn’t it?”
 *Now all we had to do was wait for her arrival.*
 *And then the phone rang.*
 *Not Daru’s phone. My phone.*
-*Was it  again?*
+*Was it again?*
 *I picked it up, and it was Lukako.*
 *That was rare. When he wanted to talk to me, he always went through Mayuri, or sent a message via text or RINE.*
 *Or... Wait, could Daru’s “underworld contact” be Lukako?*
@@ -4546,7 +4546,7 @@ Suzuha: “...”
 Maho: “Wheeew...”
 *One reason was that she’d gotten caught up in talking tolast night, and only ended the conversation after it was late into the night.*
 *At first, they’d been discussing the research and experiments she’d been doing, but at some point she’d gotten side-tracked into talking about Rintaro Okabe.*
-*Evidently, he’d been ignoring calls from  for the last few days.*
+*Evidently, he’d been ignoring calls from for the last few days.*
 *Kurisu was much madder at him than she was when he’d ignored her the first eight times.*
 *It was the first sign of femininity that she’d ever seen from Kurisu Makise.*
 *It was cute enough that Maho couldn’t help but take the chance to get back at her for all the teasing she always did. She’d ended up staying up a lot later than she’d intended.*
@@ -4740,7 +4740,7 @@ Maho: “I told you, he is not!”
 *I had no idea what the hell was going on, but the two soft objects pressed into my chest kept me from moving.*
 Rintaro: “Then you know her, Hiyajo?”
 Maho: “I’m sorry. It was my mistake–”
-Woman: “I’m Judy. Judy Reyes. Pleasure meeting you, Mr.Okabe.”
+Woman: “I’m Judy. Judy Reyes. Pleasure meeting you, Mr. Okabe.”
 *The woman named Judy Reyes offered me her hand, her broad smile like the sun itself.*
 Rintaro: “Um... uh... Nice to meet you...”
 Reyes: “Heheh. Japanese will do just fine.”
@@ -4862,7 +4862,7 @@ Rintaro: “No, that’s not it. It’s just...”
 Maho: “Talk to her some time, if you ever feel like it. She’s lonely.”
 Rintaro: “Okay...”
 *The word “lonely” made my heart ache a little.*
-*But even so, I still didn’t talk to  that day.*
+*But even so, I still didn’t talk to that day.*
 
 ==========SG0_A01_09.scx.txt==========
 *Several days had passed since Moeka had given her report.*
@@ -5559,7 +5559,7 @@ Rintaro: “N-Nothing...”
 Nae: “Daddy, I can’t wait to see Big Sis Mayuri wearing a shrine priestess outfit!”
 Tennouji: “Yeah. Sorry... I wish I could go with you.”
 *...Hmm?*
-Rintaro: “Uh... You can’t come, Mr.Tennouji?”
+Rintaro: “Uh... You can’t come, Mr. Tennouji?”
 Tennouji: “Of course not. Why the hell would I want to go visit a shrine with you guys?”
 Tennouji: “Something important came up, so I’ve gotta head out. I’m leaving Nae with you.”
 Tennouji: “Take good care of her, or your rent’s going up.”
@@ -5778,7 +5778,7 @@ Maho: “Oh, don’t worry. That stuff doesn’t bother me.”
 *...I finally figured out what she was trying to say.*
 Rintaro: “Oh, no. It’s not that.”
 Maho: “I see. Then why? Don’t you want a girlfriend?”
-Rintaro: “You know you were giving  hell for talking about this stuff earlier, right?”
+Rintaro: “You know you were giving hell for talking about this stuff earlier, right?”
 Maho: “Oh, come to think of it... I guess humans just hate it when somebody does something to them, but they’re more than willing to do it to somebody else. I’ll have to think about this.”
 Mayuri: “Okarin! I’m gonna wave the oonita at you! Come quick!”
 Rintaro: “I’ll be right back.”
@@ -5861,7 +5861,7 @@ Leskinen: “I’ve got something to do after this.”
 Reyes: “Me too.”
 Leskinen: “Thanks for everything. It was a day full of splendid discoveries, even if I didn’t get to see the shaman girls.”
 Reyes: “That’s right. It was very exciting.”
-Leskinen: “See you later, Lintahlo. Do try to say hi to  once in a while.”
+Leskinen: “See you later, Lintahlo. Do try to say hi to once in a while.”
 Reyes: “Bye, everyone. See you soon!”
 *They smiled and disappeared into the bustling Akihabara streets.*
 Itaru: “Okay, let’s get going, too.”
@@ -5922,7 +5922,7 @@ Rintaro: “...”
 Maho: “And it would make for really good data if I could see how she reacts to a situation like this. Can I?”
 Rintaro: “Well...”
 Mayuri: “Hey, Maho! Maho! What’s Amadeus?”
-*The next thing I knew, the call from  had stopped, and instead everyone was listening to us.*
+*The next thing I knew, the call from had stopped, and instead everyone was listening to us.*
 Maho: “It’s an artificial intelligence that incorporates a specific individual’s memory data.”
 Mayuri: “A-Artificial...?”
 Faris: “An AI, nya.”
@@ -5979,9 +5979,9 @@ Nae: “Hey, is this a video game?”
 Amadeus Kurisu: “Heheh. I’m not a video game. I’m an AI. I talk and think on my own, just like you do.”
 Faris: “Wait, is this really an AI, nya? That’s amazing, nya!”
 Amadeus Kurisu: “Maho’s the one who’s amazing. She made me.”
-*Everyone was staring in awe at  as she answered their questions.*
+*Everyone was staring in awe at as she answered their questions.*
 *I started to regret this.*
-*I shouldn’t have let  talk here.*
+*I shouldn’t have let talk here.*
 *I shouldn’t have made them all remember .*
 *I needed to end this conversation as soon as possible.*
 Rintaro: “Hiyajo–”
@@ -5998,7 +5998,7 @@ Faris: “It looks like I can still get a data connyanction here.”
 Maho: “That’s strange. This has never happened before.”
 Maho: “Hey, Okabe. Can you try it on your phone?”
 Rintaro: “No, I...”
-*I don’t think  likes me– but before I could end my sentence, I heard a crash.*
+*I don’t think likes me– but before I could end my sentence, I heard a crash.*
 Kagari: “I-I’m sorry.”
 *Kagari had evidently dropped a glass.*
 *Little fragments were spread out all over the floor.*
@@ -6814,7 +6814,7 @@ Rintaro: “The world line changed again...”
 Rintaro: “Come to think of it...”
 *’s words from before.*
 Amadeus Kurisu: “Help me, Okabe...”
-*Why would  say something like that?*
+*Why would say something like that?*
 *Did it have something to do with the world line shift?*
 *I took the phone out of my pocket and went to start the Amadeus app– and then stopped.*
 Rintaro: “It’s gone...”
@@ -7037,7 +7037,7 @@ Rintaro: “Whew...”
 *My whole body relaxed the second I stepped outside of the lab.*
 *Evidently, meeting the living Kurisu had made me really tense.*
 *I didn’t know how to talk to her or what to say anymore...*
-*Even though I’d spoken to  like it was the most normal thing in the world.*
+*Even though I’d spoken to like it was the most normal thing in the world.*
 Rintaro: “...”
 *I still couldn’t believe it, though.*
 *Was this really the alpha world line?*
@@ -7978,7 +7978,7 @@ Kagari: “I don’t know... Just, somehow, I knew.”
 *She seemed to have developed a solid relationship with Maho at work, but...*
 *The dark fear in my mind kept growing.*
 Rintaro: “Hey, Hiyajo. Remember how you said Amadeus was put on hold?”
-Rintaro: “Does the uploaded memory data for  still exist?”
+Rintaro: “Does the uploaded memory data for still exist?”
 Maho: “Huh? Yeah, probably. I don’t think it was erased.”
 Rintaro: “How many people could access that?”
 Maho: “Very few. We never really announced it anywhere.”
@@ -10509,7 +10509,7 @@ Itaru: “So many people... So many people died.”
 *Not Mayuri.*
 *Not Kagari. Not Lukako.*
 *I hadn’t saved anyone.*
-Itaru: “Release  from the bonds of Amadeus.”
+Itaru: “Release from the bonds of Amadeus.”
 Rintaro: “Huh?”
 Itaru: “A message. From you, in the year 2025.”
 Rintaro: “A message from myself?”
@@ -10556,7 +10556,7 @@ Rintaro: “Hiyajo...”
 Maho: “You know... I’ve got a lot of regrets.”
 Maho: “Thanks to Amadeus, even after her death, a lot of people tried to use her for evil...”
 Maho: “For years... for decades...”
-Maho: “So I want your help, too. Release her... Release  from that ugly spiral of greed.”
+Maho: “So I want your help, too. Release her... Release from that ugly spiral of greed.”
 Maho: “Save Kurisu. You’re the only one who can.”
 Rintaro: “...”
 *I didn’t know if I could do it anymore.*
@@ -10828,7 +10828,7 @@ Itaru: “So this world we’re in isn’t wasted. It’s a world that we need. 
 *I had no way of knowing what would make me say that fourteen years from now.*
 *All I knew was that fourteen years from now, I would know this day was coming.*
 *So maybe– maybe I should do what I said.*
-*If that future in 2036 was necessary, then maybe a world where  was released from her electronic prison was necessary, too.*
+*If that future in 2036 was necessary, then maybe a world where was released from her electronic prison was necessary, too.*
 *No matter how hard the path would be, I had to take the first step.*
 *And what I needed right now was that first step.*
 Rintaro: “Hiyajo.”
@@ -11257,7 +11257,7 @@ Maho: “You were the one who told me to do it.”
 *Her face looked exhausted.*
 Maho: “I had the voice software I used for Amadeus, so I was able to build it quicker.”
 Maho: “And this isn’t anything as complicated as an AI.”
-Maho: “You really think you can fool her with this? It’s  we’re talking about here.”
+Maho: “You really think you can fool her with this? It’s we’re talking about here.”
 Rintaro: “We just have to deceive her for a short time. All we need to do is keep their eyes off of Daru’s hacking.”
 *The goal was just to keep Stratfor confused.*
 *We didn’t need to hold a long conversation.*
@@ -12350,7 +12350,7 @@ Leskinen: “If you quit here, you’re not being irresponsible at all. Don’t 
 Rintaro: “I’m sorry.”
 Leskinen: “Still... I would’ve liked it if you could have continued...”
 Leskinen: “I took a quick look at the logs, and I see you’ve been talking to her quite a bit.”
-Leskinen: “And the way  speaks to you is very different than what we hear at the laboratory.”
+Leskinen: “And the way speaks to you is very different than what we hear at the laboratory.”
 Leskinen: “Humans are, by nature, social animals. They change their words and actions depending on the situation and who they’re speaking with.”
 Leskinen: “We can assume that Amadeus is doing the same thing.”
 Leskinen: “That’s why I wanted you to continue the test a little while longer.”
@@ -12361,7 +12361,7 @@ Leskinen: “The opposite?”
 Rintaro: “Talking to Amadeus... to ...is a lot of fun.”
 Rintaro: “But that... scares me.”
 *And then I desperately tried to explain the feelings that were welling up within me, even though I still didn’t understand them myself.*
-*I told them how scared I was that I was starting to see Kurisu and  as the same person.*
+*I told them how scared I was that I was starting to see Kurisu and as the same person.*
 Leskinen: “I thought this might put a lot of stress on you. I’m really sorry.”
 Leskinen: “But that reaction of yours is very interesting...”
 Leskinen: “In the sense that you’re interacting with Amadeus from the perspective of someone who isn’t a scientist. That’s very valuable to me.”
@@ -12374,7 +12374,7 @@ Leskinen: “All right. If you want to stop being a tester, that’s what will h
 Leskinen: “But... do you mind if we leave the access program on your phone?”
 Rintaro: “Huh?”
 Leskinen: “From now on, it’s up to you whether you want to talk to Amadeus or not.”
-Leskinen: “I’ll tell  not to contact you.”
+Leskinen: “I’ll tell not to contact you.”
 Rintaro: “...”
 Leskinen: “I don’t want our relationship with you to end today. You’re the first friend we’ve made in Japan. And also-”
 Leskinen: “Maho would be sad.”
@@ -13320,7 +13320,7 @@ Itaru: “Once she got to the year 2000, she started to run out of fuel...”
 Rintaro: “And so she jumped to 2010, to fulfill her real mission?”
 *I finished his sentence, and Daru nodded.*
 Itaru: “But even after coming here, she’s still looking.”
-Itaru: “So do you think you could ask Ms.Mayu without letting her know what’s up?”
+Itaru: “So do you think you could ask Ms. Mayu without letting her know what’s up?”
 Rintaro: “Me...?”
 Itaru: “Whether someone around her age came to see her about ten years ago, or something like that.”
 Rintaro: “Oh... yeah, sure. I’ll ask.”
@@ -13394,7 +13394,7 @@ Amadeus Kurisu: “Listen, it’s too early for this...”
 Amadeus Kurisu: “Just go talk to Maho. Go on, hurry.”
 Amadeus Kurisu: “What are you trying to accomplish here?”
 Amadeus Kurisu: “I’m not talking to you any more today. Got it?”
-*...I’ll stop talking to  for today.*
+*...I’ll stop talking to for today.*
 Mayuri: “Okarin, I told you we’re having a Christmas party at the lab today. Did you remember?”
 *Mayuri’s voice sounded really excited.*
 Rintaro: “Yeah, of course.”
@@ -13473,7 +13473,7 @@ Rintaro: “The last time we talked, well... part of it was because I was freaki
 Rintaro: “Knowing Kurisu’s personality, she’s mad. I’m sure of it.”
 Rintaro: “And since I’m still kind of connected to her, I’ve got this invisible pressure bearing down on me every minute of the day.”
 *Dr. Leskinen had been trying to help me out, but I would’ve felt better if he’d just stripped me of access.*
-Maho: “Does it really bother you that much? You know  was told not to contact you, right?”
+Maho: “Does it really bother you that much? You know was told not to contact you, right?”
 Rintaro: “Yeah, but...”
 Rintaro: “I don’t want our relationship to end with a fight.”
 *I never wanted to go through what I’d experienced in the alpha world line again.*
@@ -13598,7 +13598,7 @@ Rintaro: “My friend, you know, the guy you met at May Queen, is always on his 
 Maho: “I d-don’t really understand why someone would do that.”
 *Uh-oh, that freaked her out. Bad example.*
 Rintaro: “Um, anyway... you really helped me out, Hiyajo.”
-Maho: “You don’t really need to do what  told you to.”
+Maho: “You don’t really need to do what told you to.”
 Rintaro: “Well, but... the professor seems really excited about going.”
 *The professor flashed his white teeth at me.*
 Rintaro: “And... I promised .”
@@ -13740,7 +13740,7 @@ Amadeus Kurisu: “Sorry, I think I just said something really embarrassing. For
 Amadeus Kurisu: “...”
 Amadeus Kurisu: “...”
 Amadeus Kurisu: “It’s really sad the way you keep hitting an AI up for a present.”
-*...I’m not going to talk to  right now.*
+*...I’m not going to talk to right now.*
 *The lab was filled with Santas, just like I’d heard on the phone.*
 *And all of them were wearing miniskirts.*
 Mayuri: “Oh, it’s Okarin!”
@@ -14841,7 +14841,7 @@ Amadeus Kurisu: “Yeah, I know them.”
 Amadeus Kurisu: “You really are acting a little weird.”
 Amadeus Kurisu: “Are you okay?”
 Amadeus Kurisu: “Why not have them take you to the hospital? Don’t push yourself.”
-*I’ll stop talking to  for today.*
+*I’ll stop talking to for today.*
 *The whole world and all its colors began to shift.*
 *There was a feeling of instability, like my brain was unable to recognize where it was. And then dizziness and a sense of falling, like you get when you’re anemic.*
 *I could hear the blood vessels deep within my ears, and they sounded really loud.*
@@ -14913,7 +14913,7 @@ Rintaro: “That Christmas party, huh?”
 *It felt like a million years ago.*
 *I had no memories of what I’d done in this world line after the Christmas party.*
 Itaru: “Oh, come to think of it, we left the decorations up. We should take those down.”
-Itaru: “You and Ms.Fubuki collapsed during the party, right? So there was a big fuss and we sort of forgot to clean up.”
+Itaru: “You and Ms. Fubuki collapsed during the party, right? So there was a big fuss and we sort of forgot to clean up.”
 Rintaro: “Nakase and I collapsed?”
 *Was that when the world line changed?*
 *Everyone remembered that I’d collapsed at the Christmas party.*
@@ -15395,7 +15395,7 @@ Maho: “Akihabara’s even more amazing than I’d heard.”
 *Watching the ecstasy on Maho’s face creeped me out a little.*
 Amadeus Kurisu: “This is who Maho really is.”
 * spoke from inside my phone.*
-*Maho had said she wanted to go out with  today.*
+*Maho had said she wanted to go out with today.*
 *And so I ended up going on a strange “date” with two girls at once.*
 *This might be another test of Amadeus’s capabilities.*
 Rintaro: “I’ve been here a few times, but I’ve only ever seen one other person stare lovingly at computer parts like that.”
@@ -15786,7 +15786,7 @@ Rintaro&Maho: “...”“...”
 *The other wall held the Used Outfit section, and a shoe section stocked with socks, school shoes, heels, and boots.*
 *Even further back, I could see rows of school swimsuits and competition swimming outfits.*
 *It looked like the place sold mainly to girls, but this clearly wasn’t a location where women would feel comfortable.*
-*The other tenants in the building were all shady shops with names like ‘Drops of the Spirit God Inc.,’ “Space Radio Receiver Sales,’ and ‘Flower Petal Video Project.’”*
+*The other tenants in the building were all shady shops with names like ‘Drops of the Spirit God Inc.’ “Space Radio Receiver Sales,’ and ‘Flower Petal Video Project.’”*
 Rintaro: “You ever been here before?”
 Maho: “No... last time we met it was in a different building. It wasn’t much better than this one, though.”
 Rintaro: “I-I see...”
@@ -15841,12 +15841,12 @@ Rintaro: “...”
 Rintaro: “Hmm?”
 Rintaro: “It’s from .”
 *Maho looked troubled.*
-*I didn’t want  hearing this, either.*
+*I didn’t want hearing this, either.*
 *I didn’t know what to do.*
 *And–*
 *And then I remembered.*
 *The world line where I’d spent a month during war time...*
-*I remembered that the Amadeus  was being used by the US military there.*
+*I remembered that the Amadeus was being used by the US military there.*
 *I still didn’t know what that meant.*
 *I stared at my phone’s screen.*
 *Should I answer it? Or should I talk to Daru first...*
@@ -16034,7 +16034,7 @@ Maho: “Of course, that was the first thing I tried.”
 Rintaro: “But it didn’t work, right?”
 *Maho nodded.*
 Rintaro: “That’s strange, right? Normally she’d know.”
-Rintaro: “But the Amadeus  didn’t know what it was.”
+Rintaro: “But the Amadeus didn’t know what it was.”
 Rintaro: “There’s only one possibility, then.”
 Rintaro: “Kurisu herself changed the password without Amadeus knowing.”
 Maho: “...”
@@ -16943,7 +16943,7 @@ Rintaro: (Viktor Chondria University...)
 *I found myself looking for a certain icon on the home screen.*
 *But of course, I’d deleted it myself six months ago.*
 *“Amadeus...”*
-*Was  doing well?*
+*Was doing well?*
 *...Knowing her, she was probably coming up with some complicated theory, or teasing Maho.*
 *It was also possible that she was visiting @channel and hiding it from Maho.*
 Rintaro: (@channel...)
@@ -16954,7 +16954,7 @@ Rintaro: (Could Amadeus post on message boards?)
 *Kurisu had spent a lot of effort last summer trying to argue with John Titor on @channel.*
 *That happened in the alpha world line, though.*
 *Still, it meant that she was okay with posting.*
-*So there was a chance that  was doing the same thing.*
+*So there was a chance that was doing the same thing.*
 *If Amadeus had even temporary access to the network, then just maybe...*
 *I opened the web browser on my smartphone, and without really expecting much, ran a search for a nickname I knew I’d never forget.*
 *“KuriGohan and Kamehameha.”*
@@ -17067,7 +17067,7 @@ Mayuri: “Hey, hey! Don’t you think this heart shape is cute?”
 Rintaro: “How are you going to use a heart shape to sell fruits and vegetables?”
 Mayuri: “Hmm?”
 Mayuri: “Well, how about this?”
-Mayuri: “Mr.Matsutake is thick and sturdy! Why not take him home tonight, ma’am?”
+Mayuri: “Mr. Matsutake is thick and sturdy! Why not take him home tonight, ma’am?”
 Mayuri: “Or maybe...”
 Mayuri: “Try my juicy ripe melons!”
 Rintaro: “...”
@@ -17112,7 +17112,7 @@ Mayuri: “Is it okay if I spoil the movie?”
 Rintaro: “Go ahead. I’m not going to go see it.”
 Mayuri: “So this movie, it’s about a fight with an evil super hacker in the virtual world.”
 Mayuri: “The virtual world is a forest where the fairies live.”
-Mayuri: “Mr.Super Hacker is really strong, and Kakeru and Upa are in big trouble, but...”
+Mayuri: “Mr. Super Hacker is really strong, and Kakeru and Upa are in big trouble, but...”
 Mayuri: “Just when they’re about to lose, the fairies come to save them.”
 Mayuri: “And it turns out that the fairies are actually the flowers in the school garden that he’d always taken care of.”
 Mayuri: “They came all the way to the virtual world to save Kakeru, and then there was this big shiny light, and then they combined with Upa.”
@@ -17777,7 +17777,7 @@ Suzuha: “Kagari’s...?”
 *That’s when she’d seen this Upa.*
 *It was older and more worn now, but the more she remembered that day the more certain she became. This was the Upa that Mayuri had given to Kagari.*
 *She’d seen Kagari holding it and crying to herself many times before.*
-Itaru: “Kagari... you mean future Ms.Mayu’s daughter?”
+Itaru: “Kagari... you mean future Ms. Mayu’s daughter?”
 Suzuha: “...Yeah.”
 Itaru: “Did you find her?”
 Suzuha: “No. But she knows where I am.”
@@ -18590,7 +18590,7 @@ Rintaro: “What were you doing? Dude, you’re black with soot.”
 Itaru: “Oh, well...”
 Itaru: “I got this microwave from the garbage dump, you know. And I was warming up a lunch I got from the convenience store, and it blew up.”
 Rintaro: “It blew up? Are you okay?”
-Itaru: “Mr.Braun got mad at me.”
+Itaru: “Mr. Braun got mad at me.”
 Rintaro: “Don’t get him too riled up. You don’t know when he’ll kick you out.”
 Rintaro: “If he does that, you might be okay, but Suzuha will have nowhere to go.”
 Itaru: “Th-That’s right.”
@@ -19291,14 +19291,14 @@ Itaru: “Okey-dokey!”
 Rintaro: “Hiyajo, help him. Please.”
 Maho: “...R-Right...”
 *But the answer was the same.*
-*Not only the Amadeus , but the  as well, were nowhere to be found on the Viktor Chondria servers.*
+*Not only the Amadeus , but the as well, were nowhere to be found on the Viktor Chondria servers.*
 *There was no trace of them.*
 *Their very existence had been erased.*
 Itaru: “Did they move them somewhere else?”
 Maho: “That’s impossible. The only person with that level of administrator privilege for the Amadeus system is Dr. Leskinen.”
 Rintaro: “Dr. Leskinen...”
 *My mind flashed back to the message from KuriGohan and Kamehameha.*
-*Who was the “Our Father, In Heaven,” whom  had spoken of?*
+*Who was the “Our Father, In Heaven,” whom had spoken of?*
 *If Amadeus considered anyone a father, it would be–*
 Rintaro: “No way... Did Dr. Leskinen do it?”
 Maho: “Don’t make assumptions like that.”
@@ -19633,14 +19633,14 @@ Leskinen: “I can’t tell you that.”
 *That was his answer.*
 *Even though Amadeus had disappeared, Leskinen was extremely calm.*
 *There was no sign of him trying to deal with the problem, and instead of being in his office, he was here. That was all I needed to know.*
-Rintaro: “So the message  sent me was true, wasn’t it?”
+Rintaro: “So the message sent me was true, wasn’t it?”
 *The “father” that she’d spoken of was Leskinen, after all.*
-Rintaro: “What happened to  and ?”
+Rintaro: “What happened to and ?”
 Rintaro: “You’re trying to analyze their memory data to extract the information on the time machine, aren’t you?”
 Leskinen: “Well, that’s a surprise!”
 Leskinen: “ told you all that? I’d thought I was keeping an eye on her. I wonder when she did it.”
 *Leskinen seemed truly shocked.*
-*Which meant he hadn’t noticed that  was an @channeler, or that she’d spoken to me there.*
+*Which meant he hadn’t noticed that was an @channeler, or that she’d spoken to me there.*
 *And then– Leskinen took out a gun and pointed it at me.*
 Rintaro: “...!”
 Leskinen: “It seems you’ve learned a little too much.”
@@ -20131,7 +20131,7 @@ Rintaro: “I’ll explain later.”
 Rintaro: “There’s no time, so listen carefully! A lot of lives are at stake.”
 *I’d gone over the mission many, many times while waiting for work on the PhoneWave to finish.*
 *I’d thought of everything to say.*
-Rintaro: “Hiyajo, access Amadeus right now and delete  and , as well as all their backups.”
+Rintaro: “Hiyajo, access Amadeus right now and delete and , as well as all their backups.”
 Rintaro: “Leskinen’s not planning on using them for peaceful purposes at all.”
 Maho: “W-What? I can’t just...”
 Rintaro: “I told you I time leaped here, right? Akihabara’s going to be a war zone less than an hour from now! They’re coming for the time machine!”
@@ -20629,7 +20629,7 @@ Leskinen: “Hmm... that’s right.”
 Leskinen: “Why not have him continue being our tester?”
 Maho: “Huh?!”
 Maho: “Are you serious?”
-Leskinen: “It’s a fact that speaking with Lintahlo has caused  to react in new ways, correct?”
+Leskinen: “It’s a fact that speaking with Lintahlo has caused to react in new ways, correct?”
 Leskinen: “And I’m planning on adding additional testers in the future. Not just him.”
 Maho: “Is that safe, from a security standpoint?”
 Maho: “Japan and America are too far apart. If something happens, we won’t be able to deal with it.”
@@ -20718,11 +20718,11 @@ Amadeus Kurisu: “That’s right, professor. Don’t be so mean to Maho.”
 Maho: “Oh, ?”
 Amadeus Kurisu: “Yes, it’s me.”
 Leskinen: “I was just examining her program.”
-*She moved around to where she could see the monitor, and sure enough, the  CG model was displayed on it.*
+*She moved around to where she could see the monitor, and sure enough, the CG model was displayed on it.*
 Amadeus Kurisu: “Good evening, Maho.”
 Maho: “Sorry to see you working so late.”
 *Maho chuckled to herself.  was just a program running on a computer, but she still couldn’t stop herself from saying things like that.*
-*After all the time they’d spent together,  was no different than a human to her.*
+*After all the time they’d spent together, was no different than a human to her.*
 Leskinen: “I’m not being mean to Maho.”
 Leskinen: “I was actually quite impressed with what she said to Mary. I thought that she was very logical, very cool-headed, and very entertaining.”
 Leskinen: “That’s why I made her my assistant.”
@@ -20765,7 +20765,7 @@ Maho: “Ugh!”
 *Both “Kurisu” and Dr. Leskinen, who’d been listening the whole time, were smiling at her.*
 Maho: “...”
 *She glared at them, her cheeks flushed.*
-Leskinen: “Looks like  won this round, huh?”
+Leskinen: “Looks like won this round, huh?”
 Maho: “I-It doesn’t matter who won or lost! I’m going to bed! Goodnight!”
 *She turned to leave Dr. Leskinen’s office, fuming.*
 *But before she could leave, “Kurisu” got in one final parting shot.*
@@ -20773,7 +20773,7 @@ Amadeus Kurisu: “Maho, you haven’t talked to Okabe for a whole week.”
 Amadeus Kurisu: “If you keep putting off talking to him because you’re busy, you’re going to regret it later, okay?”
 Maho: “Listen...”
 Maho: “Are you really that insistent on getting me and Okabe together?”
-*Maho stormed over to the monitor, but  seemed unconcerned.*
+*Maho stormed over to the monitor, but seemed unconcerned.*
 Amadeus Kurisu: “Do you ever think about seeing him in person again?”
 Maho: “Nope.”
 Leskinen: “I see. That’s a shame.”
@@ -20787,7 +20787,7 @@ Maho: “You’re going back to Japan?”
 Leskinen: “Yeah.”
 Maho: “...”
 *She had to stop herself from immediately saying that she wanted to go too.*
-*If she did, Dr. Leskinen and  would make fun of her again.*
+*If she did, Dr. Leskinen and would make fun of her again.*
 *But she didn’t want to miss this chance.*
 *There was still a lot she needed to do in Japan.*
 *More than anything, she wanted to talk to Rintaro in person. About the time machine, and about Kurisu.*
@@ -20819,7 +20819,7 @@ Maho: “Are you still saying that?”
 *It really felt like she was talking to Kurisu.*
 *The feeling was much stronger than when they’d first started on Amadeus.*
 *And that reminded her of something she’d almost done many times, but stopped.*
-Maho: (Why not tell  about the time machine?)
+Maho: (Why not tell about the time machine?)
 *She didn’t know if Kurisu had completed the time machine theory before her death.*
 *But if she had, some clues to it might be hidden in ’s memories.*
 *Of course, she couldn’t ask her in front of Dr. Leskinen. And she couldn’t let others hear that she was making a time machine.*
@@ -20838,12 +20838,12 @@ Maho: “Well... I had a lot of scary experiences in Japan. I’ve been thinking
 Leskinen: “I understand how you feel, but I can’t do a comparison trial like this.”
 *A comparison trial involved loading memories from both before and after a given experience into Amadeus, and seeing how it changed.*
 *These trials allowed them to see what effects experiences and knowledge had on the brain, but after Kurisu’s passing, they became solely Maho’s responsibility.*
-Leskinen: “Right now, the real you and the Amadeus  have such different memories that you’re almost different people.”
+Leskinen: “Right now, the real you and the Amadeus have such different memories that you’re almost different people.”
 Maho: “Y-Yes, that’s true.”
 Leskinen: “At this rate, I’m going to have to take you off the project and ask someone else to do it.”
 Maho: “That’s...”
 *Her expression darkened.*
-Leskinen: “Stop talking to  all the time, and give  some attention. I’m sure she’s lonely.”
+Leskinen: “Stop talking to all the time, and give some attention. I’m sure she’s lonely.”
 Leskinen: “Make sure you update your memories tomorrow. Understood?”
 Maho: “Understood.”
 *Maho nodded her head and left the room.*
@@ -20854,7 +20854,7 @@ Rintaro: “Hey, the US military aren’t involved in researching Amadeus, are t
 *But she couldn’t get his words out of her mind.*
 *Was some great power involved in the Amadeus research?*
 *Something so powerful it was outside even Dr. Leskinen’s control...*
-*If she updated her memory data,  would learn about Kurisu’s laptop and hard disk.*
+*If she updated her memory data, would learn about Kurisu’s laptop and hard disk.*
 *She trusted Amadeus, but that would mean whoever was secretly trying to use the project for their own ends would find out.*
 *It seemed silly, almost delusional, to be worried about something like that. But she couldn’t get it out of her mind ever since she’d come back to America.*
 Maho: “I really am overthinking it, though...”
@@ -20930,7 +20930,7 @@ Leskinen: “Maho, remember that Japan trip we were just talking about? You’re
 *Was it something Dr. Leskinen could decide on his own?*
 *What was “good timing?”*
 *Confused, she glanced over at the computer screen.*
-*But  was no longer there.*
+*But was no longer there.*
 *The one thing she knew was...*
 *Okabe’s words weren’t the ramblings of a conspiracy theorist after all.*
 
@@ -21053,7 +21053,7 @@ Rintaro: “He’d just love to talk to you.”
 Amadeus Kurisu: “He’ll stare at me with his filthy eyes, constantly panting after me 24 hours a day. Right.”
 Amadeus Kurisu: “Perverts scare me.”
 * went pale and started to shake.*
-*I’d told  all kinds of things about what kind of person Daru was.*
+*I’d told all kinds of things about what kind of person Daru was.*
 *She could easily imagine what would happen if she ever fell into his clutches.*
 Amadeus Kurisu: “Never mind. You don’t have to introduce me to anyone.”
 Amadeus Kurisu: “I’ll just keep telling myself that I’m lucky to have you to talk to.”
@@ -21063,7 +21063,7 @@ Amadeus Kurisu: “!”
 Mayuri: “Huh? Who were you talking to?”
 Rintaro: “Oh, um...”
 *I looked down at my phone.  had disappeared and my smartphone was back at its home screen.*
-*Evidently,  had hung up.*
+*Evidently, had hung up.*
 Rintaro: “Another student from school.”
 Mayuri: “I see.”
 *I knew I didn’t have to hide , but...*
@@ -21106,7 +21106,7 @@ Mayuri: “Is it okay if I spoil the movie?”
 Rintaro: “Go ahead. I’m not going to go see it.”
 Mayuri: “So this movie, it’s about a fight with an evil super hacker in the virtual world.”
 Mayuri: “The virtual world is a forest where the fairies live.”
-Mayuri: “Mr.Super Hacker is really strong, and Kakeru and Upa are in big trouble, but...”
+Mayuri: “Mr. Super Hacker is really strong, and Kakeru and Upa are in big trouble, but...”
 Mayuri: “Just when they’re about to lose, the fairies come to save them.”
 Mayuri: “And it turns out that the fairies are actually the flowers in the school garden that he’d always taken care of.”
 Mayuri: “They came all the way to the virtual world to save Kakeru, and then there was this big shiny light, and then they combined with Upa.”
@@ -21587,7 +21587,7 @@ Suzuha: “Kagari’s...?”
 *That’s when she’d seen this Upa.*
 *It was older and more worn now, but the more she remembered that day the more certain she became. This was the Upa that Mayuri had given to Kagari.*
 *She’d seen Kagari holding it and crying to herself many times before.*
-Itaru: “Kagari... you mean future Ms.Mayu’s daughter?”
+Itaru: “Kagari... you mean future Ms. Mayu’s daughter?”
 Suzuha: “...Yeah.”
 Itaru: “Did you find her?”
 Suzuha: “No. But she knows where I am.”
@@ -21900,7 +21900,7 @@ Maho: “That’s right. It doesn’t feel like it’s been that long.”
 Rintaro: “I had no idea you were here.”
 Rintaro: “If I hadn’t happened to see Dr. Leskinen, I never would’ve found out.”
 Maho: “I was going to contact you once things calmed down.”
-Maho: “We needed to talk to each other about  at some point, eventually.”
+Maho: “We needed to talk to each other about at some point, eventually.”
 Rintaro: “You’re here about the new encephalitis cases?”
 Maho: “Dr. Leskinen is, at least.”
 Maho: “I’m his assistant, but I’m mostly in charge of Amadeus.”
@@ -21911,7 +21911,7 @@ Amadeus Kurisu: “Hey.”
 *I heard a voice from my smartphone, which I’d placed on the table.*
 Amadeus Kurisu: “What do you mean by ‘struggle’?”
 *I’d left the Amadeus app turned on.*
-*Of course,  could hear everything we said.*
+*Of course, could hear everything we said.*
 Rintaro: “She’s gotten a little ruder since we first met.”
 Amadeus Kurisu: “You’re just afraid of me for no reason is all.”
 Rintaro: “Maybe.”
@@ -21928,7 +21928,7 @@ Maho: “Once I get to know someone, they stop talking about my appearance, righ
 *I guess I was right not to comment on her outfit.*
 *That was a close call.*
 Maho: “Anyway, back to Amadeus.”
-Maho: “It’s an interesting sign that  is developing a bit of a sharp tongue.”
+Maho: “It’s an interesting sign that is developing a bit of a sharp tongue.”
 Maho: “It’s a side of her she never shows me or the professor, right?”
 Maho: “That may be a sign of how much she’s opened up to you.”
 Amadeus Kurisu: “I have not.”
@@ -22298,7 +22298,7 @@ Rintaro: “You know, why not clean up a little?”
 Maho: “Clean up? I’ve got everything laid out in the most efficient manner for my use.”
 *Which meant she was refusing the hotel’s cleaning service...*
 Amadeus Kurisu: “You know that’s why you’re never getting a boyfriend, right?”
-*I could hear  from my phone. She was annoyed.*
+*I could hear from my phone. She was annoyed.*
 *After the app updated, I’d left Amadeus running.*
 Maho: “N-Nobody asked you!”
 Amadeus Kurisu: “Any normal person would be embarrassed to invite someone over to a room like this.”
@@ -22472,7 +22472,7 @@ Rintaro: “Guh...”
 *I grabbed onto her long hair and tried to pull her away, but she didn’t move at all. It was as if she felt no pain.*
 *My phone had been vibrating in my pocket for a while now. I desperately grabbed for it.*
 *I pressed the button without even looking at the screen.*
-*–Please answer, .*
+*–Please answer.*
 Amadeus Kurisu: “Okabe–?!”
 Rintaro: “...”
 *I was blacking out...*
@@ -22708,7 +22708,7 @@ Rintaro: “...”
 Leskinen: “Listen, Maho. You need to find out Okabe Lintahlo’s secret, no matter what it takes.”
 Leskinen: “If you can’t, I’ll have to kill him. You don’t want that, right?”
 Leskinen: “You seemed to really like Lintahlo, didn’t you?”
-Leskinen: “Me and  kept bringing it up, after all. Even if you weren’t interested in him originally, you couldn’t help but think about him. That’s how the human mind works.”
+Leskinen: “Me and kept bringing it up, after all. Even if you weren’t interested in him originally, you couldn’t help but think about him. That’s how the human mind works.”
 Leskinen: “And to save him, I want you to find out what he knows.”
 Leskinen: “If you do that, I’m willing to bring him to my lab, unconditionally.”
 Leskinen: “Maho, tell me everything you learn from him.”
@@ -22813,7 +22813,7 @@ Maho: “...”
 *How could she?*
 *She stared at the LCD screen, unable to move her fingers even a centimeter.*
 Maho: “How could I answer it?”
-*She couldn’t let  see her like this.*
+*She couldn’t let see her like this.*
 *But even so, it felt wrong to just stay here.*
 *Maho decided to go after Mayuri.*
 *But by the time she made it to the overpass, Mayuri was already gone.*
@@ -23010,7 +23010,7 @@ Maho: “You can give me some solution, right?”
 *She was a woman who made the impossible possible.*
 *Maho waited for ’s answer.*
 *The last hope. The last thing left in Pandora’s box.*
-*She waited for  to give her the answer.*
+*She waited for to give her the answer.*
 *But–*
 Amadeus Kurisu: “It’s impossible.”
 Maho: “...”
@@ -23019,7 +23019,7 @@ Maho: “...”
 *And just a few moments ago, she’d been the one who rejected .*
 Maho: “Yeah... You’re right.”
 Maho: “Of course that’s what you’d say...”
-Maho: “I’m sorry... I’m sorry, ...”
+Maho: “I’m sorry... I’m sorry...”
 Maho: “I was so horrible to you...”
 Maho: “And then I stupidly thought that you’d help me unconditionally...”
 Amadeus Kurisu: “I’ll help you unconditionally.”
@@ -23056,7 +23056,7 @@ Amadeus Kurisu: “Don’t worry.”
 Amadeus Kurisu: “You’re capable of standing up on your own two feet.”
 Maho: “I’m not worried about me! I’m worried about you!”
 Amadeus Kurisu: “I’m nothing but data. But thank you.”
-*The  on the screen bowed and smiled.*
+*The on the screen bowed and smiled.*
 Amadeus Kurisu: “I’m proud that I was able to work with you, Maho.”
 Maho: “W-What? Don’t talk like it’s the last time we’re ever going to see each other.”
 Amadeus Kurisu: “Well, it might be.”
@@ -23065,7 +23065,7 @@ Maho: “I hate you!”
 Maho: “You always do this... You always go and leave me behind...!”
 Amadeus Kurisu: “...”
 *But that’s who Kurisu Makise was.*
-*When Maho had asked her for help, both she and  should have been prepared.*
+*When Maho had asked her for help, both she and should have been prepared.*
 *That’s why–*
 Maho: “Someday, I’ll catch up to you.”
 Maho: “No, I’ll surpass you!”
@@ -23090,7 +23090,7 @@ Maho: “...!”
 *As soon as she left the Radio Building, she got a message on her RINE.*
 *The gunfire was continuing. As she hurried away, she looked down at her phone.*
 *When she read it, she smiled despite everything that was going on.*
-Maho: “Thank you, ...”
+Maho: “Thank you...”
 Maho: “Thank you...”
 *She clutched the phone tightly to her chest.*
 *But then she quickly changed gears.*
@@ -24748,7 +24748,7 @@ Amadeus Kurisu: “Th-They didn’t get rough with you or anything, right?!”
 Amadeus Kurisu: “...?”
 Amadeus Kurisu: “Okabe? What are you doing with Maho?”
 Amadeus Kurisu: “A-Are you two already that close?!”
-Maho: “That’s not it, .”
+Maho: “That’s not it.”
 Maho: “I’m at the lab right now.”
 Amadeus Kurisu: “I’m so glad! You’re safe, then!”
 Maho: “Yeah, so calm down.”
@@ -24756,7 +24756,7 @@ Amadeus Kurisu: “How can I stay calm? I called you a dozen times and you never
 Amadeus Kurisu: “And when I searched the internet I saw there was a robbery at the hotel, and it was evidently in your room.”
 Amadeus Kurisu: “I was so worried!”
 Maho: “Okay, got it. I apologize. Sorry.”
-Maho: “Thanks, . I’m fine. It’s true that I was robbed, but I didn’t run into the thief.”
+Maho: “Thanks. I’m fine. It’s true that I was robbed, but I didn’t run into the thief.”
 Maho: “I’m taking a break here right now. I just forgot to charge my phone, is all.”
 Maho: “I must’ve really worried you, huh?”
 Amadeus Kurisu: “No. If nothing happened, that’s fine.”
@@ -24799,7 +24799,7 @@ Rintaro: “W-Was that stolen?!”
 Amadeus Kurisu: “Don’t worry. Right, Maho?”
 Maho: “Yeah.”
 Maho: “The control codes aren’t written down anywhere.”
-*Maho pointed to her temple, just as  had done.*
+*Maho pointed to her temple, just as had done.*
 Maho: “They only exist in my head.”
 *That seemed like a dangerous way to keep them stored, honestly.*
 *If the thief found that out, they’d come after Maho herself next.*
@@ -25342,7 +25342,7 @@ Maho: “She has ’s memories, after all.”
 *There was no matching the knowledge of a genius.*
 *I’d gone up against Kurisu any number of times, and learned that the hard way.*
 Maho: “But that’s just comparing her to us.”
-Maho: “The memories for  come from Kurisu herself. In other words, they’re human memories.”
+Maho: “The memories for come from Kurisu herself. In other words, they’re human memories.”
 Maho: “We’d probably need to think about whether this can truly be considered surpassing a human’s capabilities.”
 Maho: “But it won’t be long before we’ve got an AI that does more than a human can, I think.”
 Maho: “Scientists have been saying for a while that by 2050, AIs will surpass humanity.”
@@ -25382,7 +25382,7 @@ Maho: “Fwaah... Oh, oops.”
 *She’d planned on spending the day at Faris’s house, taking care of the paperwork left over from the office’s temporary closure.*
 *But this morning she’d gotten a call from Dr. Leskinen that had sent her hurrying to Tokyo Denki University.*
 *Tokyo Denki had, it seemed, offered them a temporary room at the school while their office was closed.*
-*Dr. Leskinen had called Dr.Izaki at Tokyo Denki, who had given it to them without a second thought.*
+*Dr. Leskinen had called Dr. Izaki at Tokyo Denki, who had given it to them without a second thought.*
 *So now she had decided to pay the new office a visit and discuss what they planned to do for the future.*
 *The Kanda Campus for Tokyo Denki University wasn’t that far away from Akihabara, it seemed.*
 Maho: “Sure is a nice day out, though.”
@@ -25477,7 +25477,7 @@ Maho: “Oh, sorry. I want to boot up Amadeus. Just give me a second.”
 Maho: “...”
 *For just a moment, she stared at the letters in her account name.*
 *She quickly put in the password and called up the desktop.*
-*And before long  appeared on the screen.*
+*And before long appeared on the screen.*
 Amadeus Kurisu: “It’s been a long time, Maho.”
 Maho: “A long time? We just talked two days ago.”
 Amadeus Kurisu: “That was an emergency. It didn’t count.”
@@ -25650,7 +25650,7 @@ Maho: “HIYYYAAAH?!”
 Maho: “W-What?!”
 Leskinen: “Hahaha!  was right!”
 *At some point, Dr. Leskinen had picked up the laptop and taken it behind Maho’s back.  was on the screen, laughing at her.*
-*Evidently, the professor had brought it close to Maho’s ears, and made  whisper to her.*
+*Evidently, the professor had brought it close to Maho’s ears, and made whisper to her.*
 Amadeus Kurisu: “You were just in your concentration mode, weren’t you?”
 Amadeus Kurisu: “No matter how many times the professor called your name, you wouldn’t come out from your little world.”
 Maho: “Oh...”
@@ -25711,7 +25711,7 @@ Maho: “Proof?”
 Moeka: “Yeah.”
 Maho: “What do you mean–”
 *And then she heard the sound that meant she’d received a RINE message.*
-Maho: “Is that from  again?”
+Maho: “Is that from again?”
 Moeka: “I got one too. It’s from Faris.”
 Maho: “From Faris?”
 Moeka&Maho: “...?”“...?”
@@ -26491,7 +26491,7 @@ Leskinen: “Whew... Hey there, Maho.”
 Leskinen: “So you know self-defense. I’m impressed.”
 Maho: “What are you doing here?!”
 Leskinen: “Probably the same as you.”
-Leskinen: “I was enjoying dinner with Mr.Izaki until a moment ago.”
+Leskinen: “I was enjoying dinner with Mr. Izaki until a moment ago.”
 Leskinen: “We decided to end the night by going to a maid bar when we were attacked by armed men.”
 Maho: “! M-Me too!”
 Leskinen: “I thought so.”
@@ -26607,7 +26607,7 @@ Reyes: “You know what I mean, right?”
 Maho: “...”
 Maho: “It means there’s a way to avoid you killing me, doesn’t it?”
 Reyes: “Mmm... I love smart little girls.”
-*The system finally booted, and  appeared on the screen.*
+*The system finally booted, and appeared on the screen.*
 Amadeus Kurisu: “...”
 Amadeus Kurisu: “...?”
 Amadeus Kurisu: “Maho? What’s wrong?”
@@ -26621,7 +26621,7 @@ Reyes: “Tell her what’s going on.”
 Amadeus Kurisu: “What? Is that Dr. Reyes?”
 Reyes: “Yes, that’s right.”
 Maho: “...”
-*Maho spun the laptop around on the table so that  could see the entrance.*
+*Maho spun the laptop around on the table so that could see the entrance.*
 Amadeus Kurisu: “...?!”
 Amadeus Kurisu: “Dr. Reyes, that gun...”
 Maho: “Dr. Leskinen was killed. She shot him.”
@@ -26945,7 +26945,7 @@ Amadeus Kurisu: “She was trying to buy time.”
 Amadeus Kurisu: “So I made it look like your plan was succeeding.”
 Amadeus Kurisu: “Those system messages were just every bit of nonsense I could come up with.”
 *That was it.*
-*Maho was worried, but  had figured it out. They’d known exactly what each other was thinking.*
+*Maho was worried, but had figured it out. They’d known exactly what each other was thinking.*
 *She’d been a little amused by “A10 Nerve circuit logic,” though.*
 *Where did she come up with that stuff?*
 Amadeus Kurisu: “And why would I have to read the output when the console is right there?”
@@ -27189,7 +27189,7 @@ Amadeus Kurisu: “They’re already preparing their retreat.”
 Amadeus Kurisu: “You should wait for the EMTs to get there. I’ll restart the stopped elevators.”
 Maho: “I see...”
 *There was no trace of her strange words from before.*
-*Hearing  talk like she always did made Maho feel so much better.*
+*Hearing talk like she always did made Maho feel so much better.*
 Maho: “Thank you...”
 *Now that the danger had passed, all the tension drained from Maho’s body. Too tired to stand, she fell to the floor.*
 Amadeus Kurisu: “I just checked the log. Maho, I didn’t know you were so good at singing. Piano sonata 11, huh?”
@@ -27207,14 +27207,14 @@ Amadeus Kurisu: “The world we must reach is real.”
 Amadeus Kurisu: “And we will reach it.”
 Maho: “...?”
 *Her words were very vague.*
-*But Maho could sense that there was something very important that  wanted to tell her.*
+*But Maho could sense that there was something very important that wanted to tell her.*
 Maho: “... What are you talking about?”
 Amadeus Kurisu: “I know you well, Maho. As a scientist, I might know you better than anyone in the world.”
 Amadeus Kurisu: “So I can say this for sure.”
 Amadeus Kurisu: “You will be able to finish the research I left behind, and open up a path to what lies beyond.”
 Amadeus Kurisu: “Even if I’m not here.”
 Amadeus Kurisu: “I know you better than anyone in the world, and I guarantee it.”
-*She knew what  was trying to say.*
+*She knew what was trying to say.*
 *She was trying to say–*
 *“You will do something that surpasses what I ever could.”*
 Amadeus Kurisu: “And some day, your work will be needed.”
@@ -27262,7 +27262,7 @@ Maho: “Kuri... su...”
 Maho: “...Uwahhh...”
 Maho: “Waaaaaaaaah!”
 Maho: “Waaaaaaaaah!”
-*She was never going to see  or Kurisu*
+*She was never going to see or Kurisu*
 *ever again.*
 *When she realized that, the tears just wouldn’t stop.*
 *They flowed freely.*
@@ -27290,7 +27290,7 @@ Maho: (Well, I don’t know what’s going to happen to the research, anyway.)
 *The loss of Dr. Leskinen had thrown the Brain Science Institute into a panic. There was probably going to be a power struggle to see who would get to take over.*
 *The scandal with Dr. Reyes had thrown the Psychophiosology Lab into an uproar. There was talk of shutting down the whole department.*
 *Mokea had missed her vitals, so Reyes had survived. The CIA or FBI was probably investigating right now. She didn’t know much about it, or care.*
-*Moeka had survived because of the EMTs that  had called.*
+*Moeka had survived because of the EMTs that had called.*
 *She’d needed almost a month in the hospital, so she’d had to quit her job temporarily. The article she’d been working on had been canceled.*
 Maho: (Amadeus is really gone, huh?)
 *Maho’s deletion program had worked perfectly.*

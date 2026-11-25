@@ -16,7 +16,7 @@ Atcchan: "Urgh... What...?"
 *I can see fields, dyed dark blue under the evening sky.*
 *I'm not in the city anymore. I'm far away from my new house, my new school, my new friends. Saki, Miho, and Yuuna.*
 *What are they doing right now?*
-*Saki, with her love of  horror stories. Miho, who always scores the highest in karaoke. Yuuna, who wears red ribbons in her hair and keeps falling asleep in class.*
+*Saki, with her love of horror stories. Miho, who always scores the highest in karaoke. Yuuna, who wears red ribbons in her hair and keeps falling asleep in class.*
 *But these idle thoughts soon fade away.*
 *I'm going back home. And maybe...*
 *Maybe I'll see her.*
@@ -65,7 +65,7 @@ Grandma: "On the contrary, I think he's grown up to be rather handsome."
 Atcchan: "Handsome...? I don't know about that..."
 Grandma: "Well, you know what they say. Good things come in small packages. The way I see it, you're just being modest!"
 *I don't know if being short is the same thing as being modest. My lack of height wasn't a conscious decision I made. If anything, I'd like to be a couple of inches taller. That way, I wouldn't get teased so much.*
-*Being the shortest boy in your class can be pretty depressing. Nobody likes being picked last when teams are being formed in P.E., and nobody likes being laughed at.*
+*Being the shortest boy in your class can be pretty depressing. Nobody likes being picked last when teams are being formed in P.E. and nobody likes being laughed at.*
 *Haa...*
 Atcchan: "I... I'm not really modest, you know?"
 Grandma: "I think you are. You're just proving my point, dear."
@@ -216,7 +216,7 @@ Atcchan: "Haa..."
 *I sigh, breathing in the cool country air. It's invigorating, waking me up more thoroughly than a bucket of cold water could.*
 *Now then...*
 *Where should I go...? Who should I see...?*
-*Amu told me, in a letter I received a few days ago, that she was going to spend most of Golden Week working in her parents' café. Since it's only 11:00 a.m., it seems likely she'll be there.*
+*Amu told me, in a letter I received a few days ago, that she was going to spend most of Golden Week working in her parents' café. Since it's only 11:00 a.m. it seems likely she'll be there.*
 *In that case, if I want to pay her a visit, I should dig my old bike out from my grandparents' back garden and take it for a ride. It takes about forty minutes to reach the town where that café is by bike, probably slightly longer if I walk.*
 *I haven't been on a bike in a long time. Thinking about it makes me feel a bit nostalgic.*
 *The wind in my hair, the scent of the flowers in the fields, the earth under my tires... It's an enticing idea.*
@@ -353,7 +353,7 @@ Atcchan: "Ha. That's stupid."
 *And so I've finally made it back here... Back to this familiar café.*
 *It's a warm, comfy place made mostly of wood; a small establishment, not very large, with a certain kind of humble charm.*
 *And the waitress who comes to greet me...*
-Amu:  "Hello, Sir, and welcome to Amu Café! Will you be dining alone today? Is there anywhere in particular you would like to-"
+Amu: "Hello, Sir, and welcome to Amu Café! Will you be dining alone today? Is there anywhere in particular you would like to-"
 Amu: "Oh my God!"
 *It's Amu.*
 *Her pink hair is as messy as ever, tendrils falling out of her ponytail. One hand on her hip, she looks me up and down, her mouth parted slightly.*
@@ -929,7 +929,7 @@ Amu: "Hey, Atcchan~ Are you hungry?"
 Atcchan: "Ah... Um, I... maybe a little."
 Amu: "Ehehe~ Then I know just what we're going to do! Follow me~!"
 *And 'Just what we're going to do!' turns out to be this.*
-*We're sitting together in a small family restaurant, situated  by the library and the sports center.*
+*We're sitting together in a small family restaurant, situated by the library and the sports center.*
 *I used to go here a lot when I was younger, since it was the de facto place my parents would default to when they wanted to take me out for a treat.*
 *The interior décor is typical for these kinds of establishments; uniform and nondescript, with beige walls and square tables.*
 Atcchan: "This place looks exactly the same as always..."
@@ -1627,7 +1627,7 @@ Eri: "It's no good. I can't find Shiro anywhere."
 Atcchan: "Do you have any idea where he might be?"
 Eri: "None at all. That's why I've been looking around all day."
 Atcchan: "You've been searching for Shiro all day?"
-Eri: "Yeah. Since 8:00 a.m., at least. I noticed he was missing from his cage at 7:00 a.m., when I went to give him his breakfast."
+Eri: "Yeah. Since 8:00 a.m. at least. I noticed he was missing from his cage at 7:00 a.m. when I went to give him his breakfast."
 *My eyes widen. I hadn't expected that.*
 *Eri really has been trying her best, hasn't she? And on a hot day, too, in a very ruffly dress. The amount of effort that must have taken is nothing short of heroic.*
 Atcchan: "Did you remember to have something to eat?"
@@ -2595,7 +2595,7 @@ Atcchan: "Um... S-Staying at my grandparents' home...?"
 Eri: "That's not what I meant and you know it!"
 Atcchan: "Ah, u-um... Sorry...?"
 Eri: "You can apologize all you want but it just isn't good enough. 'Sorry' won't bring back the time you've wasted, will it?"
-Atcchan: "Wasted...? But I set off at around 8:40 a.m., I think..."
+Atcchan: "Wasted...? But I set off at around 8:40 a.m. I think..."
 Eri: "Exactly! And now, you're precisely..."
 *Eri takes out a stylish pocket watch. I'm instantly reminded of the white rabbit from Alice in Wonderland. I wonder where she got it from. It looks pretty expensive.*
 *In this sunflower field, on the outskirts of such a small village, a Victorian-looking antiquity like this is decidedly out of place.*
@@ -2881,7 +2881,7 @@ Amu: "But she acts so spoiled and selfish, always putting on such ridiculous air
 Atcchan: "Well... She is quite stubborn, and sometimes she says rude things, but-"
 Amu: "But what? Why are you trying to make excuses for somebody you barely know? I thought I was supposed to be your friend?"
 *Ah... I don't understand...*
-*Amu looks so mad  now, but she and Eri... even though they used to squabble about petty things all the time, they got along well.*
+*Amu looks so mad now, but she and Eri... even though they used to squabble about petty things all the time, they got along well.*
 *Didn't they used to be friends...?*
 *I'm not remembering it wrong, am I?*
 *I open my mouth, ready to ask, when-*
@@ -3968,7 +3968,7 @@ Tsuzumi: "Who else would it be?"
 ???: "It's a big world. The possibilities are endless..."
 Tsuzumi: "Well, regardless, it is me, and I am here, and I've come to pick up the order I placed a few hours ago."
 ???: "Aah... I think I remember that... Heehee~"
-*Slowly but surely, a head of blond hair peeks its way  over the top of the counter.*
+*Slowly but surely, a head of blond hair peeks its way over the top of the counter.*
 *The blond hair is attached to a scalp, which belongs to a young woman - a rather soft-looking young woman, attired in an orange sweater.*
 *Her eyes are closed and she's yawning, wiping stray traces of sleep away from the corners of her eyes. Her long lashes flutter, but they don't open. Strands of her messy hair are stuck around her mouth - no doubt by drool.*
 *It looks like she's just awoken from a deep, deep slumber - heavier, even, than that a princess's from a fairytale.*
@@ -7196,7 +7196,7 @@ Mr. Jougasaki: "Huh? Just friends, is it? Is that what they're calling it nowada
 *If somebody had told me two days ago, as I was sitting on the train, staring out at the rolling fields cloaked in the oncoming evening, that I was going to end up kissing Amu before this journey was over, I wouldn't have believed them. I would have laughed in their face.*
 *Well, no, that isn't true. I wouldn't laugh in anybody's face. That would be too mean.*
 *It's more likely I would've choked on my own tongue in surprise instead - which is distinctly more uncool, but also more like me.*
-*Just thinking about is enough to make my heart skip a beat. I feel lightheaded - though I'm not sure whether that's from the bath (no matter how many hot baths I take, my body never seems to get accustomed  to it) or from the memory of Amu's lips.*
+*Just thinking about is enough to make my heart skip a beat. I feel lightheaded - though I'm not sure whether that's from the bath (no matter how many hot baths I take, my body never seems to get accustomed to it) or from the memory of Amu's lips.*
 *Maybe it's both.*
 *Aah... With this, I... I-I suppose that means we're dating, right?*
 *Amu might be a little impetuous, but she wouldn't kiss me if she didn't mean it - and, judging by what she said, she did mean it. She meant every last word.*
@@ -7807,7 +7807,7 @@ Amu: "Aah! No, I've got it! I really think I've got it!"
 *I look at Amu dubiously. Is that really true?*
 *Maybe I should test her.*
 Atcchan: "What have you 'got', Amu?"
-Amu: "Kukuku~ Weeell... I enjoy teasing you,  Atcchan - and it comes easily to me!"
+Amu: "Kukuku~ Weeell... I enjoy teasing you, Atcchan - and it comes easily to me!"
 Atcchan: "What?"
 Amu: "I enjoy teasing you! That's what I said, right~?"
 Atcchan: "I-I already know that! But why are you bringing it up? That has nothing to do with anything!"
@@ -14120,7 +14120,7 @@ Atcchan: "Thanks for the food."
 *At some point, we run into Amu, Eri, and Eri's big sister. Amu is eating a snow cone. A bit of it has melted on the tip of her nose.*
 Amu: "Atcchan, Atcchan! Did you see it, did you see it?!"
 Atcchan: "See what? I-I don't know what you mean..."
-Amu: "The giraffes, of course, the giraffes! They have such long, long necks  it makes me want to tie a knot in one! That's my dream! Kukukuku~"
+Amu: "The giraffes, of course, the giraffes! They have such long, long necks it makes me want to tie a knot in one! That's my dream! Kukukuku~"
 Atcchan: "U-Um, well... I don't know if they'd like that. That might hurt them..."
 Amu: "But that's my dream! Sacrifices must be made! For the greater good!"
 Atcchan: "U-Um... Did you know you have some snow cone on your nose...?"
@@ -16079,7 +16079,7 @@ Atcchan: "E-Ehehe..."
 *That milk still hasn't made me any taller, and my bones don't feel particularly stronger, despite the advertising spiel, but it doesn't hurt to have hope. If I gave up on my height now, that would be like giving in; embracing my sad destiny with both arms wide open...*
 *I brush my teeth, comb my hair, and fretfully examine my face in the bathroom mirror for while (those freckles are still there, just as visible as ever), before cutting my losses with a small sigh.*
 *I pick up my schoolbag, sling it over one shoulder, bid goodbye to my parents, then leave; making my way to the train station.*
-*Typically, I arrive at school at 8:00 a.m., and spend a while sitting in class, chatting to my friends, before the teacher arrives to start the school day.*
+*Typically, I arrive at school at 8:00 a.m. and spend a while sitting in class, chatting to my friends, before the teacher arrives to start the school day.*
 *After school, I hang around with Saki, Miho, and Yuuna - usually shopping, sometimes going to see a movie, and occasionally getting something light to eat in a nearby café.*
 *After a few hours, I return home, finish my homework, eat dinner, watch overly sentimental TV dramas with my mother since we have very similiar tastes (my dad just sighs and rolls his eyes when we commandeer the big TV in the living room, but its two against one so he never wins), then go to sleep.*
 *Rinse and repeat, over and over again - excepting weekends, of course.*
@@ -18465,7 +18465,7 @@ Grandma: "Yes~ Our cute, charming grandson who's so much fun to tease~ Hohoho~"
 *What if... this is the last time I get to see them?*
 Grandma: "But don't worry, dear."
 Atcchan: "Huh?"
-Grandma: "I'll  be around a lot longer yet. This old woman is more tenacious than she looks!"
+Grandma: "I'll be around a lot longer yet. This old woman is more tenacious than she looks!"
 *And, with a laugh, she flexes her nonexistent muscles.*
 Grandpa: "That's right, that's right! Chiyo is a feisty one all right! If she had to, I'm sure she could wrestle a bear!"
 Grandma: "Indeed~ So, you don't need to worry about us. Go and have fun with your friends tomorrow - we don't want to get in the way."
@@ -18786,7 +18786,7 @@ Tsuzumi: "Again... It's just no good..."
 *Even though it was another good drawing... I guess it wasn't good enough for her.*
 *We've been at this for hours now, and Tsuzumi still hasn't made any progress. If anything, her face looks even darker, more despondent, than before.*
 *I hope she doesn't try to take her frustrations out on me. I don't want to be used as a stress ball, or a pin cushion...*
-*I glance up at the clock hanging on the wall. It's almost 5:00 p.m. My train leaves at 7:00 p.m., and it takes about half an hour to reach the train station...*
+*I glance up at the clock hanging on the wall. It's almost 5:00 p.m. My train leaves at 7:00 p.m. and it takes about half an hour to reach the train station...*
 *I should be leaving soon - and Noelle, Eri and Amu still haven't returned.*
 *I shuffle about in my seat anxiously, crossing and uncrossing my legs, like a kid in the middle of an exam too shy to ask if they can go to the toilet.*
 *What should I do...?*
@@ -19195,7 +19195,7 @@ Noelle: "Y-You mean, um..."
 Amu: "Wow... This is great!"
 *Amu beams, a wide smile on her face, as though she's just won a lifetime supply of green tea ice cream.*
 Amu: "I've always wanted to go to a large convention like that! This is like a dream!"
-Eri:  "You might call it a dream, but... to me, it's a nightmare."
+Eri: "You might call it a dream, but... to me, it's a nightmare."
 Amu: "Oh, come on, Eriri, don't be like that! Try to be a bit more optimistic!"
 Eri: "Ha... Unfortunately, I am not a very optimistic person."
 Amu: "Well, I'm not going to let you get me down! Heehee~"

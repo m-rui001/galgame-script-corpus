@@ -1837,7 +1837,7 @@ Lich: "You have tasted death before though... haven't you?"
 Lich: "In fact, it clings to you."
 *The voice chuckled softly.*
 Lich: "You and I have that in common."
-Lich: "A taste of death... over  times..."
+Lich: "A taste of death... over times..."
 Lich: "Well, you're an expert by now."
 Lich: "You have tasted death before though... haven't you?"
 Lich: "Yes... 69 times..."

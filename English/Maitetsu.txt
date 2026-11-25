@@ -5149,7 +5149,7 @@ Sotetsu: "Tororu Hot Springs is the exception. They reserve the whole women's ba
 Nagi: "Reserved?!"
 Fukami: "Th-The women's bath...?"
 Sotetsu: "The owner there is pretty understanding of the railways. But she just doesn't want me to dirty up the bigger men's bath."
-*I explain what happens at the Tororu Hot Springs past 11 p.m., and Nagi starts breathing heavily as Fukami turns red. *
+*I explain what happens at the Tororu Hot Springs past 11 p.m. and Nagi starts breathing heavily as Fukami turns red. *
 Nagi: "Reserved! Sounds like fun! I want to go, too!"
 Fukami: "Y-Yes, Nagi...-chan. If you have the place to yourself, it seems like that would be... um, fun."
 Sotetsu: "Hm."
@@ -10139,7 +10139,7 @@ Sotetsu: "You got that, Hachiroku?"
 Hachiroku: "Awa! Huh? Oh, yes. What is it, Sotetsu-sama?"
 *Considering how surprised she is, she probably wasn't listening to me. *
 Sotetsu: "For your first column, how about the title 'Spring Cleaning for 8620'?"
-*With a doubtful look on her face, Hachiroku  talks about the circumstances of the photos from earlier. *
+*With a doubtful look on her face, Hachiroku talks about the circumstances of the photos from earlier. *
 *Soon, I hear a sluggish voice.*
 Hachiroku: "How about putting this message into... words? We'll take a picture... of our cleaning of this smokebox."
 *Her words and expression are devoid of confidence.*
@@ -13691,7 +13691,7 @@ Sotetsu: "Please... leave it to me."
 *Those days aren't over yet. That's why I am still like this. *
 Sotetsu: "Together with Hachiroku, 8620 and 58623 will run once more!"
 *I swear that in my heart. It's my true intent, and yet it's not. *
-*A deep-rooted doubt, or perhaps fear. I  can't fully trust my own words. *
+*A deep-rooted doubt, or perhaps fear. I can't fully trust my own words. *
 Craftsman: "That's good to hear."
 *Fuchi-san's hands wrap around mine. I sense heat that could burn me. *
 *No, that's not it. Fuchi-san has a terribly surprised look. It is me who's cold. *
@@ -15094,7 +15094,7 @@ Reverend Akai: "Oh, that's me. Excuse me."
 Sotetsu: "Makura-nee, Paulette. Please take care of this. I'll make preparations so I can head out at any time."
 Paulette: "I understand."
 Makura: "Leave it to me, So-chan."
-*They  are so dependable.*
+*They are so dependable.*
 *I have no concerns about this. Just move forward! *
 Sotetsu: "Let's go, Hachiroku!"
 Hachiroku: "Yes!"
@@ -16011,7 +16011,7 @@ Hachiroku: "But I... I am a Raillord."
 Paulette: "It's all right. Because, Hachiroku-chan, you're a woman."
 *"Japan Compendium of Laws".*
 *The thin font on the thick book is what Paulette's pointing at. *
-Paulette: "At the very premise,  civil law dictates that both genders of consenting persons will form the marriage."
+Paulette: "At the very premise, civil law dictates that both genders of consenting persons will form the marriage."
 Sotetsu: "Both genders..."
 Paulette: "This is interpreted as a man and a woman."
 Sotetsu: "Oh?"
@@ -28206,7 +28206,7 @@ Minokasa: "In that case, I can try inviting them saying you asked them to."
 Sotetsu: "Yes, please. Thank you very much!"
 *The moment I bow, I see Hibiki out the corner of my eye.*
 Sotetsu: "But excuse me. Would you please give me a few days before you actually do start to help?"
-Minokasa: "Ah. I suppose. You'll need time to design and draw up  blueprints of the passenger car models, too."
+Minokasa: "Ah. I suppose. You'll need time to design and draw up blueprints of the passenger car models, too."
 Sotetsu: "Yes. But considering Hibiki in this state, I would need to consult with her on the timing of it."
 *Still. There's a time limit of the voting day.*
 Sotetsu: "I won't make you wait long. At the very worst, I will consider taking an existing passenger car design and say it is provisional."
@@ -32565,7 +32565,7 @@ Kisaki: "I see... They were ex-railroad industry people. Specialists that have b
 *Without waiting long, the printer starts spitting out paper. Like clockwork, Urakami-san gathers it. *
 Mototada: "Oh? Not bad. Then the recipients would be convinced, too."
 Paulette: "That is true. Huh, this is well summarized. It's not pushy... and yet at the same time, it's rather exciting."
-Hachiroku: "'Additional primary fund applications wanted; Ohitoyo Railway Co., Ltd. Active Line, Ohitoyo-Yunoi Section'."
+Hachiroku: "'Additional primary fund applications wanted; Ohitoyo Railway Co. Ltd. Active Line, Ohitoyo-Yunoi Section'."
 Kisaki: "We'll nail down the details later. But what do you think, Sotetsu?"
 Sotetsu: "This is good. Very good, actually."
 *A catchphrase placed in front of the recruitment.*

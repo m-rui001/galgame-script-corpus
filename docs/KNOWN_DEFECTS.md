@@ -58,3 +58,21 @@
 ## English/ 里的漏译日文行
 
 `lang_scan.py` 的 `kana_in_en` 列出英文文件里仍带假名的行数，前八：Sugar Style 273、Comyu 218、SaDistic BlooD 181、FLML 116、DRACU-RIOT 108、Senren Banka 86、Ley-Line Borderline 69、Maitetsu 64。这些是漏译，不是润色对象——按 `docs/STYLE_EN.md` 第 1.2 节处理（译成上下文同风格英文，保留原有说话人标签与引号数）。
+
+## JA/ 的字形损坏（半角片假名可修，缺字不可修）
+
+`tools/repair/fix_punct.py` 能修的：半角片假名 → 全角（全库 845 处，集中在 `Kao no nai Tsuki`、`ChronoClock`）。行首孤立标点 43 处、行尾空格若干。
+
+修不了、只能记录的：Shift-JIS 转换留下的缺字与乱码块。例如 `ChronoClock`：
+
+```
+髞V内真琴です」        ← 前几个字被吃掉
+潔t型はＡ型♪」         ← 同上
+ﾈことないよー」        → ネことないよー」   （半角可转，缺的字补不回来）
+```
+
+这类位置**不要猜着补**：同一行上下的语境不足以确定原文，补出来等于编造。要修只能回原始游戏文件重新提取。全文扫描判据：
+
+```python
+re.search(r'[\u9ADF-\u9FFF]{1}[A-Za-z]', line)       # 汉字后紧跟单个拉丁字母
+```

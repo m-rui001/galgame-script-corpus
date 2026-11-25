@@ -2331,7 +2331,7 @@ You: "I'd better shave."
 *Strange idea. Before twice a month was enough, but now nothing depends on the way I look.*
 *I haven't found a razor anyway.*
 You: "Why do I even need it if I look like I'm seventeen at most?"
-You: "So... Breakfast can't start earlier than 9 a.m., and this means I have plenty of time."
+You: "So... Breakfast can't start earlier than 9 a.m. and this means I have plenty of time."
 *Which I can spend on walking and washing, for example.*
 *The water didn't seem as ice cold as the previous day.*
 *On the contrary – its refreshing coolness helped me to brace up and come back to reality (whether all these events could be called real).*
@@ -4994,7 +4994,7 @@ Slavya: "Did he mention anything yesterday?"
 Sergei: "For example?"
 Slavya: "That he was going somewhere, for instance?"
 Sergei: "Nope..."
-You: "What exactly is so horrifying about that?It's only 9 am. He might have decided to go for a walk."
+You: "What exactly is so horrifying about that? It's only 9 am. He might have decided to go for a walk."
 Slavya: "You don't know Shurik."
 *She looked over at me seriously.*
 You: "Well no, I don't..."
@@ -5244,7 +5244,7 @@ You: "Nothing bad will happen, after all! Probably..."
 *Miku took a guitar.*
 Miku: "Here, have a look!"
 *She sat down and started playing.*
-*I tried to follow her hands.The tune seemed quite simple.*
+*I tried to follow her hands. The tune seemed quite simple.*
 *It seemed quite easy to repeat it.*
 Miku: "Got it?"
 You: "Kind of."
@@ -5374,7 +5374,7 @@ Slavya: "And what are you doing?"
 *She asked with suspicion.*
 *I looked over myself, lying on the bed and said:*
 You: "Lying down..."
-Slavya: "I can see that.But I heard Olga Dmitrievna asked you to find Shurik."
+Slavya: "I can see that. But I heard Olga Dmitrievna asked you to find Shurik."
 You: "Well, yes..."
 Slavya: "And?"
 You: "What's the point? I'm sure she already turned the whole camp upside down."
@@ -10699,7 +10699,7 @@ Alisa: "Ugh, you really are an idiot!"
 *I tried to think over what had happened, analyze it somehow, but it seemed I was bashing against an invisible wall.*
 *Moreover, it was impossible for me to find a single emotion in my soul, any response. As if it had all happened to someone else.*
 *I failed to convince Lena that I'm not guilty. Should I care?*
-*Lena cried, screamed, and then left.So what?*
+*Lena cried, screamed, and then left. So what?*
 *I don't feel anything about it. Should I?*
 *I bit my lip until it bled and stood up.*
 *I couldn't bear to stay here among these laughing pioneers.*
@@ -13044,7 +13044,7 @@ You: "I’m not! There's nothing to be afraid of…"
 Slavya: "So get in."
 *I didn't know what to say.*
 *I probably wanted to comply – but with everything happening some other way. Not in a such spontaneous and random manner.*
-You: "And really – why is Slavya so friendly to me?Or is there something more to it than that? Then I really don't get it!"
+You: "And really – why is Slavya so friendly to me? Or is there something more to it than that? Then I really don't get it!"
 Slavya: "It's up to you!"
 *She said disappointedly.*
 Slavya: "Light the fire then."

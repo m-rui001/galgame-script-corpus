@@ -1105,13 +1105,13 @@ Sachi: Ichiru-sama, is it...? I'll have to pronounce it carefully, since it's so
 Makina: Welp, their initials are I and M, sooo... we could always call 'em "India" and "Mike" ta avoid confusion! Phonetic-alphabet style!
 Yumiko: In any case... it seems we've found another thread of light to guide us forward...
 Thanatos: That's exactly right...
-Narration: *     Leaving our airtight academy behind,  we fought our way out here together―*
+Narration: *     Leaving our airtight academy behind, we fought our way out here together―*
 Narration: *     And we thought we'd accomplished something in doing so.*
-Narration: *     But in the end,  we'd only traded in a sealed school campus  for an equally isolated tropical island.*
-Narration: *     That said... A new life's just appeared within our  self-contained little world.*
-Narration: *     Nobody yet knows what the future might hold for the baby  that was born on this island.*
-Narration: *     But as of this moment,  I think we're truly going to start moving forward...*
-Narration: *     And as long as we know that,  we can give each new day everything we've got...*
+Narration: *     But in the end, we'd only traded in a sealed school campus for an equally isolated tropical island.*
+Narration: *     That said... A new life's just appeared within our self-contained little world.*
+Narration: *     Nobody yet knows what the future might hold for the baby that was born on this island.*
+Narration: *     But as of this moment, I think we're truly going to start moving forward...*
+Narration: *     And as long as we know that, we can give each new day everything we've got...*
 
 Narration: *―I'm not sure exactly where I read this, but apparently the favorite phrase of most office workers in their 40s is "Ugh, I'm so tired."*
 Narration: *In the military, of course, complaining about how "beat" you are or how "boring" your job is will earn you a smack in the face... and quite possibly a furious order to go run laps around your base.*
@@ -3885,19 +3885,19 @@ Amane: ...Here we go... Right there.
 Narration: *The beam of LED light settled on a corner of the closet... revealing words that testified to Yuuji's own suffering.*
 Narration: *"I can't sleep. No matter what I try, I just can't sleep."*
 Narration: *"Lately, I've been tossing and turning every single night."*
-Narration: *"When I lock myself up alone like this,   I always end up remembering the past...   and hating myself for my own hypocrisy."*
-Narration: *"It helps to write it all down on these walls.   When I scribble my thoughts inside this closet,   it makes me feel at least a little more stable mentally."*
-Narration: *"I gave someone an arrogant lecture on their way of  life today. Again."*
-Narration: *"It's not like I think my words are actually going to   change anything."*
+Narration: *"When I lock myself up alone like this, I always end up remembering the past...   and hating myself for my own hypocrisy."*
+Narration: *"It helps to write it all down on these walls.   When I scribble my thoughts inside this closet, it makes me feel at least a little more stable mentally."*
+Narration: *"I gave someone an arrogant lecture on their way of life today. Again."*
+Narration: *"It's not like I think my words are actually going to change anything."*
 Narration: *"Am I even doing the right thing?"*
 Narration: *"Should I really just keep on going like this?"*
 Narration: *"I don't know what I'm living for anymore."*
 Narration: *"There's no one here to answer my questions."*
-Narration: *"Kazuki and Asako were supposed to give me the answers,   but they're gone now."*
+Narration: *"Kazuki and Asako were supposed to give me the answers, but they're gone now."*
 Narration: *"It's not like I've given up.   It's not like I've despaired.   That's what I want to believe, at least."*
-Narration: *"But I'm just so tired.  If I stop forcing myself to stand,   it feels like I might just collapse."*
-Narration: *"And if I fall apart now, I know from experience   that I'll sink into an unendurable nightmare."*
-Narration: *"I scratch frantically at my own body,   tormented by the illusion of insects   running around under my skin."*
+Narration: *"But I'm just so tired.  If I stop forcing myself to stand, it feels like I might just collapse."*
+Narration: *"And if I fall apart now, I know from experience that I'll sink into an unendurable nightmare."*
+Narration: *"I scratch frantically at my own body, tormented by the illusion of insects running around under my skin."*
 Narration: *"The pain's intolerable.   Even death would be better than this."*
 Narration: *"But I'm not allowed to die.   Not permitted to escape this hell." *
 Narration: *"For some reason, there are people who believe in me.   People who are counting on me.  And that just pulls the noose even tighter."*
@@ -3959,12 +3959,12 @@ Makina: We ain't got time fer that, man! Look at this! Just friggin' look at thi
 Michiru: What the heck? Geez...
 Narration: *   "I did think about continuing down this path.   Trying to live a normal life."*
 Narration: *"But I know how stupidly optimistic that thought is.   And I hate myself for thinking it."*
-Narration: *"Doing good in the present won't erase the crimes   of my past."*
+Narration: *"Doing good in the present won't erase the crimes of my past."*
 Narration: * "I've killed too many people."*
 Narration: *"I've sacrificed far too much."*
 Narration: *"All I really want is a place to die."*
 Narration: *"Asako was allowed to die because she saved me..."*
-Narration: *"And I saved the students of Mihama,  so I think I've earned that right as well."*
+Narration: *"And I saved the students of Mihama, so I think I've earned that right as well."*
 Narration: *    "Hey, Asako... I saved five people, see...?   Isn't that enough...?"*
 Narration: *"It's okay for me to die now, right...?"*
 Michiru: Bwat tha beeeell!?!?!
@@ -10436,10 +10436,10 @@ Yumiko: Please, no! Leave out the "Eternal" part! I'm begging you!
 Makina: This is a pain in the ass... C'mon, let's just go with Slut an' Loner. Kinda sounds like th' name of some edgy young comedy duo, right? "Slut and Loner, live from Mihama!"
 Amane: Well, I don't really care either way...
 Narration: *   ―At this stage, life and death are a matter of chance. *
-Narration: *When we pray to the heavens for survival,   we leave ourselves in the hands of fate.  *
+Narration: *When we pray to the heavens for survival, we leave ourselves in the hands of fate.  *
 Narration: *I choose, instead, to empty my mind―   And charge toward my end.  *
 Narration: *A chosen death, not a fated one.  *
-Narration: *Should I fall in pursuit of a noble purpose,   I shall perish without regrets.    p―Irisu Makina*
+Narration: *Should I fall in pursuit of a noble purpose, I shall perish without regrets.    p―Irisu Makina*
 Narration: *As the fated hour of 8 AM drew near, the public reading of Makina's traditional "death poem" concluded, and Sachi proceeded to push Yumiko up onto the wooden box that served as their "platform."*
 Sachi: "Aah, ahem. Mic test, mic test."
 Sachi: "Well then, it's just about time for our operation to commence. But before we all head off to battle, I'm sure we're all eager to hear a few words from our commanding officer and overall chief of operations, General Sakaki."
@@ -14767,15 +14767,15 @@ Narration: *     On the bright side, JB-san managed to officially retire from he
 Narration: *    Our island's populated by a group of women united by their feelings for a single man. Understandably, we've had our share of squabbles and disagreements; but even now, we're still warmly waiting for his return.*
 Narration: *     We don't have any running water or electricity here, but we've been finding ways to get by. Every day's as peaceful, dull, and ordinary as the last.*
 Narration: *     By now, I think I'm actually a little nostalgic for that summer when we risked everything.*
-Narration: *     ―It was about two years later that I finally  earned my license as an airplane pilot.*
+Narration: *     ―It was about two years later that I finally earned my license as an airplane pilot.*
 Narration: *     　　　　―Hi Mom. Hi Dad. I hope you're doing well.*
-Narration: *     It's now been nearly two years  since I arrived on this island.*
-Narration: *     I know that you've been very worried  in my absence, and I sincerely apologize.*
-Narration: *     I've given up many things, and there's still  quite a few smaller problems left to deal with.*
+Narration: *     It's now been nearly two years since I arrived on this island.*
+Narration: *     I know that you've been very worried in my absence, and I sincerely apologize.*
+Narration: *     I've given up many things, and there's still quite a few smaller problems left to deal with.*
 Narration: *     But even so...*
-Narration: *     Even so, I've found real happiness here.  And as long as I can keep smiling,  I don't care about the rest.*
+Narration: *     Even so, I've found real happiness here.  And as long as I can keep smiling, I don't care about the rest.*
 Narration: *     There's no such thing as heaven on earth.*
-Narration: *     But if paradise doesn't exist,  we just have to make our own.  It's simple enough, really.*
+Narration: *     But if paradise doesn't exist, we just have to make our own.  It's simple enough, really.*
 Narration: *     Right now, I'm honestly glad that I'm alive.  That's enough to make this place "paradise" in my book.*
 Narration: *     Yeah. When all's said and done...  life really is a lot of fun, isn't it?*
 Narration: *     ―Oh, right, almost forgot.  I've just obtained my license as an airplane pilot.*
@@ -14784,7 +14784,7 @@ Narration: *     You know me, Dad... I always did love everything with tires and
 Narration: *     When we first arrived on this island, we were totally reliant on the stuff we brought with us on our ship, but things are starting to get a lot more comfortable.*
 Narration: *     After clearing a field for our vegetable garden, we started off by planting pumpkins and sweet potatoes. Now we're growing greens, eggplants, tomatoes, and fruits as well.*
 Narration: *     For a while there, we were cooking in a big pot made from the lid of a metal drum, which we heated over a primitive stone oven. But these days we've got actual tools and equipment - and a space worthy of being called a "kitchen."*
-Narration: *     We've all assumed our own roles here,  and we're all enjoying life in our own ways―*
+Narration: *     We've all assumed our own roles here, and we're all enjoying life in our own ways―*
 Makina: Eggs, eggs, eggy-weggs...♪ Ooh, ya popped out a whole bunch today! Nice work, leghorns!
 Makina: Hmm. I'm glad yer layin' so many, but why are they all different sizes...? The yolks are always lemon yellow, too... Fer some reason, they ain't that tasty.
 Makina: ...Wonder what the deal is. Are we not feedin' you guys right? I used ta eat 'em without a second thought, but the eggs in Japan were pretty amazin' in retro-speckt...
@@ -19313,15 +19313,15 @@ Yumiko: The 25% off sale on video downloads ends today, doesn't it...?
 Narration: *Forcibly pushing my fears from my mind, I turned back and headed to my room... but regrettably, my intuition would prove to be more to be reliable than I thought.*
 
 Narration: *     　"I want to become a bird."*
-Narration: *     Anyone who's spent enough time in the world of literature  will have felt that yearning at least once.*
+Narration: *     Anyone who's spent enough time in the world of literature will have felt that yearning at least once.*
 Narration: *     　And I must admit, I'm no exception...*
-Narration: *     I used to spend a good deal of time  gazing dreamily up at the clouds,  wishing I could fly freely through the sky.*
-Narration: *     However, as I grew up and learned the ugly  truth about the nature of human society,  I came to realize how pointless that fantasy was.*
+Narration: *     I used to spend a good deal of time gazing dreamily up at the clouds, wishing I could fly freely through the sky.*
+Narration: *     However, as I grew up and learned the ugly truth about the nature of human society, I came to realize how pointless that fantasy was.*
 Narration: *     Why yearn for the life of a bird? I already was one.*
 Narration: *     But that doesn't mean I can soar through the sky.  I'm a bird in a cage, forbidden to even flap my wings.*
 Narration: *     That man holds my life and death in his hands.  I have no control whatsoever over my own future.*
 Narration: *      Those are simply facts.*
-Narration: *     When you really think it through,  perhaps everyone is a "bird in a cage" to some degree.*
+Narration: *     When you really think it through, perhaps everyone is a "bird in a cage" to some degree.*
 Narration: *     ―It's just that the cage I live in is a bit...  "unusual" in comparison to those that most inhabit.　*
 
 Date: *June XX, 2010, 06:30 - Dormitory - Yumiko's Room*

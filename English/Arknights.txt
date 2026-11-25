@@ -2009,7 +2009,7 @@ Platinum: Czarny was already removed from his post at that time. I wasn't in the
 Roy: Ah, so frank. That's fine.
 Roy: Though I also feel bad for Czarny, that isn't the real issue here... Put simply, Szewczyk has gone missing.
 Roy: Plastic Knight does not come from an esteemed lineage. He's just another tournament upstart.
-Roy: Though we didn't have any plans to remove him from the picture, he is the property of the Roar Guards Co., and it never bodes well to let someone else take the initiative. We'll definitely get complaints from the K.G.C.C.
+Roy: Though we didn't have any plans to remove him from the picture, he is the property of the Roar Guards Co. and it never bodes well to let someone else take the initiative. We'll definitely get complaints from the K.G.C.C.
 Platinum: Did you find out who did it?
 Roy: The Infected.
 Platinum: I don't understand. How could a few Infected knights accomplish all this?
@@ -2457,7 +2457,7 @@ Silence: Including the person at the heart of this affair—Anthony Simon, his o
 Silence: The short story is, whether it was over or under the table, the two companies fought it out, and they fought hard. To the point of blood, some rumors even say.
 Silence: And in the end, one can say Simon Co. lost. Ever since, HydeBro has enjoyed a very real monopoly on construction supply commerce in not just Bunkerhill, but surrounding cities as well.
 Muelsyse: Hmhmm. All correct. Gold star for you.
-Muelsyse: Ultimately, you all come together in Ironforge City and shook them off. P.S., I've gotta say you did a beautiful job.
+Muelsyse: Ultimately, you all come together in Ironforge City and shook them off. P.S. I've gotta say you did a beautiful job.
 Silence: ...But we didn't shake you off.
 Muelsyse: Ahah. Too true.
 Silence: I see you're not denying you were in league with them.
@@ -2632,7 +2632,7 @@ Swire: Hey, why'd you buy two portions? How am I gonna finish this much?
 Hoshiguma: Oh... that was two? Must've been habit. Bought them without thinking.
 Swire: ......
 Swire: Three-mushroom shredded fowl, saa sin sauce, extra starchroot... Hmph, only that dummy would like it this way.
-Swire: Their place uses pretty boring noodles. The flavor's too bland, they skimp on the ingredients. It's barely passable. Next time, remember: go downstairs from the L.G.D., turn the corner, second house down with the blue sign hung outside. They do better stuff.
+Swire: Their place uses pretty boring noodles. The flavor's too bland, they skimp on the ingredients. It's barely passable. Next time, remember: go downstairs from the L.G.D. turn the corner, second house down with the blue sign hung outside. They do better stuff.
 Hoshiguma: Fine, I get it, I'll get you theirs next time. Just try and eat some for now. Woah, slow down! You don't have to inhale it.
 Swire: (Yawn)
 Swire: Oh, yeah, where are you going today? I'm up already, so you may as well count me in for some window-shopping.
@@ -4378,7 +4378,7 @@ Skadi: ......
 Skadi: (Ægirian) It's the rotted seagrass that clings most to one's leg.
 Skadi: I never thought it would be the annoyance of worthless bounty hunters that remained ever unchanging.
 ====================act18side_Lingering Echoes.xlsx====================
-*'The Sky is blue and fine,The Breeze lilts by in Song;The River murmurs clear,My Heart is filled with Hope.The Mist parts overnight,The Earth welcomes Dawn's Light;Praise be Leithanien,Where free Men find their Home.'—Lied des klaren Himmels (1078)*
+*'The Sky is blue and fine,The Breeze lilts by in Song;The River murmurs clear,My Heart is filled with Hope. The Mist parts overnight,The Earth welcomes Dawn's Light;Praise be Leithanien,Where free Men find their Home.'—Lied des klaren Himmels (1078)*
 Hibiscus: (According to the map, I shouldn't be far from the Rhodes Island branch office now.)
 Hibiscus: (Got held up a bit coming into Vyseheim, but if I just hurry up, I can hopefully make it there before I'm late...)
 Passionate Infected: Hold it right there!
@@ -7084,7 +7084,7 @@ Platinum: Huh. Compassion... not really, I guess. I don't even get the time for 
 Platinum: Compassion's a luxury kinda deal these days.
 Armorless Union Member: ...Ha.
 Platinum: I've got other assignments. Dealing with the Infected is pretty small-time. You guys have it.
-Platinum: It doesn't matter what tantrums Adeptus throws at the K.G.C.C., neither's gonna wanna keep Infected in the Grand Knight Territory.
+Platinum: It doesn't matter what tantrums Adeptus throws at the K.G.C.C. neither's gonna wanna keep Infected in the Grand Knight Territory.
 Platinum: The nobles aren't gonna care whether Infected live or die, are they?
 Sona: ...How the...
 An Infected Knight: Flametail!
@@ -7176,7 +7176,7 @@ Sona: Right here!
 *You must try to remember.*
 Distant Voice: ...consciousness...
 Distant Voice: Circulation resumed... vitals stabilized... cardioplegia solution injected...
-Distant Voice: Body temperature low... administering Hexamethasone 20 c.c., now...
+Distant Voice: Body temperature low... administering Hexamethasone 20 c.c. now...
 Distant Voice: Get the hemostat!
 Distant Voice: ...Conditions stable... beginning resection... be careful of VFib...
 Distant Voice: ...Sorry...
@@ -7355,9 +7355,9 @@ Theresis: And at this moment, we stand here—in a new tower, in a new opportuni
 Theresis: Look at Londinium today. You only just presided over the meeting of the kings. How can you not have realized?
 Theresis: Not even before the useless war between us began, were the Sarkaz so close to unity.
 *「I'll return to the city's outer barracks soon,Your Majesty Theresa.」*
-*「I understand, Nachzehrer King.Our meeting here will be as brief as possible.」*
-*「You're always in such a hurry, Nachzehrer.You don't want to get together with us?」*
-*「I haven't the time to spare, Vampire.A hundred thousand are stationed outside Londinium.Not I nor my soldiers can spare a second of complacency.」*
+*「I understand, Nachzehrer King. Our meeting here will be as brief as possible.」*
+*「You're always in such a hurry, Nachzehrer. You don't want to get together with us?」*
+*「I haven't the time to spare, Vampire.A hundred thousand are stationed outside Londinium. Not I nor my soldiers can spare a second of complacency.」*
 *「His head will have to stay on his neck for a moment longer. Don't add the city's Victorian Army to our troubles.」*
 *「Fine enough. That said,don't you feel that some still haven't been put to use?」*
 *「Do you speak of myself, Vampire?I have great affairs upcoming, don't I, Your Highnesses?」*
@@ -7602,7 +7602,7 @@ Ch'en: ...Hard to deal with?
 Ch'en: Foolish Infected...
 Ch'en: ...
 Ch'en: Did you think we'd allow you filth to treat Lungmen like your personal latrine?!
-Ch'en: L.G.D., attack!
+Ch'en: L.G.D. attack!
 ====================main_4_Burning Run.xlsx====================
 *Rhodes Island*
 Kal'tsit: Welcome back.
@@ -8576,7 +8576,7 @@ Guide: Tsk... If you don't like hearing the truth...
 Guide: Let me just make this clear. If somethin' happens, I'm only gonna be lookin' after myself.
 Operator Barty: Damn it, people like you...
 Eyjafjalla: It's fine, don't worry about it. Thank you for showing us the way, Mr. Guide.
-Eyjafjalla: Continuing recording... The current time is 12:25 P.M., and we're moving towards the last sampling site.
+Eyjafjalla: Continuing recording... The current time is 12:25 P.M. and we're moving towards the last sampling site.
 Eyjafjalla: We've analyzed the data from the previous sampling site and... Well, it's pretty much what I predicted.
 Eyjafjalla: Despite being igneous rock deposited by an ancient volcano, there's still strong Originium activity deep within it. It continues to grow stronger, and the trend is... undeniable.
 Eyjafjalla: The key lies in the core of the anomalous band... With that data, we'll be able to analyze the trajectory of change... I hope it won't interfere with Rhodes Island's subsequent— Eek!
@@ -8842,8 +8842,8 @@ Operator Barty: You know, I gotta say, I'm relieved to see you like that.
 ====================story_broca_set_1_Broca.xlsx====================
 Broca: Aosta, are we really joining this Rhodes Island organization?
 Aosta: That's right, Broca. I think it's our best option.
-Broca: There's   other places we could go.
-Aosta: I know you aren't a fan of this idea, Broca,   but, honestly, this is our best option.
+Broca: There's other places we could go.
+Aosta: I know you aren't a fan of this idea, Broca, but, honestly, this is our best option.
 Broca: ......
 Chiave: Oh, don't give me that look  , Broca.
 Chiave: If things don't go our way, all we gotta do is split.
@@ -8857,7 +8857,7 @@ Broca: Yeah.
 Guard Operator: ......
 Broca: ......
 Guard Operator: Hmph, you're not very cute, are you?
-Guard Operator: Well, I still gotta thank you. If it wasn't for you, I might've   died there on the spot.
+Guard Operator: Well, I still gotta thank you. If it wasn't for you, I might've died there on the spot.
 Broca: Don't mention it.
 Guard Operator: ......
 Broca: ......
@@ -8907,13 +8907,13 @@ Guard Operator: You mean you don't trust Rhodes Island?
 Guard Operator: Man, that's what I was talking about. You just got here, makes sense that you'd be a little iffy on the place.
 Guard Operator: Really, though, hear me out on this one. You really shouldn't talk like that. The first thing you said was 'I don't trust Rhodes Island.' What kind of impression do you think that gives the rest of us?
 Broca: I don't...
-Guard Operator: Eh, stop right there, bro. I'm not trying to say you're hurting anyone's feelings or to tell you to shape up or anything. It's just, well, how should I say   this...?
+Guard Operator: Eh, stop right there, bro. I'm not trying to say you're hurting anyone's feelings or to tell you to shape up or anything. It's just, well, how should I say this...?
 Guard Operator: You see, I used to be a mercenary, and I've worked for organizations before, too. When I first got here, it was purely transactional. I was just here to make a living.
 Guard Operator: They treat us well, and the food's not bad, but that's about it. If you'd asked me back then, I probably would've told you I don't believe in that good, charitable company bull crap.
 Guard Operator: I mean, all the big companies are basically the same. You feel the same way too, no?
 Broca: Sure.
 Guard Operator: But anyway, I've been here for a while, and I can tell. Rhodes Island is different. This is something you need to learn yourself. Ain't nobody can teach you that.
-Guard Operator: And yes, I trust Amiya, I trust the Doctor, and I trust Dr. Kal'tsit. They all won   me over.
+Guard Operator: And yes, I trust Amiya, I trust the Doctor, and I trust Dr. Kal'tsit. They all won me over.
 Guard Operator: I didn't snap because the way you were talking bugged me. I snapped because what you said was wrong. You know what I mean?
 Broca: I'm not sure...
 Guard Operator: Eh, it's all good. I'm not telling you to figure it all out right now. What I'm trying to say is Rhodes Island isn't quite like what you think it is. You should try to trust in us a little more.
@@ -8926,7 +8926,7 @@ Broca: What's wrong?
 Guard Operator: Look.
 Broca: ...?!
 *Before the duo realize what has happened, the beasts that attacked the squad have already surrounded them.*
-Guard Operator: Looks like we got   company.
+Guard Operator: Looks like we got company.
 Broca: I can still fight...
 Guard Operator: Don't. You haven't healed up yet. I'll create an opening for you. Run away when you get the chance.
 Broca: I can't leave you behind.
@@ -8985,7 +8985,7 @@ Vulcan: Let's clean up and pack up. Then we can head out when the fire dies down
 Ceobe: Leave? Are you going out?
 Vulcan: Yes, I have to go check on the boiler room, then collect the materials I ordered from the warehouse  . Don't have time to worry about the fire.
 Ceobe: I can watch the fire.
-Vulcan: That's not a good job   for you.
+Vulcan: That's not a good job for you.
 Vulcan: You have things you need to do as well, right?
 Ceobe: I guess.
 Vulcan: Almost time. Let's go.
@@ -8997,10 +8997,10 @@ Ceobe: Come back soon!
 Ceobe: Oh... She's gone...
 Ceobe: What... should I do...?
 Ceobe: Hmm...
-Ceobe: I'll go to my room to take care of my babies   then.
+Ceobe: I'll go to my room to take care of my babies then.
 *Dormitories*
 *Ceobe's Room*
-Ceobe: This...  The picture   says vegetable oil.
+Ceobe: This...  The picture says vegetable oil.
 Ceobe: Vegetable oil?
 Ceobe: Is it... this?
 Ceobe: The label says——Vege... table... Oil...!
@@ -9011,8 +9011,8 @@ Ceobe: Dip the cloth into the oil, then slowly rub all the shiny parts.
 Ceobe: Yup, just like that!
 Ceobe: I remember it super clearly.
 Ceobe: Hehe.
-Ceobe: I wonder what Vulcan will say when she sees how good   I did? Maybe I'll get a gift?
-Ceobe: She made a top   for me last time. It's so fun to spin!
+Ceobe: I wonder what Vulcan will say when she sees how good I did? Maybe I'll get a gift?
+Ceobe: She made a top for me last time. It's so fun to spin!
 Ceobe: Maybe I'll get something even better this time.
 Ceobe: Hm...
 Ceobe: I've never tasted oil before.
@@ -9080,7 +9080,7 @@ Ceobe: (There's a lot of tasty stuff next to her, but people are watching.)
 Ceobe: (There's a little hole further away. I think it is for dishes. I can't get through it.)
 Ceobe: (The door is my only choice.)
 Ceobe: (But the door's so crowded still.)
-Ceobe: (Hmm, I'll wait   a while more.)
+Ceobe: (Hmm, I'll wait a while more.)
 Ceobe: (Okay the door is quieter now.)
 Ceobe: (No one's there!)
 Ceobe: (Now's my chance!)

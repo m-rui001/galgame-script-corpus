@@ -5808,9 +5808,9 @@ Noelle: "With time so will everyone."
 Noelle: "Our master will rule the world and brainwash and breed every woman! As a mother I couldn’t be prouder."
 Cypress: "Thanks for playing and having fun!"
 Cypress: "Congrats on getting the one true ending!"
-nvl:  clear
+nvl: clear
 Cypress: "Thanks for playing and having fun!"
-nvl:  clear
+nvl: clear
 Jason: "Jane made a wish for our birthday - to forget everything, go back to like she was and get completely dominated. It’s the best birthday ever."
 Jason: "Come on, who's my ball-sucking little womb on legs?"
 Jane: "Holy crap Jason! Mom! Jason has gone crazy!"

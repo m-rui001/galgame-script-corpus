@@ -43,8 +43,8 @@ Shigure: It would seem that breakfast is right on time.
 Shigure: Come now, let's have breakfast first.
 Shigure: After all, Nii-sama's cooking is the best in the world.
 Shigure: Everyone, let's get to helping Nii-sama like usual!
-All: Aye!Okay!Okay!Oka~y♪O-Okay!O-Okay!
-All: Th-Thank you for the meal...Time to eat.Time to eat!Chow time~♪Let us eat.
+All: Aye! Okay! Okay! Oka~y♪O-Okay!O-Okay!
+All: Th-Thank you for the meal...Time to eat. Time to eat! Chow time~♪Let us eat.
 Azuki: Mgggh hgghgnh.
 Azuki: Oh, boy! Rice for breakfast is the best. Rice time♪
 Coconut: Mm-hmm, mm-hmm, Onii-chan's breakfast really is great, y'know~♪
@@ -189,7 +189,7 @@ Kashou: I had good timing coming back when I did in order to watch over Shigure 
 Chocola & Vanilla: Y-Yes...Mm-hmm...
 Kashou: Well, in any case...
 Kashou: Welp, let's go to today's destination, the shrine.
-Chocola & Vanilla: Shrine?Shrine?
+Chocola & Vanilla: Shrine? Shrine?
 Chocola: Erm, Kashou-san, um...?
 Vanilla: What should we be doing...?
 Kashou: This is called 'yakubarai', or 'cleansing of the bad luck'.
@@ -433,7 +433,7 @@ Chocola: Master? Where are we going today?
 Vanilla: I didn't hear either. Master, you're relatively heavy-handed.
 Kashou: They said that the temperature would be going up quite a bit today.
 Kashou: So, I figured we might as well take the chance to bring you guys somewhere you've never been before, Chocola, Vanilla.
-Chocola & Vanilla: We've never been before?We've never been before?
+Chocola & Vanilla: We've never been before? We've never been before?
 Coconut: Wow! Wowie!
 Coconut: This is such a big pond! Look, look, Onee-chan! This is so big!
 Azuki: Dummy, this isn't a pond. This is called the ocean.
@@ -496,7 +496,7 @@ Shigure: ...Oh.
 Shigure: Nii-sama, is that what they call a 'riptide'...?
 Kashou: Wait...! H-Hey, everyone!
 Kashou: After a riptide, a huge wave will come, so...
-All: Huh?Huh?Wha?Huh?Hm?Huh?
+All: Huh? Huh? Wha? Huh? Hm? Huh?
 All: NnyaaAAAAaaaaaAAAAAAaaahhh!!!!!
 ================================================================================
 Chocola: Uuu... I'm soaking wet, and it's hard to walk now...
@@ -747,7 +747,7 @@ Coconut: Waaah! I'm sorry! I'm so sorry!!
 Azuki: Aah, aah, c'mon, what the heck are you doing. Geez.
 ================================================================================
 Shigure: Okay, everyone, meet in the living room!
-All: Okay!Okay.Gotcha.Okay.Okie dokie~Okay!
+All: Okay! Okay. Gotcha. Okay. Okie dokie~Okay!
 Shigure: Chocola, you're 125 cm tall and weigh 24.5 kg.
 Shigure: Vanilla, you're in at 123 cm and 23.6 kg.
 Shigure: Mm-hmm, great to see the two of you are developing at a fine rate.
@@ -810,7 +810,7 @@ Vanilla: But, I'd love you no matter what you look like.
 Chocola: Yay♪ I'm so happy that you said you love me, Vanilla♪ Nyaaan♪
 Shigure: Okay, that should about wrap things up.
 Shigure: Everyone, get dressed!
-All: Okay!Okay!Got'cha.Okay.Okay!Okie dokie~♪
+All: Okay! Okay! Got'cha. Okay. Okay! Okie dokie~♪
 Shigure: (...badump badump badump...)
 Shigure: Phew... Haa...
 Shigure: ...Hah! (Measure, measure...)
@@ -1083,7 +1083,7 @@ Shigure: Tonight's party is first and foremost, right?
 Kashou: Right.
 Kashou: All right, tonight's party is going to be a feast!
 Kashou: Look forward to it, you guys!
-All: Okay♪Okay♪Got'cha.Okay♪Okay~♪Okay♪
+All: Okay♪Okay♪Got'cha. Okay♪Okay~♪Okay♪
 Shigure: Right, so, does everyone have a glass?
 Shigure: In that case, everyone all together~...
 Shigure: One, two...
@@ -1195,5 +1195,5 @@ Maple: I suppose I'll pour some of my special black tea into the new teacup I go
 Cinnamon: Oh, can I get some of that, too~?
 Kashou: We've got a whole heap of food here.
 Kashou: Everyone, eat to your heart's content.
-All: Okay!Okay♪Got'cha!Okay♪Okay♪Ok~ay♪
+All: Okay! Okay♪Got'cha! Okay♪Okay♪Ok~ay♪
 ================================================================================

@@ -1413,7 +1413,7 @@ Military　Commentator: Usually, a rifle of this sort has an effective maximum r
 Military　Commentator: And this shot was taken from 1400 meters, nearly twice that distance.
 Military　Commentator: At such range, factors such as the temperature and humidity of the air, even the rotation of the earth, begin to strongly influence trajectory. Even with specially-designed bullets, it's exceptionally difficult.
 Military　Commentator: On another note, regarding the sniper employed by the American government for this mission―
-Military　Commentator: Rumor has it this individual is the very same sharpshooter who performed with such dramatic skill during the hijacking incident at Vancouver International Airport some years  ago...
+Military　Commentator: Rumor has it this individual is the very same sharpshooter who performed with such dramatic skill during the hijacking incident at Vancouver International Airport some years ago...
 Makina: Ooooh... super friggin' awesome... I love this kinda stuff...
 Yumiko: Stop that. Killers aren't people to be idolized...
 Makina: Aah... well, I guess ya got a point there... Yeah, don't wanna go around sayin' "Killin' people's okay if they're the bad guys!" or anythin'...
@@ -4046,7 +4046,7 @@ Michiru: Whaaat? The heck are you talking about? What's that supposed to mean!?
 Yuuji: Means exactly what it sounds like... Look, what are you so angry about, anyway?
 Michiru: Listen up and listen good! You're Amane's boyfriend now! If you chat with another girl all alone in the hallway, that's cheating!
 Yuuji: ...I don't really follow the logic here... but wouldn't that mean I'm "cheating" by talking with you right now?
-Michiru: Why do you think I'm laying down the law and keeping you at a distance!? You just stay right where you are! <Don't  mobe!!>
+Michiru: Why do you think I'm laying down the law and keeping you at a distance!? You just stay right where you are! <Don't mobe!!>
 Yuuji: Look, I haven't budged at any point in this conversation...
 Michiru: Anyway, the point is, cheating is bad! Evil! Totally not okay! <Nevar! Evar!>
 Yuuji: ...Tell me something. Why do you keep finishing your sentences with little bursts of awkward English?
@@ -6214,7 +6214,7 @@ Narration: *Somebody raised the idea of having everybody carry them out together
 Narration: *Someone else suggested that we should leave them be, rather than clumsily dragging them around, but―*
 Narration: *At Kazuki's words, "It's hot today, isn't it... how long does it take for a corpse to begin rotting, I wonder?" that idea was instantly abandoned.*
 Narration: *Finally, everyone gathered there fell silent. Our pleading glances settled on the only man present, Mr. Ochi.*
-Narration: *And after a few minutes, when he placed his hands on his knees and stood with the words "I'll do it...," every one of us breathed a sigh of pure relief.*
+Narration: *And after a few minutes, when he placed his hands on his knees and stood with the words "I'll do it..." every one of us breathed a sigh of pure relief.*
 Narration: *Having entered the overturned bus alone, Mr. Ochi emerged with Shikanai's body cradled in his arms.*
 Narration: *The only ones who witnessed that moment were Kazuki, Captain Sakashita, and me. The others cast their eyes to the ground or turned away, avoiding the sight of their acquaintance's corpse.*
 Narration: *Probably because that sight was the distillation of a pitiless reality. To see that moment would have meant facing the truth they wanted so desperately to forget.*
@@ -12631,7 +12631,7 @@ Sachi: I see.
 Yuuji: Okay, we bored yet?
 Sachi: No, I'm still willing to continue watching.
 Yuuji: I see, you're passionate. I'm bored. Frankly, I got bored about two minutes in.
-Sachi: Is that so. In that case, I think I'll restart my cleaning.Please excuse me.
+Sachi: Is that so. In that case, I think I'll restart my cleaning. Please excuse me.
 Yuuji: Good work. If you observe any dramatic changes with Michiru, make sure to report them to me.
 Sachi: Yes!
 Narration: *As I'm leaving, it occurs to me that Michiru's movements are also similar to those of a zombie. If that woman is in fact one of the undead, I suppose I'll have to put a bullet in her head.*
@@ -13518,7 +13518,7 @@ Makina: ...Wah!
 Amane: Hey! Hold it!
 Makina: Noooo! Help meeee!
 Amane: Why y'little... where d'ya get that nasty mouth!? Y'want me to sew it shut for ya!?
-Makina: It hurrrts! If you pull that hard, I'll  bwwwwwwweaaaaak～～～!!
+Makina: It hurrrts! If you pull that hard, I'll bwwwwwwweaaaaak～～～!!
 Narration: *Every once in a while, you'll find a person with a bad habit they're not even aware of until someone points it out to them.*
 Narration: *Watching this scene, I've had my suspicions more or less confirmed: Makina's strange quirks seem to be partially the result of contamination from Amane's less admirable habits...*
 Narration: *But as a humble and discreet gentleman, I'm frankly at a loss as to whether to disrupt the status quo by informing Amane of the log in her eye.*
@@ -13604,8 +13604,8 @@ Amane: Don't give me that look! It's discipline, all right!? If I don't give thi
 Yuuji: ...Are you her mother or what?
 Narration: *―And so, after 15 minutes of wasted time, with Amane's second shout of "Alllright, let's do thisss!!" our bewildering match of mystery extreme sports begins.*
 Narration: *Through the impartial results of rock-paper-scissors matches, the teams are divided as follows.*
-Narration: *Bear Team:  Pitcher - Suou Amane; Catcher - Sakaki Yumiko;  Fielder - Irisu Makina.*
-Narration: *Rabbit Team:  Pitcher - Kazami Yuuji; Catcher - Komine Sachi;  Fielder - Matsushima Michiru.*
+Narration: *Bear Team: Pitcher - Suou Amane; Catcher - Sakaki Yumiko; Fielder - Irisu Makina.*
+Narration: *Rabbit Team: Pitcher - Kazami Yuuji; Catcher - Komine Sachi; Fielder - Matsushima Michiru.*
 Narration: *Our Rabbit Team ends up being first to bat.*
 Narration: *The leadoff batter dons a softball helmet, grabs a colorful metal bat, and takes her place in the batter's box.*
 Michiru: Alll-right! Bring it on!!
@@ -17144,7 +17144,7 @@ Makina: ......
 Sachi: ......
 Makina: O-Okay, Sacchin. Once the show's over, research this mysterious transformation belt at once!
 Sachi: Y-Yes. Certainly.
-Tunafish　Man: ...Eat this!Toro!Toro!
+Tunafish　Man: ...Eat this! Toro! Toro!
 General　Spareribs: Biiiii! I-It stinks! It stinks of fish!!
 Tunafish　Man: How's that...? Toro, the finest fatty cut, harvested from the least muscular spot of the belly... something else, isn't it?
 General　Spareribs: C-Certainly a rich, oily cut of fish...
@@ -17392,7 +17392,7 @@ BBQ　Belligerent: Bii! Biibii!!
 BBQ　Belligerent: Biiiiiiii!!
 Tunafish　Man: Excellent... It seems today's sushi is ferociously fresh, as always...
 General　Spareribs: Grrrr... insolent whelp!
-General　Spareribs: Try this out for starters! Tenderloin! Tenderloin,  Tenderloin!!
+General　Spareribs: Try this out for starters! Tenderloin! Tenderloin, Tenderloin!!
 Yuuji: Hey...
 Yuuji: These things just started ripping their own stomachs open and throwing their flesh at each other...
 Sachi: This is how the battle between Tunafish Man and General Spareribs must be fought...
@@ -17726,7 +17726,7 @@ Narration: *Principal Tachibana flips the pamphlet open to the first page.*
 Narration: *Just as I'd expected, it's filled with pseudo-poetical sentences describing the school and its mission in highly exaggerated terms.*
 Yuuji: Is there something in... Hmm?
 Narration: *The principal's pointing to the opposite page.*
-Narration: *On the upper half of the brochure, there's the words  "Principal - Tachibana Chizuru," accompanied by a weirdly formal photo portrait.*
+Narration: *On the upper half of the brochure, there's the words "Principal - Tachibana Chizuru," accompanied by a weirdly formal photo portrait.*
 Narration: *And then we have the "Chairman of the Board of the Trustees," accompanied by a different name:*
 Narration: *"Sakaki Michiaki."*
 Yuuji: ......
@@ -19067,7 +19067,7 @@ Michiru: Ah, what sort of lyrics are you looking for?
 Makina: Welp, somethin' that conveys sweetness would be great.
 Michiru: Sweetness, huh? Got it.
 Yuuji: Michiru, do you really understand? When she says "sweetness," it's because this song is for a past...
-Michiru: Quiet, you! I'm thinking up my lyrics right now! ...Hm, hmm.Okay, all done. Here goes...
+Michiru: Quiet, you! I'm thinking up my lyrics right now! ...Hm, hmm. Okay, all done. Here goes...
 Michiru: All righty right then.
 Michiru: ♪Someday dreaming～ My heart is mi corazon～
 Michiru: ♪After school, waiting for you, behind the gym.
@@ -19440,7 +19440,7 @@ Yuuji: Sorry? Didn't quite catch that...
 Yumiko: A-An alto recorder! Go ahead and laugh, if you like!!
 Yuuji: I don't really think it's anything to get that defensive about... Definitely a bit of a surprising choice, though.
 Makina: True that. Yumi-chan's a princess an' all, so I sorta had this mental image...
-Makina: Your posture is all wrong! Again!Shouts th' strict ol' bag! Start over every ten seconds 'til ya get it right! Every proper lady's gotta learn the violin, or whatever.
+Makina: Your posture is all wrong! Again! Shouts th' strict ol' bag! Start over every ten seconds 'til ya get it right! Every proper lady's gotta learn the violin, or whatever.
 Yumiko: No, I... I didn't have any lessons in the arts, of any sort...
 Yumiko: The only instrument I'm capable of playing decently... is the recorder I learned as a child...
 Amane: Heheheh. Sakaki-san has her cute side too, it would seem.
@@ -21036,7 +21036,7 @@ Narration: *Mixed in with Amane's frequent messages, I've also gotten mail from 
 Narration: *That one's a pretty typical example; they tend to be polite invitations to join in unified peacekeeping operations around the school.*
 Narration: *Well, since those messages at least approach meaningful communication, they're comparatively not too bad. After all, there was that one email from Michiru that arrived in the middle of the night...*
 Narration: *After opening that particular message, I stared at the screen blankly for a good three seconds before finally cocking my head to the side in a rare gesture of complete confusion.*
-Narration: *The mail's contents:  Shaddupshaddupshaddupshaddupdiediediediediediediedie  hatehatehatehatehatehatehatehatehatehatehatehate A simple litany of angry words―*
+Narration: *The mail's contents: Shaddupshaddupshaddupshaddupdiediediediediediediedie hatehatehatehatehatehatehatehatehatehatehatehate A simple litany of angry words―*
 Narration: *And although I tried to remember whether I'd done anything to offend Michiru lately, no satisfactory explanation presented itself.*
 Narration: *...Which isn't to say nothing came to mind, of course...*
 Narration: *If anything... so many things occurred to me that it was hard to pin down any one particular incident that might have inspired her wrath. But when I met Michiru the next morning and brought it up―*
@@ -21912,7 +21912,7 @@ Narration: *Apparently finished with Sachi's message, Amane quietly brushes up h
 Amane: ...Hey, Yuuji. What's this?
 Narration: *Amane holds out her cell phone for my inspection.*
 Narration: *Naturally, Sachi's email is displayed on the screen.*
-Narration: *From: Sacchan  To: Suou Amane  Subj: I can't say a thing. Message: And I didn't see a thing.*
+Narration: *From: Sacchan To: Suou Amane Subj: I can't say a thing. Message: And I didn't see a thing.*
 Narration: *The contents of the email are that single short line. The problem lies in the image attached to it.*
 Narration: *It's a cameraphone snapshot taken only a little while ago. Quite a skillful piece of work, really. In front of the school gate, JB's pressing her lips to my cheek, both arms twined around me.*
 Yuuji: Well, that was... uh...
@@ -26261,7 +26261,7 @@ Narration: *The girl's so slender it feels like she might snap if I embrace her 
 Yuuji: ...Makina...
 Narration: *I can't do much. But if nothing else, surely I can manage to keep an idiotic grin on the face of one irritating, sweet little girl.*
 Narration: *This is what I need to protect. I feel like I'm starting to understand - not just the meaning of those words, but also the raw emotions they signify.*
-Narration: *Covered in her spit  Warm affectionate feelings  For the bizarre beast. ―Kazami Yuuji.*
+Narration: *Covered in her spit Warm affectionate feelings For the bizarre beast. ―Kazami Yuuji.*
 Narration: *Well, it felt like a haiku was warranted, but I didn't manage to work any seasonal words in there. Not my finest effort... But just as I'm smiling at the thought, events take an unanticipated turn.*
 Narration: *Specifically, a sharp knocking at the door.*
 Narration: *Followed immediately by―*
@@ -38514,7 +38514,7 @@ Yuuji: All right, there's the school. I think the first order of business is a n
 Michiru: Geez, you're such a bully...
 Sachi: Ah, welcome back!
 Narration: *Spotting us, Sachi stops brushing the sidewalk in front of the gate and approaches with a beaming smile on her face.*
-Yuuji:  What on earth are you doing up at this hour, woman?
+Yuuji: What on earth are you doing up at this hour, woman?
 Sachi: Isn't it obvious? I'm cleaning.
 Yuuji: Hrm. So it would seem. But isn't it a little late for that?
 Sachi: In order to facilitate a smooth return for anyone who might choose to return at any hour, I've been endeavoring to work later into the night. Especially these last few days.
@@ -40841,7 +40841,7 @@ Narration: *I don't quite follow, but if I start asking questions she'll probabl
 Narration: *After I flop down on a chair, the woman mutters to herself in a low but perfectly audible voice.*
 Michiru: My na... I'm Matsushima Michiru. Good to meet you.
 Narration: *In contrast, she delivers her self-introduction with an artificial brightness.*
-Yuuji: That so. Initials M.M., huh.
+Yuuji: That so. Initials M.M. huh.
 Michiru: Yeah. B-But it's not like that makes me a Massive Masochist or anything!
 Yuuji: Nobody said anything remotely like that.
 Michiru: Ah, sorry abou... Er, that's what you were implying!
@@ -47247,7 +47247,7 @@ Sachi: Well, JB-san did say they'd be back rather late.
 Michiru: This is way past "rather late," you know? And it's raining, too...
 Amane: It hasn't been that long since Sacchan went missing, so it's hard to help feeling a little worried...
 Sachi: I'm truly sorry... I caused everyone a great deal of distress...
-Amane: Aah, no! You really don't need to apologize anymore, Sacchan.We're not blaming you or anything, okay?
+Amane: Aah, no! You really don't need to apologize anymore, Sacchan. We're not blaming you or anything, okay?
 Michiru: Yeah, 'course not. We're just worried about Yuuji, that's all.
 Sachi: I do understand your feelings, everyone, but please rest assured. I'm quite sure Yuu-kun will return.
 Makina: What makes ya say that?
@@ -55401,7 +55401,7 @@ Narration: *All I could manage was to nod and mechanically shovel the food place
 Narration: *Course after course, and I couldn't taste a thing.*
 Narration: *Had they even put any salt on these? It was like eating hunks of rubber.*
 Narration: *Carrying things to my mouth solely for the sake of chewing on them didn't make for a pleasant dining experience. Gradually, I began to ignore my plate in favor of frequent sips of water.*
-Yumiko:  (I feel sick...)
+Yumiko: (I feel sick...)
 Narration: *The tasteless food. Dad's barrage of praise. And myself, sitting there passively just accepting it all. Everything about the scene made me sick.*
 Narration: *My emotions only grew darker with every passing minute. This was all some bizarre whim of my father's. That, or a meaningless ceremony he was carrying out in pursuit of some hidden objective. What else could it possibly be?*
 Michiaki: Yumiko, have you been letting your hair grow out all this time?

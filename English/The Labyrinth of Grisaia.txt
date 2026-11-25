@@ -2043,7 +2043,7 @@ Narration: *It's not that I just love having sex or anything, though. Really.*
 Yuuji: ...Well, we got it on you, but... I'm not sure this thing even qualifies as 'clothing'...
 Amane: Hash hisha ha hoint, ha wao!? (Translation: That's kinda the point, ya know!?)
 Yuuji: I have no idea what you're saying with that ball in your mouth. You're just spewing spit all over the place...
-Amane:  Oh mah! Hish sh wai hehhr han I hoh... Ahm hehhn hpher hohy!! (Oh man! This is even better than I thought...Ah'm getting super horny!!)
+Amane: Oh mah! Hish sh wai hehhr han I hoh... Ahm hehhn hpher hohy!! (Oh man! This is even better than I thought...Ah'm getting super horny!!)
 Yuuji: I don't really get it, but at least you sound happy...
 Narration: *I'm sure you're well aware by now, but I'm the kind of girl who gets wet when she's treated roughly. In other words... a hopelessly hardcore masochist.*
 Narration: *Once, back when I was in elementary school, I got into some stupid argument with my parents and ran out of the house. I ended up spending the night at a nearby park.*
@@ -10937,7 +10937,7 @@ Michiru: *Sigh* Good night, then. Sleep tight. No reason to be afraid... there's
 Michiru: Yeah... I love you, Yuuji...
 Narration: *Suddenly, Michiru begins murmuring affectionate words in her sleep.*
 Michiru: And...
-Michiru: ..., I love you too... Thanks for everything...
+Michiru: ... I love you too... Thanks for everything...
 Narration: *I'm surprised to hear her speak my name as well. A strange jolt of nostalgia and pain runs through me, and tears spill down my cheeks.*
 Narration: *But of course, I don't really have "cheeks" any more. I'm inside her now.*
 Narration: *Nestled deep inside her heart where no one can see me, I let myself cry for just a little while.*
@@ -13310,7 +13310,7 @@ Makina: An' another! Hyyyurp!
 Michiru: ...Ngh! Nmm... nmgh... Hey, hold on! This isn't a competitive eating match, okay!? Nmh... glmph... Lemme eat at my own pace!
 Amane: What do you guys think? Any good?
 Yumiko: Hmm, yes... There's something slightly squishy about them, but they're quite delicious.
-Amane: I know, right? And the materials only cost 23 yen per piece! You'd never guess it, but these babies are made from  o?ka?ra!
+Amane: I know, right? And the materials only cost 23 yen per piece! You'd never guess it, but these babies are made from o?ka?ra!
 Michiru: Okara!? Like, that pulpy junk left over when you make tofu!?
 Amane: Come on now, that's no way to put it. Okara's crazy nutritious! Packed full of nutrients that boost memory and reduce fatigue! Rich in dietary fiber, great for diets! It's a genuine miracle-ingredient, you know?
 Michiru: ...Huh? Really?
@@ -17573,7 +17573,7 @@ Yuuji: ...The C4 wasn't a problem?
 Michiru: Yep, Sachi had some. Hmmm, yeah, all I need now is the cicada shells... Cicada shells, huh...?
 Michiru: Hey, I'm gonna leave the stuff I mixed up so far here for a minute, okay? But it isn't done yet, so make sure you don't drink it! I mean, there's no telling what a single sip might do to you!
 Yuuji: Could you not leave potentially fatal potions lying around my room?
-Michiru: C'mon, it's not like I can leave it with anyone else, right?Okay, Kittymeow, you keep an eye on things here!
+Michiru: C'mon, it's not like I can leave it with anyone else, right? Okay, Kittymeow, you keep an eye on things here!
 Cat: Meow.
 Michiru: Remember, don't even think about drinking that! Shablam!
 Yuuji: That girl's selfishness never ceases to amaze.
@@ -20165,17 +20165,17 @@ Narration: *But if it caught up to me, it was going to use my right hand to kill
 Narration: *The words of Li Lisheng... Heath Oslo... still rang in my ears.*
 Narration: *"You mustn't let anyone into your life. Anyone you meet will inevitably hurt you. They see you as useless, as a nuisance; and so, they'll try to kill you. No matter what they say, you mustn't reply."*
 Narration: *"These are the same people who murdered your family.  In order to torment you, they kill those close to you.  They're very, very wicked people."*
-Narration: *"Whenever you begin to hold something dear,   they will come and take it from you.   Your mere presence brings disaster to all around you.  It doesn't matter that you've done nothing wrong."*
+Narration: *"Whenever you begin to hold something dear, they will come and take it from you.   Your mere presence brings disaster to all around you.  It doesn't matter that you've done nothing wrong."*
 Narration: *"Your mere presence brings grief to those close to you.   No one needs you or wants you.   You have nowhere to run; no one to protect you."*
 Narration: *"But never fear... I'm on your side.   I'm the one man in the world who understands you."*
 Narration: *"It's terrible, isn't it? It must hurt so much.  I understand completely."*
 Narration: *"You, my poor child, are a fruit fallen prematurely from the tree of life. No one's going to take notice of you. At most, they'll scowl at you as you rot. Yes... I'm afraid they all despise you."*
 Narration: *"But there's no need for despair.   I'll pick you up out of the dust."*
-Narration: *"I'll pick you up, retrieve your seeds,   and plant you in a new and fertile land."*
-Narration: *"And once you finally bloom into maturity,   you'll bear many fine fruits on your branches.   In this, you'll repay my kindness. You see?"*
+Narration: *"I'll pick you up, retrieve your seeds, and plant you in a new and fertile land."*
+Narration: *"And once you finally bloom into maturity, you'll bear many fine fruits on your branches.   In this, you'll repay my kindness. You see?"*
 Narration: *"Sadly, I haven't yet found the place to plant you.  Those wicked people keep getting in my way."*
 Narration: *"Before anything else, we need to eliminate them.  And that is precisely the task you must carry out."*
-Narration: *"Come, Yuuji. On your feet,   before your body simply rots away."*
+Narration: *"Come, Yuuji. On your feet, before your body simply rots away."*
 Narration: *"Give me your hand. This medicine will keep you from rotting."*
 Narration: *"You can do this, can't you?   Take the first step toward your very own promised land..."*
 Yuuji: No...
@@ -23137,9 +23137,9 @@ Narration: *    We couldn't be together forever.*
 Narration: *    I knew that more or less from the start.*
 Narration: *    It's best I don't see him again.*
 Narration: *    I understand that better than anyone else.*
-Narration: *    If I saw him right now, 　I'd probably turn into one hell of a pathetic woman.*
-Narration: *    I'd blurt out things better left unsaid, 　the way pathetic women always do.*
-Narration: *    I'd become the kind of selfish asshole 　who just makes life harder for the person she loves.*
+Narration: *    If I saw him right now, I'd probably turn into one hell of a pathetic woman.*
+Narration: *    I'd blurt out things better left unsaid, the way pathetic women always do.*
+Narration: *    I'd become the kind of selfish asshole who just makes life harder for the person she loves.*
 Narration: *    I've held back way too long to ruin everything now. 　I'd definitely regret it in the end.*
 Narration: *    So right now, all I can do is pray.*
 Narration: *    ...God, bring my Jeanie good fortune...*
@@ -28151,7 +28151,7 @@ Narration: *Tears well up in Yumiko's eyes as she speaks; her body quivers with 
 Narration: *When the woman I love goes this far for me... I'm not nearly self-disciplined enough to turn her down.*
 Yuuji: True enough. My apologies. I'll accept your gesture with gratitude.
 Yumiko: ...Really?
-Yuuji:  Indeed. I was just a little surprised, that's all. That bunny suit looks amazing on you, Yumiko.
+Yuuji: Indeed. I was just a little surprised, that's all. That bunny suit looks amazing on you, Yumiko.
 Yumiko: Do you actually mean that...?
 Yuuji: Seeing as you're straddling my waist... I think you should have a very good idea that I'm being honest.
 Yumiko: Oh, it's true... it's getting big, isn't it...?

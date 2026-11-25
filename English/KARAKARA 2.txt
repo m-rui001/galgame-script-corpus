@@ -29,7 +29,7 @@ Leon: "...I'm putting up daily reports and actually reading them now, after all.
 Aisia: "What do you mean?"
 *After examining herself in the mirror, Aisia returns and cocks her head.*
 *Her hair is now impeccable.*
-Lucia: "There were times before when the coal mine closed  but Leon didn't realize, so he kept preparing as usual."
+Lucia: "There were times before when the coal mine closed but Leon didn't realize, so he kept preparing as usual."
 Aisia: "Oh, no! That is not good!"
 Leon: "Yeah, that happened before..."
 Aisia: "What did you do then?"
@@ -65,7 +65,7 @@ Lucia: "You're welcome. I see that both dishes today are more female-oriented."
 Leon: "Do you think I should have made them appeal to a broader audience?"
 Lucia: "No, I think they're fine. There are so few males around, anyway. Personally, I'm okay with it staying like this."
 Leon: "Yeah, Doctor David left, too... The demand for young men's menus is definitely dropping."
-Lucia: "Yea?Hey, Aisia! You're tasting it again?!"
+Lucia: "Yea? Hey, Aisia! You're tasting it again?!"
 Aisia: "Th-This needed one final touch!"
 Lucia: "Did it really?"
 Aisia: "It did! Oh, Leon, I'm finished with the coleslaw!"
@@ -212,7 +212,7 @@ Leon: "Yeah... Huh, where's Aisia?"
 Lucia: "After playing with Momo during the day and partying it up with Cullen during the night, she's sleeping like a rock."
 Lucia: "She's just like a kid."
 Leon: "Ahaha, that makes you mom, Lucia."
-Lucia: "M-Mom? Wh-What're you?Leon!"
+Lucia: "M-Mom? Wh-What're you? Leon!"
 Leon: "My bad, my bad. I'll sleep soon, too."
 Lucia: "So, what were you doing?"
 *Lucia plops herself down on my knees. A comfortable warmth radiates from her body.*
@@ -371,7 +371,7 @@ Leon: "Uh, but... aren't you older than me?"
 Rebecca: "Yes, but it feels strange to have my husband call me 'Miss'. Please?"
 Leon: "Um, well..."
 Rebecca: "No?"
-Leon: "...Okay, fine. I'll call you Rebecca, Miss?Erm, Rebecca."
+Leon: "...Okay, fine. I'll call you Rebecca, Miss? Erm, Rebecca."
 Rebecca: "Wonderful! Thank you very much!"
 *With that, Rebecca gives me her brightest smile so far.*
 *Her expression is striking. It radiates with a charm that makes me unable to look away.*
@@ -572,7 +572,7 @@ Leon: "Excited?"
 Rebecca: "I've never slept in a place like this before. I'm becoming more and more glad I came to you, Leon."
 Lucia: "...The two of you are still awake?"
 Rebecca: "Mmmhmhm, Lucia, you look absolutely adorable in your pajamas."
-Lucia: "Wha?Uh... Um, thank you."
+Lucia: "Wha? Uh... Um, thank you."
 Rebecca: "Aaah, you're too cute! Leon, please, may I hug Lucia to sleep tonight?"
 Leon: "Well, I don't think I really have a say in that..."
 *Why is she asking me?*
@@ -801,7 +801,7 @@ Lucia: "Um... Rebecca?"
 *Lucia squirms around in Rebecca's arms before managing to pull her face out and look up.*
 *The sight further brightens Rebecca's smile.*
 Rebecca: "This is how I show my affection. Do you... like it?"
-Lucia: "Well, yes, I supp?Fwaaah!"
+Lucia: "Well, yes, I supp? Fwaaah!"
 *As soon as "Yes" leaves Lucia's lips, she is drawn into an even tighter embrace by Rebecca.*
 Rebecca: "Are you okay, Lucia? Am I hurting you?"
 Lucia: "N-No... I'm okay. You're so warm... It, um, feels good..."
@@ -898,12 +898,12 @@ Leon: "Huh... So, that one was used for sewing..."
 *Ever since Cullen decided she's got no use for them and "gifted" them to us, that pile of Relics has been relegated to the job of "tripping hazard" in the storeroom. I guess one of them will finally be seeing the light of day.*
 Rebecca: "If it's still usable... then I can probably even take old clothes and make them over."
 Rebecca: "And that brings us to something I've been meaning to discuss with you, Leon... Would it be okay for me to help out at this store, as well?"
-Aisia: "Hey, that's the same thing you asked Lucia just?Mmmffmm!"
+Aisia: "Hey, that's the same thing you asked Lucia just? Mmmffmm!"
 Leon: "Oh, um, yeah. About that. Lucia just told me about it."
 *...This close. Aisia was THIS close to spilling the beans about our spying.*
 Aisia: "Mmmmffffmm, mwaaahfffmmm! (Leon, let go of me, please.)"
-Rebecca: "Leon... I'm pretty sure you've got one of your fingers in Aisia's mo?Are those teeth marks?"
-Leon: "...Don't worry about it. Yep. Everything's perfectly fine. Anyway, what were we?Oh, right. I'd certainly appreciate it if you were willing to help."
+Rebecca: "Leon... I'm pretty sure you've got one of your fingers in Aisia's mo? Are those teeth marks?"
+Leon: "...Don't worry about it. Yep. Everything's perfectly fine. Anyway, what were we? Oh, right. I'd certainly appreciate it if you were willing to help."
 Rebecca: "Mmmhmhm, thank you. Now, why don't I get started by making, say, an apron?"
 Aisia: "Bwaah! Wow! That's amazing! You can make aprons, too?"
 Rebecca: "Yes. Making something as wonderful as your uniforms would be quite the task, but an apron is quick work."
@@ -1198,7 +1198,7 @@ Momo: "Woof, woof!"
 Leon: "How do you feel? Does your head hurt or anything?"
 Lucia: "No, not really..."
 Aisia: "You're okay! What a relief!"
-Lucia: "Wha?Is that it? The hug is done?"
+Lucia: "Wha? Is that it? The hug is done?"
 Lucia: "If you're going to hug me, then... Wait, Rebecca! Is Rebecca okay?!"
 Rebecca: "Yes, I'm quite fine."
 Lucia: "Phew. You're okay. Huh? What about... Oh, I see. Haha. It was just a dream. For a minute there, I thought your right hand..."
@@ -1344,7 +1344,7 @@ Rebecca: "O-Oh, my, I'm so sorry, Aisia."
 *After being released, Aisia's cheeks are slightly flushed.*
 Aisia: "Ehehe, but it really does feel good to be hugged by Big Sis. Lucia, Leon, would you like to come for a hug, too?"
 Lucia: "...I-If it's only for a bit."
-Leon: "Wait, I'm clearly not?Mmfm!"
+Leon: "Wait, I'm clearly not? Mmfm!"
 Rebecca: "All right, Big Sis Rebecca's going to give you all a hug."
 Lucia: "L-Leon! Move your face! It's too close!"
 Leon: "What do you expect me to do? This is how this works."
@@ -1402,7 +1402,7 @@ Leon: "...It's going to be a while before we're all used to this."
 *The cause is, of course, Rebecca and her daily sessions of Lucia-scaring.*
 Leon: "It looks like Lucia's starting to get used to it, though."
 Rebecca: "Indeed... I think we'll try the quadruple next. Once she can handle that, we'll be in the clear."
-Leon: "...Can you please stop talking about yourself like you're some circus show?Gah! I get it! Stop taking parts of yourself off already!"
+Leon: "...Can you please stop talking about yourself like you're some circus show? Gah! I get it! Stop taking parts of yourself off already!"
 Rebecca: "Okay~"
 *Rebecca cheerfully reattaches her arms and legs.*
 *When she puts them back on, I sometimes get a glimpse of places that I normally shouldn't be allowed to see, but Rebecca seems to pay it no mind.*
@@ -1446,7 +1446,7 @@ Aisia: "I feel really good when Big Sis hugs me, but I also feel really good whe
 Aisia: "So, you should let Leon hug you, too."
 *Rebecca looks at me, then Aisia, and then back.*
 *A rare hesitation can be seen in her eyes.*
-Aisia: "Since it seems like you need some help, allow me to?Mmmfmmm!"
+Aisia: "Since it seems like you need some help, allow me to? Mmmfmmm!"
 Lucia: "Sorry about that. I'll deal with her, so you two just go ahead and do your thing... Hey, you! Stop licking my hand!"
 Aisia: "But, but, you put your hand over my mouth all of a sudden! I almost bit you!"
 Lucia: "You can suck all the blood you want later. Just stay quiet for now. Look, even... B-Big Sis is looking startled."
@@ -1631,7 +1631,7 @@ Rebecca: "You know how my body is... I wasn't sure if I could make you feel good
 Rebecca: "I wasn't sure... if it was right for me to do this with you..."
 Leon: "Rebecca..."
 Rebecca: "The truth is, I was scared to even take my clothes off. Even being hugged by you like this... it's because I thought maybe you wouldn't see as much this way..."
-Leon: "Wha?Rebecca!"
+Leon: "Wha? Rebecca!"
 *Before I know it, I've yelled her name.*
 *To the side, Aisia and Lucia are staring at me in shock.*
 Leon: "After all we've been through, did you really think I'd reject you?"
@@ -1685,7 +1685,7 @@ Leon: "But... Rebecca... you're so cute..."
 Rebecca: "Mm... hmmph... aaah... Leon, you're so mean..."
 *I remove my hands from Rebecca's breasts, instead moving my mouth to them.*
 *I take one pink tip in my mouth and tease it with my tongue.*
-Rebecca: "L-Leon... that's?Mmmm!"
+Rebecca: "L-Leon... that's? Mmmm!"
 *As I thought, she's sensitive here.*
 Rebecca: "Aah... m-mmm... Leon, you're... like a baby... Hyaaa!"
 *I bite down gently on her nipple, eliciting a particularly arousing moan from her.*
@@ -1782,7 +1782,7 @@ Lucia: "Waaah, B-Big Sis, when you hug me like that, it's..."
 Lucia: "...Not as bad as I thought. It's really warm..."
 Rebecca: "Mmmhmhm, that's a good girl..."
 Aisia: "I found my slippers! Ah! Lucia! Lucia's being spoiled!"
-Lucia: "Wha?No! Th-This is just, um... Big Sis's..."
+Lucia: "Wha? No! Th-This is just, um... Big Sis's..."
 Aisia: "That's not fair! I'm going to get a hug from Big Sis, too!"
 Rebecca: "Mmmhmhm, you're certainly very welcome, too, Aisia."
 Aisia: "Ehehe... Aaah, it feels great..."
@@ -2224,7 +2224,7 @@ Mari: "Is something bothering you?"
 Leon: "Uh, it's just that being covered in sweat so early in the morning seems like a great way to get force-bathed by Rebecca."
 *The first thing Rebecca did when Mari came here was to throw her into the bathtub.*
 *As I understand, what followed was a relentless bout of touching in which a particularly mischievous Rebecca thoroughly invaded Mari's personal space.*
-Mari: "Wha?Ah! Aaah!"
+Mari: "Wha? Ah! Aaah!"
 *Panic begins to consume Mari.*
 Mari: "I-I shall go bathe right away! I must excuse myself!"
 *With a speed that puts her prior displays to shame, she zooms into the house.*
@@ -2932,8 +2932,8 @@ Mari: "Kyaaaaa!"
 *I can remember up to where a cloud of white smoke envelops me and Mari.*
 *After that... is all a blank...*
 Leon: "...Nnngh?"
-*As I wake up, I  open my eyes, but I see nothing but a vast darkness.*
-Leon: "Wha?Where's Mari?!"
+*As I wake up, I open my eyes, but I see nothing but a vast darkness.*
+Leon: "Wha? Where's Mari?!"
 *I spring up and look around, only to find that the darkness surrounds me on all sides.*
 Mari: "Nnngh... Sir... Leon?"
 *From some distance away comes Mari's voice.*
@@ -3024,7 +3024,7 @@ Leon: "...Yeah, they are."
 Mari: "...I think we have put enough distance between us and them. We should be safe now."
 Leon: "...Yeah."
 *Wordlessly, the two of us dash through the night while a large moon hangs overhead.*
-*After being treated for her dire affliction?hunger?Mari successfully made the leap up to the vent.*
+*After being treated for her dire affliction?hunger? Mari successfully made the leap up to the vent.*
 *She then dangled down a rope she found somewhere, which allowed me to get out, as well.*
 *Fortunately, there were no guards around us, so we quickly made our escape. However...*
 Leon: "Do you think they'll know which way we went?"
@@ -3061,10 +3061,10 @@ Leon: "Huh?"
 Mari: "There is no guarantee that an event like today's will not happen again. I could serve as a safeguard against such possibilities. Also..."
 Mari: "...After living with all of you, I have become very fond of everyone's warm presence."
 Leon: "Mari..."
-Mari: "Is it... too much to ask? If so, perhaps I could erect a tent somewhere nearby?Mmmfm!"
+Mari: "Is it... too much to ask? If so, perhaps I could erect a tent somewhere nearby? Mmmfm!"
 *I walk in front of Mari, grab her, and pull her into a tight hug, smothering the last few words of her sentence.*
 Leon: "...I think I've heard enough from this silly mouth of yours."
-Mari: "S-Sur Reon, prease, I cannot bre?Mmmfm..."
+Mari: "S-Sur Reon, prease, I cannot bre? Mmmfm..."
 *I pull back a little and allow her to breathe.*
 Mari: "Fwaaah..."
 Leon: "...So, the truth is, ever since the day you came back, I've been thinking of asking you to live with us."
@@ -3131,7 +3131,7 @@ Mari: "Who else would I devote my life to if not you, Sir Leon!"
 Leon: "A-Are you sure?"
 Mari: "Yes! And knowing that I can now confess my love to you, I could not help but do so at the earliest opportunity!"
 Mari: "Oh, but... p-perhaps I am not to your liking? While physiologically female, I realize that I, um, do not possess the most feminine of traits. My breasts are quite modest, for example."
-Leon: "Wh-What are you talking about? That's not true at all! In fact, I've always thought you were cute?Waaah!"
+Leon: "Wh-What are you talking about? That's not true at all! In fact, I've always thought you were cute? Waaah!"
 *Before I can finish, Mari throws her arms around me in a tight hug.*
 Mari: "I am so glad! Sir Leon, you really are the person I thought you were!"
 Leon: "Hey, uh, Mari? Look, I totally understand how you feel and I'm really glad about this, too, but let's calm down first, okay?"

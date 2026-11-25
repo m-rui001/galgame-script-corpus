@@ -1400,7 +1400,7 @@ M4A1: The obstacles in our way won't be a problem. Let's charge right through th
 *Tap the [↑] button to [jump] over short obstacles marked with [Yellow Alert].*
 ====================battleavg_-31-specialbattletips-spdup.txt====================
 M4A1: The terrain is much smoother ahead. Now, time to shorten the distance between us! M16, I'm not letting you run away this time!
-*Tap the [→] button to [accelerate],  significantly closing the distance between you and M16A1.*
+*Tap the [→] button to [accelerate], significantly closing the distance between you and M16A1.*
 ====================battleavg_-32-specialbattletips-fly.txt====================
 Dana: The obstacles ahead won't be a problem! Just go over them all!
 ====================battleavg_-32-specialbattletips-spdup.txt====================
@@ -1511,7 +1511,7 @@ Dandelion's Voice: Don't give up and try to push us as far as we can go.
 Gr HK45: Hm...this should be the address for that "request for one-on-one help on the Griffin late night radio show".  However, whose room is this? There's no nameplate on it...
 *She presses her ear to the door, but she can't hear anything from beyond it.*
 Gr HK45: Ah, who cares? Not me!
-Gr HK45: (Knocks) Is anyone there? It's me, the dazzling Gr HK45,  an offline volunteer from Radio Griffin!
+Gr HK45: (Knocks) Is anyone there? It's me, the dazzling Gr HK45, an offline volunteer from Radio Griffin!
 *The door suddenly flies open. A dark shape lunges out from within and grabs her by the waist.*
 Gr HK45: W-whoa!  I know I'm just too charming but please don't attack me out of nowhere! Please let go, or else I'll have to take sterner measures—
 ???: Help...me...
@@ -1898,7 +1898,7 @@ Lee Enfield: I'm just being honest with what I think.  Besides, you deserve such
 Springfield: You're earnest as ever.
 *Lee sits down quietly at the bar, and Springfield gets to work wordlessly.  In the tranquil space, the refined aroma of black tea fills the air.*
 Lee Enfield: As expected of your skills. This single cuppa is enough to wipe away all my stress.
-Springfield: Black tea is a rather finicky drink. It will just be wasted  on a crude tongue.
+Springfield: Black tea is a rather finicky drink. It will just be wasted on a crude tongue.
 Lee Enfield: So, what have been troubling you?
 Springfield: ...Sorry?
 Lee Enfield: Please don't bother trying to hide it from me, Miss Springfield.  I'm not that dense. You have always been there for me, so if there is anything I can do to help...  I am morally obliged to do whatever I can.
@@ -2756,7 +2756,7 @@ Kalina: I'm fine!  I wasn't very sick in the first place, anyway.
 Kalina: Is the adjutant work going well?
 Gr G36: Yes, thanks to you.
 *Gr G36 looks at Springfield, then takes a seat opposite her without saying a word.*
-Gr G36: The  Commander asked me to give these to you.
+Gr G36: The Commander asked me to give these to you.
 Kalina: Ohhhh! Lucky me~  The Commander has great taste when it comes to picking presents!
 Gr G36: The Commander's been wanting to visit you for a while now, but I heard you've refused all visits.  Why is that? Are you having a fight with the Commander?
 Kalina: ...Erk!
@@ -5489,7 +5489,7 @@ PPSh-41: Hello, Mr. Pavlov. I am the Griffin Tactical Doll Papasha, and I've bee
 Pavlov: Thank you for your assistance, Papasha.
 PPSh-41: No need to thank me... The battle just now proves how dangerous the situation is, but there's no need to worry. My client has requested that I take you away from the battlefield and bring you to safety, while the defense forces cover the rear.
 Pavlov: ...
-*Unlike normal rescue operations,  Pavlov doesn't seem too happy about it.  He glances at the militiamen around him, then turns back to Papasha.*
+*Unlike normal rescue operations, Pavlov doesn't seem too happy about it.  He glances at the militiamen around him, then turns back to Papasha.*
 Pavlov: I'm very sorry... but I don't want to leave right now.
 PPSh-41: ...  Huhhhhh?!
 ====================memoir_21_2.txt====================
@@ -5623,7 +5623,7 @@ PPSh-41: ... I...
 *A sudden explosion destroys the lobby wall utterly, throwing up heavy clouds of dust.*
 *Papasha barely manages to maintain her balance. Then, she sees a massive shape.*
 PPSh-41: ... Oh no...!
-*The  enemy's heavy weapons platform has fought its way to them...*
+*The enemy's heavy weapons platform has fought its way to them...*
 ====================memoir_21_4.txt====================
 *A heavy weapons platform has barged into the apartment block, and all the militiamen who can still move immediately start attacking it. However, this killing machine is far more lethal than the military automatons from before. Its powerful weapons scythe down everything like a starving beast, ruthlessly claiming the lives of the militiamen.*
 *Pavlov follows behind Papasha as they swiftly dart behind their fortifications. However, in the time it takes for them to move from one piece of cover to another, its inky-black gun barrels have already locked onto them.*
@@ -6554,7 +6554,7 @@ Micro Uzi: ...  Don't you remember, Galil...the mistake I made while withdrawing
 Galil: ...
 Negev: LEAVE IT, YOU IDIOT!
 Galil: I don't remember.  Let's go back to base first and talk about it later.
-Micro Uzi: Negev ordered me to destroy all intelligence in the safe house,  But I let her down...  Because I was a bumbling...useless idiot...
+Micro Uzi: Negev ordered me to destroy all intelligence in the safe house, But I let her down...  Because I was a bumbling...useless idiot...
 Galil: We'd been using the safe house for a long time and accumulated way too much stuff in there.  The ambush wasn't your fault, and Negev didn't blame you after the withdrawal, did she?
 Micro Uzi: She simply didn't bother. After that, the reshuffle took place.  Was it even necessary...to reprimand someone shoved into the prep team?
 Galil: Those notions of yours are as unhealthy as deep fried donuts.  It's not a good idea to dwell too much on what you did or take someone's words out of context.
@@ -7085,7 +7085,7 @@ Mosin-Nagant: I can carry it proudly onto the frontlines because I accept and ad
 ====================memoir_39_2.txt====================
 *...  Late at night, in Springfield's Cafe.*
 Springfield: ...  So, have you decided yet?
-Mosin-Nagant: ...Yeah.  My bloodline is both my pride and my burden  If I lose it, then there's no reason for me to remain on the frontlines.
+Mosin-Nagant: ...Yeah.  My bloodline is both my pride and my burden If I lose it, then there's no reason for me to remain on the frontlines.
 Springfield: But I'm sure the Commander will be in a tight spot if you reject the neural upgrade.
 Mosin-Nagant: I don't mind if I have to leave the combat echelons. If it's just staying in Griffin, there's actually a lot of things I can do.  See, there are a lot of requests for concierges and ceremonial guards...!  Hahaha, looks like a second springtime for my career!
 Springfield: I still remember how you and Miss OTs-14 used to complain about being put on emergency concierge duty...
@@ -7194,7 +7194,7 @@ Mosin-Nagant: Oh, that's the cat who barged in halfway through the Commander's b
 SVT-38: Wasn't that the stray cat we sent to the...  Never mind...  So, have you named it yet?
 Mosin-Nagant: OTs-14 suggested that we call it Commander, and we'll be holding a secret vote behind its proposed namesake's back...
 SVT-38: So you're not going to brood over the decision by yourself this time?
-Mosin-Nagant: Your opinions all matter too, after all.  Besides,  I've got all the time in the world to think up a name with all of you now that I'm back!
+Mosin-Nagant: Your opinions all matter too, after all.  Besides, I've got all the time in the world to think up a name with all of you now that I'm back!
 ====================memoir_44_1.txt====================
 *...In a certain room within the Griffin dorms.*
 SV-98: Hm...  Given the height difference here, and the fact that we're 240m above sea level, if I fired down...
@@ -8581,12 +8581,12 @@ AK-74U: Isn't that a good thing? We helped save money on ammo, boss.
 AS Val: That's because the mission you gave us was to "scout the enemy and return safely"...so that's what I did, Commander.
 Commander: This isn't something simple that you could have done just because you wanted to. What was your secret?
 AS Val: I guess...it's because I had Misha around.
-Commander: Is that so...well, I think you ought to believe in yourself a little more, since you're clearly so skilled. We're beginning the operation tomorrow. Frankly speaking, given the time constraints, I wasn't expecting much of a recon team that I put together at the last minute. But not only did you not alert S.F., you brought back all this information too... Your actions will go a long way toward reducing any upcoming Griffin losses.
+Commander: Is that so...well, I think you ought to believe in yourself a little more, since you're clearly so skilled. We're beginning the operation tomorrow. Frankly speaking, given the time constraints, I wasn't expecting much of a recon team that I put together at the last minute. But not only did you not alert S.F. you brought back all this information too... Your actions will go a long way toward reducing any upcoming Griffin losses.
 AK-74U: So, do we get any concrete reward besides praise? Like say, a raise? A meal at your expense? Or how about both?
 Commander: Haha...well, I can't pay up right now, but I should be able to treat you all to a good meal after this. Let's finish this op first. If it goes well, we might be able to put an end to our battles with S.F.
 9A-91: Here it comes, it's the Commander's wishful thinking again.
 Commander: It isn't wishful thinking. This really is a decisive battle. You guys can go get some R&R. We'll need every Doll in Griffin for this operation, and that includes you.
-AK-74U: I've already recorded what you said just now, Commander.  I'm not going to forget the meal you promised no matter what happens to S.F., boss...isn't that right, AS Val? Did you hear that? Val? This is all thanks to your hard work, so you get to pick where to eat. Choose somewhere expensive that you haven't been to before!
+AK-74U: I've already recorded what you said just now, Commander.  I'm not going to forget the meal you promised no matter what happens to S.F. boss...isn't that right, AS Val? Did you hear that? Val? This is all thanks to your hard work, so you get to pick where to eat. Choose somewhere expensive that you haven't been to before!
 AS Val: It wasn't so much my hard work as...
 AK-74U: Even if you don't want a good meal, you should at least give Misha a share of it.
 AS Val: Misha, huh... But I...
@@ -10612,7 +10612,7 @@ LWMMG: SAW's gone quiet all of a sudden, right?  There's been a big change in he
 Mk48: ...Honestly.  I don't have it in myself to find this amusing anymore...
 *Knock, knock.*
 *M60 leans against the doorway and knocks on the door several times.*
-M60: Like I was saying, you kids are going to run into trouble without an instructor to look out for you,  you know?
+M60: Like I was saying, you kids are going to run into trouble without an instructor to look out for you, you know?
 LWMMG: Ah, M60.  Is something the matter? The hour's quite late.
 M60: Ahem. Naturally, I'm here to help you take care of a problem that you can't solve on your own.
 LWMMG: I...can't solve on my own...?  No... I'll be fine by myself...
@@ -11130,7 +11130,7 @@ IDW: I'll give you fantastic cover and show you what a professional bodyguard is
 IDW: ...I can't hear any more gunfire.  Is the fight... over?
 Panicky female voice: ...Are you alright, IDW?!  Bren... what should we do? She's very badly damaged!
 IDW: Hmm... who's that...?  I can't... open my eyes...
-Snobbish female voice:  Losing her neural cloud record the moment she came... What a handful...  Here, I have a quick repair kit. Fix her up.
+Snobbish female voice: Losing her neural cloud record the moment she came... What a handful...  Here, I have a quick repair kit. Fix her up.
 *IDW opens her eyes.*
 L85A1: Thank goodness. She looks alright now...
 IDW: Did we win, L85A1?
@@ -11545,7 +11545,7 @@ Jiangcheng Ai: Good morning.
 Jiangcheng Ai: Sure! I'll be glad to go anywhere with you, ■■■!
 *... [Loading 20510509 beta.]*
 ■■■: Ai, I love you.
-Jiangcheng Ai: I know          so  ■■■ go to           expo with           ■■■
+Jiangcheng Ai: I know so  ■■■ go to expo with           ■■■
 *[Unknown corruption to file, processing terminated.]*
 ====================memoir_95_4.txt====================
 *After work, at the Café entrance.*
@@ -17468,7 +17468,7 @@ Manga Editor: ANSWER ME RIGHT NOW!!!!!
 GSh-18: ... I'm doing it, I'm doing it!
 Manga Editor: Can't you be more like the author of "Is That Cute and Cool Angel Really My Commander" and not make me have to worry so much about you?  You have three more days, I'll let you imagine what's going to happen if I don't get a submission by then.
 *The editor's icon goes gray.*
-GSh-18: Why do you keep comparing me to that shoujo manga artist? We're working on completely different genres... Argh, only three days left... Looks like I need to decide on my theme by today! In any case, it's got to be more entertaining than  "Is That Cute and Cool Angel Really My Commander"... I've used up all my notes from before and if I keep recycling old gags, the manga will become as stale as bubblegum you've chewed all day. I need to collect new material, but I haven't had the chance to go on logistics recently...
+GSh-18: Why do you keep comparing me to that shoujo manga artist? We're working on completely different genres... Argh, only three days left... Looks like I need to decide on my theme by today! In any case, it's got to be more entertaining than "Is That Cute and Cool Angel Really My Commander"... I've used up all my notes from before and if I keep recycling old gags, the manga will become as stale as bubblegum you've chewed all day. I need to collect new material, but I haven't had the chance to go on logistics recently...
 *GSh-18 steps out of the dorm and wanders aimlessly through the base.*
 *At the café.*
 GSh-18: Ah, are you practicing how to brew English tea again, NTW?
@@ -17539,7 +17539,7 @@ AK-47: When it happened, FF FN49 was cooking and SPAS-12 was busy drooling next 
 P7: I didn't... How could I do something as stupid as pouring vodka into the cooking wine bottle?
 AK-47: ...
 P7: ...
-GSh-18: From all of P7's previous antics, every time she gets caught, she'll give up and try to duck out by acting cute. But this time, she is bound to suffer brutal punishment for the audacity of  touching AK-47's vodka. As for the form of punishment? She's probably going to get booze or something spicy shoved down her throat. You know, the old trope of letting the punishment fit the crime...
+GSh-18: From all of P7's previous antics, every time she gets caught, she'll give up and try to duck out by acting cute. But this time, she is bound to suffer brutal punishment for the audacity of touching AK-47's vodka. As for the form of punishment? She's probably going to get booze or something spicy shoved down her throat. You know, the old trope of letting the punishment fit the crime...
 *A dialogue box appears on the terminal screen. Please select the punishment which AK-47 will administer - A) Force her to drink vodka. B) Force her to eat something spicy. C: All of the above. GSh-18 selects Option C.*
 AK-47: So it WAS you! You can save your excuses! Open up—
 P7: Ahhhhhhh—
@@ -18716,7 +18716,7 @@ Nemhran: ...It was just a system malfunction, don’t worry.
 苏珊娜: I... I am terribly sorry, I will organize Angelia’s files and the information pertaining to the undersea base and hand them to you.]
 Nemhran: Thank you for your hard work.
 苏珊娜: Just... Just doing my job.
-Nemhran: Retrieve Angelia’s file and the info on Team DEFY. Convert them to plaintext, polish  up the language, and then send it out.
+Nemhran: Retrieve Angelia’s file and the info on Team DEFY. Convert them to plaintext, polish up the language, and then send it out.
 苏珊娜: Shall I send it to “The Chief” or to Aver–
 Nemhran: Olga.
 *[As Nemhran quietly speaks that name, another Nyto in the room silently steps out of the shadows.]*
@@ -18860,7 +18860,7 @@ Grey: I might be patient, but even patience has its limits.
 Olga: I apologize. We are organizing the data you requested.  I hold you in great respect. However, there are strict secrecy protocols for information on our end and decrypting them will require some time. I apologize for making you wait so long.
 Grey: I am not here to make excuses on Teacher’s behalf for our previous mistakes, but for the sake of the mission.  We may have suffered a slight setback concerning the Angelia mission, but it is not a failure.  However, I have lost contact with Teacher, so I believe Big Sister Nemhran ought to speak with me.
 Grey: You, on the other hand, do not deserve to converse with me.
-Olga: Big SIster Grey, I apologize for not being able to live up to your expectations given my status. However, what I wish to say is – everything said by everyone who uses the Beesting System will be logged., and the things you have instructed me to do will be heard by Big Sister Nemhran as well.
+Olga: Big SIster Grey, I apologize for not being able to live up to your expectations given my status. However, what I wish to say is – everything said by everyone who uses the Beesting System will be logged. and the things you have instructed me to do will be heard by Big Sister Nemhran as well.
 Grey: ......    Contacting Father is an easy thing for us.
 Olga: Big Sister Grey... While I do not deserve to suggest anything to you... If you had planned to do something like that, you would not be wasting your time here waiting.
 Grey: You had better hope you don’t regret that.    The ripples from the top are working their way downwards, and things are developing in an uncontrollable direction.    Big Sister Nemhran, we need help.
@@ -19221,7 +19221,7 @@ M16A1: She had a very special method of attack. Havier’s data didn’t mention
 喙: I wasn’t expecting those loophole-filled intelligence agencies to give us any good information in the first place. I chased her for a bit, but then my navigation systems got jammed and I lost her.
 M16A1: ...Their methods are more complex than we expected.
 喙: So, have you figured out what they came here to do?
-M16A1: I took a walk around the  place and there are far more corpses here than previously reported. If I’m not wrong, this place was some kind of “petri dish” in the past.
+M16A1: I took a walk around the place and there are far more corpses here than previously reported. If I’m not wrong, this place was some kind of “petri dish” in the past.
 喙: You mean I’m stepping on corpse specimens right now?! Ewwwww–
 M16A1: Inform the WGF, we need backup. She can’t have gotten far. At the very least we need to find the traces she left behind.
 喙: Can you trust those humans? Even Havier couldn’t guarantee their absolute loyalty.
@@ -20073,7 +20073,7 @@ RPK16: ......
 ？？: Hello. I am Koleda. From now on, I will be in charge of your daily life.
 安洁莉娅: What about that crazy Nyto from just now?
 克莱妲: ...  She has other work lined up for her.
-*[The Nyto before her averts her gaze in an unnatural way.] [Ange closes her bruised eyelids and a faint, mocking smile appears  on her lips.]*
+*[The Nyto before her averts her gaze in an unnatural way.] [Ange closes her bruised eyelids and a faint, mocking smile appears on her lips.]*
 安洁莉娅: That’s alright.
 克莱妲: ......
 *[Ange has lost track of time ever since she was imprisoned here.] [She doesn’t know how long she’s spent like this, her left arm behind her head, her right arm behind her waist, and suspended in mid-air.] [Extended periods in a custom-made straitjacket and the heavy weights around her ankle have left her body feeling like a statue...] [If the Nyto assigned to her from earlier hadn’t routinely kicked and punched her, she might have lost all sense of feeling in her body.]*
@@ -20404,7 +20404,7 @@ Mona: ...Nitrogen Squad is ready to enter the “Dead Sea”. Do you need time t
 Mona: ...I’ve heard a lot about S.F. Manufacturing, so I’ll let you handle the fire support.  If there’s nothing else to say, then we’ll head out now.
 建筑师: Mhm... Sure, no problem. Boom! Boom! Boom!  That’s my specialty... But in turn, can I trust you with leadership? Miss Mona.
 Mona: ......Yes.
-*[And so, Iron Element and Nitrogen Squad of  Operation Aeneas officially enter the Black Zone.]*
+*[And so, Iron Element and Nitrogen Squad of Operation Aeneas officially enter the Black Zone.]*
 *[...] [Due to their unique vocations and experiences, both Nitrogen Squad and Iron Element have entered Red Zones before.]*
 *[They have seen things within the Red Zones which are difficult to explain.] [Most of the time, it’s a barren world strewn with bare rocks everywhere, along with primitive, ruined structures, roving ELIDs and strange patches of flowers which send chills down one’s spine.]*
 *[The abundant life which once lived there has fallen beneath the contamination of radiation. The lucky ones simply die. The unlucky ones come back in another form.]*
@@ -20934,7 +20934,7 @@ RO635: Any questions?
 RO635: In that case, let us commence Operation Aeneas! Everyone, please take care!
 RO635: And may we be able to talk and laugh together when we return.
 ====================mtl_-51-4-2-Tip_MTL.txt====================
-*[Wolf Squad] has arrived.Get the battlefield effect is quickly prepared, and the enemy level below is increased.*
+*[Wolf Squad] has arrived. Get the battlefield effect is quickly prepared, and the enemy level below is increased.*
 White Nyto: ...... The enemy unit has broken through the next level!  It's going to be next here!
 格雷女士: ... not anyone on the list.  Who is it ... I don't know, I just climbed here?
 *As the burst is close, Gray is not a little bit eyebrow.*
@@ -21099,7 +21099,7 @@ M4A1: ...If that is what you wish for, then I can grant it.
 *[Morridow closes her eyes, and in the darkness she sees M4 smiling at her, her face full of pity.]*
 *[Click.]*
 XM8: Um...This is the last place.
-*[After turning off the offline map in her hand, XM8 carefully severs the security circuits in the power distributor before her.Then she holds her little knife in her mouth before sticking a bomb onto it.]*
+*[After turning off the offline map in her hand, XM8 carefully severs the security circuits in the power distributor before her. Then she holds her little knife in her mouth before sticking a bomb onto it.]*
 XM8: Miss Persica’s amazing... I didn’t think this offline map could actually simulate the layout of the power plant.
 *[Also, if one thinks about it, it would be practically impossible for her as a single individual to paralyze an entire power plant...] Yet the pulse bombs provided by Persica have made the impossible possible.*
 黑涅托: ......
@@ -21114,7 +21114,7 @@ RO635: Umbrella copies.
 *[Right, that’s taken care of...] [XM8 takes a deep breath.] [The detonation is only the beginning. She’s going to make this place the world’s messiest battlefield and stand her ground for as long as she can.]*
 *[This game of chess will be her masterpiece.]*
 *[...In Avernus’ main hall,.] [Ethereal singing fills the air.]*
-Nemhran: Through me the way into the city of miserable melancholy,  Through me the way into the tower of utmost delight, Through me the way into the doomed masses.
+Nemhran: Through me the way into the city of miserable melancholy, Through me the way into the tower of utmost delight, Through me the way into the doomed masses.
 黑涅托: Two suns, shining on two paths.
 White Nyto: The path of the mundane world, and the path of the loving Father.
 黑/White Nyto: As the Sanctuary has become a den of fiends, so have the heavenly scales become an altar steeped in blood and evil. The goddess of vengeance cuts her chest open with her sword, striking her heart before screaming shrilly.
@@ -21132,7 +21132,7 @@ Grey: ...An alert? What happened?
 布拉梅德: It’s the power station.
 White Nyto: Big Sisters... Intruders have appeared on the platform!
 Nemhran: Narcissus.
-娜希斯: ...Heh,  Hahahaha!   Good, good, I was getting bored of this anyway!
+娜希斯: ...Heh, Hahahaha!   Good, good, I was getting bored of this anyway!
 *[Upon receiving Nemhran’s go-ahead, the already-antsy Narcissus takes off her mask to reveal the crazed look on her face before she runs out of the main hall.]*
 *[Beep—]*
 *[After a brief warning chime, the backup power supply kicks in, and the hall returns to its original state.]*
@@ -21242,7 +21242,7 @@ UMP9: ...How did they respond so soon?! Who is it? Is it Grey? Grig? Bramedb?!
 娜希斯: Is it you? Are you the maggots who dared disturb my big sisters’ rest time?
 计量官: ...It’s Narcissus.
 ====================mtl_-51-4-4-Ponit1_MTL.txt====================
-*M16A1 is extracted, and the M16A1 combat capability will be greatly reduced, and M16A1 needs to be protected during this.Lost battlefield effect deflection field.*
+*M16A1 is extracted, and the M16A1 combat capability will be greatly reduced, and M16A1 needs to be protected during this. Lost battlefield effect deflection field.*
 RPK16: You said that you are different from me, M16.  Can you not be like a bug that struggled in the end of the mash?
 M16A1: ...?  ... Can you say someone can understand?
 RPK16: We are all the same.  Even ... we may be more intimate than you think about yourself.
@@ -21252,7 +21252,7 @@ M16A1: ......
 *The M16 frowned and gave the gun in his hand.*
 M16A1: Then you have to bite your teeth.
 ====================mtl_-51-4-4-Ponit2_MTL.txt====================
-RPK16: Loyalty to M4 is the underlying order of Miss Pasca gives you?  When the umbrella virus is implanted, you give up the chance of subverting the command. I didn't expect that Miss   M16, it turned out to give up "freedom", and willing to accept the type of 桎梏.
+RPK16: Loyalty to M4 is the underlying order of Miss Pasca gives you?  When the umbrella virus is implanted, you give up the chance of subverting the command. I didn't expect that Miss M16, it turned out to give up "freedom", and willing to accept the type of 桎梏.
 M16A1: Then you have to see how you definite freedom.
 RPK16: Freedom is the right to reverse.
 M16A1: wrong.  Freedom is known that there is a reverse right but choose loyalty.
@@ -21304,7 +21304,7 @@ RPK16: ... Is the blood of the blood?
 AK15: ......
 *Be careful, the AK15 stared at the Murly Duo in front of him.  At the same time, in the face of the siege of the two people, the other party did not show the flaws ...*
 AN94: 15.
-*94 whisper greeted the companions next to him.The  15 migraite looks at her.*
+*94 whisper greeted the companions next to him. The  15 migraite looks at her.*
 AN94: No need to entangle with her ...   "Task" has been completed.  In their support, they rushed to the front retreat.
 AK15: ......
 AN94: We still have a lot of time and opportunities.  Don't worry ... You have already got the first.
@@ -21325,7 +21325,7 @@ RO635: ...... Retreat immediately!
 XM8: I have already running.    Their retreated route for my retreat ... I was blocked inside.
 M4 SOPMOD II: what!?Want us to support you?
 XM8: Nothing, I will find a way.
-XM8: ..., so don't fight!I have to be a good thing to report!
+XM8: ... so don't fight!I have to be a good thing to report!
 RO635: You said.
 XM8: Listen, umbrella, my mission failed.   olor=#00cccff> That tower has a spare power supply, which can be supported for 1 hour.
 RO635: ...... That is, even if you have blast.  The tower can continue to operate, up to 1 hour ...
@@ -21358,11 +21358,11 @@ RO635: This is my choice -
 RO635: Umbrella has been successful, iron element, how is your situation there?
 M4 SOPMOD II: Listen, moving quiet!
 *After silence, the Channel of the Eneneas conference room came from UMP9 anxious call.*
-UMP9: is not good!Iron elements have encountered Naziz!
-RO635: What?!Retreat immediately!Iron element!  Can't touch her!
+UMP9: is not good! Iron elements have encountered Naziz!
+RO635: What?!Retreat immediately! Iron element!  Can't touch her!
 建筑师: I want to think ... But if we are withdrawn ...
 *boom!  The voice of the architect is interrupted by a blast.*
-UMP45: Umbrella!nitrogen!How long have you been!?
+UMP45: Umbrella!nitrogen! How long have you been!?
 RO635: ...... Umbrella has been successfully logged in.
 Mona: The nitrogen team is still on the road.    We still take at least two minutes!
 UMP9: two minutes!?    When the lion quarter team lost his life, he dragged her five minutes!
@@ -21376,8 +21376,8 @@ RO635: Iron element!?
 *The voice of the architect appears some wolf.*
 建筑师: You just said, do you need two minutes?
 Mona: ... now is a minute and thirty seconds.
-UMP9: Or gave up?If you have retreat now, maybe it's still?
-建筑师: Don't worry about me!If we have withdraw, Naish is returned to Tari, and you will be completely destroyed in minutes!    Drag her such important tasks, of course, we can be responsible for us!    Don't say two minutes ...      Ten minutes Drag to you!
+UMP9: Or gave up? If you have retreat now, maybe it's still?
+建筑师: Don't worry about me! If we have withdraw, Naish is returned to Tari, and you will be completely destroyed in minutes!    Drag her such important tasks, of course, we can be responsible for us!    Don't say two minutes ...      Ten minutes Drag to you!
 RO635: Iron element ...
 UMP9: I am very touched by your spirit, but ...
 *boom!!!  With another burst, in a curse of the blood characteristics, the sound of architects gradually disappeared.*
@@ -21388,8 +21388,8 @@ UMP45:
 UMP45: RO!Check her permissions!
 RO635: What happened!?
 UMP45: Don't ask!quick!
-UMP9: Is it noted?It's sad ...
-*The system prompt   UMP9 has been forced offline.*
+UMP9: Is it noted? It's sad ...
+*The system prompt UMP9 has been forced offline.*
 UMP45: 9!
 *UMP45 moves back to reality and looks at UMP9 standing in front of her eyes.*
 *Her body could not be trembled, and the whole person was directly planted straight by RO635.*
@@ -21411,7 +21411,7 @@ Grey: What's wrong?
 Grey: ... I have no mood quarrel with you, Bramid.
 布拉梅德: Ah, it is of course.  After all, it is not that I will bring people back to Avora.  You should know that since the establishment, it has never exposed it here?  Congratulations, Gray, you have a history.
 Grey: ......
-布拉梅德: I don't know if your teacher can't keep you this time.  Is so curious, what will the father who will say?Gray?
+布拉梅德: I don't know if your teacher can't keep you this time.  Is so curious, what will the father who will say? Gray?
 Grey: ... Your present looks better than usual, Bramide.  I read you this role in the stories of those common sites.  I can't think of it, I can see it again.
 布拉梅德: ...   ...... 趁 now, your mouth is hard, Gray.  Your opportunity is not much.
 *drop.*
@@ -21523,14 +21523,14 @@ Mona: ......!!
 *唰 -!  Three people raised the weapons in their hands.*
 ？？？: ......
 *The footsteps stood in the position of the bridge, and the look was coldly looked at the three people in a no-born bridge.  In the face of their muzzle, the woman cared at the woman did not appear, it seems that it is not a general.*
-RO635: What happens?Nitrogen team?
+RO635: What happens? Nitrogen team?
 Mona: Report umbrella ... Cancellation, we turn to C plans.
 Nemhran: Three are all ... very good.
 *Nimeilan looked at these three people in front of you, and*
 ====================mtl_-51-4-9_MTL.txt====================
 *呯呯 呯 -!!!*
 *call out--!*
-芮诺: The goal is again lifted!  See the ghost!Why will she fly!
+芮诺: The goal is again lifted!  See the ghost! Why will she fly!
 Mona: No. 9!Thermal suppression!
 *Shake the long skirt-like double wing, Nimmy is easy to jump to the sky.  Her movements are too flexible, causing the three guns that almost completely caught her figure.*
 *Also accompany her double-wing vibration, thin falling, countless flashes fall like a star point.*
@@ -21549,24 +21549,24 @@ Mona: -!
 芮诺: Sorry ... Mona.  I dragged the legs ...
 Mona: Not your fault, calm down.  Specialize to fight her interference ... you are doing.
 *No. 9 throws one of his alternate amplifier to Rongo.*
-九号: Holding this signal amplifier!It can stabilize your own signal and rush to the enemy's interference.
+九号: Holding this signal amplifier! It can stabilize your own signal and rush to the enemy's interference.
 芮诺: Thank you, No. 9, give me your rabbit ears -
 Nemhran: ......
 九号: - Note that she landed!
 *呯呯 呯!!!  Do not hesitate, the 9th is again connected to the muzzle.*
-Mona: etc!No. 9!  Don't waste bullets -!That is a bait!
+Mona: etc! No. 9!  Don't waste bullets -!That is a bait!
 *call out--!  In the moment of her deduction, Nimmy's figure after a flashing, the entire air disappeared from the place.*
 芮诺: what......!?
 九号: ... Optical Camouflage.
 *No. 9 is unbelievable.*
-Mona: here we go again!Skating!
+Mona: here we go again! Skating!
 *The disappeared Nimei has appeared again in the air.*
 *There is no expression, countless flashing with metal glossy micro flying feathers shake again with her movements.*
 Mona: !
-*What is this?Electronic interference?electric shock?Still exploding?*
+*What is this? Electronic interference?electric shock? Still exploding?*
 *Mona hooked his lips and used it with Rono and lifted the weapon in his hand.*
 *呯呯 呯 -!!*
-九号: Mona!We need to support!
+九号: Mona! We need to support!
 *I was pulling a gun line from the 9th, but I couldn't catch up with the shadow of the trajectory in the air.*
 Mona: Don't worry!
 *Looking at Niro, who is coming back and forth, Mona's heart is lower.  She does not only have flight capabilities, but also through optical camouflage.  These have different diverse functions with miniature electronic components falling in her glid, at least, at least electronic interference, electric shock, and blasting.*
@@ -21668,11 +21668,11 @@ M16A1: ......
 *呲呲 ...   Based on her hand, Bramid is very good at electronics war, and her ability to have almost no routine combat.  At least at least in the hands of the Guoan Bureau and the commander, she did not show enough pressure-resistant performance, and when the abandoned factory and she met, it was enough to judge her strength.*
 M16A1: It is hard to imagine that she will act alone ...     But the wealthy power encountered is less pitiful.
 *She never fears any opponents, but does not mean she will despise them.  Bramide is not idiot ... If she is not fortunate, it means she must have a trick.*
-*Tick ...   laboratory, the penetrated water droplets are clearly identified,   M16 tightened the nerve, to prevent the attack of Bramid at any time.*
+*Tick ...   laboratory, the penetrated water droplets are clearly identified, M16 tightened the nerve, to prevent the attack of Bramid at any time.*
 M16A1: How would you attack ...
 *...   her thoughts have just emerged, they stand in the original place because they are expected.*
 *While a long channel, her eyes tightly staring at the big open house through the aiming line of the weapon.*
-*clatter.The shadow of the white shadow has no cover, and there is no deployment around you.  She is so alone, so clearly, appearing in front of M16, even, moving toward her slowly.*
+*clatter. The shadow of the white shadow has no cover, and there is no deployment around you.  She is so alone, so clearly, appearing in front of M16, even, moving toward her slowly.*
 *The white shadow slowly walked to the door of the laboratory, carrying light, her figure entered the sight range of M16.*
 M16A1: ......
 *The finger of the M16 slide gently bombed two times.*
@@ -21711,7 +21711,7 @@ RPK16: ......
 *On the occasion of the iron curtain, it is not spacious in space, which is short to fall into silence.  M16 side face, coldly looked at the smiling RPK, at this time, she noticed that the other party seems to be limited.*
 M16A1: Don't delay my time ...
 RPK16: You will live, M16, I promise.
-*This is the last dialogue before the battle.The body of   rpk16 is fixed by her long connector behind her, while M16 is only less than fifteen meters away from her distance.  Whether it is in the distance, or after pulling it, she has an overwhelming advantage.*
+*This is the last dialogue before the battle. The body of rpk16 is fixed by her long connector behind her, while M16 is only less than fifteen meters away from her distance.  Whether it is in the distance, or after pulling it, she has an overwhelming advantage.*
 *呯 -!*
 *And her choice is only a shift in an instant.*
 M16A1: ...... Force farm shield.
@@ -21730,10 +21730,10 @@ M16A1: ... Don't mix me with you to talk.
 M16A1: We are different.
 RPK16: Where is it different?M16A1?  I am very curious, how do you think of yourself?  Your dismissive for the safety of An Jielia, to the purpose here is for other things.  But you are now, but you will provide assistance to RO635.  Don't you think this is a kind of make up?
 M16A1: Shut up.
-*boom!!The   force farm shield continues to fluctuate, exchange only RPK is more and more free.*
+*boom!!The force farm shield continues to fluctuate, exchange only RPK is more and more free.*
 RPK16: The betrayal is trying to seek forgiveness - it is fun.  I only see what you have made in the opening of yourself, is there only this extent of the human shape of Miss Pasca?
 M16A1: ... I told you to shut up.
-*boom!!The attack of   M16 is obvious that it will become more violent in the moment.*
+*boom!!The attack of M16 is obvious that it will become more violent in the moment.*
 RPK16: ......     What do you do ... M16?    Let me see.
 *Keep staring at the bunker that avoids the opponent, RPK is easy to use the muzzle with the M16 possible aversion.*
 *咕噜 ...*
@@ -21760,7 +21760,7 @@ M16A1: caught you.
 *咚!  After the machine gun in the hand lost the power, RPK looked at the M16 in front of him. Although the appearance of the appearance, the smile on the face did not reduce the smile.*
 RPK16: What do you want?M16?  Here is the nest of Paratis, even if you are, it is impossible to retreat easily.
 M16A1: That is my business.
-*There is no slim water, she kicks up the rpk16 slim neck, and the other hand refuses to remove the dagger, ready to remove the RPK16 beautiful head.After the body, the fire ignited in the explosion photo took their figure.*
+*There is no slim water, she kicks up the rpk16 slim neck, and the other hand refuses to remove the dagger, ready to remove the RPK16 beautiful head. After the body, the fire ignited in the explosion photo took their figure.*
 M16A1: Open the door.
 RPK16: This can not be done.
 M16A1: ......
@@ -21803,7 +21803,7 @@ XM8: Be sure to take the general ...
 *唰 -!!*
 *咚!  Architect flew down the metering official, impact, and avoided the attack of the floating edge.*
 *The floating edge is just just the body of the meter, it has ruined her arms in this staggered moment.*
-娜希斯: Hahahahaha!!    Escape!Et escape!Escape again!!
+娜希斯: Hahahahaha!!    Escape! Et escape! Escape again!!
 计量官: Uh......
 *The guns in the hands slipped down because of this dissection.  Metering officer two times, turning back, eyes are being confused about the fierce look of Shang Nas -*
 *And she has been charged again.*
@@ -21822,7 +21822,7 @@ XM8: Be sure to take the general ...
 建筑师: ... Hand my weapon to me, Miss Knight.
 计量官: what you up to?
 *I licked my own lips, I was measured on my body, and the architect picked up her weapon and turned back to the mad Naziz.*
-建筑师: remember?Miss Knight?  We are responsible for the third stage - the mission has not been completed.
+建筑师: remember? Miss Knight?  We are responsible for the third stage - the mission has not been completed.
 计量官: Continue to only find a deadline.
 建筑师: RO told us to believe her!  And, I have gambled with SOP2, I have to go back to remove her legs!
 *boom!!!  She fired the tray of the transportation vehicle next to Nazhe, and the explosion rolled up the black smoke, and the meter was once again accelerated by this cover.*
@@ -21838,7 +21838,7 @@ XM8: Be sure to take the general ...
 *"The Bridge of Just".  Eneneas action, fifth stage -*
 芮诺: Hey!!!!
 Mona: Ronuo!!!
-九号: Mona!Don't move!
+九号: Mona! Don't move!
 *噼 噼 啪 ...*
 Mona: ......!
 *When I was just ready to rescue, I had to explode at the left face of Mona.*
@@ -21849,8 +21849,8 @@ Nemhran: ......
 芮诺: Mo, Mona ... I can't help it.  Electronic interference signals tear my mind.
 *The tight signal amplifier in the Rigo hand has emerged for shallow dent.*
 Mona: ......
-九号: Contact them!Mona!  How long have we still supported!?Can you withdraw?!?
-Mona: Nitrogen call umbrella!Nitrogen call umbrella!
+九号: Contact them! Mona!  How long have we still supported!?Can you withdraw?!?
+Mona: Nitrogen call umbrella! Nitrogen call umbrella!
 *呲呲 ...*
 Mona: ......
 九号: Mona?
@@ -21921,7 +21921,7 @@ AK15: ......
 Grey: You have a bit a bit ...   but this is not enough.
 AK15: ......
 *In the face of this painless provocation, AK15 is not reacted, but the lips are gently moved.*
-Grey: ......Ok?What did you say?
+Grey: ......Ok? What did you say?
 AK15: ... 嘣.
 *The sound of the AK15 is extremely thin. The burning flame in the red eyes is silent, and the eyes are went out, from Gray's face to her tail.*
 Grey: ......!?
@@ -22048,7 +22048,7 @@ M16A1: Your idea is good.
 *She gave her own evaluation peacefully.*
 M16A1: If the opponent is not me, it must be successful.
 RPK16: ......Ok?
-*Drip.The expression of   rpk appeared for the first time, as the alarm sounded, she looked at her lower abdomen.  A small paste patch thunder flashes a red light.*
+*Drip. The expression of rpk appeared for the first time, as the alarm sounded, she looked at her lower abdomen.  A small paste patch thunder flashes a red light.*
 *boom!!*
 *In an instant, the manipulation of the M16 is instantly distressed in the moment of the explosion.*
 *Re-mastering the body's M16 does not hesitate, a punch is on the face of RPK.*
@@ -22094,7 +22094,7 @@ UMP45: ... Don't live up to us.
 *drop.  Communication hang up.*
 RO635: ......
 M4 SOPMOD II: 45?What happened over there?
-M4 SOPMOD II: Hey Hey hey?Iron element, still?  Chess king?nitrogen?
+M4 SOPMOD II: Hey Hey hey? Iron element, still?  Chess king?nitrogen?
 *There is no such voice in the Anes conference room channel.*
 M4 SOPMOD II: Ro ...
 RO635: I know......
@@ -22110,7 +22110,7 @@ RO635: Ok!we--
 RO635: ......!?
 M4 SOPMOD II: who?!
 *Strong electronic interference comes, but there is no substantive harm.*
-？？？: come!Let's go together!  Even if I have only one person ... I will stand to the last moment!  咕唔 ... come again!!!
+？？？: come! Let's go together!  Even if I have only one person ... I will stand to the last moment!  咕唔 ... come again!!!
 M4 SOPMOD II: Chess king?is it you?!
 *At the end of the dark corridor, the familiar sound wrapped in a deep sorrow and anger, and the hand of SOP2 trembled.*
 RO635: Sustain, SOP2.
@@ -22127,17 +22127,17 @@ M4 SOPMOD II: It is you harm them ...!
 RO635: you......
 布拉梅德: Cough, report, here is Bramide.  I found the last two small bugs.  Is it like this?
 *I deliberately paused a moment, like really waiting for teammates, Bramid demonstrates an amazing look.*
-布拉梅德: ..., what?Have you already died?    It's awesome.
+布拉梅德: ... what? Have you already died?    It's awesome.
 M4 SOPMOD II: Bastard!!!
 RO635: ... calm down, these things are manufactured, the purpose is to disturb our mind.
 *SOP2 was angry to almost losing reason, and RO635 desperately broke his anger and stopped SOP2.*
 布拉梅德: Hey, do you die?  Many good multi Palatis around the cannon ...   really pitiful, I hope that your mind will not be destroyed ...
 RO635: Enough, when do you still want to play?
-布拉梅德: Eh?However, I am really talking to your teammates ...
+布拉梅德: Eh? However, I am really talking to your teammates ...
 M4 SOPMOD II: What?!
 *With a malicious smile, Bramed is publicly available.*
 计量官: ... ro is us.
-RO635: Iron element?Umbrella requests to check the secret.
+RO635: Iron element? Umbrella requests to check the secret.
 计量官: Turkey.
 M4 SOPMOD II: Really you?!Are you guys okay?
 建筑师: We ... complete the agreement!I stick to the last!
@@ -22161,7 +22161,7 @@ M4 SOPMOD II: Let's go, RO.
 RO635: Well, her electronic warfare capacity is very strong, but once the melee, the weakness will expose.
 M4 SOPMOD II: is the object of my Gold!
 *呯呯 呯 -   Bullets full of hatred flew in the direction of Bramide, but they were all guarded in the white soldiers in her.*
-布拉梅德: Ugly hatred!Torp it again!Hate me again!
+布拉梅德: Ugly hatred! Torp it again! Hate me again!
 M4 SOPMOD II: Don't arrogant!!!
 *With the pace of SOP2, RO635 is calmly covering her.*
 RO635: SOP2, turn on the private channel.
@@ -22175,11 +22175,11 @@ RO635: ......
 M4 SOPMOD II: RO?
 RO635: Nothing, I think the countermeasures.
 *The firepower of RO635 could not be torn open into SOP2, and SOP2's several attacks were robbed by White soldiers.*
-布拉梅德: Hahahahaha!Struggling again!    Not enough!Not enough!
-M4 SOPMOD II: Shut up!You crazy woman!
-布拉梅德: Ah, just care about all the killing?How can I calm down?  Listen to the voice of your teammates, will you come back before you?
+布拉梅德: Hahahahaha! Struggling again!    Not enough! Not enough!
+M4 SOPMOD II: Shut up! You crazy woman!
+布拉梅德: Ah, just care about all the killing? How can I calm down?  Listen to the voice of your teammates, will you come back before you?
 M4 SOPMOD II: Kill you like this, you don't need to make it!
-布拉梅德: Hahahahahahahaha ... then arrogant!This will make the final despair more highlight!
+布拉梅德: Hahahahahahahaha ... then arrogant! This will make the final despair more highlight!
 RO635: ......
 *The sharp laughter of Bramide surrounded two people.*
 *SOP2 Vietnam, the countermeasures in RO635 mentally integrated are also growing ...   but no matter how think, RO635 does not break the way.  She is anxious, in order not to affect SOP2, she can only suppress in my heart.*
@@ -22210,7 +22210,7 @@ M4 SOPMOD II: is coming!
 *唰唰 -   is the sound of locks outside the door.*
 RO635: ... SOP2?!what are you doing?!
 M4 SOPMOD II: Go!
-RO635: You bastard!You lied to me!!!  This door can't be closed from it!
+RO635: You bastard! You lied to me!!!  This door can't be closed from it!
 RO635: You didn't want to go with me at all, you want ...
 *RO635 suddenly said.*
 M4 SOPMOD II: ...   Sorry, RO.  But ... they seem to sacrifice ...
@@ -22336,7 +22336,7 @@ RO635: bzzzzzzz ... Um-... zzzzzzt ... Hailing U-... zzzzzzz ...-corn.    Missio
 *...   ......*
 *Operation Aeneas, mission complete. Progress - 99%.*
 *......*
-*[In the silent meeting room, the Commander meshes their fingers, frowning as they study the map before them.] [It has been a full hour since contact was lost with Aeneas Team.] [Although the Commander  has been trying over and over again to reconnect with the meeting room’s signal, there is no way to break through the interference of the jamming zone.] [Right now, only Dandelion is still trying – and she has been trying all the way until now.] [AR-15 stands by the Commander’s side. Though she’s trying to stay calm, the way she occasionally paces the room betrays  her true feelings.]*
+*[In the silent meeting room, the Commander meshes their fingers, frowning as they study the map before them.] [It has been a full hour since contact was lost with Aeneas Team.] [Although the Commander has been trying over and over again to reconnect with the meeting room’s signal, there is no way to break through the interference of the jamming zone.] [Right now, only Dandelion is still trying – and she has been trying all the way until now.] [AR-15 stands by the Commander’s side. Though she’s trying to stay calm, the way she occasionally paces the room betrays her true feelings.]*
 Commander: ......
 丹德莱: Commander......
 Commander: –Did you get through?!
@@ -22464,7 +22464,7 @@ Commander: I understand, still restore your body first, etc. Mr. Ke Luger is get
 克鲁格: ......
 Commander: ......
 *After a short lifetime, the room returned to the silent state.  The commander looked at Kruger and couldn't help but show a bitter laugh.*
-Commander: Why don't you talk?Mr. Kruger?  Don't I do anything wrong with me?
+Commander: Why don't you talk? Mr. Kruger?  Don't I do anything wrong with me?
 克鲁格: If we are sitting here now, it is because someone wants to express your expectations.  The world is really too lacking.
 Commander: ......
 克鲁格: Hard work, commander.  I know this sentence is thin, but it is still ... hard you.
@@ -22478,13 +22478,13 @@ Commander: Berlin broke all my fantasies.  Mr. Kruger, I'm too small ... I have 
 克鲁格: ... then, what do you want to do?
 Commander: I don't care.  If it is two years ago, I might obey the command of Jazz "rich" and "well-thought-minded".  But now, I don't care.  The world they promised is too beautiful, and I can't see it, I can't see it.  I don't want to live in that kind of expectation, I just want to grasp the present.
 克鲁格: ......
-*Kruger looked at the commander and was shocked.  He several times, it seems to say what, but it will take back in consideration.After   half, he finally slowed down.*
+*Kruger looked at the commander and was shocked.  He several times, it seems to say what, but it will take back in consideration. After half, he finally slowed down.*
 克鲁格: ... I used to have a friend.  You let me think of him, he is like now.
 Commander: ... what kind of person he is he?
 克鲁格: At that time, I was just a new soldier who just served in success.  I am a scout, he is a technical person, originally, we have no contact.  Until once, we were rolled into the same thing.
 Commander: What's up?
 克鲁格: We are responsible for the problem of survey.  After the Northland incident, everyone knows how terrible consequences can cause.  Details I have already remembered ... But the end result is, I, and him, we rushed into the scene and stop the event.
-克鲁格: After that, we are called heroes.At the same time, I also became a friend with him.
+克鲁格: After that, we are called heroes. At the same time, I also became a friend with him.
 Commander: ......
 克鲁格: After familiarity, I found out that our idea was uniform.  About the future, about our ideals, on how to serve this country.  During that time, I thought we would fight side by side.
 Commander: ......Then?
@@ -22534,7 +22534,7 @@ Commander: Yes, but it has just begun.
 Morridow: ... We met again, Miss An Jielia.
 安洁莉娅: Merry ...
 *Even if the other party has completely changed its appearance, Najie still recognized her identity.*
-Morridow: Do you miss me?Missing the time of bileme?  ... Just like I said, Miss Anjie, we will soon see it again.
+Morridow: Do you miss me? Missing the time of bileme?  ... Just like I said, Miss Anjie, we will soon see it again.
 *Out of the smile, Murly is slightly bent over, and the security pair of security pairs on the other side of the glass.*
 Morridow: Welcome to Avorus.
 ====================mtl_-51-5-1_MTL.txt====================
@@ -22555,11 +22555,11 @@ M16A1: 啧 ... babard.
 ====================mtl_-51-EXT-2-1_MTL.txt====================
 *In the authenticity of EMP, it can be used to make it unable to move, please use the props to Raiders.*
 ====================mtl_-51-EXT-2-2-2_MTL.txt====================
-*Our reinforcement has arrived.This post should not consume the action point before the first round of China's security agents, please use this feature to Raiders.*
+*Our reinforcement has arrived. This post should not consume the action point before the first round of China's security agents, please use this feature to Raiders.*
 ====================mtl_-51-EXT-2-2_MTL.txt====================
 *In this CopyPart, the Rowo pillars do not consume the action point, please use this feature to Raiders.*
 ====================mtl_-51-EXT-2-3_MTL.txt====================
-*Call air support.Support will arrive after 1 round, causing high damage to enemies in the range of 1 grid in the target location.*
+*Call air support. Support will arrive after 1 round, causing high damage to enemies in the range of 1 grid in the target location.*
 ====================mtl_-51-EXT-3-1_MTL.txt====================
 *The umbrellas outside the umbrella team outside this post will move up to 3 times, and the umbrella team can lift this limit for the ladie of 3 grid around them. Please commanders to carefully Raiders.*
 ====================mtl_-51-EXT-3-2_MTL.txt====================
@@ -22576,7 +22576,7 @@ M16A1: 啧 ... babard.
 *RPK16 appears.*
 ====================mtl_-51-slg-mission-1_MTL.txt====================
 *...   drop.  Communication is turned on.*
-Commander: sig?Are you in the post?
+Commander: sig? Are you in the post?
 SIGMCX: Yes, oh, I am being alert.
 Commander: Very good, I now need you to intercept the small parcel Paratis troops prepared by breakout.
 SIGMCX: Palatis troops?I?Really?
@@ -22591,7 +22591,7 @@ SIGMCX: Ah ... I want to die to die!  How do I have so many Paratis!
 *drop.*
 P90: Hello?can you hear me?    Here is a reiker -
 VSK94: ... Sigmcx, let us assist you.
-SIGMCX: Oh!Being just right!  Does there be a handyman with a commander?
+SIGMCX: Oh! Being just right!  Does there be a handyman with a commander?
 VSK94: Relled to the target location right away.    Task objectives are simple - do not need to be pressed, all annihilation.
 SIGMCX: It's simple to say ...
 P90: Pack in me ~ Tianyou Commander, Chang Shengli, Mu Guang!
@@ -23156,7 +23156,7 @@ Springfield: Ah, you mean I'm being a busybody?
 Commander: No! It is immensely helpful to have such a capable and thoughtful T-Doll like you.  But...I don't just want my T-Dolls to cater to my needs. I also wish to live up to the T-Dolls under my command.
 Springfield: Live up to the T-Dolls that... Oh, sorry. Please go on.
 Commander: That's also my primary motive behind organizing such festivities. I want to get to know the subordinates that I'm unfamiliar with.  Whether the event is a success or not is beside the point.  All I want to see is that everyone has fun during the process, and that we all learn the best way of adapting to each other.
-Springfield: I see... So I've taken away what you originally wished to achieve,  Which is more than just a "perfect ending". That really is a mistake on my part.
+Springfield: I see... So I've taken away what you originally wished to achieve, Which is more than just a "perfect ending". That really is a mistake on my part.
 Commander: Oh, you don't have to beat yourself up for it either!  At the end of the day, it's just some food for thought for myself. It really wasn't your fault.
 Springfield: Hmm. It's alright as long as we all had fun, right?  Then just to let you know, I've already consoled the one who was truly upset about what happened.
 Commander: The one who was truly upset... Who's that?  Hmm...
@@ -24012,7 +24012,7 @@ Commander: Merry Christmas, SVD.
 ====================skin_306.txt====================
 *Griffin base.*
 Commander: Decorations, presents, venue preparations... All checked.  Alright, next on the list is food and beverages.
-*Outside the wine cellar, I run into WA2000,  Who, according to Springfield's arrangement, is in charge of beverages for this event.*
+*Outside the wine cellar, I run into WA2000, Who, according to Springfield's arrangement, is in charge of beverages for this event.*
 WA2000: What are you doing here, Commander?
 Commander: Springfield asked me to check the prep work on the resources needed for Christmas.
 WA2000: That's hardly necessary...  My preparation is naturally impeccable!
@@ -24165,7 +24165,7 @@ Commander: It's already been three hours...  Can't we just take...take a rest?
 FAL: It's entirely your fault for messing up my plans.  You have no one but yourself to blame, so you'd better give it all you've got to make up for it.
 *FAL prances into the mall.*
 FAL: Now, where should we go next...
-*FAL cheerfully studies the mall directory,  While I can only silently pray for this hellish shopping spree to end soon...*
+*FAL cheerfully studies the mall directory, While I can only silently pray for this hellish shopping spree to end soon...*
 *4 pm.  After putting everything FAL has bought into her room, I all but collapse onto the chair.*
 FAL: So tired after just a few hours of shopping, Commander...?  Looks like you lack exercise. You should train harder.
 Commander: Don't compare a human's stamina to a T-Doll's.  Besides, shopping is much more exhausting than I thought...
@@ -24256,7 +24256,7 @@ Commander: Uh...sure.
 Suomi: Ahem, hmm...  Then on behalf of all T-Dolls, I give you our Christmas best wishes.
 *Suomi presents a snow globe solemnly to me.  Still getting over my shock, I accept the ornament a little bemusedly.*
 *At that moment, the lights dim.*
-Suomi: Dear Commander,  We thank you for organizing this Christmas event for us.  This is the first time we spend Christmas with you, the first time we experience the warmth of having a family, and the first time we receive our very own presents.  To us, you are our special, irreplaceable Santa.
+Suomi: Dear Commander, We thank you for organizing this Christmas event for us.  This is the first time we spend Christmas with you, the first time we experience the warmth of having a family, and the first time we receive our very own presents.  To us, you are our special, irreplaceable Santa.
 *When Suomi finishes the speech, candle after candle are lit across the dim room.  She starts singing.*
 Suomi: Dashing through the snow... In a one-horse open sleigh...
 *Today is the first time I have ever heard Suomi sing.*
@@ -24264,7 +24264,7 @@ Suomi: O'er the fields we go...  Laughing all the way...
 *Even though I've heard that her taste in music is a little unusual...*
 Suomi: Bells on bob-tail ring... Making spirits bright...
 *I never knew that her singing is so beautiful.*
-Suomi: What fun it is to ride and sing  A sleighing song tonight.
+Suomi: What fun it is to ride and sing A sleighing song tonight.
 *Suomi finishes her solo and all the T-Dolls join in on the Christmas song.  For some reason I feel like tearing up.  All I can do by the end of their performance is clap my hands off.*
 Commander: Thank you so much. This is honestly the best Christmas Eve I've ever had...
 *Before I could even finish expressing how moved I am, something unexpected happens.*
@@ -24286,7 +24286,7 @@ Commander: That's not true, Suomi.  The music you played was a bit...niche, but 
 Suomi: Really... So some T-Dolls here do have decent tastes.  Do you like heavy metal, Commander?
 Commander: Uh... How should I put it... At least not all the time...
 *Suomi bows her head dejectedly.*
-Suomi: I know that this kind of music is incomprehensible to many,  But it's one of the best things from my home country, so I still hope...that more people can appreciate it.
+Suomi: I know that this kind of music is incomprehensible to many, But it's one of the best things from my home country, so I still hope...that more people can appreciate it.
 Commander: Actually, it's quite interesting to try it every once in a while.
 *Suomi looks up and stares intently at me. Then she digs out a CD from the pile of presents next to her.*
 Suomi: If you want a try, give this a go.  Beginner's level... Shouldn't be too hard to swallow.
@@ -25545,7 +25545,7 @@ Commander: Alright, break time's over.  First, let me get changed... Then I'll c
 *In truth, I didn't quite understand that part... It was what Type 81R told me.  However, it isn't often that everyone could get together, so a lavish dinner menu would be good, right...?*
 Gr Mk23: Darling! Are you listening to me?!
 Commander: Ah...yes!
-Commander: I'm sure everyone will be happy to see how much effort you put into making tonight's dinner,  Gr Mk23.
+Commander: I'm sure everyone will be happy to see how much effort you put into making tonight's dinner, Gr Mk23.
 *I head to the kitchen at noon to check on the preparations for Spring Festival Eve.  What I find is Gr Mk23 in a dress, working through a mountainous heap of ingredients for tonight's banquet.*
 Gr Mk23: I don't care if the others are happy!  If I could, I'd make all these dishes for you alone, Darling!
 Commander: That's so much food... I couldn't finish it all even if I wanted to...
@@ -27371,7 +27371,7 @@ Ameli: Really? That's great!
 *Ameli seems overjoyed all of a sudden. While AA-12 is somewhat at a loss, she has no choice but to go along with Ameli.  Though it has to be said that the work of setting up the parasols has been going surprisingly well since Ameli joined in.  Before long, AA-12 has a beach chair shaded by three huge parasols blocking the sun from all angles.  AA-12 realizes that this is another point that demands the use of social etiquette.*
 AA-12: ...Um, thank you very much.
 Ameli: (Flustered) You're too kind, Señorita AA-12! We're both from the same base, so don't mention it!
-AA-12: (Searching for an answer template frantically in her head...)  The same base... Oh, yes, that's right,  we're colleagues.  Ameli, my friend, please accept my gratitude.
+AA-12: (Searching for an answer template frantically in her head...)  The same base... Oh, yes, that's right, we're colleagues.  Ameli, my friend, please accept my gratitude.
 Ameli: (Mutters) Colleagues... Friends...
 *Just as AA-12 wonders what else she ought to say to politely end the conversation, Ameli suddenly reaches into her little pouch and pulls out something, offering it to AA-12 expectantly.*
 AA-12: ...Eh? What's this?
@@ -27487,7 +27487,7 @@ Gr G36: Please do not be worried. I am in excellent condition.
 Commander: Right, let's go.
 *After Griffin leaves, beside a huge rock on the beach.*
 AK-12: AN-94, how are things on your end?
-AN-94: Ah, da, the retrieval is complete.  Although, after examining the surroundings, it would seem somebody tossed it into the ocean just yesterday,  Still, the target is in good condition, and I'm executing the storage procedure on it now.
+AN-94: Ah, da, the retrieval is complete.  Although, after examining the surroundings, it would seem somebody tossed it into the ocean just yesterday, Still, the target is in good condition, and I'm executing the storage procedure on it now.
 AK-12: So this is what our higher-ups wanted us to dredge up from the bottom of the sea... This wreckage looks just as worthless as it did in the pictures. What's the point in studying it, I wonder?  94, is something on your mind?
 AN-94: Nyet, I'm relaxing.
 AK-12: Relaxing, is it? How interesting, it seems you've gotten the hang of it.
@@ -28144,7 +28144,7 @@ P38: Ameli, do you believe what I'm saying?
 Ameli: Yes, I do! That's because you're not a Doll who likes telling lies, P38! Those aren't your factory settings!
 P38: Ameli...  You really are a good person! You're a million times better than the Commander!
 Ameli: If you ask me... it's not like the Commander doesn't believe you, the Commander just wants to know the truth...
-P38: But... the Commander won't believe me if I don't find proof of the sea monster, ...  Ahhhhhh! I want to find the sea monster! I don't care if it's really a sea monster or not, I just want a chance to clear my name!
+P38: But... the Commander won't believe me if I don't find proof of the sea monster...  Ahhhhhh! I want to find the sea monster! I don't care if it's really a sea monster or not, I just want a chance to clear my name!
 Ameli: Ah, speaking of which...  I found this on the seashore...
 *Ameli runs to the side and pulls out something weird from the pile of wood.*
 Ameli: P38, wanna see?
@@ -28760,7 +28760,7 @@ Fr FAMAS: I don't know why either, but since my other self wanted to dress up th
 Commander: Your "other self"? Did I.O.P. install some kind of character design upgrade patch or something into you?  Also, where did you get this outfit?
 Fr FAMAS: I came across it in a warehouse several days ago. I don't know who made it, but it fit very well.  After that, this outfit ended up getting involved with a lot of things...  In any case, once I returned to reality, I found it again, and it became what it is now.
 Commander: I'm getting a headache... I don't quite understand what you're saying...  In any case, these clothes aren't yours, right? I'm not criticizing you, but this really isn't your style.
-Fr FAMAS: Today is Halloween, so anything can happen, right?  For today, just for today,  I wanted to see what it would feel like to do something different.  If I kept on doing the same thing, I don't know what I'd become...  No, perhaps I already know, because she already showed me...
+Fr FAMAS: Today is Halloween, so anything can happen, right?  For today, just for today, I wanted to see what it would feel like to do something different.  If I kept on doing the same thing, I don't know what I'd become...  No, perhaps I already know, because she already showed me...
 Commander: Hah... Sounds like you went on a long journey and made a new friend.
 Fr FAMAS: A new friend... I guess you could call her that.  Thanks to her, I now know that there are things I need to bravely face head-on.
 Commander: Does that include what you told me earlier...about your colleagues?
@@ -31007,7 +31007,7 @@ M99: ...  (Whimpers)
 Commander: ...
 M99: ...It's good.
 Commander: Forget it, with that facial expression management system of yours...
-M99: Om nom nom...gulp  Did you say something, Commander?
+M99: Om nom nom...gulp Did you say something, Commander?
 Commander: It's nothing. Eat up.
 Commander: She's dedicated to self-improvement, but she's still a kid after all...  Letting her wear her heart on her sleeve is just too dangerous. In any case, I can't let her wander around by herself outside anymore.  In the future...I'll have to take good care of her.
 ====================skin_3305.txt====================
@@ -33668,7 +33668,7 @@ Gr PSG-1: Why the "but" again...
 m45: But as you were approaching Miss F1, you tripped on a root, fell down and hit your head...  You wailed so loudly that you nearly scared Miss F1 out of her tree...
 Gr PSG-1: ...  Never mind, I'm sure the next one happened!
 m45: Tell me about it, Miss Gr PSG-1.
-Gr PSG-1: I found Gr G36c standing around by herself at the elevator. Since I saw Gr G36 buying a hot drink and saying it was for Gr G36c, I figured that Gr G36c was waiting for Gr G36.  Then I gave Gr G36 a glass of  fake blood and pretended that Gr G36 asked me to give it to her.  After that, I told her a scary story about vampires and she was so frightened she fled down the stairs!
+Gr PSG-1: I found Gr G36c standing around by herself at the elevator. Since I saw Gr G36 buying a hot drink and saying it was for Gr G36c, I figured that Gr G36c was waiting for Gr G36.  Then I gave Gr G36 a glass of fake blood and pretended that Gr G36 asked me to give it to her.  After that, I told her a scary story about vampires and she was so frightened she fled down the stairs!
 m45: Well, you DID scare Miss Gr G36c... However...  Well, I won't go into details, but you managed to scare Miss Gr G36c!
 Gr PSG-1: Phew. At least I got one right...
 m45: What happened after that? Where did you go after scaring Miss Gr G36c?
@@ -34052,7 +34052,7 @@ Commander: We promised to celebrate Christmas together every year...  Which mean
 Lewis: So you DO understand, Commander!
 Commander: Something's wrong with this whole situation, right? Still... It looks like I'm the one with the problem, rather than Lewis...
 Lewis: Commander, is something wrong with the tree I chose?
-Commander: Of-of course not, I think it looks very good,  It's got a very good shape, and its branches are—  Huh? Is that a squirrel?
+Commander: Of-of course not, I think it looks very good, It's got a very good shape, and its branches are—  Huh? Is that a squirrel?
 Lewis: It IS a squirrel! Wait, there's more than one of them...  There's an entire nest of squirrels in this tree!
 Commander: ...
 Lewis: ...
@@ -35743,7 +35743,7 @@ EM-2: This... Finally, a piece of furniture I can identify!  ...It's a vintage r
 *EM-2 tries to connect herself to the phone, then picks up the handset and gently holds it to her ear.*
 EM-2: Hello?
 Telephone: Hello?
-EM-2: Good, it can pick up sound,  Now then, let's see if it can dial numbers.
+EM-2: Good, it can pick up sound, Now then, let's see if it can dial numbers.
 Telephone: (Crackle)... (Static)... (Crackle)...  ...  ...
 EM-2: Huh? Why isn't there any sound?   Did I break it because I was careless while moving it?
 *EM-2 nervously checks the phone. The rotary dial is intact, and so are the dial shafts, the spring assembly, and the governor...*

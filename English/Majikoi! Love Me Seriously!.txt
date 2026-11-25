@@ -9,8 +9,8 @@ Ageha: This shall be the last time We face you as a fellow warrior.
 Momoyo: Too bad...
 Momoyo: Guess that means I've gotta finish you off in style!
 Ageha: Mwahahahaha! Such fiery words. How pleasant.
-Tesshin: Stand tall and fight fair!:  BEGIN!!!
-Momoyo:  Let's do this!
+Tesshin: Stand tall and fight fair!: BEGIN!!!
+Momoyo: Let's do this!
 *The most fearsome and inescapable enemy of all had come! Its name...*
 * Monday.*
 *It was already morning, a fact my half-asleep brain was just starting to process...*
@@ -302,7 +302,7 @@ Yamato: I mean, not literally, but... Fine, I'll go.
 Yamato: Guys, stop, stop, stop!
 *I jumped through and into the circle.*
 Yamato: I've got this!
-Yamato:  Run now while you still can!
+Yamato: Run now while you still can!
 *I desperately tried to persuade...*
 Thug A: ...Huh?! You talking to us?
 *...the thugs.*
@@ -780,7 +780,7 @@ Announcer: A large area of the Kanto region is under a pollen advisory today, as
 Kazuko: Do you think there'll be anything interesting in the news?
 *Wanko was just gulping down her second cup of milk when...*
 Announcer: Our next story comes to us from Fukaya City in Saitama Prefecture.
-Announcer: Yesterday at around 7 p.m., a man was arrested after leaving a restaurant without paying, thanks to the quick thinking of a local young man.
+Announcer: Yesterday at around 7 p.m. a man was arrested after leaving a restaurant without paying, thanks to the quick thinking of a local young man.
 Announcer: Investigators later discovered stolen goods and evidence of similar offenses at other nearby locations. We expect to see these charges added the coming days.
 Chika: A young man caught him? Do you think he's hot?
 Mayo: He must be amazingly courageous.
@@ -1525,7 +1525,7 @@ Momoyo: Heh heh heh. This is how siblings communicate.
 Momoyo: Can't you feel yourself driven to devote yourself to me?
 Yamato: The only thing being driven into me is a stake through my heart!
 *She didn't listen.*
-Shouichi:  While strolling through the park one day-
+Shouichi: While strolling through the park one day-
 Takuya: You're in a good mood.
 Shouichi: 'Course I am. You should've seen the food I had yesterday!
 Kazuko: Was it delicious? Tell me more!
@@ -2108,7 +2108,7 @@ Takuya: That's my line! Why do I have to measure a guy's chest?
 Umeko: Naoe, time to measure your chest. I'll do it.
 Yamato: Ok.
 Umeko: Stand straight!
-Yamato:  Yes, ma'am!
+Yamato: Yes, ma'am!
 Umeko: Good reply. You show promise. Keep it up.
 Yamato: Will do!
 Gakuto: Damn you, Yamato... I wish I had your knack for this.
@@ -2442,12 +2442,12 @@ Umeko: Proceed, Shimazu. But be sure not to debase yourself.
 Gakuto: Will do! Um, Ku-ri-su-chi-ah-ne?
 Chris: I would prefer you simply call me Chris.
 Gakuto: Chris. Do you have a boyfriend?
-Chris's Father:  She most certainly does not!
+Chris's Father: She most certainly does not!
 *Her father's thunderous voice silenced the room.*
 Chris: My father speaks the truth.
 Gakuto: O-Okay...
 Chris's Father: If anyone so much as touches my daughter, the army shall take care of them.
-Mayo:  An army?!
+Mayo: An army?!
 Chris: My father is a soldier. He does not allow personal feelings to interfere with his duty.
 Ikurou: I'm pretty sure he just did!
 Chris: Heh heh heh.
@@ -2466,7 +2466,7 @@ Takuya: I imagine her friends in Germany decided it'd be funny to give her the w
 Yamato: But who'd actually fall for that?
 Shouichi: She must be pure of heart. I mean, look at those pretty eyes. I like her.
 Chika: What about Japan do you like?
-Chris:  The bushido spirit!
+Chris: The bushido spirit!
 Chris: My father taught me chivalry, but...
 Chris: Japanese bushido is sublimely beautiful in its own right.
 Chris: I watched boxing in Germany, and was surprised to learn that Japanese boxers commit seppuku when they lose.
@@ -2590,7 +2590,7 @@ Chris: I accept.
 Gakuto: Oh, Chris-chan's fightin' in a skirt...
 Gakuto: ...Hey! Yonpachi!!!
 Ikurou: I've already got my camera's ready and waiting. I might miss some shots at life, but I'd never miss a pantie shot!
-Tesshin: Stand tall and fight fair!:  BEGIN!!!
+Tesshin: Stand tall and fight fair!: BEGIN!!!
 Chris: The match has begun!
 Kazuko: Let's go!
 *Wanko nimbly twirled her naginata.*
@@ -2650,7 +2650,7 @@ Yamato: ...?
 Kazuko: Kawakami Style...
 *Wanko swung the naginata high over her head.*
 *It was almost as if she were preparing to slam its blade straight down at Chris's head, but then...*
-Kazuko:  Landslide!
+Kazuko: Landslide!
 *...the blade suddenly shifted off along a diagonal!*
 *It sliced down towards Chris's leg.*
 Chris: Ah...
@@ -2963,7 +2963,7 @@ Yamato: Reading, watching movies... Oh, and I have pet hermit crabs.
 Chris: Hermit crabs... Um, that is certainly a unique hobby.
 Yamato: They're friendly and so cute. You could say that I have a soft spot for cute things.
 Chris: Right?! I can hardly contain myself when I see my adorable plushie cat.
-Yamato:  Nothing is cuter than a hermit crab!
+Yamato: Nothing is cuter than a hermit crab!
 Yamato: ...I probably shouldn't have said that aloud.
 Chris: Huh...?
 Chris: You said you like movies, then I trust you have seen The Seventy Samurai?
@@ -3906,9 +3906,9 @@ Sixth Grader: Wh-What do you want to do up here on the roof?
 Momoyo: Be happy. You're going to get to fly for a second. Most people never get to do that.
 Sixth Grader: What...? Y-You're kidding, right?
 Momoyo: Oh, relax. I'll drop you feet-first.
-Momoyo:  Off you go!
+Momoyo: Off you go!
 Sixth Grader: W-Waah! Stop, no, stop, please, no, no, no!
-Sixth Grader:  Waahhh! (He smashed into the ground.)
+Sixth Grader: Waahhh! (He smashed into the ground.)
 Shouichi: Y-You didn't have to go that far...
 Yamato: I think you broke both his legs...
 Sixth Grader: Gh... I-It hurts. It hurts so much...
@@ -4134,7 +4134,7 @@ Chris: Ahhh... *lick*... Mmm... *smack*... Mmf...
 Yamato: Oof.
 Yamato: I can't believe I whacked off to my friends.
 *I looked at the semen on my hands.*
-Yamato:  This was awesome.
+Yamato: This was awesome.
 *My imagination alone had gotten me off.*
 Yamato: Now that I've calmed down, I have to admit I'm pretty nasty...
 Yamato: ...Actually, no. This is normal for a guy my age.
@@ -4366,7 +4366,7 @@ Yamato: So, are you coming or not?
 Gakuto: I'm about to start my daily jacking. I'll come once I've cum.
 Yamato: *Click!* Gakuto says he's coming.
 Miyako: He was speaking so loudly that I could hear everything. I feel sexually harassed.
-Miyako: So, um... Is it part of your routine, too...?:  I can't believe I asked that!
+Miyako: So, um... Is it part of your routine, too...?: I can't believe I asked that!
 Yamato: If he's a sexual harasser, what does that make you? I mean, what if I asked you that?
 Miyako: I'd love to give you all the details. Well, first I grab my pillow and pretend it's you, then I--
 Yamato: Ahem. Can the Kawakami sisters make it?
@@ -4396,7 +4396,7 @@ Miyako: Grrrr...
 Yamato: Well, this is awkward. That's no good.
 Shouichi: This whole thing sounds like it's your fault.
 Shouichi: Say Chris, what'd you eat for lunch?
-Chris:  Inari sushi!!!
+Chris: Inari sushi!!!
 Yamato: Where'd that enthusiasm come from?
 Chris: The ones I had for breakfast were so good that I simply had to have more for lunch.
 Yamato: More inari sushi?
@@ -4550,7 +4550,7 @@ Shouichi: You can't go begging on your hands and knees, sayin' you'll do whateve
 Shouichi: Just say, 'Sounds like fun. Can I join?'
 Yukie: Ah!
 Yukie: S-Sounds like fun. Can I please join?
-Shouichi:  No.
+Shouichi: No.
 Yukie: Haaaaau?!
 Yukie: *Thud!*
 Takuya: You're a complete jerk!
@@ -4666,7 +4666,7 @@ Momoyo: You're pretty strong, right? I like that.
 Yukie: No, no! I still have so much to learn!
 Momoyo: I'll throw some light punches at you. Try to dodge them?
 Yukie: Bwuh?
-Momoyo: I won't take no for an answer. :  Hiya, hiya, hiya, hiya!
+Momoyo: I won't take no for an answer. : Hiya, hiya, hiya, hiya!
 Yukie: Wawawa!!! (She dodged, ducked, dipped, and dove.)
 Chris: Oh! Splendid!
 Kazuko: H-Hmm. Sh-She's pretty good.
@@ -4991,7 +4991,7 @@ Kazuko: It's pretty good training. You should try it too, Kuri.
 Chris: I shall pass. I cannot think of a single good reason to do so.
 Kazuko: Yay, I figured out Kuri's special skill! It's called running away with her tail between her legs.
 *No way anyone would fall for such an obvious bait--*
-Chris:  I accept your challenge!
+Chris: I accept your challenge!
 *...Why does that not surprise me?*
 Shouichi: A squat-holding match? You gonna sit through class like that?
 Kazuko: Yep. Whoever doesn't give up, wins.
@@ -5030,7 +5030,7 @@ Hideo: Do you suppose Kazuko-dono is doing well this week?
 Hideo: Every time We think of her, Azumi, it is as if a vice squeezes Our heart.
 Azumi: ...I suppose so, Hideo-sama.
 Hideo: Speak up. We cannot hear you.
-Azumi:  I'm terribly sorry, Hideo-sama!!!
+Azumi: I'm terribly sorry, Hideo-sama!!!
 Cat: Meow.
 Azumi: Hideo-sama, there's a cat before us! What should we do?
 Hideo: Mwahahaha! A mere cat, such a trivial creature, dares to stand before Us?!
@@ -5072,7 +5072,7 @@ Koyuki: But none of them were at his level.
 Koyuki: Nobody understood his loneliness.
 Koyuki: In the end...
 Koyuki: ...that loneliness drove Genius-kun to madness.
-Koyuki:  THE END.
+Koyuki: THE END.
 Jun: That's it? Heck, that's dark! Darker than dark...
 Jun: What about the landowner? Wasn't he rich?
 Koyuki: A spurned lover stabbed him and he died.
@@ -5192,7 +5192,7 @@ Chris: *om nom nom* Ah, delicious.
 Chris: It seems impossible, but Dog, did you make this yourself?
 Kazuko: Mm-mm. We have professional chefs at the Kawakami Temple.
 Chris: I see. Then I will not have to revise my opinion of you after all.
-Kazuko: Hey, that was mean! I demand consolation!:  Specifically, one inari!
+Kazuko: Hey, that was mean! I demand consolation!: Specifically, one inari!
 Chris: Hey, that is excessive! These are mine to enjoy.
 Kazuko: *om nom nom nom*
 Chris: Kh! You ate it already?
@@ -5325,7 +5325,7 @@ Ikurou: Kh! Who else can I bring that can beat her? Or is it all hopeless?
 Kokoro: Right. Time for a quick victory! Ahaha! (She laid down her tiles.)
 Yamato: Ron.
 Kokoro: Oh. Ahaha, isn't that worth all of 1500 points, little water flea?
-Yamato:  Daisangen!
+Yamato: Daisangen!
 Kokoro: You... You what? A dealer's yakuman, and you take all the points from me?!
 Ikurou: What's going on?! Sorry, I zoned out wondering if girls can also grow chest hair.
 Ikurou: Wait--Whoa!!! A-Awesome!!!!!
@@ -5531,7 +5531,7 @@ Miyako: Gakuto's airborne. That was a pretty sharp German kick.
 Miyako: I think I'll combo him in the air. Hutt, hutt!
 Gakuto: Ouch! That one-two strike hurts!
 *Finally, Gakuto crashed into the ground.*
-Gakuto: Ouch... *om nom nom*:  But this is worth all the pain.
+Gakuto: Ouch... *om nom nom*: But this is worth all the pain.
 *Even after getting blasted, he made sure to hang on to the inari.*
 Momoyo: Yo.
 *Suddenly, Nee-san patted my head from behind.*
@@ -5778,7 +5778,7 @@ Kokoro: I'll leave that to you, my champion. Crush him, Aoi-kun!
 Yamato: Aoi... Aoi Touma?!
 *His test scores were always at the top of the class.*
 Touma: I could never refuse a request from someone as cute as you.
-Touma: All I ask in return is a hug.:  With payment in advance. (He threw his arms around her.)
+Touma: All I ask in return is a hug.: With payment in advance. (He threw his arms around her.)
 Kokoro: A-Aoi-kun?!
 Touma: I dedicate this victory to you. Simply wait and watch.
 Kokoro: U-Uh... Very well.
@@ -6443,7 +6443,7 @@ Gakuto: ...Huh? Impossible. I'm too nice of a guy for this to happen to me!
 Takuya: She hated every second of that. You completely failed.
 Gakuto: Well, come to think of it, this is what always happens. Hahaha.
 Takuya: You're right. Ahahahaha.
-Gakuto:  It's not funny!!!
+Gakuto: It's not funny!!!
 Takuya: It took you long enough to realize you're supposed to be angry. You are so used to getting shot down at this point.
 Takuya: It's clear as day that you screwed up by rushing things.
 Gakuto: Maybe if you hadn't ordered such a kiddie drink!
@@ -7361,7 +7361,7 @@ Chris: This abandoned building should have been torn down years ago.
 Miyako: Hey Chris, go fuck yourself.
 Chris: Ah?!
 Miyako: You don't...
-Miyako:  You don't have any right to say that!
+Miyako: You don't have any right to say that!
 Yamato: Miyako! Stop!
 *Before the words were even out of my mouth, Nee-san had grabbed hold of Miyako.*
 *If she'd been a heartbeat later, Miyako would've thrown herself at Chris.*
@@ -7768,7 +7768,7 @@ Takuya: By all means, please.
 Shouichi: Thanks to my sushi, everyone's getting along again!
 Miyako: And you actually believe that. You really are something else.
 Momoyo: Well, when my little sis puts her mind to it, no matter how much food you have...
-Kazuko:  All done!
+Kazuko: All done!
 Momoyo: ...it won't last long.
 Yamato: Every time I go to eat an egg, I'm going to have flashbacks of this day.
 Shouichi: Someday, this'll be another page in your book of memories.
@@ -7994,7 +7994,7 @@ Momoyo: Is there someone you're interested in?
 Kazuko: Yeah, there is.
 Momoyo: Wait, what? Who?!
 Kazuko: You, Onee-sama!
-Momoyo:  Wha?!
+Momoyo: Wha?!
 Momoyo: Y-You're confessing your love to me?
 Momoyo: Can't we just be sisters?
 Kazuko: No, I want our relationship to move onto the next stage.
@@ -8857,7 +8857,7 @@ Yamato: Why not?
 Chris: ......Nothing that you say makes any sense.
 Chris: No, perhaps it is that your words lack weight?
 Chris: Or should I say that you are all talk?
-Yamato:  Ah!
+Yamato: Ah!
 Yamato: You... You've got some nerve.
 Chris: It is clear to me that you care for your friends.
 Chris: As such, I would like to take your words at face value...
@@ -8911,7 +8911,7 @@ Yamato: What's wrong, Mayucchi?
 Yukie: N-Nothing... Um, I'm sorry. I didn't mean to bother you.
 Yamato: ...?
 *Mayucchi clearly had something on her mind.*
-Gakuto: Heh heh heh. It's Gakuto time!:  (He checked right.):  (He checked left.)
+Gakuto: Heh heh heh. It's Gakuto time!: (He checked right.): (He checked left.)
 Yamato: Relax. There's no one around here.
 Gakuto: Then let's go peep on the girls bathin' at the hotel down the mountain.
 Yamato: Why did you invite me?
@@ -9018,7 +9018,7 @@ Thug 1: Shit. Everybody, ru--
 Cookie 2: You can not flee!
 Thug 3: H-He's too fast! He cut us off!
 Cookie 2: I hope to meet you again in your next life.
-Cookie 2:  Cookie Dynamic!
+Cookie 2: Cookie Dynamic!
 *His blade sliced them into twenty-four pieces... Their clothes, that is.*
 Thug 1: N-Noooo! Run!!!
 Thug 2: It ain't safe here!
@@ -9219,7 +9219,7 @@ Yukie: See? Even Matsukaze thinks it's a bad idea.
 Yamato: It'll be our little secret. *wink*
 Yukie: Awawaw... A-All right.
 *............*
-*--9 a.m., on the riverbank. Chris and I were ready to face off.*
+*--9 a.m. on the riverbank. Chris and I were ready to face off.*
 *Our friends lined up to watch.*
 Shouichi: This is gonna be a one-on-one duel between Chris and Yamato.
 Momoyo: Capt and I are the judges and organizers. Let's rock!
@@ -9273,7 +9273,7 @@ Chris: (Incomprehensible. What advantage does that gain him?)
 Chris: (Oh?! He must be lying, then.)
 Chris: (He's trying to bait me into throwing rock so he can counter with paper. A brazen trick, but it will not succeed as I shall use scissors myself!)
 Chris: Rock-paper-scissors, shoot!
-*Chris     Scissors LOSE Yamato    Rock     WIN*
+*Chris Scissors LOSE Yamato Rock WIN*
 Chris: WHAT?!
 Yamato: *sigh* Geez, that was too easy.
 Yamato: You really are predictable.
@@ -9298,7 +9298,7 @@ Yamato: Now, now. Okay... I'll choose this red paper!
 Momoyo: Let's see... Wow. Bro, you've got some amazing luck.
 Yamato: What is it? Give me a quiz, or something intellectual!
 Momoyo: Tada! CHAIN DEATHMATCH.
-Yamato:  Haha, just kill me now!
+Yamato: Haha, just kill me now!
 *I could only laugh.*
 Takuya: Of all things, a fight? Now what?
 Chris: Heheheh. This is fun, would you not agree? Hahaha.
@@ -9812,7 +9812,7 @@ Kazuko: Then you can tell Yamato the question directly.
 Kazuko: ...Waahhhh! His phone's out of range of the towers!
 Kazuko: I guess I'll have to do it myself!
 Takuya: Then here's the question. Who was the 13th shogun of the Edo shogunate?!
-Kazuko:  Oda Nobunaga!
+Kazuko: Oda Nobunaga!
 Takuya: Don't change history! You should at least know that the Tokugawas ruled during the Edo Shogunate!
 Kazuko: Wh-Wh-Why do minutes take so long?
 Chris: ...There's the checkpoint!
@@ -9824,7 +9824,7 @@ Takuya: The 8th shogun of the Edo shogunate, Tokugawa Yoshimune, worked hard to 
 Miyako: That's an easy one.
 Chris: Hahaha, victory will be ours. Please, allow me the honors.
 Miyako: Okay, go ahead.
-Chris:  The Violent Shogun!
+Chris: The Violent Shogun!
 Takuya: Incorrect. Please wait one minute for your next question.
 Miyako: No, they called him the Rice Shogun.
 Chris: They did?!
@@ -10083,7 +10083,7 @@ Kazuko: That's too formal!
 Gakuto: What are you, our elementary school principal?!
 Shouichi: Fine, fine. Then I'll keep it concise. Ahem.
 Shouichi: ...Let's have fun. That's all we need.
-Shouichi:  Cheers!
+Shouichi: Cheers!
 Momoyo: Cheers!
 Kazuko: Cheers!
 Miyako: Cheers!
@@ -10455,7 +10455,7 @@ Azumi: And I always get what I'm owed, Momo-senpai.
 Momoyo: Look at these money grubbers. People shouldn't be like that.
 Yamato: Yeah, I feel sorry for them.
 Momoyo: Right?
-Yamato:  For having to deal with you, Nee-san.
+Yamato: For having to deal with you, Nee-san.
 *I said with a straight face.*
 Momoyo: But if I beat them up, they'll never lend me money again.
 Yamato: And neither will they if you run away.
@@ -10995,7 +10995,7 @@ Chris: I would happily welcome the invitation. Do you not feel the same, Mayucch
 Yukie: Yes. I hope I can learn much from your battle.
 Yamato: I hope they live up to your expectations.
 Momoyo: They'd better!
-Momoyo:  I'll win and get the chicks, 'cause the chicks like winners- Oh god, now I'm even singing.
+Momoyo: I'll win and get the chicks, 'cause the chicks like winners- Oh god, now I'm even singing.
 *She was in a fantastic mood.*
 *............*
 Lu: So Momoyo will be fighting the Caracal Brothers today.
@@ -11024,7 +11024,7 @@ Tesshin: West corner, Kawakami Momoyo!
 Momoyo: Ready!
 Tesshin: East corner, Caracal Gail!
 Gail: Okay!
-Tesshin: Stand tall and fight fair!:  BEGIN!!!
+Tesshin: Stand tall and fight fair!: BEGIN!!!
 Momoyo: Let's go!
 Gail: (Heheh. Here you come with your right straight punch, of course.)
 Gail: (Huh? She disappeared?)
@@ -12946,7 +12946,7 @@ Tesshin: Now, are you both ready?
 *One and Two nodded simultaneously.*
 *Disciplined soldiers, neither of them engaged in small talk.*
 *They were simply here to fight, even if it was two-on-one.*
-Tesshin:  BEGIN!
+Tesshin: BEGIN!
 Momoyo: Hah!
 *Momoyo attacked with her specialty, the one-hit KO.*
 *But the two dodged her kick by a hair's breadth.*
@@ -15254,7 +15254,7 @@ Gakuto: He'll say, 'This one's on me'.
 Takuya: It can be hard to walk in there and buy them yourself, yeah.
 Yamato: Huh?! Moro, you're not going to poke fun at that?!
 Gakuto: He is the porn evangelist! I pray he never changes.
-Yamato:  Maybe you should pray he never gets arrested.
+Yamato: Maybe you should pray he never gets arrested.
 Kyojin: Hey, hey. Naoe, you're here, too?
 Yamato: There's teachers here? Seriously?
 Kyojin: Well, I'm basically in charge of making sure things don't get out of hand.
@@ -15307,7 +15307,7 @@ Shouichi: Okay, this side of the room is for everyone who's given up.
 Takuya: Well everyone who wants to at least pass their exams can come over here.
 Miyako: I promise we'll be gentle. Heh heh.
 Kazuko: Capt, can I come join you?
-Miyako: You're not going anywhere, Wanko.:  (She started dragging her.)
+Miyako: You're not going anywhere, Wanko.: (She started dragging her.)
 Kazuko: Awawa! I'm sorry, I'm sorry, but it hurts! Please stop!
 Miyako: My motherly instincts insist you at least don't get an F.
 Miyako: And if you make that go to waste, I'll take my grudge to the grave.
@@ -15326,7 +15326,7 @@ Takuya: He'll be in the top ten, probably.
 Chris: Nngh. I will not stomach the taunting I know would follow from that! I will match his success!
 Yukie: I would like to participate as well.
 Matsukaze: What d'ya want from me? Some English help? Then I'm your horse.
-Matsukaze: I   c a n   s p e a k   E n g l i s h .
+Matsukaze: I c a n s p e a k E n g l i s h .
 Yamato: That was impressive, Matsukaze, but I think we'll be fine without you.
 Yukie: Matsukaze, would you please take a short nap?
 Matsukaze: Yeah, sounds good. ...Zzz... Zzz...
@@ -16826,7 +16826,7 @@ Yamato: And why's that?
 Momoyo: Because none of the fights I'm having satisfy me.
 Yamato: ...Oh. I was afraid of that.
 Yamato: You never got into any of the games or books I recommended.
-Momoyo:  I did have fun, and they were a good distraction. I appreciate that.
+Momoyo: I did have fun, and they were a good distraction. I appreciate that.
 Momoyo: But, at the end of the day, I still feel empty without a fight.
 Momoyo: It's not about improving my skills or myself.
 Momoyo: The thrill of battle, it's... It's too much fun. I can't stop.
@@ -17977,7 +17977,7 @@ Miyako: ...It's never easy with you guys.
 Miyako: But I'll do it.
 *Miyako focused her full concentration on the shot.*
 *She poured ki into the arrow and waited for Kazuko to give the signal.*
-Kazuko:  Now!
+Kazuko: Now!
 *Kazuko slid aside.*
 *Miyako fired half a heartbeat later, the arrow zipping towards the enemy line.*
 Miyako: An iron shield?!
@@ -19717,7 +19717,7 @@ Yamato: (Kh! Why does that memory have to come back to me now?!)
 Yamato: (Well, it doesn't have to be now. I have all the time in the world.)
 Chris: Oh, is Momo-senpai blushing?
 Takuya: Maybe we should give them some space. Right, Capt?
-Shouichi:  Ba-thump!
+Shouichi: Ba-thump!
 Takuya: Capt?!
 Yukie: Huh? What did you say? What did it mean?!
 Shouichi: That's the sound of my heart beating fast.
@@ -20284,7 +20284,7 @@ Chris: That is rather prejudiced. Shall we arm wrestle to prove it?
 Haguro: Now you're talking. You ain't got no idea what I can do.
 Chika: Haguro's work involves manual labor, after all.
 Mayo: Then ready, go!
-Haguro:  Raaahhhh! Get fucked!
+Haguro: Raaahhhh! Get fucked!
 Mayo: Wawa! She's really getting into this.
 Chika: But Chris didn't even budge.
 Chris: You will need more than that to defeat me.: See?
@@ -20333,8 +20333,8 @@ Takuya: Okay. You two will be participating in unarmed combat! No time limit, fi
 Kazuko: Shrah!
 Chris: I am ready when you are.
 Takuya: Get ready. Stand tall and fight fair. Begin!
-Kazuko:  First come--!
-Chris:  First served!
+Kazuko: First come--!
+Chris: First served!
 *Chris's fist struck home an instant before Kazuko's.*
 Kazuko: Ow!
 *Wanko went down.*
@@ -20870,7 +20870,7 @@ Chris: I shall have cream anmitsu.
 Yamato: That's it?
 Chris: Yes. My stomach is not bottomless.
 Chris: ...Though I do have a second stomach just for sweets.
-Kazuko:  I love family restaurants. They never skimp on the meat, you know?
+Kazuko: I love family restaurants. They never skimp on the meat, you know?
 *Wanko started playing with her napkin, folding it over and over.*
 Miyako: How much do you plan to eat?
 *The first dishes arrived at our table.*
@@ -20949,7 +20949,7 @@ Yukie: All I seek is a happy, peaceful life.
 Gakuto: So that said, any ideas?
 Yamato: Asking others to determine your dream sounds like a dead-end to me.
 Miyako:        --GAME OVER--
-Gakuto:  RESUME!
+Gakuto: RESUME!
 Miyako: But we won't find a better conclusion than that.
 Gakuto: My dream is for me to decide. You're just givin' me hints.
 Chris: This is a difficult proposition... What answer would satisfy you?
@@ -21827,7 +21827,7 @@ Yamato: Oh, did you say something, Ikegami-senpai?
 Ikegami: Gh. The girls in your class are too damn good!
 Ikegami: We're gonna wipe the floor with you. Just you wait.
 Yamato: Okay. Honestly, I don't have any plans. Just play your style of game.
-Lu:  Play on!
+Lu: Play on!
 Ikegami: Okay, no rush! Just one basket at a time!
 Shouichi: You gotta play harder than that! The ball's mine!
 Ikegami: Kazama, you crafty little prick!
@@ -21873,7 +21873,7 @@ Yamato: Tch. There goes any hopes of looking cool.
 Gakuto: The rebound will be mine!
 Gakuto: And slam dunk! Hah!
 Ikegami: Not on my watch! Toh!
-Gakuto:  Dunk!
+Gakuto: Dunk!
 Ikegami: Gwah?!
 Gakuto: Hey, you jerk! Out of my way!
 Lu: Stop that! You can't dunk the ball on the other guy's head!
@@ -22707,7 +22707,7 @@ Kazuko: Yeah, that's right!
 Suguru: Heh. The battle turns against us, yet our spirits could not be higher!
 Margit: Fire has returned to their eyes...
 Margit: Then it is for me to mercilessly crush their hopes.
-Yamato:  Time out!
+Yamato: Time out!
 Yamato: Chris, can Miyako get a strike on Margit?
 Chris: ...I fear she would hit the first pitch into the stands.
 Chris: Yet as you said, none of us can hope to pitch better than Miyako.
@@ -23034,7 +23034,7 @@ Hideo: Back to square one. They do not go down gently.
 Hideo: Though We expect no less from Kazuko-dono's class.
 PA: Fifth at bat is the shortstop, Oogushi.
 Suguru: Then my turn has come. I should at least be able to hit a grounde--
-Margit:  Hasen Jagd!!!
+Margit: Hasen Jagd!!!
 Tesshin: Strike! Batter out! Three outs!
 Suguru: Well, some things are impossible.
 Yamato: Especially with her in a rage. There's nothing you could've done.
@@ -23307,7 +23307,7 @@ Azumi x7: The seven of us will demolish you as one!
 Yamato: Wanko!
 Kazuko: ...You said you could hear whispers from a kilometer away, didn't you?
 Kazuko: Then how about this?!
-Kazuko:  WOOF!!!
+Kazuko: WOOF!!!
 Azumi: Aieeeee?!
 Azumi: Gaaahh! M-My ears! My ears!
 Kazuko: Gotcha! You're the real one! Kawakami Ultimate...
@@ -23346,7 +23346,7 @@ Yamato: So you know how Ms. Ume was on third before the change?
 Yamato: I was worried they might find that out before we went to bat.
 Gakuto: Found what out?
 Margit: Though you are a teacher, I will show you no mercy!
-Umeko:  I need none!
+Umeko: I need none!
 Momoyo: Whoa, it's a deep ball over the left fielder's head!
 Yamato: How strong she is.
 Hideo: You handled Margit's fastball that easily?
@@ -24139,7 +24139,7 @@ Kazuko: Oh, this? I saw Miyako practicing how to eat a banana, and it seemed lik
 Yamato: Now I know how parents feel when their daughter starts hanging out with the wrong crowd.
 Yamato: Just eat it normally, like you usually would.
 Kazuko: You're sure?
-Yamato:  Positive.
+Yamato: Positive.
 *I'd have to give Miyako a stern warning later.*
 Kazuko: Oh, Yamato, you're done eating?
 Yamato: I've had enough already.
@@ -25212,7 +25212,7 @@ Miyako: ...Heheh.
 Lu: Oh, Kazuko. Have you found a place to live?
 Kazuko: Assistant Master! Yes, everyone was amazingly kind to me.
 Lu: Good, good. Then let's start your training.
-Kazuko:  'Kay!
+Kazuko: 'Kay!
 Shouichi: Wow, wow, wow, there she goes. She's like a ball of fire.
 Tadakatsu: Kazuko, good luck.
 Chris: Hmm... I did not know there would be a tournament.
@@ -25877,7 +25877,7 @@ Momoyo: Since they feed off each other's energy, yeah.
 Momoyo: It's a summer tale of nine boys and girls. If I'm right, the next couple's going to be...
 Takuya: *gulp*
 Momoyo: You and Gakuto. I believe it 100%.
-Takuya:  How about 0%?!
+Takuya: How about 0%?!
 *.........*
 Kazuko: Bwah... I'm tired...
 Yukie: So next, push up her hips.
@@ -25961,7 +25961,7 @@ Kazuko: Awah... Sheesh... Suit yourself.
 Yamato: Ahh... You've let your whole body fall listless.
 Lu: Then it's my turn.
 Lu: I use acupuncture. I'll just stab these into your vital points.
-Kazuko:  Oof!
+Kazuko: Oof!
 Lu: All of this exhaustion will seem like a thing of the past.
 Lu: Between Yamato's massage and my acupuncture, your body is in good hands.
 Kazuko: 'Kay...
@@ -26144,7 +26144,7 @@ Azumi: That was the day I decided to serve Hideo-sama.
 Yamato: Oh, you weren't always with him?
 Azumi: I'd grown tired of the mercenary life, of living on the battlefield.
 Azumi: So I'd started wandering the city
-Yamato: That  has no business being there...
+Yamato: That has no business being there...
 Hideo: Though We survived with injuries to Our shoulder and arm...
 Hideo: That injury was enough to rob Us of a life as a pitcher.
 Kazuko: Ah, so that means...
@@ -26977,7 +26977,7 @@ Chris: Victory is mine!
 *Chris coiled her body, charging the final attack.*
 Margit: That there is the stance Frau Chris takes to deliver the finishing blow.
 Hideo: Ngh. No!
-Chris:  Point-Blank Stab!
+Chris: Point-Blank Stab!
 Kazuko: Waaahhhh!
 *The fierce blow sent Kazuko flying.*
 Tadakatsu: Kazuko!
@@ -27022,7 +27022,7 @@ Chris: I will face her head-on, contest her head-on!
 Chris: (I have already seen through your attacks!)
 Chris: (No matter what strike you have ready, I will dodge!)
 *And so Chris gallantly stepped into danger.*
-Kazuko:  A-gi-to!
+Kazuko: A-gi-to!
 *The upswing whooshed at Chris.*
 *Like a geyser bursting up from the earth--*
 Chris: (You are fast, but not fast enough!)
@@ -27468,7 +27468,7 @@ Momoyo: Time to light some fireworks, Gramps.
 Lu:  ...Then begin!
 Tesshin: Momo, try your hand against this Kawakami ultimate technique.
 Momoyo: Bring it on, Gramps.
-Tesshin:  Third Manifestation: Bishamonten!
+Tesshin: Third Manifestation: Bishamonten!
 *A giant foot stomped down from the heavens and squashed Momoyo.*
 *The attack took a thousandth of a second so she couldn't get out from under it.*
 *Then the winds swirled into a torando.*
@@ -27609,7 +27609,7 @@ Playboy 2: Oh, yay! Check her out!
 Kazuko: Hmm?
 Playboy: Hey, cute thing. What's got you down?
 Kazuko: ...Nothing...
-Playboy 2:  Where did you come from, Cotton-eyed yay!
+Playboy 2: Where did you come from, Cotton-eyed yay!
 Kazuko: Just where did I come from?
 Kazuko: I wish I knew...
 Playboy: What's wrong? Walkin' a trail of tears?
@@ -28907,7 +28907,7 @@ Yamato: I'll be with you all the way.
 Kazuko: Yeah... I'm glad you're here.
 *Kazuko hugged me back, nice and tight.*
 *A little too tight -- she hadn't worked out all these years for nothing.*
-Takuya:  Anybody here?
+Takuya: Anybody here?
 Takuya: Huh? Yamato and Wanko are -- Wha-wha-wha?!
 Takuya: I can't believe it! They completely caught me off-guard.
 Takuya: Now how long do I wait before going back?
@@ -28984,7 +28984,7 @@ Yamato: I don't care what you think, so long as Kazuko liked it.
 Yamato: Even the corniest line won't ruin the mood if things are hot and heated enough. Got it?
 Kazuko: Um... But Yamato...
 Kazuko: I thought that teacher line was kinda stupid too.
-Yamato:  You what?!
+Yamato: You what?!
 Gakuto: Gahahaha! You dumbass!
 Yamato: Mayucchi, tell me you understand!
 Yukie: I-I mean, I don't... Umm... Sure?
@@ -31482,7 +31482,7 @@ Miyako: I saw what you saw, Yamato.
 Yamato: Whoa! Don't sneak up on me like that!
 Miyako: Smirking at the sight of CP is a heinous crime. You're under arrest!
 Yamato: What's CP? ...Oh, Chris's panties.
-Miyako: At 8:21 a.m., you were caught red-handed. You have no right to a lawyer, and will be forced to endure my sexual torture.
+Miyako: At 8:21 a.m. you were caught red-handed. You have no right to a lawyer, and will be forced to endure my sexual torture.
 Yamato: What happened to law and order?
 Momoyo: Hoho, I like the world you're building here.
 *Nee-san's arrival meant I was doomed to be teased by them both.*
@@ -32053,7 +32053,7 @@ Takuya: It looks like they're picking Inoue Jun.
 Yamato: Inoue Jun, eh? (I wrote down some quick notes.)
 Yamato: Capt, if you're having trouble against him, I want you to open this bag.
 Shouichi: Sweet. We've got this covered, so you go kick some butt.
-Tesshin:  Let the match begin!
+Tesshin: Let the match begin!
 *--2-F's territory.*
 Jun: Right, give me your worst. It'll all be in vain.
 Jun: Let me warn you. No degree of sexiness will defeat me!
@@ -33103,7 +33103,7 @@ Miyako: Yep. That's my wish. It's all I need.
 Takuya: That was very simple.
 Gakuto: No red-hot stories of her and Yamato?
 Miyako: Those are super important too, of course.
-Miyako: But I'll work hard to accomplish that on my own. It's not something I  have to wish for.
+Miyako: But I'll work hard to accomplish that on my own. It's not something I have to wish for.
 Miyako: ...That's how I thought about it.
 Miyako: I saved my wish for something far more difficult.
 Yamato: Am I really that easy? Frankly, that's scarry... Miyako, that part about you is...
@@ -34021,7 +34021,7 @@ Yamato: ... and only cared about myself!
 Yamato: I let things come to... To this!
 *I stomped the ground.*
 *Everyone fell silent.*
-Yamato's Father: If you are going to save her, you must be prepared. Prepared to suffer harm yourself. The worst thing  you can do is bail halfway.
+Yamato's Father: If you are going to save her, you must be prepared. Prepared to suffer harm yourself. The worst thing you can do is bail halfway.
 *I was prepared all right.*
 *I stood in front of Miyako.*
 *Then I turned back towards my classmates.*
@@ -37403,9 +37403,9 @@ Chris: Teigh!
 Yamato: It's my fault for not stopping this sooner...
 Yukie: Yaaa!
 *...and a tactician must atone for his failures...*
-Yamato:  WITH HIS BODY!
+Yamato: WITH HIS BODY!
 *I barged into the maelstrom of fists and feet.*
-Yamato:  UGHHHH!
+Yamato: UGHHHH!
 *And a quartet of attacks converged on me.*
 *No, just a triplet?*
 *Mayucchi, with her superior precision, was able to pull her strike.*
@@ -40275,7 +40275,7 @@ Miyako: How dare you insult everyone...
 History Teacher: Aiieee?!
 Yamato: You don't have to hit him...
 Miyako: Yamato?
-Yamato:  Because I will!
+Yamato: Because I will!
 History Teacher: Paghoooo?!
 *My fist directly struck the history teacher's face.*
 *Strong enough to send him head-over-heels into the ground.*
@@ -41909,7 +41909,7 @@ Yukie: Wh-What could it be? Someone seeking friendship?!
 Matsukaze: Or maybe it's some sweet love letter. Girl, open'er up.
 Yukie: Yes, then open it I shall. Eiyah!
 *          Cursed Chain Letter*
-Yukie:  Hauuu!
+Yukie: Hauuu!
 Matsukaze: What do we do now? The thing says we gotta send it to five others, or we gonna get cursed!
 Yukie: I could never drag anyone else into this. I'll accept the curse myself... Oooh.
 Matsukaze: If I were human, there's no way I'd leave you like this.
@@ -42012,7 +42012,7 @@ Gakuto: You should be the one to say those wisecracks, not Matsukaze!
 Yukie: Wah?! I-I'm sorry!
 Gakuto: C'mon, give me the best wisecrack you can think of. I'm tough enough to take it.
 Yukie: Wh-Wh-Wh-What're you talking about?
-Gakuto:  What're you talkin' about?
+Gakuto: What're you talkin' about?
 Gakuto: You gotta be fiercer than that.
 Matsukaze: You got this, Mayucchi!
 Yukie: Okay!
@@ -43790,7 +43790,7 @@ Yamato: Bingo! I can't believe we found you.
 Playboy: Oh, I found me some real cuties!
 Yukie: I'm sorry?
 Playboy 2: Oh, yay! Check it out yo!
-Playboy 2:  Where'd you come from? Yay!
+Playboy 2: Where'd you come from? Yay!
 Iyo: U-Umm...
 Yamato: Right, right, now get out of here.
 *I drove the playboys away.*
@@ -44183,7 +44183,7 @@ Shouichi: I'm gonna go scout out the place!
 Miyako: As I recall, didn't the same thing happen with the Hakone trip?
 Chris: He is as dynamic as ever.
 *We now had our big August event to look forward to.*
-*--5:10 p.m., Nanahama.*
+*--5:10 p.m. Nanahama.*
 Yukie: So this is Nanahama Stadium...
 Iyo: The captain of the Nanahama Bay Stars' Cheer Squad, Beni!
 Beni: Oh, Iyo-chan, you brought a friend!
@@ -44864,7 +44864,7 @@ Ageha: By the way, the winning team will receive a total prize...
 Ageha: Of one chicken dinner and 50 billion yen!
 Ageha: This will surely be a tournament of international scale!
 Ageha: Emerge victorious, and you will have all the wealth and fame you can imagine!
-Ageha:  So come! And win!
+Ageha: So come! And win!
 Ageha: So says Kuki Ageha. Mwahahahaha!
 *A grand tournament with a 50 billion yen prize.*
 *The news shook Japan.*
@@ -47106,7 +47106,7 @@ Kazuko: (There! That's the crack Miyako made with her arrows!)
 *Kazuko took aim at the crack, then--*
 Kazuko: Kawakami Ultimate...
 *Wrangling up every ounce of power within her--*
-Kazuko:  Firework Flower!
+Kazuko: Firework Flower!
 *She slashed up at the crack.*
 S Cookie: Huh?! Y-Your naginata's inside me?!
 S Cookie: But my body's covered in armor. How did those arrows... Who in the world is that archer?!
@@ -47933,7 +47933,7 @@ Momoyo: Then let's both make each other feel good.
 Yamato: Nee-san, this isn't you. You're not like this.
 Momoyo: Yamato... I know you want it.
 *I was the man who'd fended off Miyako's sexual assaults for years.*
-Yamato:  No!
+Yamato: No!
 *My will was too steadfast to start fooling around now.*
 Momoyo: Mm... Then there's some other girl you like?
 Yamato: (!)
@@ -47962,7 +47962,7 @@ Momoyo: Not happening. Not in the middle of me and my bro having our fun.
 Yukie: Yamato-san is clearly uncomfortable with this!
 Momoyo: He'll be singing a different tune soon enough. Huff, huff.
 Yamato: M-Mayucchi! There's a time for manly pride, and this isn't it...
-Yamato:  Please save me! (Yamato, The Tactician)
+Yamato: Please save me! (Yamato, The Tactician)
 Yukie: ! Yes!
 Momoyo: Heh. Mayu-Mayu, against m--
 Momoyo: Huh?
@@ -52290,7 +52290,7 @@ Yamato: ...There's no getting anything past you, is there?
 *I threw the sand away.*
 Azumi: Looks like you're all out of bright ideas.
 Yamato: Heh... Not quite. Look up at the sky.
-Azumi: You think I'd fall for that?:  (She started walking.)
+Azumi: You think I'd fall for that?: (She started walking.)
 Yamato: Huh? Th-That didn't work?
 Azumi: Of course not. You're not running away any m--
 *Her forward leg gave out from under her, if only slightly.*
@@ -52298,7 +52298,7 @@ Azumi: Of course not. You're not running away any m--
 *Which was all the time I needed to fall back.*
 Azumi: A tiny little hole... Just big enough for me to barely stumble?
 Yamato: Did you think all I was doing was rubbing Miyako's leg?!
-Miyako:  It was a team effort of our love. He dug his fingers in, then I finished.
+Miyako: It was a team effort of our love. He dug his fingers in, then I finished.
 Yamato: Y-You're not wrong... but it sounds wrong.
 Azumi: Then you led me all the way here... Heheh. If this were a real battlefield, a landmine would've blown off my leg right about now.
 Azumi: I underestimated you, thought you were a beginner, but... The way things have turned out?
@@ -52315,7 +52315,7 @@ Yamato: I can't let it end like this...
 *I retreated, trying to keep Azumi out of range.*
 Azumi: Srah!
 *But she closed the gap, faster than I could believe, and shot a low kick at my legs.*
-*I managed to retreat, fighting back the pain,  when a powerful kick came flying down at the place I was just at*
+*I managed to retreat, fighting back the pain, when a powerful kick came flying down at the place I was just at*
 Azumi: Running till the end, eh? You're just bringing yourself more pain.
 *My leg grew numb. Running grew harder and harder.*
 Yamato: But... I still can't let this end.
@@ -52672,7 +52672,7 @@ Chris's Father: First, let us have a change in location.
 Chris's Father: Order whatever you would like.
 Waitress: Are you ready to order?
 Yamato: Coffee, please.
-Chris's Father: I shall have your 'Special Treat for a Hard-Working Girl  Honey-Drenched Pancakes'.
+Chris's Father: I shall have your 'Special Treat for a Hard-Working Girl Honey-Drenched Pancakes'.
 Yamato: So, what did you want to talk about?
 Chris's Father: I hear that you helped ensure Chris and Margit's battle was a one-on-one duel.
 Chris's Father: I wanted to start by thanking you.
@@ -54696,7 +54696,7 @@ Yamato: If I had to break down her thoughts, I'd say she's acting 30% out of jea
 Miyako: (Being openly jealous of Chris would just annoy him... I'll have to wait and endure this so I can snatch the chance to win my Yamato back.)
 Miyako: (And I still get to enjoy seeing my hunk in a swimsuit!)
 *The chorus of chirps from the cicadas was our background music for the rest of the school day.*
-*--5:35 p.m., the secret base.*
+*--5:35 p.m. the secret base.*
 Shouichi: Guys, thanks for coming to this emergency meeting.
 Takuya: When you texted us, you did ask for everyone to come who could, not just for whoever was free.
 Shouichi: We've got ourselves a new request, one I won us the bid for today.
@@ -55047,7 +55047,7 @@ Yamato: And if we start now, we have plenty of time to figure out where to go.
 Shouichi: Anyways, that money's booked for Family use.
 Miyako: Everything is ready. Including all the utensils we'll need.
 Shouichi: Sweet, then let's party.
-Momoyo:  Meat, meat. Meat's a treat in the summer heat  There I go singing, haha.
+Momoyo: Meat, meat. Meat's a treat in the summer heat There I go singing, haha.
 Gakuto: As I stare out at the water, my body wants to dive in... I wish I were a chilled watermelon right about now.
 Kazuko: You should. That means more food for me.
 Gakuto: Nah, I'm eating. Cookie, are the drinks cold?
@@ -56767,7 +56767,7 @@ Yamato: Sure. If I fail, use it to get yourselves a good laugh.
 *She was saving her first time for her husband.*
 *So I plan to take it as an advance payment on our wedding.*
 *Wait for me Chris... I'll make you mine.*
-*--11 p.m., at the Shimazu Dorm.*
+*--11 p.m. at the Shimazu Dorm.*
 Yamato: ...She should be sound asleep by now.
 *The nonstop porn had left me at my limit.*
 *And Chris and Mayucchi were the only other people in the dorm.*
@@ -57478,7 +57478,7 @@ Chris: Y-You are churning through it all, mnph...
 Yamato: Hm, that's so nasty of you... I love it.
 *I thrust into the sensitive spot in the back.*
 Chris: Ooh! ...Ah, mnah, ah.
-Chris: Huff... If you do that to me now, I will..,
+Chris: Huff... If you do that to me now, I will..
 *I slap her swaying butt.*
 Chris: Yahhh!
 *Twice more I struck that vivacious meat.*
@@ -57702,7 +57702,7 @@ Chris: Good. Let us go!
 Chris: ...Ugh... Tensing up causes some pain in my butt...
 Yamato: What's wrong? Are you sick?
 Chris: You know exactly what you did!
-Yamato:  Gaaahhhhh!
+Yamato: Gaaahhhhh!
 Yamato: Ugh. So during the day, you're the same as ever...
 *And yet she'd been so obedient in the bedroom.*
 Chris: Sheesh... You are an idiot. *kiss*
@@ -57837,7 +57837,7 @@ Chris's Father: What...? You... the truth?
 Chris: *blush*
 Chris's Father: Then... No, it can't be.
 Yamato: I did say I'd take responsibility.
-Chris's Father:  You bastard!!!
+Chris's Father: You bastard!!!
 *He reached unflinchingly for his gun and shot.*
 Momoyo: That's a pretty crazy thing to do, even if you were just aiming for his leg.
 *Nee-san had flown in and caught the bullet.*
@@ -59664,7 +59664,7 @@ Yamato: Kh... Go ahead and drink it all up, Mar-san.
 Margit: Mngh...! Gh... Mnkh... *gulp*... *gulp*...
 *She drank the semen I'd ejaculated into the back of her throat.*
 Yamato: Thank you, Mar-san. *pat pat* So let's keep going.
-Margit: Mnn... *cough, cough*.,.. I-It's so thick...
+Margit: Mnn... *cough, cough*... I-It's so thick...
 Yamato: Chris, thanks for licking me. Can you back into that position?
 Chris: Roger that. Mar-san, hah!
 Margit: *cough* ...Wah! Frau Chris...
@@ -61098,7 +61098,7 @@ Yukie: I'm so happy for you, Chris-san!
 Chris: Ugh... You were watching...?
 Yamato: Uh... H-Hey there. Mn?
 Chris: Mm... *kiss*
-Everyone:  You're not stopping?!
+Everyone: You're not stopping?!
 *Kazama Shouichi became a famed adventurer. His next dream? Space.*
 *Shimazu Gakuto put his stamina to good use as a salesman. He wanted a girlfriend soon.*
 *Morooka Takuya joined a game studio. He struggled along while railing against the inhumane practices in the industry.*
@@ -65391,7 +65391,7 @@ Miyako: Now, now. It's too early to panic.
 Kazuko: Your body's trembling!
 Miyako: Trembling with excitement!
 Chris: That is right. I may not have suffered myself, yet this cannot go unanswered.
-Miyako:  You'll pay for this, Chika!
+Miyako: You'll pay for this, Chika!
 Chris: Hm?
 *A little legwork later, our top suspect was...*
 Ikurou: I'd never do anything like that!
@@ -65613,9 +65613,9 @@ Yamato: Yeah. We're dealing with a real idiot here.
 *But now we could use that to our advantage.*
 Yamato: People who write posts like these want to stand out.
 Takuya: I get it. So we'll just post this...
-*Anonymous  Tactician | 2009/07/08 (Wed) Hey, you seriously fucking did it. lol.*
-*Anonymous  Nice Guy | 2009/07/08 (Wed) Swimsuits stolen, at our school? Fucking A! Where can I buy one?!*
-*Anonymous  Don't Call Me Old | 2009/07/08 (Wed) Tell me, and I'm 100% in to buy one.*
+*Anonymous Tactician | 2009/07/08 (Wed) Hey, you seriously fucking did it. lol.*
+*Anonymous Nice Guy | 2009/07/08 (Wed) Swimsuits stolen, at our school? Fucking A! Where can I buy one?!*
+*Anonymous Don't Call Me Old | 2009/07/08 (Wed) Tell me, and I'm 100% in to buy one.*
 *Such posts bore fruit.*
 Yamato: Okay, we have ourselves a hint about the auction.
 Gakuto: But he didn't write the address, so who knows where it is.
@@ -65668,14 +65668,14 @@ Yukie: Umm, may I help as well?
 Matsukaze: Writin' posts on the site's somethin' even I can do!
 Gakuto: We can't show Mayucchi a site this rotten.
 Miyako: However, I can easily handle it.
-*Anonymous  Tactician Is Mine | 2009/07/08 (Wed) <3*
+*Anonymous Tactician Is Mine | 2009/07/08 (Wed) <3*
 Miyako: Even on the dark web, my feelings are open.
 Takuya: That's completely irrelevant.
 *I checked the thread.*
-*Anonymous  Don't Call Me Old | 2009/07/09 (Thu) If he steals more, that'd be sick.*
-*Anonymous  Tactician | 2009/07/09 (Thu) I mean, he hasn't stolen all of them. Even I could do that much, XD.*
-*Anonymous  Don't Call Me Old | 2009/07/09 (Thu) And here come the copycats.*
-*Anonymous  Nice Guy | 2009/07/09 (Thu) After all the shit he's said, there's no way he'd back down.*
+*Anonymous Don't Call Me Old | 2009/07/09 (Thu) If he steals more, that'd be sick.*
+*Anonymous Tactician | 2009/07/09 (Thu) I mean, he hasn't stolen all of them. Even I could do that much, XD.*
+*Anonymous Don't Call Me Old | 2009/07/09 (Thu) And here come the copycats.*
+*Anonymous Nice Guy | 2009/07/09 (Thu) After all the shit he's said, there's no way he'd back down.*
 *Immediately after we posted these posts, the culprit announced his upcoming crime.*
 Yamato: Okay, the culprit took the bait.
 Takuya: Who would ever expect the people trying to catch you would start visiting an underground site?
@@ -66530,7 +66530,7 @@ Yamato: Oh, as part of your training?
 Umeko: Yes. Throw it as hard as you can.
 Yamato: Here comes the first pitch -- Hyah!
 *I threw my shoe at Ms. Ume.*
-Umeko:  Yamabiko!
+Umeko: Yamabiko!
 *Then she blasted it back towards me just as fast.*
 Yamato: Wow, your reflexes are amazing.
 Umeko: My whip can return attacks from where they came...
@@ -66543,7 +66543,7 @@ Umeko: For instance, I can also do this!
 *She twirled her whip like a rhythmic gymnast would her ribbon.*
 *Until, eventually, it began to take shape.*
 Yamato: Is that... A dog?
-Umeko:  Watchdog Spirit!
+Umeko: Watchdog Spirit!
 *The whip-dog charged forth, as if to tackle some foe.*
 Yamato: Wow... Amazing.
 Umeko: ...Well, I also come from a line of samurai.
@@ -66605,7 +66605,7 @@ Yamato: Because we're a little far from the seven seas, maybe?
 Shouichi: How about there's some treasure just waiting to be found?
 Yamato: You're not going to just find something like that out--
 Umeko: If you're hot, you can dress cool!
-Yamato:  Treasure at 6 o'clock!
+Yamato: Treasure at 6 o'clock!
 Shouichi: Huh? What treasure?
 Yamato: What do you think? Are you blind? Ms. Ume's in a swimsuit!
 Shouichi: Huh? Hey, no fair! Why don't any of the rest of us get to strip down?!
@@ -66812,7 +66812,7 @@ Umeko: A-Again you flatter me... I won't stand for this!
 Yamato: U-Umm, what about your parents?
 Umeko: They went home, saying they didn't have to worry about me since my boyfriend's nearby.
 Yamato: Your boyfriend?
-Umeko:  As in YOU!
+Umeko: As in YOU!
 Yamato: Gwah! That's one heck of a punch!
 Umeko: ...Forget it.
 Yamato: Ms. Ume?
@@ -67203,7 +67203,7 @@ Umeko: (Yet strangely, I cannot bring myself to be angry at him.)
 Umeko: (How would it feel, to be trained by someone so young?)
 Umeko: (No, what am I even thinking?)
 *I waited for Umeko to leave.*
-Yamato:  Damn, that hurt!
+Yamato: Damn, that hurt!
 Yamato: Wah, blood's streaming from my nose!
 Yamato: ...But that worked better than I'd hoped.
 Yamato: I just have to keep pushing!
@@ -68673,7 +68673,7 @@ Gakuto: Well, everythin' will turn out fine with me here.
 Shouichi: I got this!
 *A mountain of chips lay on the table.*
 Dealer: One pair.
-Shouichi:  High card!
+Shouichi: High card!
 *All lost in a flash.*
 Yamato: We came all the way overseas, and this is how it ends?
 Miyako: They really did disappear in a flash.
@@ -68710,7 +68710,7 @@ Chris: Gah, I ought to despise you for gambling, but your eyes look so dreamy.
 Yamato: You're doing it, aren't you?
 Shouichi: Yeah, I gotta!
 Yamato: Then go kick some ass, hero.
-Shouichi:  Right on!
+Shouichi: Right on!
 Chris: You are not going to stop him?
 Takuya: Well, at this point, I don't think he can.
 Yamato: He knows the risks. We just have to cheer him on.
@@ -68742,7 +68742,7 @@ Shouichi: These are the cards I drew!
 *Arranged in a row from the left, in order, were the 10, Jack, Queen, King...: and Ace of Spades.*
 Shouichi: Dudes and dudettes.
 Dealer: A-A royal flush?!
-Shouichi:  Let's party!
+Shouichi: Let's party!
 *His voice thundered through the room.*
 Yamato: ...Man, just how good are you?
 Kazuko: I don't really get what's going on, but nice one, Capt!
@@ -69017,7 +69017,7 @@ Jun: I see. That's on a different level than your normal worries, huh.
 Koyuki: So you're up against the real world.
 Koyuki: My creative appetite's bubbling up. Question!
 Shouichi: Huh?
-Koyuki: If you encounter a hurdle you can't overcome,  what do you do? 1) Keep trying to overcome it. 2) Give up and accept reality.
+Koyuki: If you encounter a hurdle you can't overcome, what do you do? 1) Keep trying to overcome it. 2) Give up and accept reality.
 Shouichi: She's talking a lot today, wouldn't you say?
 Jun: Kind of, yeah. She's really getting into this.
 Koyuki: C'mon, what would you do? Nahaha.
@@ -69548,7 +69548,7 @@ Ikurou: It's good, but you can't beat a picture. Which means I'm better.
 Suguru: Fools, all of you. What madman would dare try to draw a 3D image in a 2D space?
 Chika: I don't get why you creeps are always yapping about nonsense.
 Suguru: I speak only the truth. The yaoi I found on the second day of ComiFest I can accept, but those idol books are beyond me.
-Chika:  I have no idea what any of those nerd words mean.
+Chika: I have no idea what any of those nerd words mean.
 Mayo: At any rate, your picture is really amazing, Kazama-chan. As your class rep, I'm very proud of your hard work.
 Ikurou: Did you say hard?!
 Takuya: C-Could you please not turn everything into double entendres?
@@ -70056,7 +70056,7 @@ Umeko: That strike won't leave any marks.
 Umeko: Though the pain is immense.
 Suguru: All exhaustion has fled me in an instant.
 Umeko: Naoe, answer in his place.
-Yamato: It took place from 73 to 71 B.C., more formally called the Third Servile War. It's sometimes called Spartacus's War, since he was the mastermind of it.
+Yamato: It took place from 73 to 71 B.C. more formally called the Third Servile War. It's sometimes called Spartacus's War, since he was the mastermind of it.
 Umeko: You've studied well. And you even added additional information.
 *She once again turned her back to us.*
 Kazuko: (Gakuto, you all right?)
@@ -74163,7 +74163,7 @@ Takuya: Am I?
 Gakuto: Yeah. You've seemed really pissed lately. Don't worry me like that.
 Takuya: Canada's... far, huh?
 Gakuto: I don't know where in the world it is, but I've heard they have good beef. I can't wait.
-Takuya: How could you forget a country that big?! It's between two parts of the U.S., remember?
+Takuya: How could you forget a country that big?! It's between two parts of the U.S. remember?
 Gakuto: I may not know that, but the fact remains that I am a nice guy.
 Takuya: You completely lost me. Well then, good night.
 Gakuto: Yeah. See you tomorrow!
@@ -74247,7 +74247,7 @@ Takuya: They're probably taking off right about now...
 Takuya: I'll go take a breath of fresh air.
 *I turned my eyes to the east.*
 Takuya: This is fine. This is completely fine.
-Gakuto:  Like hell it is!
+Gakuto: Like hell it is!
 Takuya: Wah! Gakuto?!
 Shouichi: Not just Gakuto.
 Miyako: There you go again. Why didn't you say anything?
@@ -74878,7 +74878,7 @@ Matsukaze: Hate to break it to ya... but this here's my harem.
 Kazuko: Oh, I never realized that Matsukaze's a boy horse.
 Matsukaze: If you wanna use me as a stud, it gonna be a a million buck minimum.
 *Tonight was another peaceful night.*
-*--1 a.m., Kawakami City.*
+*--1 a.m. Kawakami City.*
 *The last train had rolled into the station. The doors on the nearby shops were shuttered, yet the stationfront still brimmed with light.*
 *Kawakami, the city that never sleeps.*
 *A city filled with equal parts glamor and peril.*
@@ -74945,7 +74945,7 @@ Kyojin: All right, let's continue our patrol.
 Tadakatsu: Yeah.
 Kyojin: Onto the next.
 *Hours passed, and the night grew even later.*
-*Until 6 a.m., when the crows took flight.*
+*Until 6 a.m. when the crows took flight.*
 Kyojin: From the light of dawn until the first people leave their homes, the world belonged to the crows.
 Tadakatsu: Back up. Did we really need to come here?
 Kyojin: Yeah. As thanks for all your hard work, you get to go take a bath!
@@ -75304,7 +75304,7 @@ Chika: I, I like, never do this stuff.
 Chika: But I was kinda curious, so...
 Chika: I just sorta happened to...
 Chika: But I guess I should probably stop, huh?
-Mayo:  OF COURSE YOU SHOULD!
+Mayo: OF COURSE YOU SHOULD!
 *She slapped Chika hard across the cheek.*
 Chika: --Huh?
 *She was stunned. She couldn't even process the fact that she'd just been slapped.*
@@ -76055,7 +76055,7 @@ Shouichi: ...The drugs had nothing to do with us.
 Shouichi: We thought we could just leave the whole thing alone...
 Shouichi: But now they've hurt one of our friends.
 Shouichi: So we're going to make every last one of those drug dealers pay.
-Shouichi:  We'll crush them!
+Shouichi: We'll crush them!
 Yamato: No objections.
 Momoyo: No objections.
 Kazuko: No objections.
@@ -76437,7 +76437,7 @@ Shouichi: This is for Gakuto. Don't leave anything standing.
 Yamato: I'll explain the operation.
 Yamato: The enemy will be massing within the 51st factory.
 Yamato: Nee-san will head inside.
-Yamato:  And done.
+Yamato: And done.
 Momoyo: That'll make things done all right.
 Kazuko: There's not really much for us to do, huh.
 Tadakatsu: Some of them might try to run away.
@@ -76847,7 +76847,7 @@ Tesshin: Momo! I shall seal your fists!
 Momoyo: What?!
 Tesshin: I never wanted to use something this dangerous against you, not even as a last resort!
 Momoyo: You're behind me? When did you--
-Tesshin:  Kawakami Grand Ultimate: Wyrmseal!
+Tesshin: Kawakami Grand Ultimate: Wyrmseal!
 Momoyo: Guh?!
 Lu: Ah! Is this the phantom ultimate of legend?!
 *Momoyo's power seeped from her body.*
@@ -78109,7 +78109,7 @@ Shakadou: I ain't plannin' on losin' to an old man.
 Tesshin: Let us put you to the test. Fight me.
 Shakadou: I ain't holdin' back.
 Tesshin: Let's go.
-Tesshin:  Third Manifestation: Bishamonten!
+Tesshin: Third Manifestation: Bishamonten!
 *A giant foot came crashing out from the sky and stomped on Shakadou.*
 *The attack took only a millisecond. He had no time to dodge.*
 Shakadou: ...*cough* ...Gah?! Y-You hurt me?!
@@ -79175,7 +79175,7 @@ Yamato: Is the device you're using to modify your voice of Kuki design? It's ver
 Maroudo: The whole thing with Usami Kyojin, was it all an--
 Yamato: Yes, it was all an act. He put on quite the performance.
 Yamato: But you are the real Maroudo...
-Yamato:  AOI TOUMA!
+Yamato: AOI TOUMA!
 Touma: Yamato-kun...
 Yamato: We may have had the rehearsal earlier, but this time, I mean it.
 Cookie 3: There's no messing with my audio recorder!
@@ -79326,7 +79326,7 @@ Koyuki: Hm?
 Touma: Would you be so kind as to destroy that robot on Yamato-kun's shoulder?
 Koyuki: Got it!
 Koyuki: Well, you heard him. So I guess I gotta..
-Koyuki:  DESTROY HIM.
+Koyuki: DESTROY HIM.
 Cookie 3: She's the one who destroyed me before!
 Yamato: What?! She did it? ...So that's what happened.
 Koyuki: Take this!
@@ -80178,8 +80178,8 @@ Maroudo's Soldier U: Let's do this! ROAAARRRR!
 Momoyo: Hah hah hah! Yes, you know how to please a girl!
 Momoyo: ...Aoi Touma! I figure you're watching from somewhere up high.
 Momoyo: Enjoy the show! I wouldn't want you to miss the fireworks!
-Momoyo: KA  WA  KA  MI
-Momoyo:  HAAA!!!
+Momoyo: KA WA KA MI
+Momoyo: HAAA!!!
 Maroudo's Soldier T: Huh...... Look at the wave of light.
 Maroudo's Soldier V: Wow. It's so beautiful......
 *While the invaders stood in awe...*
@@ -80512,7 +80512,7 @@ Tatsuko: ...Ahhhhh.
 Ami: Out of all of us sisters, Tatsu is the one with the most potential. She's the most dangerous.
 Tatsuko: Haaaahhh...
 Ami: When she snaps, she can't tell friend from enemy, so I'm always holding her back.
-Tatsuko:  HAAAAHHHHHHH!
+Tatsuko: HAAAAHHHHHHH!
 Kazuko: What?!
 Chris: What... is she...?!
 *The two looked on with dread at the explosive growth in her combat power.*
@@ -80730,7 +80730,7 @@ Momoyo: Gah! There's... There's actually...
 Tatsuko: Whooaahhhh!
 Momoyo: There's actually someone who can face me! Gaahhhh!
 *She slammed her fist into the earth, which shook before the impact.*
-Yamato:  NEE-SAN?!
+Yamato: NEE-SAN?!
 Touma: Goodness, their blows combined created a strong enough tremor for us to feel it here.
 Koyuki: Ahaha! She's like a sandbag!
 Touma: Itagaki Tatsuko is my second trump card.
@@ -81329,7 +81329,7 @@ Shouichi: You see, Kuki Hideo hit you seriously 'cause he's doing all this for A
 Jun: Kazama...?
 Shouichi: Kuki Hideo and I, we'd love to chase Aoi Touma to the path of darkness, yet you keep whining about how rotten everything is! It pisses me off!
 Jun: Kh... I'm...
-Shouichi:  TAKE THIS!
+Shouichi: TAKE THIS!
 Jun: Ugh, my body!
 Shouichi: That's my revenge shot for when you beat me before!
 Jun: Guh-haw!
@@ -81394,8 +81394,8 @@ Koyuki: ...However!
 Miyako: ...But still!
 Koyuki: For Touma!
 Miyako: For Yamato!
-Koyuki:  I'LL CAPTURE YOU!
-Miyako:  I'LL DEFEAT YOU!
+Koyuki: I'LL CAPTURE YOU!
+Miyako: I'LL DEFEAT YOU!
 *The two fought for more than good and evil. They fought for the ones they loved.*
 *Koyuki and Jun had had the latest equipment and the greatest coaches. They'd learned Tae Kwon Do and boxing, respectively.*
 Koyuki: Tae Kwon Do Punch!
@@ -85204,7 +85204,7 @@ Mayo: Zzz... Zzz...
 Chika: ...She fell asleep. Looking after our class has to be exhausting.
 Bookstore Owner: Just 'cause the game's over don't mean work's over.
 Shouichi: Can't you go out and hire somebody else?
-Bookstore Owner: Damn idiots these days got no work ethic., plus they think bookstores are free libraries.
+Bookstore Owner: Damn idiots these days got no work ethic. plus they think bookstores are free libraries.
 Shouichi: I'll do my best to make it up for them! I mean, books are cool, man.
 Bookstore Owner: Ooh, ya idiot, you give me hope that this world's still gotta chance. Right, let's get started on sortin' the warehouse--
 Shouichi: Hey, this fairytale book's pretty interesting!
@@ -85497,7 +85497,7 @@ Jun: Man, I wanna gobble her up. Huh? What're you doing here?
 Shakadou: Hey, I saw that first.
 Jun: No way, it's mine!
 Shakadou: Nah, it's mine!
-Jun:  Mine!
+Jun: Mine!
 Jun: Oh, wait, it's the seasonal edition?!
 Sergei: ...YOU FINISHED PLAYING?!
 Sergei: THEN DRINK VODKA, REST!
@@ -85631,7 +85631,7 @@ Karasu: ......
 Momoyo: Heheheh...
 Nowaki: This is Nowaki, from the CG team.
 Nowaki: I've tried to think of something to say, but I'm just not good with words, so...
-Nowaki:  I did my best!
+Nowaki: I did my best!
 Nowaki: I can put everything into those words.
 Nowaki: It's a simple phrase, but I'll be delighted if they let me convey my passion through this game.
 Nowaki: Also, there's a lot of endings, so here's to a 100% clear during summer vacation(?)!
@@ -90654,7 +90654,7 @@ Yamato: Uh, you probably don't want to stay down here.
 Yamato: I should at least take you up to my room.
 Yamato: All right, I think I have 13 rounds left in me today.
 Yukie: Th-That's beyond incredible...
-*--11 p.m., at the Shimazu Dorm.*
+*--11 p.m. at the Shimazu Dorm.*
 Yamato: ...She should be sound asleep by now.
 *The nonstop porn had left me at my limit.*
 *And Chris and Mayucchi were the only other people in the dorm.*
@@ -91365,7 +91365,7 @@ Chris: Y-You are churning through it all, mnph...
 Yamato: Hm, that's so nasty of you... I love it.
 *I thrust into the sensitive spot in the back.*
 Chris: Ooh! ...Ah, mnah, ah.
-Chris: Huff... If you do that to me now, I will..,
+Chris: Huff... If you do that to me now, I will..
 *I slap her swaying butt.*
 Chris: Yahhh!
 *Twice more I struck that vivacious meat.*
@@ -92242,7 +92242,7 @@ Yamato: Kh... Go ahead and drink it all up, Mar-san.
 Margit: Mngh...! Gh... Mnkh... *gulp*... *gulp*...
 *She drank the semen I'd ejaculated into the back of her throat.*
 Yamato: Thank you, Mar-san. *pat pat* So let's keep going.
-Margit: Mnn... *cough, cough*.,.. I-It's so thick...
+Margit: Mnn... *cough, cough*... I-It's so thick...
 Yamato: Chris, thanks for licking me. Can you back into that position?
 Chris: Roger that. Mar-san, hah!
 Margit: *cough* ...Wah! Frau Chris...

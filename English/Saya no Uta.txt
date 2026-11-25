@@ -291,11 +291,11 @@ Yoh: "It's like there's a terrible weight on your shoulders, and it's slowly bre
 Fuminori: "Oh really," Fuminori mutters through clenched teeth, no longer trying to deny it or change the topic. This is an even clearer signal of rejection than his prior evasiveness.
 *But Yoh's determination is strong. Today, at least, she won't back down.*
 Yoh: "It's times like these," she implores, trying to convey the sincerity of her feelings for him, "that you need your friends."
-Yoh:  YOur PareNTs. BUt yoU'RE Not aLONE. you HAve KoJi, aND OMi, anD... you HAVe ME."
+Yoh: YOur PareNTs. BUt yoU'RE Not aLONE. you HAve KoJi, aND OMi, anD... you HAVe ME."
 *Yoh can no longer stop the words pouring from her lips. She fears that if she does not unleash the feelings pent-up inside of her, they will be lost forever.*
-Yoh:  YOu DoN'T hAVe To DEal wITh IT alL bY YOuRSELf."
-Yoh:  aNYthIng, juST TALking To Us mIGht makE you FEel bETTer."
-Yoh:  DO! SO plEAse, teLL M--"
+Yoh: YOu DoN'T hAVe To DEal wITh IT alL bY YOuRSELf."
+Yoh: aNYthIng, juST TALking To Us mIGht makE you FEel bETTer."
+Yoh: DO! SO plEAse, teLL M--"
 Fuminori: "Stop it!" Fuminori shouts, silencing Yoh's entreaty.
 *She promised herself that she wouldn't back down, but Fuminori's expression is terrible enough to shatter her resolve.*
 *The look in his eyes is not anger, or any other warm-blooded emotion. It is hate -- murderously cold hate.*
@@ -390,7 +390,7 @@ Saya: "You're interesting," she said, winding her fingers gently around mine.
 Fuminori: "Yes, of course! But isn't it dangerous?"
 Saya: "Don't worry," she replied. "The night belongs to me."
 *And so our rendezvous began.*
-*Saya came to my room every night at three a.m., skillfully taking advantage of the duty nurse's shift-change.*
+*Saya came to my room every night at three a.m. skillfully taking advantage of the duty nurse's shift-change.*
 *I was astonished to learn that she was living inside the hospital.*
 Saya: "It's so big that I never run out of places to hide," she said, answering my surprise with a nonchalant smile.
 *She had been living in the suburbs with her father, she told me, until one day he'd suddenly stopped coming home.*
@@ -424,7 +424,7 @@ Saya: "You want me to live with you?"
 *I was too afraid to ask her what she thought of that, so I hastily offered a deal.*
 Fuminori: "In exchange, I'll help you look for your father! I'll find him no matter what!"
 Saya: "I think that's gonna be hard," Saya said, looking a little embarassed.
-Saya:  can't get the police involved. You'll have to be as discrete as possible."
+Saya: can't get the police involved. You'll have to be as discrete as possible."
 Fuminori: "I'll do whatever it takes! I..."
 *Unable to control myself, I finally spoke the truth.*
 Fuminori: "I can't be apart from you."
@@ -907,9 +907,9 @@ Just as he knows the length of his fingernails and the time since his last meal,
 *It can't possibly be human.*
 Yosuke: "AHHHHHHH!"
 *Before the screaming Yosuke can regain his footing, countless hand-like appendages seize his arms and legs, rendering him helpless.*
-Saya:  sCarEd." atop him.
+Saya: sCarEd." atop him.
 Yosuke: "Yosuke can't even scream, his terror is so great.
-Saya:  sCarED. IT WOn't hURT."
+Saya: sCarED. IT WOn't hURT."
 *Thin, tubelike appendages penetrate his ears and nose, wriggling deep into his skull.*
 *Right before the sensation drives him mad, Yosuke loses consciousness.*
 ====================sy08_02hospiscript.txt====================
@@ -1575,7 +1575,7 @@ Koji: "I hope the roads aren't snowed out," Koji says.
 *Fuminori's posture is noticeably relaxed, but his gaze never wavers, not even for a moment. It's as though he is focused on a clearly-defined future that he has chosen to bring about, one that has no place for the needs or wants of others.*
 *Right now, Fuminori is complete. Koji cannot help but feel that beneath his bland exterior is a core of solid steel that no one can touch.*
 Koji: "About Omi," Koji says suddenly, trying to gauge Fuminori's reaction.
-Koji:  her."
+Koji: her."
 Fuminori: "Oh," Fuminori replies curtly, still staring into the distance. "That's not good. I wonder what happened to her."
 Koji: "......"
 *Fuminori's tone is completely emotionless. Koji might as well have asked him about the weather or the condition of the mountain roads near their destination.*
@@ -2012,7 +2012,7 @@ Saya: "Haaaa...hot..."
 *Saya lifts her head, however, and draws my gaze into the deep pools of her eyes.*
 Saya: "It's... kind of hard to explain."
 *She thinks for a while, searching for the right words, then says simply,*
-Saya:  wind?"
+Saya: wind?"
 Fuminori: "Yeah?"
 Saya: "The wind carries those fluffy seeds far, far from where they were born. What if one of them ends up in a desert where not even a single blade of grass is growing? If you can imagine how that lone seed will feel... then you might be able to understand me."
 Fuminori: "......"
@@ -2253,7 +2253,7 @@ Ryoko: "Listen, Tonoh." Her hard stare belies the calmness of her voice. "You ne
 Koji: "Forget?" Koji feels anger rise within him. "Omi was my girlfriend. Fuminori was my best friend. And you're telling me to forget about them?"
 Ryoko: "Yeah, forget about them," Ryoko replies, coolly rebuffing Koji's anger. all over now. You'll never see them again. I guarantee it."
 Koji: "Then what about Tsukuba!?" Koji shouts, unable to control himself.
-Koji:  happening to her!"
+Koji: happening to her!"
 Ryoko: "And how many hours ago was that?"
 Koji: "......"
 Ryoko: "Do you know how much time has passed since I saved you? How much longer do you think you would have lasted down there if I hadn't?"
@@ -2572,7 +2572,7 @@ Fuminori: "Actually, I've only killed one so far," Fuminori replies unapologetic
 *Koji no longer feels sadness or horror when faced with Fuminori's inhumanity. There is only the cold desire to kill the creature speaking such revolting words with his friend's voice.*
 Koji: "You killed Omi, didn't you? You bastard. You were lying when you said you hadn't seen her."
 Fuminori: "Hmm, I wonder..." Fuminori mutters, seeming somehow embarassed.
-Fuminori:  she disappeared, come to think of it. The body wasn't in any shape that I could identify."
+Fuminori: she disappeared, come to think of it. The body wasn't in any shape that I could identify."
 *Koji had already abandoned hope, but it's still a shock to hear of his lover's brutal end.*
 Koji: "Tsukuba too?"
 Fuminori: "No," Fuminori says with an exasperated chuckle. "She's here, like I promised. I'm no fool. I need her to trade with you, right? I won't waste her."
@@ -2765,7 +2765,7 @@ Fuminori: "If you're that paranoid, you don't have to come. Just turn tail and r
 *His phone rings at eight p.m. It's Ryoko.*
 *Their conversation is short. She hangs up as soon as they decide where to meet.*
 *And so ends Tonoh Koji's final night of peace.*
-*Ryoko arrives at the diner at one a.m., one hour later than agreed upon.*
+*Ryoko arrives at the diner at one a.m. one hour later than agreed upon.*
 *She has a heavy-looking duffle bag under her arm. Koji doesn't feel like asking what the bulges represent.*
 Ryoko: "Sorry. I had a lot to get together."
 *Ryoko doesn't sound at all apologetic, but Koji decides to just nod expressionlessly.*
@@ -2832,7 +2832,7 @@ Ryoko: "After you read one line, it continues on the same line of the next page.
 Koji: "Is this a manuscript for a horror novel or something? I didn't think Ogai had such childish hobbies."
 *Koji deliberately scoffs at the document, doing everything he can to show contempt for what he just read. At the same time, he tries desperately not to remember the mountain of bones in Ogai's bathtub and the unidentifiable smell permeating Fuminori's house.*
 Ryoko: "The specimens that Ogai brought to the hospital one year ago were just as unbelievable," Ryoko says, coldly ignoring Koji's disdain.
-Ryoko:  without permission. But he made a mistake and was discovered. That's when things got crazy.
+Ryoko: without permission. But he made a mistake and was discovered. That's when things got crazy.
 Ryoko: "Judging by the equipment he was trying to use, he meant to treat his experiment as a P3-level biohazard. To be honest, even that might not have been sufficient for what he was dealing with.
 Ryoko: "We should have evacuated the nearby civilians, but the big shots did their thing and made the whole mess disappear. In exchange, we were left with the task of exterminating every single rat on campus -- including the things that used to be rats."
 *At their first meeting, Ryoko brushed Koji off when he asked about Ogai Masahiko. Now, however, she's telling the whole story, her voice as flat and emotionless as a machine's.*

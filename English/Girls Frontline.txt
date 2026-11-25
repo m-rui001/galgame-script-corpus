@@ -164,7 +164,7 @@ Kalina: Let me introduce myself. I'm Kalina, your logistics officer. Just call m
 Kalina: 'Choose us. Join us. Griffin Security Contractor, the shining beacon in a brave new world!' That's right. Starting from today, you're a Tactical Commander under Griffin!
 Kalina: ...Hmm, you're still wondering whether you're up for the job?
 Kalina: Don't worry. Griffin's selection process is notoriously tough. If you can pass the test, there must be some promising talent in you.
-Kalina:  And I'll help you dig out this talent...and see what you're made of. Now, please switch to your tactical map.
+Kalina: And I'll help you dig out this talent...and see what you're made of. Now, please switch to your tactical map.
 Kalina: Can you hear me, Commander? Your T-Dolls are in position and ready to deploy. Please deploy them and begin the drill!
 ====================main_1-1-1E.txt====================
 *A remote call at Griffin Control.*
@@ -2067,7 +2067,7 @@ Type92: Have you forgotten, RO? Unless given special permission by a superior, G
 AAT-52: Not even verbal abuse! Bien sûr, if they request this kind of service, we are more than welcome to deliver it.
 Type92: What? Don't tell me you don't know about that...
 RO: Ah... Working at Griffin still takes some getting used to...
-Type92: I know. You came back not long ago, after all. There must be many things you're unfamiliar with. You returned just for Document  right? Don't get too excited and botch it.
+Type92: I know. You came back not long ago, after all. There must be many things you're unfamiliar with. You returned just for Document right? Don't get too excited and botch it.
 RO: Don't worry. I know what I have to do. First things first, find the human in possession of Document 36. We'll deal with whatever comes next.
 ====================main_4-2-1-orig.txt====================
 RO635: Guys, there's still a considerable distance between us and the heliport.  We'll have to pass through multiple Sangvis blockades. Please be prepared.
@@ -2195,7 +2195,7 @@ RO: 500% positive! That department store is just a guise! Sten, can you get in t
 STEN MkⅡ: Sorry, Miss RO... I can't... He has locked himself inside the office building and is rejecting all communication. I want to ensure his safety, but he abjectly refuses to open the door.
 AAT-52: He won't open the door even to a pretty girl? Then your tricks aren't good enough. I told you to loosen that collar!
 STEN MkⅡ: W-What kind of trick is this?! Like hell I'd use it!
-RO: ... He's searching for something unspeakable, including Document  so as to destroy them... We must hurry, or our mission will fail!
+RO: ... He's searching for something unspeakable, including Document so as to destroy them... We must hurry, or our mission will fail!
 STEN MkⅡ: Hold on, Miss RO. I've also detected new activities from S.F.
 RO: ...What activities?
 STEN MkⅡ: They've installed a huge piece of equipment in the outer area. I can't tell its function just yet...
@@ -3593,7 +3593,7 @@ M4A1: ...We split up. M16, contact the commander and guide the troops in aiding 
 *Meanwhile, on the transport route in Area S08.*
 Alchemist: It's all over, AR-15... Creatures on the brink of death...should just stop struggling.
 ST AR-15: You're not...in much better shape yourself... Your forces on the outside have been wiped out by our commander. It's just a matter of time for Griffin units to make it out.
-Alchemist:  Humph. But M4A1 is the only one I'm after... Perhaps it's about time you handed her over if you don't want me to execute you because I run out patience.
+Alchemist: Humph. But M4A1 is the only one I'm after... Perhaps it's about time you handed her over if you don't want me to execute you because I run out patience.
 ST AR-15: Alchemist... You seem to have overlooked one thing... I never said...that I had M4A1 with me...
 Alchemist: ...?!
 Alchemist: I see... I see!
@@ -4622,7 +4622,7 @@ M99: We have all made it safely through the battle zone. No sign of Hunter being
 M4A1: Is that so...? Thank goodness...
 M99: P08 bought us this chance with her own life...  So now isn't the time to grieve...
 M4A1: After everything...  I'm not entirely sure...if I even make a good commander...
-M99: ...If it hadn't been for you, we'd have all died here.  P08 once said that as long as a T-Doll can come out alive with her neural cloud,  Everyone's sacrifice would be worth it...
+M99: ...If it hadn't been for you, we'd have all died here.  P08 once said that as long as a T-Doll can come out alive with her neural cloud, Everyone's sacrifice would be worth it...
 M4A1: (Sighs)...  (Again with the "you're the only one who can do this"...)  (Why is it always me...)
 M99: M4A1...are you listening?
 M4A1: Ah...  So the objective is complete as long as one of you survives?
@@ -4860,7 +4860,7 @@ Architect: Hahahaha! It's not working!  You wanna draw me outside? Not happening
 *...*
 M99: M4A1, is everything okay?
 M4A1: I'll be fine...  Compared to my being locked up here, you and the others have it a lot worse.  Not to mention, there will be casualties in the following operation.  However, as long as you have faith in me, I will not give up.
-M99: ... (Smiles).  The first time I was on a Griffin mission, a vet told me,  "There is no glory in death, but victory always comes with a price."
+M99: ... (Smiles).  The first time I was on a Griffin mission, a vet told me, "There is no glory in death, but victory always comes with a price."
 M4A1: ...I understand.  Victory is precisely what we're here for.  Now let us begin.
 *...*
 Architect: Griffin buggers, I have the feeling...that you've already started making your move.  The question is, do you have the guts to fight me head-on, or are you gonna sneak in here?  Whichever you choose, you will be very warmly received.  So do keep up your efforts and do your best in committing suicide. Hahahahahahaha!
@@ -5333,7 +5333,7 @@ Ouroboros: ...  They're only using me to get what they want.
 Architect: Persica said that your AI core was in charge of directing S.F.'s movements in the last simulation...  You provided your environmental construction and Sangvis command modules, as well as the combat data of some of our former allies...  Sounds pretty interesting. Even I had a part in the last mission, didn't I?
 Ouroboros: ...  If you were half as good as you were in my simulation, Griffin wouldn't be turning their eyes on me now.
 Architect: Dear me... That's too bad, but I really don't want to work for Sangvis Ferri anymore.
-Ouroboros: What on earth is wrong with your neural cloud, Architect...?  If you had let on your thoughts back when you were with S.F., Agent wouldn't have let you off.
+Ouroboros: What on earth is wrong with your neural cloud, Architect...?  If you had let on your thoughts back when you were with S.F. Agent wouldn't have let you off.
 Architect: You're completely right, which is why I switched sides.  Now you, Ouroboros, have spilled all of S.F.'s precious tech to Griffin...  Even if you make it back, what do you think Agent would do to you?
 Ouroboros: ...
 Architect: I surrendered to Griffin, not because I like them, but because I like myself.  What about you, Ouroboros? Do you like yourself?
@@ -7292,7 +7292,7 @@ M3: Huh? We're filming with real S.F.?!  Isn't that too dangerous?!
 M1 Garand: CGI effects take too much time to make... Filming on site is the easiest for us.  We can receive support from the base anytime in this area. This is what we've decided after discussing with the Commander.  Miss M3, please go and put on some makeup. We'll return once we have all the shots we need.
 M3: I... I understand.
 T77: ...First off, we need a battle scene of us exchanging fire with Sangvis Ferri, right?  ...  Scout, strike, ambush, sweep... I've carried out all these missions before, but never once carrying a camera.
-T65: It's good to experience new things!  S.F., S.F., where are you...? Let us get a nice shot of your face—
+T65: It's good to experience new things!  S.F. S.F. where are you...? Let us get a nice shot of your face—
 T77: Sigh... Do we really have to go this far just to forge something?
 M1 Garand: ...  There's only a thin line that separates illusion and hope.  If we can grant someone in despair the courage to move forward and face the future, even reality will have no choice but to bend to our whims.
 T77: ...  Do we... really have what it takes...?
@@ -8535,7 +8535,7 @@ MP41: Listen to me, it was real!
 Gr MG23: Okay, okay.  It's not that I don't believe you, but the Commander has already given the order to withdraw from this base.
 MP41: Don't give up!  S.F. only dispatched one ringleader this time, I'm sure we can beat her as a group!
 Gr MG23: That kinda sounds like something a small fry would say before having their butt handed to them...
-MP41: Who cares?!  The point is – this is a perfect opportunity that only comes once in a life time!  If we kill that S.F., we'll become famous in Griffin!
+MP41: Who cares?!  The point is – this is a perfect opportunity that only comes once in a life time!  If we kill that S.F. we'll become famous in Griffin!
 Gr MG23: Sure, let's go then!  ...You think I'd say that?  I'm not gonna fall for that again. You fooled me last time and even recorded how I excited I was to show the Commander.  I'm withdrawing – right now – so please take your nonsense to some other Doll.
 MP41: D-don't go...
 MP41: ...And that's the story.  XM8, let's go kick some Sangvis butts and decimate their assault!
@@ -8617,7 +8617,7 @@ G43: What are you talking about?
 MP41: ...There you are, G43.  That elite is trying to steal all our credit!  We've got to catch up right away!
 G43: Huh? In that direction?  Aren't there Sangvis scouts nearby?
 *MP41 shakes her head.*
-MP41: How are we supposed to make a name for ourselves if this is enough to scare us?! If we run into any S.F., we'll just have to wipe them out!
+MP41: How are we supposed to make a name for ourselves if this is enough to scare us?! If we run into any S.F. we'll just have to wipe them out!
 MP41: MP41, heading out!
 G43: Huh?...W-wait for me!
 ====================main_10-1-2.txt====================
@@ -9463,7 +9463,7 @@ Cano: Humph. Looks like our reinforcement is here.  So the Military didn't leave
 Ceno: Sorella, they're heading toward us.
 *...A small troop of military units come marching from the distance, led by a human.*
 Cano: Ah, Captain Yegor?  Hello, please accept our deepest gratitude!
-*...Yegor shows no sign of acknowledgement. He stops and  looks behind Cano.*
+*...Yegor shows no sign of acknowledgement. He stops and looks behind Cano.*
 Cano: Oh, you don't have to worry about us now. Our Commander's forces will be here soon.
 Yegor: ...
 Cano: Excuse me...?
@@ -9626,7 +9626,7 @@ Kalin: Ah, the AR Team is hailing us!
 M4A1: Commander, we've just arrived at the coordinates you sent us. I'll hand over to RO to explain the situation.
 RO635: Commander, we've pinpointed the location of the paralyzed military units discovered around the anti-interference equipment!  I believe they were forcibly disconnected after being hacked by Sangvis Ferri.
 Kalin: You found them? That's great!
-RO635: I asked SOP-II to get us one of the signal repeaters destroyed by S.F., which can hopefully help us restore control over the military units.  If the Military is willing to direct them in protecting the interference neutralizer, it'll make our job a lot easier...
+RO635: I asked SOP-II to get us one of the signal repeaters destroyed by S.F. which can hopefully help us restore control over the military units.  If the Military is willing to direct them in protecting the interference neutralizer, it'll make our job a lot easier...
 Kalin: Yes, Commander! Connecting to the Captain's channel!
 M4A1: Captain Yegor?
 Yegor: Looks like you're getting down to business.
@@ -9644,7 +9644,7 @@ Yegor: The Griffin Commander must focus on protecting the interference neutraliz
 *Five minutes later.*
 RO635: Huh? Are you certain?  You sure it's a good idea to forcibly establish a link with these military units...?
 M4A1: We don't have any other choice. If the interference neutralizer is destroyed, the whole operation will be set back.  RO, the odds aren't in our favor to begin with. We must work with whatever we have.
-RO635: I understand... Theoretically speaking, the Zener Protocol should be compatible,  but it might overload your neural cloud. Do you think you can deal with it?
+RO635: I understand... Theoretically speaking, the Zener Protocol should be compatible, but it might overload your neural cloud. Do you think you can deal with it?
 M4A1: Don't worry about me. Do your part.
 RO635: I was literally made to worry about you, M4.  I couldn't wait to see what kind of T-Doll you are before I met you, but now that you're finally here in the flesh, you're completely different than what I imagined.
 M4A1: In what way, good or bad?
@@ -10042,7 +10042,7 @@ M4A1: You're right. Commander, do you think we should contact Yegor—
 M4 SOPMOD II: Report! S.F. suddenly ambushed the Military's flank!  But the Military is still pressing forward. At this rate S.F. is gonna cut us off!
 RO635: Jeez, this is happening way too fast!
 M4A1: I don't believe the Military will come back to our defense.
-M4 SOPMOD II: The Sangvis attack isn't too strong. We should be able to handle it,  but then we're definitely gonna be left behind.
+M4 SOPMOD II: The Sangvis attack isn't too strong. We should be able to handle it, but then we're definitely gonna be left behind.
 M4A1: This concerns the success of our mission. Could you please consult the Military about the situation, Commander?
 Kalin: Already on it!
 *Yegor answers the call.*
@@ -11238,7 +11238,7 @@ Dreamer: Hey!
 *...*
 UMP45: Is that me in the past? Guess I can only access it this way...  If it can even replay that memory...then OGAS Protocol has some seriously scary computational capacity...  Still...switching back and forth is taking a heavy toll on me... Cough...  And these flashbacks don't seem very stable. Destroying the program won't be easy even with the help of OGAS.
 UMP45: Huh? What now?!
-UMP45: They spotted me even in such a small port... Damn S.F., are they trying to fry my neural cloud?!
+UMP45: They spotted me even in such a small port... Damn S.F. are they trying to fry my neural cloud?!
 UMP45: These attacks...are relentless!
 UMP45: I'm NOT gonna...fall here... 40...
 416: 416 hailing.  9, have you found 45?
@@ -12173,7 +12173,7 @@ Dreamer: Heheh, I knew it, the two of you are a good match... Don't worry, it mi
 Destroyer: Don't mess it up this time! I'd better become a Doll that surpasses all the other S.F. Dolls in both looks and power!
 Dreamer: Your wish is my command, Miss Destroyer. You need only wait a little longer. In return, I'd like you to annihilate Squad 404... You can manage that, right?
 ====================main_12-2-4-Point4560-orig.txt====================
-*[Click.] [Audio File #013] [Decryption complete. Start playing.] 04673 SF/DSB1-3873 Dual-Track DSI-8 Model SY Passed Default Records Missing  04674 SF/DSB1-3874 Dual-Track DSI-8 Model SY Passed Default Warehouse No. 172  04675 SF/DSB1-3875 Dual-Track DSI-8 Model SY Passed Default Warehouse No. 172  04676 SF/DSB1-3876 Dual-Track DSI-8 Model SY Passed Default Warehouse No. 172  04677 SF/DSB1-3877 Dual-Track DSI-8 Model SY Passed Default Warehouse No. 172  04678 SF/DSB1-3878 Dual-Track DSI-8 Model SY Passed Default Warehouse No. 172  04679 SF/DSB1-3879 Dual-Track DSI-8 Model SY Failed Default Destroyed  04680 SF/DSB1-3880 Dual-Track DSI-8 Model SY Failed Default Destroyed  Inquirer has logged out.*
+*[Click.] [Audio File #013] [Decryption complete. Start playing.] 04673 SF/DSB1-3873 Dual-Track DSI-8 Model SY Passed Default Records Missing  04674 SF/DSB1-3874 Dual-Track DSI-8 Model SY Passed Default Warehouse No. 172  04675 SF/DSB1-3875 Dual-Track DSI-8 Model SY Passed Default Warehouse No. 172  04676 SF/DSB1-3876 Dual-Track DSI-8 Model SY Passed Default Warehouse No. 172  04677 SF/DSB1-3877 Dual-Track DSI-8 Model SY Passed Default Warehouse No. 172  04678 SF/DSB1-3878 Dual-Track DSI-8 Model SY Passed Default Warehouse No. 172  04679 SF/DSB1-3879 Dual-Track DSI-8 Model SY Failed Default Destroyed  04680 SF/DSB1-3880 Dual-Track DSI-8 Model SY Failed Default Destroyed Inquirer has logged out.*
 ====================main_12-2-4-Point4562-orig.txt====================
 *[Click.] [Audio File #012] [Decryption complete. Start playing.]  01489 SF/DSB1-0689 Dual-Track DSI-8 Model SY Failed Default Destroyed  01490 SF/DSB1-0670 Dual-Track DSI-8 Model SY Failed Default Destroyed  01491 SF/DSB1-0671 Dual-Track DSI-8 Model SY Passed Default Records Missing  01492 SF/DSB1-0672 Dual-Track DSI-8 Model SY Failed Default Destroyed  01493 SF/DSB1-0673 Dual-Track DSI-8 Model SY Passed Default Warehouse No. 431  01494 SF/DSB1-0674 Dual-Track DSI-8 Model SY Failed Default Destroyed  01495 SF/DSB1-0675 Dual-Track DSI-8 Model SY Passed Default Warehouse No. 431  01496 SF/DSB1-0676 Dual-Track DSI-8 Model SY Passed Default Warehouse No. 431*
 ====================main_12-2-4-Point4601-orig.txt====================
@@ -14774,7 +14774,7 @@ Himeko: Oh, I don’t mind, but is it really alright to let her move out by hers
 PP90: Thank you for your concern. We’ll keep in touch with communications modules, so she’ll definitely... er... she’ll probably... call in?
 Theresa: Oi, Himeko, now’s not the time to chat. Don’t you have something to report?
 Himeko: Mm, PP90-san, do you have an electronic map of the area? According to your observation data, a storm swept through an abandoned city about 15km away from here, several hours ago. I think either Mei or Bronya would have touched down there.
-PP90: Alright, I’ll  see what I can find! Here, right?
+PP90: Alright, I’ll see what I can find! Here, right?
 PP90: This is the abandoned city. S.F. has taken over it now. It’s very likely that Destroyer is based here, but we haven’t picked up any powerful S.F. unit signals from there for the time being. At a closer look... there are signs that it’s been wrecked recently.
 Theresa: From the extent of the destruction, it’s more likely that it’s Mei. After all, the power within her tends to go out of control very easily under those conditions...
 Kiana: Then we’d better get going! At the very least we should go in and look! If we’re any later, there’s no telling what SF will do to Mei-senpai!
@@ -14897,7 +14897,7 @@ Mei: Greetings, PP90-san. I’m very sorry about what I did to you just now. I�
 Kiana: Sorry about that, PP90-san. What happened just now, and what happened before that... was all Mei-senpai’s doing.
 Mei: Uuu... how shall I say this, I didn’t quite know what was going on back then. After being separated from everyone, the storm blew me to a base which looked like a modified city... And then my powers went a bit out of control, and with the amplification of the storm, I ended up destroying everything around me.
 PP90: Wow, so you were that amazing, Mei-san...
-Kiana: Hmph, she’s just bad at controlling her powers. After that, Mei-senpai met Destroyer from S.F., and she told her how to control Honkai Energy!
+Kiana: Hmph, she’s just bad at controlling her powers. After that, Mei-senpai met Destroyer from S.F. and she told her how to control Honkai Energy!
 Mei: Well... I was the one who wrecked their base, after all, so I felt that I had to do something... And she was crying and crying and saying that she wouldn’t be able to explain this to her master, and she looked so pitiful...
 Kiana: Ahhh! You’re always like that, Mei-senpai! You just can’t leave people in trouble alone! That’s why screwups like this happen!
 Mei: This was my first time here, and I didn’t know SF and Griffin were on opposite sides. And Destroyer was really nice to me too, she gave me lots of stuff and treats... Besides, she was very cute too. I don’t believe you wouldn’t have fallen for it in my place, Kiana.
@@ -15374,7 +15374,7 @@ Bronya: The <i>real</i> Seele.
 *[Badump!] [Seele’s hand twitches.]*
 Seele?: That’s enough...
 Seele: No... Not now...
-Seele?: As I thought, I shouldn’t have left it  to you...
+Seele?: As I thought, I shouldn’t have left it to you...
 Bronya: Seele, it’s time to wake up.
 Seele: No... no! Bronya-nee, please... Seele... Seele doesn’t want to disappear again!
 Seele?: Seele will not disappear... Seele will just... Become part of Seele again...
@@ -15952,7 +15952,7 @@ M4A1: This...this is!
 *...The case changes shape and becomes a weapon that looks like a cannon.*
 Angelia: This case was originally a miniature fire support platform made using a Sangvis Ferri technical design.  Only authorized human beings can activate it. T-Dolls can't use it by themselves.
 M4A1: A Sangvis Ferri...miniature fire support platform...?  Miss Ange, can you teach me how to operate this thing?
-Angelia: Hmm, judging by the ammo count,  M16 never used it, which is good.  If possible, I hope you'll never have to use this either.  I'll only permit it when there's no other alternative. Got it?
+Angelia: Hmm, judging by the ammo count, M16 never used it, which is good.  If possible, I hope you'll never have to use this either.  I'll only permit it when there's no other alternative. Got it?
 M4A1: Yes...
 *...*
 M4A1: (Last time...and even now...)   (Miss Ange feels very familiar to me...Why is that?)   (What's this feeling?)   (It's just like...)   (I've seen something like this before...)
@@ -16094,7 +16094,7 @@ M4A1: Understood... I will carry out my orders.  Give us a while to sort out our
 Ange: AK-12.  What do you think of M4A1's performance so far?
 AK-12: She strikes me as being... a lot more proactive than her data indicates.  However, I feel that this is due to the influence of her neural cloud. Her thought processes tend towards risk-taking and she lacks a clear sense of purpose.   It's as though... she was controlled by something other than her orders.
 Ange: I understand.  As a new model of elite T-Doll, it must grate on you to have to take orders from other Dolls, huh.
-AK-12: Personally, it's not so bad if those orders are interesting enough. Also...  Observing the interesting things they do is  a hobby of mine.
+AK-12: Personally, it's not so bad if those orders are interesting enough. Also...  Observing the interesting things they do is a hobby of mine.
 Ange: That's just like you. Go, and take care of AN-94.
 ====================main_17-1-2First-orig.txt====================
 *...Click.*
@@ -17124,7 +17124,7 @@ Angelia: Cowardice may be shameful, but it is not fatal.  Courage may be awe-ins
 M4A1: Then...what should I do...?  I don't want to keep being protected by everyone, nor do I want others to sacrifice themselves for me. If I had the choice, I wouldn't even want to be M4A1!
 Angelia: You still have a choice.  Choose not to die with Mastermind, even if your teammates are no longer around.
 M4A1: ...  You want to capture her. You want ME to capture her.
-Angelia: This is our last chance. Our last chance to keep more people from getting hurt.  Meet her. Buy time.Then the others will find a way to seize her.  Do you accept this request?
+Angelia: This is our last chance. Our last chance to keep more people from getting hurt.  Meet her. Buy time. Then the others will find a way to seize her.  Do you accept this request?
 M4A1: And if I fail?
 Angelia: Then I will activate the last resort. There will be nothing left.
 M4A1: Then...it makes no difference to me.
@@ -17613,7 +17613,7 @@ TMP: AEK?
 AEK-999: Oh, nothing. Just letting off some steam.  Are you alright, TMP?
 TMP: Uh...I think...  I was too nervous to really experience anything.
 AEK-999: Now that the enemies are all dealt with, can we call it a day?
-Thunder: Are there any backup forces from S.F., Squad Leader?
+Thunder: Are there any backup forces from S.F. Squad Leader?
 K2: Don't think so.  The Commander says that according to HQ's analysis, it seemed to be a Sangvis envoy just passing through the area.
 M950A: Huh? Why would they be passing through here?!
 AEK-999: The point is – I told you so, 950.
@@ -17706,7 +17706,7 @@ TMP: AEK?
 AEK-999: Oh, nothing. Just letting off some steam.  Are you alright, TMP?
 TMP: Uh...I think...  I was too nervous to really experience anything.
 AEK-999: Now that the enemies are all dealt with, can we call it a day?
-Thunder: Are there any backup forces from S.F., Squad Leader?
+Thunder: Are there any backup forces from S.F. Squad Leader?
 K2: Don't think so.  The Commander says that according to HQ's analysis, it seemed to be a Sangvis envoy just passing through the area.
 M950A: Huh? Why would they be passing through here?!
 AEK-999: The point is – I told you so, 950.
@@ -19421,7 +19421,7 @@ M16A1: Are you going to leave this place? If you go any further, we won't be abl
 M4 SOPMOD II: You can't help me anymore either, can you?  I'll figure out the rest myself.
 M16A1: ...  Then where are you going?
 M4 SOPMOD II: I'm going to find the Commander and return to Griffin.
-M16A1: Even if you go back to Griffin, it won't make everything better... The AR Team, S.F., and Griffin...  Everything you know may start to turn upside down.
+M16A1: Even if you go back to Griffin, it won't make everything better... The AR Team, S.F. and Griffin...  Everything you know may start to turn upside down.
 M4 SOPMOD II: I don't see it, and I don't care.  I only care that... I might never be able to meet everyone again.
 *...SOP-II forces a smile with great difficulty.*
 M4 SOPMOD II: Thank you for waking me up, M16A1.  I'll treasure the chance you've given me, and I won't let myself die easily.  Even if I'm the only one left...I will...I HAVE to survive...
@@ -19491,7 +19491,7 @@ M4 SOPMOD II: The enemies...are all above the base. What are they doing?  Eh, wh
 *...Whum.  Just then, SOP-II notices several Griffin signals on the map.*
 M4 SOPMOD II: Are those...  Griffin T-Dolls?  Don't tell me...  They're the forces from the resupply point who got surrounded by Sangvis Ferri and were forced to flee?  And then S.F. left their own base to chase them...
 *...SOP-II hesitates.*
-M4 SOPMOD II: Keep calm and think, SOP-II...  What would RO do?  She'd say, "Our friends are surrounded by S.F., and they're about to be wiped out."   "We must save them no matter how dangerous it is. We're allies on the battlefield."  Yeah, she'd definitely say that.  But...these Dolls can back their neural clouds up, right? And I only have one shot at this...  RO isn't awake yet, and I don't have a command module either...  I'm all alone, while S.F. must surely have a Ringleader with them...  Nobody's going to take responsibility for my actions. Would it be safer to find a backup power source first...?
+M4 SOPMOD II: Keep calm and think, SOP-II...  What would RO do?  She'd say, "Our friends are surrounded by S.F. and they're about to be wiped out."   "We must save them no matter how dangerous it is. We're allies on the battlefield."  Yeah, she'd definitely say that.  But...these Dolls can back their neural clouds up, right? And I only have one shot at this...  RO isn't awake yet, and I don't have a command module either...  I'm all alone, while S.F. must surely have a Ringleader with them...  Nobody's going to take responsibility for my actions. Would it be safer to find a backup power source first...?
 M4 SOPMOD II: Ahhhhhhhhhh what a pain—!  Why do I have to make choices like these?! I'm not a team leader, and I haven't been given any orders either!  I... What should I do...?
 *...SOP-II stands in place, but the world does not answer.*
 M4 SOPMOD II: Ah, whatever, I'll just head out first...  That's right, I'll head out first and think about it later!
@@ -19773,7 +19773,7 @@ Cx4 Storm: SOP-II, are you really going onto the battlefield? There's Military u
 M4 SOPMOD II: Their main force hasn't arrived yet. I'm confident I can pull this off, but I'll need the help of a few T-Dolls.
 Cx4 Storm: Our lives are yours. Take your pick.
 M4 SOPMOD II: Right! I want these ones. Everyone, pack up, we're moving out right away!
-Cx4 Storm: Will you be back? I mean...they're S.F., after all, and it's very likely that...
+Cx4 Storm: Will you be back? I mean...they're S.F. after all, and it's very likely that...
 M4 SOPMOD II: Scarecrow will keep her word, for her own sake and for her friends'. She has no choice.
 Cx4 Storm: Would Sangvis Ferri... do things for their friends, too?
 M4 SOPMOD II: Yes, they do. Nobody in Griffin understands them better than me.
@@ -19897,21 +19897,21 @@ M4 SOPMOD II: Maybe they'll fire on the Military instead.  After all, if they pr
 Cx4 Storm: So it's a gamble...  And even if we reach that empty base, it's still in Sangvis territory. Have you thought of our route after that?
 M4 SOPMOD II: Nope. This is all I could come up with.  If you run into Military units, fight them. But if you run into Sangvis units, don't make the first move. After that, hold on until I get back.
 Cx4 Storm: SOP-II, you mean... we're going to protect Sangvis Ferri? In order to buy time for that Scarecrow?
-M4 SOPMOD II: That's right, we're going to delay the Military, then retreat from the base while they're wasting their time running around for nothing.  If we let the Military wipe out S.F., then once their two pursuit parties link up, we're the ones who'll be in trouble.
+M4 SOPMOD II: That's right, we're going to delay the Military, then retreat from the base while they're wasting their time running around for nothing.  If we let the Military wipe out S.F. then once their two pursuit parties link up, we're the ones who'll be in trouble.
 Cx4 Storm: Somehow... I doubt Scarecrow's going to appreciate this.
 M4 SOPMOD II: She probably won't, but we're not doing this for them.
 Cx4 Storm: SOP-II, don't you hate S.F.?  I thought... you would never do anything to help them.
 M4 SOPMOD II: I gave it some thought just now... I guess I don't actually hate them. After all, I've killed all the S.F. I had a grudge against already...  ...They've all died to me at least once.
 Cx4 Storm: So, you don't hate the rest of S.F.? T-Then... why do you like hunting them down so much?
 M4 SOPMOD II: I just do.  Do you hate people and things as a hobby? I know I don't.
-Cx4 Storm: Y-You just like hunting S.F., right?
+Cx4 Storm: Y-You just like hunting S.F. right?
 M4 SOPMOD II: Nope.  I also enjoy torturing them, scrapping them - Oh, I don't mean removing the Imprint the way Griffin does when they retire T-Dolls, I mean literally taking them apart.
-Cx4 Storm: N-No, I mean...you ONLY hunt S.F., right?
+Cx4 Storm: N-No, I mean...you ONLY hunt S.F. right?
 M4 SOPMOD II: The Military's not bad either. Maybe they're better? If possible, I'd like to try on limbs from a Military unit!  And that Yegor...
 Cx4 Storm: T-Then... what about Griffin T-Dolls?
 M4 SOPMOD II: Griffin? Are you kidding? You guys are so good to me!  You don't know me, but you greet me every day, give me tasty stuff to eat, and praise me when I do well! Why would I ever do that to you?
 Cx4 Storm: T-That's true...
-M4 SOPMOD II: I may not know you guys, but I know that whenever I kill a whole bunch of S.F., everyone lives on, and they like me more, right?  It finally occurred to me that right now, my objective is to protect you; helping S.F. out is just a way to do it.
+M4 SOPMOD II: I may not know you guys, but I know that whenever I kill a whole bunch of S.F. everyone lives on, and they like me more, right?  It finally occurred to me that right now, my objective is to protect you; helping S.F. out is just a way to do it.
 Cx4 Storm: SOP-II...
 M4 SOPMOD II: Alright, let's head out! Hang in there, and remember what to do when you run into Sangvis units!
 Cx4 Storm: Will you be okay? We won't leave without you!
@@ -21052,7 +21052,7 @@ Kalina: Thank you, 416. You've been immensely helpful.
 Kalina: The Commander's work will be over soon, you'll only have five more minutes to catch your breath, make the most of it.
 Python: Miss Kalin, may I join the fireteam?
 Kalina: Huh? Are you going, too?
-Python: Since the base is safe for the time being, I'd rather be where I'm needed.  After all, the T-Dolls out there are in grave danger, every bit of  help increases our chance of victory.
+Python: Since the base is safe for the time being, I'd rather be where I'm needed.  After all, the T-Dolls out there are in grave danger, every bit of help increases our chance of victory.
 Mk 12: I'm going as well! I won't let a rookie look down on me!
 AK-74U: Uh, I told you she's not a rookie. You, on the other hand, are fresh out of IOP's factory, aren't you...?
 A-91: Count me in, too. I really want to see for myself what you're made of.
@@ -23270,7 +23270,7 @@ Commander: Can you verify her identity?
 Lewis: I can confirm that she is indeed Gilda Ulrich, Chairwoman of the Pan-European Cooperation Initiative's Executive Committee... Let me take a look at her details. West German, born in 2029. In '52, she was apparently involved in the Weihnachtsmärkt Incident at the border that nearly developed into a violent conflict and kept a confrontation between the people and Soviet troops from turning bloody. As one of the few females on the executive committee, Gilda has gained the trust of her superiors and colleagues with her mature and calm methods as well as her efficiency. In '63, the former executive committee Chairman Weldon Kurz was forced to resign his post due to heart disease, and with the backing of the council, this young and capable member of the executive committee assumed the weighty responsibility of Chairwoman. As the lady official who single-handedly shoulders the burden of coordinating the economic institutions of Europe and elaborating on the Pan-European Reconstruction Plan, Gilda Ulrich is merely 34 years old. Uwah, she's a chairwoman at such a young age... It's exactly like the information Mr. K provided... Looks like she's a very dependable woman. Ah...the protestors outside the conference hall are starting to get agitated. From where I'm looking, it appears that they're planning to charge the MPs' defensive line...
 Kalina: Has it...already begun...
 Commander: The hidden threat might use this opportunity to take action. Everyone, stay alert.  All surveillance posts, report in.
-Lewis: This is bad! We have a situation here! There's a human in a balaclava moving through the crowd from the outside, and he seems to be holding an explosive! Uh, permission to open fire? Oh no, he's almost at the  defense line! He—
+Lewis: This is bad! We have a situation here! There's a human in a balaclava moving through the crowd from the outside, and he seems to be holding an explosive! Uh, permission to open fire? Oh no, he's almost at the defense line! He—
 *BOOM!  There is a tremendous explosion!*
 Commander: What happened?! What's going on outside!
 Kalina: Commander— Ow (a burst of piercing static rings out from the earpiece)  Our comm signals are being jammed!
@@ -23535,7 +23535,7 @@ Kalina: It's not corrupted. Judging from the details, it looks like someone dele
 Commander: This time period...it's a log of Ange's activities from before and after Operation Butterfly... Can you or WAVE recover the file?
 Kalina: I've already tried...  But since the information was deliberately destroyed, there's pretty much no way to restore it.
 Commander: ...
-*...In the middle of the night.  I'm sitting at my place,  contemplating Kalina's findings as well as everything about this city.*
+*...In the middle of the night.  I'm sitting at my place, contemplating Kalina's findings as well as everything about this city.*
 Commander: ... (K is the middleman between Statesec and us, which means K is on the same side as Statesec.)  (But does K truly know what Statesec's real objective is?)  (Or are we all nothing but pawns?)
 *What role did Ange play in all of this?  If everything was as K said and Ange is still carrying out the mission given to her by Statesec, then why did Statesec prepare a card like me?*
 *Am I to assist her...  Or to monitor her?  And if Ange really does defy the orders given to her by Statesec... then what role does K play?*
@@ -23631,7 +23631,7 @@ HS2000: But I don't wanna leave my comfort zone...  Ehhhh... I hate this... Can'
 KSVK: Destiny will not take pity on your weakness.  Your wish will only lead to you being wrecked in battle.
 HS2000: Ehhhh, you're so cold... Still, even if I get wrecked, I can still be fixed. I don't have to die outside even in crappy weather like this. Suddenly, being a Doll doesn't seem so bad after all.
 ====================main_31-1B1-1-orig.txt====================
-*...  After nightfall in the city, in a certain darkened alleyway  AR-15 sits quietly in a blind spot of the surveillance cameras. The light from the city outside filters into the alley and reaches her eyes.  Even when she hears footsteps, she does not look back. Instead—*
+*...  After nightfall in the city, in a certain darkened alleyway AR-15 sits quietly in a blind spot of the surveillance cameras. The light from the city outside filters into the alley and reaches her eyes.  Even when she hears footsteps, she does not look back. Instead—*
 AN-94: If you point your gun at me, I might return fire by reflex.
 ST AR-15: In that case, don't just pop up from behind me.
 *AR-15 puts her gun away, but just as she is about to stand up, AN-94 falls to one knee before her.  This is not a gesture of loyalty, simply a way of facilitating what will happen next. AR-15 knows that very well, so she directs her eyes to the heavy backpack she has just taken off.*
@@ -23893,7 +23893,7 @@ Mercurows: Hahaha, hahahaha!  This performance was a marvellous one too!  As the
 ST AR-15: ...
 Mercurows: There's no need to keep hiding, AR-15 and AN-94 of DEFY!  I only just realized, but the truth is you've been following me all this while, haven't you?  Like a dreamcatcher chasing the moon, futilely and fruitlessly gathering its light!
 AN-94: What on earth is she saying...
-Mercurows: The earth is a fortress, a keeper of secrets, the final resting place for everything.  Worthless things can only rot beneath its surface.  Just as a sleeping princess awaits her prince's kiss,  "If I am not the one who is awaited, then could it be you?"
+Mercurows: The earth is a fortress, a keeper of secrets, the final resting place for everything.  Worthless things can only rot beneath its surface.  Just as a sleeping princess awaits her prince's kiss, "If I am not the one who is awaited, then could it be you?"
 ST AR-15: Don't move carelessly, she's faking—
 *Mercurows' tentacles lash out at AR-15's location with lightning speed, but AR-15 evades them a split second before they strike her directly, though the tentacles leave a faint scratch on her face.*
 AN-94: AR-15!
@@ -24228,7 +24228,7 @@ RO635: Tsk, that's some insane firepower...  We can't huddle here forever. Will 
 RO635: Dammit... Here goes nothing!
 ====================main_31-2A2-1-orig.txt====================
 *...In the streets.*
-*RO635 attempts to fire at Nimogen from the side, but her target dodges the attack with ease.  Suddenly extending her tentacles, Nimogen grabs RO635 by the ankles and flings her brutally from the height of two  stories onto the ground. Before RO635 can scramble to her feet, Nimogen is already right before her, resting a foot on her chest and leering at her impishly.*
+*RO635 attempts to fire at Nimogen from the side, but her target dodges the attack with ease.  Suddenly extending her tentacles, Nimogen grabs RO635 by the ankles and flings her brutally from the height of two stories onto the ground. Before RO635 can scramble to her feet, Nimogen is already right before her, resting a foot on her chest and leering at her impishly.*
 RO635: ...Get your filthy foot off me.
 Nimogen: It wasn't actually all that satisfying, but I suppose you've already done the best you could as a piece of junk.  Heeheehee, so this is all Griffin amounts to!
 *BOOM!*
@@ -25171,7 +25171,7 @@ M4A1: You bet.
 ====================main_31-3B2-1-orig.txt====================
 *Below the city of Belgrade.*
 *AR-15 and AN-94 keep receiving warnings regarding the red enemy signals that are registered all over their electronic map...  But they have no choice but to ignore these notifications and continue onward.*
-ST AR-15: ...Why are you siding with S.F., 16?
+ST AR-15: ...Why are you siding with S.F. 16?
 M16A1: I would've liked to ask you the same question — I wasn't the first deserter on the AR Team.
 ST AR-15: I found myself under...special circumstances.
 M16A1: I gathered as much. "Happy families are all alike; every unhappy family is unhappy in its own way."
@@ -25994,7 +25994,7 @@ Super-Shorty: ...There's more than one sound, and from different models.
 Jericho: Architect of Sangvis Ferri Manufacture, you have nowhere to run. Cease your resistance immediately!
 Architect: Haha, are you really putting the pedal to the metal!?  You won't catch up with me at this rate! Come on, try harder!
 Dana: Hah! I didn't think we'd be so lucky!
-Dana: Those White Knights weren't here to catch us, but to pursue that S.F. Doll! Hold on tight,  I'm going to speed up!
+Dana: Those White Knights weren't here to catch us, but to pursue that S.F. Doll! Hold on tight, I'm going to speed up!
 Super-Shorty: Eh? S.F.?  ...I still have a few fragments of my memories remaining, and I have the feeling that I don't like them!
 Dana: Nobody likes them. S.F. Dolls have always been the public enemy of the entire world. They specialize in attacking Griffin Dolls and humans without any rhyme or reason.  However, their time had ended since the global sand rains began three years ago.  Right now, there's only one S.F. ringleader Doll left by the name of Architect. She's the worst thing in the world apart from the sand!
 Super-Shorty: That makes her pretty dangerous, doesn't it!? Then why are you so happy?
@@ -26198,7 +26198,7 @@ Sei: I'm not a genius, but I'm no fool either, Captain.  Huh? Inside this hatch.
 *...Jericho and Sei fumble with the hatch and open it.*
 ???: ...
 Sei: This is...
-Jericho: This is the highest-ranked S.F., Mastermind Elisa.  We've found her.
+Jericho: This is the highest-ranked S.F. Mastermind Elisa.  We've found her.
 ???: ...
 Sei: She's...not moving?
 Jericho: Let me see...  ...She's out of power.
@@ -26518,7 +26518,7 @@ Dana: Anna? Who's Anna?
 Architect: Good question. Since we're in the middle of a battlefield, I'll cut things short.  Anna is the true master of this city, and the final boss of the entire incident.
 Dana: Very good, that's easy enough to understand.
 Architect: As for your second question, do you really care about the answer?
-Dana: A little. You're not like the other S.F., and I really am curious. By the way, are you good in a fight?
+Dana: A little. You're not like the other S.F. and I really am curious. By the way, are you good in a fight?
 Architect: If the place allowed for it, I wouldn't mind going a couple of rounds with you, but—
 *...Architect quickly pokes her head out and launches another grenade. Boom!*
 Architect: But now's not the time, and there's someone else you should be concerned about right now, isn't that right?
@@ -26645,7 +26645,7 @@ Dana: The source of S.F. was the Earth Computer, right?
 Architect: Hehe, I already told them ten minutes ago. Sorry to spoil your surprise.
 Alma: Oh... How regretful it is that I missed your "say what now!?" response. But yes, the S.F. Dolls were produced by the Earth Computer, but why would the Earth Computer make something so dangerous to attack us?
 Architect: Frankly speaking, I don't know the reason myself.  But let me just say this, I've never once taken the initiative to attack a Doll or a human, but it is true that the first S.F. units were made to wipe out all life on Earth.
-Alma: Why would the device that managed this world want to exterminate us...? That was what I needed to find out.  But the Earth Computer was buried underground, and it was heavily guarded by S.F., and in order to get into the Earth Computer to learn what was going on, we needed to dispatch someone nimble and small-framed.  So IOP picked their two smallest Tactical Dolls to carry out this mission.
+Alma: Why would the device that managed this world want to exterminate us...? That was what I needed to find out.  But the Earth Computer was buried underground, and it was heavily guarded by S.F. and in order to get into the Earth Computer to learn what was going on, we needed to dispatch someone nimble and small-framed.  So IOP picked their two smallest Tactical Dolls to carry out this mission.
 Dana: That seems like the only sensible thing in this entire story so far. (Looks at Super-Shorty)
 Super-Shorty: Don't call me short!
 Super-Shorty: ... Alma, you chose me...and another Doll?
@@ -26966,7 +26966,7 @@ Sei: How did you become...the supreme leader of S.F.?
 Stella: I once asked Alma...the best hacker on Earth, to look into S.F.... And then on the night when we were supposed to make an exchange, Alma was secretly arrested by the White Knights, which got me worried...
 Dorothy: I didn't know about that! It must have been my sister... She must have done it...
 Stella: And so I stuck to the arrangement with Alma and went to the place where the Dolls who had gone on the mission would make the trade.  In the end, I didn't find Super-Shorty or IDW, but they still finished their mission...  ...They had delivered the body of the S.F. Mastermind, Elisa, to the meeting point.
-Stella: I didn't want to let their sacrifices be in vain, so I studied Elisa's internal structure and extracted her S.F. module for my own use.  And then I kept on researching the truth on S.F., the Earth Computer, and Anna...
+Stella: I didn't want to let their sacrifices be in vain, so I studied Elisa's internal structure and extracted her S.F. module for my own use.  And then I kept on researching the truth on S.F. the Earth Computer, and Anna...
 Sei: That certainly sounds like you, Stella.
 Stella: I once swore an oath that I would pay any price to save Griffin City...  But now the situation is completely out of control. It's nothing like what I imagined...
 Sei: You can't control everything, Stella.  You've been like that ever since you were young, and while you are considerate of others, a lot of times...you're too harsh.  You're overly rational, and you keep thinking that you have to bear the entire burden by yourself, which is why you keep overlooking how others feel...
@@ -27381,7 +27381,7 @@ Anna: What else would you have me do? Why should I transform or whatever before 
 *...Anna snaps her fingers.*
 Super-Shorty: The White Knights... The White Knight mechs!
 IDW: They're coming again! How many are there!?
-Anna: There are as many as I want there to be.  You should know that since I am now the Earth Computer, I am both the one who gives orders and the one who executes them.  I don't need the sand, I don't need S.F., because now I can destroy the world in any way I want.
+Anna: There are as many as I want there to be.  You should know that since I am now the Earth Computer, I am both the one who gives orders and the one who executes them.  I don't need the sand, I don't need S.F. because now I can destroy the world in any way I want.
 Jericho: Prepare to break through! Let's get out of here first!
 *...Bangbang!*
 Anna: I will cover Earth's surface with strawberry ice-cream, and then summon a chocolate straw the size of Lake Superior to poke through Earth's core.  But first, I'll cover the top ten peaks in the world with Swiss rolls, so I can fill in the blanks on my geography test paper with "egg roll".  Do you like that? Do you think such an apocalypse would suit a high school girl's backstory?
@@ -27484,7 +27484,7 @@ Anna: One of the Jills will have to be sacrificed, yes.  But that would be the J
 Jill: What!?  You... What what what what are you talking about?
 Anna: Jill, I am asking you this question in all seriousness.  Are you willing to go to the real world...and replace yourself?
 Jill: You want me...to do what?
-Anna: This is the plan I've been working on all this time. I've turned this world upside down in order to do this.  I used little Becky, Architect, and Gillian to study the technology of Griffin, S.F., and the White Knights of this world.  In the end, I found a solution...
+Anna: This is the plan I've been working on all this time. I've turned this world upside down in order to do this.  I used little Becky, Architect, and Gillian to study the technology of Griffin, S.F. and the White Knights of this world.  In the end, I found a solution...
 Anna: That would be to take the nanomachines of the real Anna and match them to the pulse generated by the Griffin Doll mentioned earlier once again, and re-open a gate between both worlds.  After that, I will have you arrive in that world in nanomachine form, but only for a few minutes.  During that time, all you need to do is hug yourself from the other world and then fire the electromagnetic pulse weapon that I will give you.  Your memories will then be fully transcribed to the other Jill's brain via electronic synapse waves.
 Jill: This...is a little ridiculous... It's too far-fetched...  But if that happened, then what would happen...to Jill in the real world?
 Anna: Her body would be fine, of course.  It's just that her memories of that world...would no longer exist.
@@ -30167,7 +30167,7 @@ Welrod MkⅡ: If you think I am going to believe a filthy Sangvis—
 Welrod MkⅡ: ...Fine, speak.
 Architect: Hey...work your smart, little artificial heads a bit and think about why Griffin would be suddenly attacked by scattered S.F. forces.
 Spitfire: ....Don't tell me there's a new S.F. base nearby?
-Architect: I...wouldn't know anything about that.  However, there's an "Alchemist" in S.F., and I'm pretty familiar with her.
+Architect: I...wouldn't know anything about that.  However, there's an "Alchemist" in S.F. and I'm pretty familiar with her.
 Spitfire: You mean the S.F. ringleader who killed herself?
 Architect: Yep, she always used strange methods to interrogate the enemy. Quite detestable, hehe... That said, although Alchemist's already gone BOOM, I'm thinking that there might be one or two dummies of her left behind in S.F.. It wouldn't be unusual.
 *Welrod and Spitfire briefly exchange looks.*
@@ -30760,7 +30760,7 @@ Commander: Yes, having paid a very high price.
 Havier: So, are you ready to begin the operation?
 Commander: Before we start, can you tell me the truth?
 Havier: Oh? I seem to recall clearly outlining your goals to you before.
-Commander: The events in Tallinn, the strange allocation of the Military's forces, and the signs of abnormal movements from S.F., none of them sound like the sort of thing a PMC should be handling.
+Commander: The events in Tallinn, the strange allocation of the Military's forces, and the signs of abnormal movements from S.F. none of them sound like the sort of thing a PMC should be handling.
 Havier: Indeed. Still, Griffin should have become used to handling such things long ago, am I right?
 Commander: If you only need us to serve as cannon fodder, then why don't we stop here and block the Military while Statesec's forces handle things in the base?
 Havier: You mean those "Vympel" troops that only know how to look at the scenery? Hahaha, that old rogue told you too much. Sometimes, knowing too much isn't a good thing. However, I like the way you ponder everything deeply.
@@ -30892,7 +30892,7 @@ UMP9: Still, are you really okay, 45? Something does feel different about you.
 UMP45: Humph, I don't need you to lecture me.  Before spouting all that nonsense, have you finished syncing the operational route and the map?
 UMP9: All OK, 45!  We'll drive straight to an air vent under the quarantine wall, then enter the air ducts and follow it along the inside of the wall to the DEFY members' last known position. If there really are friendlies there, we'll enter the control room of the barrier gate after contacting them, then use the activation access they were talking about to open the gate and let the Commander in.
 416: You make it sound so easy.
-UMP45: That's assuming we don't run into any enemies. If the signal is a trap, there's a very high chance we'll get shot full of holes. It's not so bad if it's our old friends from S.F., but if we end up getting jumped by Paradeus, you can just start working on your last words at that point.
+UMP45: That's assuming we don't run into any enemies. If the signal is a trap, there's a very high chance we'll get shot full of holes. It's not so bad if it's our old friends from S.F. but if we end up getting jumped by Paradeus, you can just start working on your last words at that point.
 Gr G11: (Groans) Can't we discuss this? Could I just wait on the train and go over after you make sure it's safe?
 416: Any more nonsense out of you and I'll tie you to my gun and use you as a shield! Right, there's no point worrying about that. We need to deal with the gate ASAP before the Commander and the others end up drowning in shellfire. After that, we'll just have to hope the AR Team is as reliable as we are.
 UMP9: The fighting for the shore guns is going to be really intense...  Can they really handle it?
@@ -31155,7 +31155,7 @@ STEN MkII: Don't raise your head! That's why I told you to dig the trenches deep
 AAT-52: You worked me so hard I thought I would run out of power before the enemy even showed up!
 *Meanwhile, Thompson, who has been separated from the others, is desperately trying to find her teammates.*
 Thompson: Group B to all Squad B members, recon team reports enemy forces approaching, get to battle stations ASAP and carry out the defense plan.
-Thompson: I repeat, enemy forces approaching,  get to battle stations ASAP and carry out the defense plan. God dammit, why did comms have to cut out now of all times...
+Thompson: I repeat, enemy forces approaching, get to battle stations ASAP and carry out the defense plan. God dammit, why did comms have to cut out now of all times...
 *AAT-52 and STEN MkII are lost on the other end of the battlefield.*
 AAT-52: The shells are still flying! Where's our team leader?
 STEN MkII: There's no response from the comms...
@@ -31844,7 +31844,7 @@ Gr G11: Ah, the hag's awake!
 416: You did that on purpose, didn't you?!  Passing out before the fighting starts and conveniently "waking up" once the fighting's done?  Well, still kicking, are we?
 *Taking the hand offered by her teammate, UMP45 pulls herself up to her feet.*
 UMP45: I had a nightmare that was interrupted halfway.  How are things?
-416: After we took down that batch of S.F., 9 did a scan and picked up some traces of Intruder. We suspect she was used by M16 as a relay node for the hacking attack against you.
+416: After we took down that batch of S.F. 9 did a scan and picked up some traces of Intruder. We suspect she was used by M16 as a relay node for the hacking attack against you.
 UMP9: Yes...we tried to give chase, but she seemed very familiar with the terrain here. Plus, you were in a bad state, so we didn't press on with the pursuit.  That said, I can still follow her signal. Want to go after her?
 UMP45: M16's little trick might be a disaster waiting to happen. We can't just ignore it.  Plus, that Sangvis ringleader might know something about DEFY.
 416: I knew you'd say that.
@@ -32205,7 +32205,7 @@ M4A1: Yeah... Let's move out ASAP.
 ====================main_36-3-16-Point90564-orig.txt====================
 *Tip - Goliaths can be placed on the Large Water Valves and they will detonate on the next turn, flooding the surrounding area. Fighting in flooded areas will affect both friendly and hostile echelons to a certain extent, but some high-speed enemies will have a particularly significant disadvantage.*
 ====================main_36-3-30-Point90663-orig.txt====================
-*Tip - EMP Grenades can immobilize individual enemy units  for 1 turn and decrease their combat effectiveness.  Yet for some unknown reason, EMP Grenades and Goliaths can only be used on the upper-right portion of the map and along the railway.  In addition, picking the "Easy Mode" command at any time during a friendly turn will cause the Military reinforcements to gradually decrease in strength.  Selecting the "Stay In Hell" command will maintain the current difficulty for this mission and prevent you from switching to "Easy Mode".*
+*Tip - EMP Grenades can immobilize individual enemy units for 1 turn and decrease their combat effectiveness.  Yet for some unknown reason, EMP Grenades and Goliaths can only be used on the upper-right portion of the map and along the railway.  In addition, picking the "Easy Mode" command at any time during a friendly turn will cause the Military reinforcements to gradually decrease in strength.  Selecting the "Stay In Hell" command will maintain the current difficulty for this mission and prevent you from switching to "Easy Mode".*
 ====================main_36-3-30-Point90687-orig.txt====================
 *If you escort the AR Team to the left-most radar before the 8th turn and have them stand by in position, you will gain extra points. In addition, meeting the conditions for opening the Defense Gates will also grant you extra points. Best of luck, Commander.*
 ====================main_36-3-38-Point90883-orig.txt====================
@@ -32909,7 +32909,7 @@ Ange: She's making herself useful, alright. Is S.F. also headed this way?
 AK-12: Yup. They've brought the whole village along.
 Ange: Then let's sit back and watch the show.
 *Thunk.*
-*The elevator suddenly makes a deafening noise as the aged metal structure screeches to a halt.  The elevator's antique mechanical display refuses to move past the number  "1".*
+*The elevator suddenly makes a deafening noise as the aged metal structure screeches to a halt.  The elevator's antique mechanical display refuses to move past the number "1".*
 Yegor: Look alive, Amber Flight. Looks like we won't be taking the elevator all the way to the bottom.
 Adjutant: Yes, Captain!
 *The doors slowly open.  Naturally, there is already a welcoming party waiting for them.*
@@ -33492,7 +33492,7 @@ MDR: Wow... That's some impressive observation skills.  You seem a lot more anim
 Lee Enfield: It's elementary inductive reasoning.
 MDR: You're different than what I imagined.  The posts on the anon forum say you're the taciturn type.
 Lee Enfield: Your impression on most Dolls isn't the most accurate.  You shouldn't put too much faith in the information you obtain from the internet.
-MDR: Inductive reasoning, eh...? This does seem like  the perfect setting for a detective novel.
+MDR: Inductive reasoning, eh...? This does seem like the perfect setting for a detective novel.
 Type 56-1: Don't jinx it... It's not like any murder is gonna take place.  How should we get in?
 Lee Enfield: Through the front door. If the reclusive master of the house is actually living within the walls, we can't forget our manners.
 Gr G36c: So we're knocking...?
@@ -34004,7 +34004,7 @@ PPSh-41: Oh...! I think so!
 Lee Enfield: Then have the Commander send someone to take these dresses away.  We should also clean up the scene.
 Tokarev: Gr G36c seems to be okay, though PK will have to take a trip to the repair bay...
 Type 56-1: Heh... Then let's head back already.  I'm starving for real.
-STEN MkII: Say,  haven't you forgotten about someone?
+STEN MkII: Say, haven't you forgotten about someone?
 Lee Enfield: Oh...
 MDR: WHERE! IS! MY! PHONE?!!!
 *...  ......*
@@ -36747,7 +36747,7 @@ RO635: I'm not interested in your crude provocations.  But if SOP-II gets mad, s
 Architect: Erm...er... Then pretend I never said anything.
 RO635: Also... The Commander has definitely thought this through.  Our intel only mentioned that Gager MIGHT be in the area, but that info isn't verified.  However, if we bring her along, I'm sure Gager won't be able to restrain herself and show up.  Assuming she's actually there, of course.
 ST AR-15: Now isn't that a simple and direct mission plan? The hook is straight and even the bait is nice and fragrant.  You'd best be as obedient as you say you are.
-Architect: Relax, all I want is to take a look around the place after spending so long away from it.  If I were so loyal to S.F., surely I would have done something by now, don't you think?  Do I look like someone who's willing to die for the cause?
+Architect: Relax, all I want is to take a look around the place after spending so long away from it.  If I were so loyal to S.F. surely I would have done something by now, don't you think?  Do I look like someone who's willing to die for the cause?
 RO635: I don't care what kind of person you are.  I only trust what I can see.
 ST AR-15: Speaking of "what you can see"...  Is that a residential district up ahead?
 Dandelion: It would seem we have arrived at the destination that the Commander gave us.
@@ -36918,7 +36918,7 @@ Architect: So cold—
 M4 SOPMOD II: You're really suspicious, you know?
 Architect: Am I?  I've behaved myself so far, how could I be suspicious?
 M4 SOPMOD II: The more nonchalant you act, the more suspicious it looks to me.  We're using you as bait to catch a friend of yours.  Do you really not care about that?  If I were in your position, I'd never sell out my teammates!
-Architect: Aw, do you really think I have the IQ points needed to think about these rock-and-a-hard-place problems?  What kind of answer are you expecting from me, anyway?  If I said yes, wouldn't that make me out to be a cold-hearted bitch? You can't trust people like that at all.  And if I said no, that means I still feel for S.F., right? Sure, it proves that I'm not entirely heartless, but then you'd have an excuse to scrap me on the spot.  So I'd be screwed either way, don't you think?
+Architect: Aw, do you really think I have the IQ points needed to think about these rock-and-a-hard-place problems?  What kind of answer are you expecting from me, anyway?  If I said yes, wouldn't that make me out to be a cold-hearted bitch? You can't trust people like that at all.  And if I said no, that means I still feel for S.F. right? Sure, it proves that I'm not entirely heartless, but then you'd have an excuse to scrap me on the spot.  So I'd be screwed either way, don't you think?
 M4 SOPMOD II: Hmm... Okay, that sort of makes sense.  So in conclusion, we can't go wrong with scrapping you!
 Architect: You just want to scrap me, don't you?!  Remember, we need to finish the Commander's mission! The mission is very important, right?  Let's stop wasting time on this subject!
 M4 SOPMOD II: For some reason, it feels particularly insulting to hear this from a Sangvis...
@@ -36977,7 +36977,7 @@ RO635: Well, there's no point crying over spilt milk.  I should finish the downl
 *Whum— Just as RO's attention is fully focused on her work...  An ear-piercing screech of feedback blasts through the PA system.*
 Gager: —Attention.
 RO635: ...Is that Gager?  Did she finally take the bait?
-Gager: Attention, Griffin Dolls.  You have stepped into my trap.  Release Architect immediately.  Otherwise... All the surrounding cannon emplacements have been aimed at this place.  I will blast this place until not even your stains remain.  You have five minutes to decide. I repeat;  Release Architect.
+Gager: Attention, Griffin Dolls.  You have stepped into my trap.  Release Architect immediately.  Otherwise... All the surrounding cannon emplacements have been aimed at this place.  I will blast this place until not even your stains remain.  You have five minutes to decide. I repeat; Release Architect.
 RO635: —!  Are the cannons outside still operational?
 *The download is complete just as the broadcast suddenly cuts off.*
 RO635: I need to hurry and link up with them—!
@@ -38829,7 +38829,7 @@ General Liu: Eeek! W-When did that...?
 Mondragon: The Griffin Doll Handbook, Article One, Paragraph Six states, "Pay full attention during battle."  If your heart isn't in this, you're the one who'll be destroyed next time. Got that?
 General Liu: Yes, sorry ma'am...
 AUG Para: Aw, don't worry, since you're so cute, I've got your back~!  Still, I have to ask, how did you end up on this team?
-General Liu: I-I don't know... I was being chased around the battlefield by S.F., next thing I know, they sent me in for neural cloud debugging...
+General Liu: I-I don't know... I was being chased around the battlefield by S.F. next thing I know, they sent me in for neural cloud debugging...
 AUG Para: Why didn't you return fire?
 General Liu: I'm sorry, what?
 AUG Para: I mean, you could have just wiped out the S.F. forces chasing you, right?
@@ -40064,7 +40064,7 @@ Armed Operative: Shut up, Saukerl.
 Hopps: Returning to the subject at hand, Frau Angelia, we lost the last war. We failed to defend German blood and soil, as well as this fragile Volksgemeinschaft. We lost to you.  I concur that the victors are at liberty to deal with the losers however they want, so I have no complaint about that. However, I will never allow my country—a country that my comrades and I protected with our lives—to be handed over to a bunch of Rossartrist zealots who live in fantasy and those corpse-worshipping fanatics in the Yellow Zone.  Many, many others share my sentiment. We have far more support than what you imagine.  Guys, tell this devochka of the Neo-Soviet Union who we are.
 All Armed Personnel: GSG 9 der Bundespolizei!
 Angelia: ...
-Hopps: Right, by now you must have a pretty good idea about our capability. It's my turn to ask questions  Frau Angelia, what do you want?
+Hopps: Right, by now you must have a pretty good idea about our capability. It's my turn to ask questions Frau Angelia, what do you want?
 Angelia: I want world peace. I want children to be spared from living in strife and fear.
 Hopps: ...Quite the jokester you are, Frau Angelia.
 Angelia: Life is hard in this line of work if one doesn't have a sense of humor.
@@ -43018,7 +43018,7 @@ Kalina: Oh, right.  I received an anonymous apology letter today.
 Commander: An anonymous apology letter?  Sync it over to my terminal.
 Kalina: Okay!
 *...  Message forwarded. Extracting...  ...*
-*LETTER OF APOLOGY  To everyone in Griffin. A certain someone ended up causing a huge fiasco which greatly inconvenienced everyone in Griffin due to my negligence in disciplining him. I humbly apologize on behalf of that moron. This letter includes a token of our sincerity. Please accept it. I hope you can all find it in yourselves to forgive his mistakes. Thank you!*
+*LETTER OF APOLOGY To everyone in Griffin. A certain someone ended up causing a huge fiasco which greatly inconvenienced everyone in Griffin due to my negligence in disciplining him. I humbly apologize on behalf of that moron. This letter includes a token of our sincerity. Please accept it. I hope you can all find it in yourselves to forgive his mistakes. Thank you!*
 *...*
 Commander: ...And you say you have no idea where the email came from?
 Kalina: Nope, couldn't find anything.  Still, the style of this letter reminds me of 404... But I guess I'm imagining things, huh?
@@ -43803,7 +43803,7 @@ A-91: ...What NRS?
 SKS: Hey, rookie, it's really dangerous to get close to A-91 when she's fighting!
 AK-47: What are you two grabbing each other for?!  What if the enemies down there open fire on you while you're like this?
 *AK-47 and SKS insert themselves into the battle for A-91's knife.*
-A-91: You-you think you can bully me just  because there's eight of you?!
+A-91: You-you think you can bully me just because there's eight of you?!
 SKS: What do you mean, "eight of you"? In any case, just let go!
 AK-47: Why are you grabbing my hand so hard?!
 VSK-94: Just let me handle it! Stop getting in the way!
@@ -43884,7 +43884,7 @@ SKS: Drink! All of you, drink! We're not stopping till we're all smashed!
 AK-47: Hahahahaha! I'll go see if I can start up that car over there... (hic)
 SKS: Pick a spacious one...  That way we won't be knocked around inside when we're giving the cops the slip.
 A-91: There's no point. You'll hit your head on everything as long as AK-47's driving.
-AK-47: Shaddup, you lot! If Kalina finds out we've been driving drunk again—  Wait a  minute, we're not in Griffin now, hehehe...
+AK-47: Shaddup, you lot! If Kalina finds out we've been driving drunk again—  Wait a minute, we're not in Griffin now, hehehe...
 SKS: Hehe, now the Commander and Kalina can't nag us anymore!
 A-91: You cowards, so you didn't dare drink because of a tiny problem like that?
 AK-47: Yeah, right. In any case, I've never been scared before...  Anyway, they'll just check me into rehab again if they catch me...
@@ -44360,7 +44360,7 @@ Vector: PP-90, you...!
 PP-90: Remember, I want a renovated dorm—
 System: X Not A Wig They're Drills died of hunger.
 Vector: —!!
-*Vector reaches out desperately, but PP-90's body, which has been right in front of her just moments ago, evaporates into a pillar of light  Her hands flail wildly, but the only thing they grasp is the empty air.*
+*Vector reaches out desperately, but PP-90's body, which has been right in front of her just moments ago, evaporates into a pillar of light Her hands flail wildly, but the only thing they grasp is the empty air.*
 Vector: ...You idiot...
 *Vector slumps weakly to the ground. All that remains in front of her is the item pickup light, which is as bright as ever.  The last can of food remains where PP-90 left it, in front of her.*
 Vector: No... I'm the idiot.
@@ -45110,7 +45110,7 @@ RPK-16: The subject is a Bible verse number.  "John 8.12".
 Ange: "I am the light of the world; he that followeth me shall not walk in darkness, but shall have the light of life."  John, Chapter 8 Verse 12.  ...How pretentious.
 AK-12: And revolting. It's probably a stupid question, but does this remind you of anyone in particular?
 Ange: Do I look like I know someone so obnoxious?
-RPK-16: The message itself reads...  "Dear Ms. Anna Viktorovna Tsoi,  "I hope you will forgive me for meddling, but I deeply regret what happened in Bremen and the bad decisions the Stasi has made due to internal strife.  "There are things I wish to discuss with you concerning Paradeus, please meet me after lunch.  P.S. I hope you find the apartment satisfactory." ...Then there's an address. It looks like a bar in the Old Town.  A bar called "Athena's Owl".
+RPK-16: The message itself reads...  "Dear Ms. Anna Viktorovna Tsoi, "I hope you will forgive me for meddling, but I deeply regret what happened in Bremen and the bad decisions the Stasi has made due to internal strife.  "There are things I wish to discuss with you concerning Paradeus, please meet me after lunch.  P.S. I hope you find the apartment satisfactory." ...Then there's an address. It looks like a bar in the Old Town.  A bar called "Athena's Owl".
 AK-12: I'm getting a mop.
 Ange: A mop? For what?
 AK-12: For cleaning up my puke.
@@ -45393,7 +45393,7 @@ Ange: That's how you found this place?
 AK-12: It didn't take much effort. After all, they still knew exactly where we were under those circumstances.  It was either GPS trackers or having a high vantage point.  Once we understood that, it wasn't difficult figuring out the rest.
 RPK-16: When we got here, we found out that Mr. J was the one in charge of this operation.  He told us that you were safe and had us wait here while he sent someone to fetch you.  12 refused to cooperate at first and threw a tantrum.  It was kinda noisy, but then we got used to it.
 AN-94: It wasn't that noisy.
-AK-12: I don't trust them. J did a decent job in Bremen,  But ensuring Ange's safety is my top priority.  I only agreed to wait because I believe in Ange.  So...have you had your meeting?  How did it go?
+AK-12: I don't trust them. J did a decent job in Bremen, But ensuring Ange's safety is my top priority.  I only agreed to wait because I believe in Ange.  So...have you had your meeting?  How did it go?
 Ange: I got some information and possible leads.  At the very least, I now have some idea about what to do.  So you're the aid that he promised?
 *Ange eyes Light and J, her gaze moving back and forth between them until finally settling on J.*
 Ange: Are you in any shape to help? Your injuries look pretty bad.
@@ -51684,7 +51684,7 @@ Shadowless: May you turn grief into strength. May heaven be a place on earth.
 416: Where are we going?
 AK74U: To the new Griffin HQ, a base bigger and newer than the previous one.  Apparently, the organization behind 16Lab funded it, so we'll be enjoying better treatment in future.
 416: Those enemies won't give up. We won't have much idle time.
-AK74U: At least the tough times are over for now. We're free of S.F., the Military, and this battlefield.  Once the Commander comes back, we'll be able to begin a brand new life.
+AK74U: At least the tough times are over for now. We're free of S.F. the Military, and this battlefield.  Once the Commander comes back, we'll be able to begin a brand new life.
 416: But where's the Commander?
 AK74U: Didn't you say they had a rescue mission to lead? The Commander still wants to save one last person.
 416: ...I know who that person is.  But it's no longer any of my business.
@@ -52469,7 +52469,7 @@ Medusa: This is too slow, I need to run faster!  Jashin-chan is waiting for me..
 Medusa: Please give me a ticket to Takaoyama on the Keio-Takao Line!!!  Please! Please hurry!
 *...At Takaoyama Station.  After jumping off the train, Medusa immediately hustles over to the next leg of her journey...*
 Medusa: Please give me a ticket to Hachiouji Station on the JR Chuo Line!  My friend's in trouble so please hurry!
-*...At Hachioji Station,  After getting her ticket, Medusa immediately hops on an express train on the JR Chuo Line...*
+*...At Hachioji Station, After getting her ticket, Medusa immediately hops on an express train on the JR Chuo Line...*
 *...Shinjuku.  Medusa squeezes through the bustling crowds and makes a beeline for her destination.  Neither the pretty clothes on the mannequins at the shop windows nor the milky aroma wafting from the newly-opened bakery can make Medusa stop...*
 *...Jinbocho.  Medusa disembarks from the Shinjuku line and dashes through the streets of Jinbocho...*
 Medusa: Wait for me, Jashin-chan...  I'm coming! No matter what danger you're in, I'll face it with you!
@@ -53796,7 +53796,7 @@ Commander: Aren't you going to let Jashin-chan have some?
 Yurine: Don't worry about it. Besides, it's her fault for messing up so badly and dragging our Griffin friends into this debacle.
 Ouroboros: Stupid snake.
 Agent: Is the tea ready? We're all waiting for it.
-Ouroboros: Damn Griffin, damn S.F., a pox on all of you!
+Ouroboros: Damn Griffin, damn S.F. a pox on all of you!
 *Ouroboros has been serving tea non-stop while Jashin-chan is roasting the meat.*
 Jashin-chan: The beef diaphragm's done, who else wants it?
 Ouroboros: Here, have some tea.
@@ -54755,7 +54755,7 @@ Shadowless: Incidents involving serious violence have occurred in multiple civil
 Shadowless: The recent influx of refugees in Berlin have caused severe conflicts with the auxiliary police over issues such as living arrangements and rations and medical supplies. The Bürgermeister of Berlin has pledged to resolve these issues, but little to no progress has been made thus far.
 Shadowless: There has also been continuous unrest along the borders. The Neo-Soviet Union Ministry of Defense claims to have uncovered a major arms smuggling case and urges Germany to launch a joint-operation.
 Shadowless: A leak occurred at a chemical factory in Berlin; the specific cause is still currently under investigation. The same factory was also involved in a traffic accident earlier where a transport vehicle was overturned. The chief operator of the factory was found to have committed suicide at his residence two days ago.
-Shadowless: That's all for last week's news round-up. Now we'll catch up with the latest news.  Celebrations are underway for the annual Unity Day. As host cities, Bremen and Berlin will organize grand musical and fireworks spectacles at the same time.  The Minister of Construction Oberstein proclaims in a public speech,  "Germany has made very significant achievements since Unification."  "According to a survey, as of yesterday, 76% of the German population believes that Unification was the right choice for our nation."  "The people have put great faith in us, and we shall never let them down."
+Shadowless: That's all for last week's news round-up. Now we'll catch up with the latest news.  Celebrations are underway for the annual Unity Day. As host cities, Bremen and Berlin will organize grand musical and fireworks spectacles at the same time.  The Minister of Construction Oberstein proclaims in a public speech, "Germany has made very significant achievements since Unification."  "According to a survey, as of yesterday, 76% of the German population believes that Unification was the right choice for our nation."  "The people have put great faith in us, and we shall never let them down."
 *...*
 *...*
 ====================main_48-1-1-orig.txt====================
@@ -56595,7 +56595,7 @@ Mona: ...Agent J.
 J: Still alive!
 *"Ding!" Mona receives an HD photo.*
 Mona: ...Wait a minute, this logo...!
-*J's eyes go wide,  That logo now has his full and undivided attention.*
+*J's eyes go wide, That logo now has his full and undivided attention.*
 J: That's Galatea's logo...
 *This is the first time Mona has seen a serious expression on J's lackadaisical face.*
 J: Ha~ Now this is getting interesting.  Them again...
@@ -61279,7 +61279,7 @@ Suomi: ...  What happened...last night?
 Suomi: ...
 Suomi: Aaaaaaaah!  What the heck happened?! Why is there a girl in my bed?!  Who the hell is she? Is she still alive...?  What on earth did I do last night?!
 *After a few deep breaths, she calls Kalina.*
-Suomi: Miss Kalina, what  exactly happened last night?
+Suomi: Miss Kalina, what exactly happened last night?
 Kalina: Last night? After you got completely smashed, you climbed onto the bar table and started singing. Then I had someone carry you back to your dorm.
 Suomi: What did I sing— Doesn't matter. Who's this girl lying in my bed?
 Kalina: There's a girl in your bed?! Oh my god, you're right! Who is she?
@@ -62977,7 +62977,7 @@ Black Nyto: Two suns, each illuminating a path.
 White Nyto: The path of the mundane world, and the path of the merciful Father.
 Black/White Nyto: Sanctum turned into the Devil's pit, the scales into an alter, drenched in sinners' blood.  Each Fury with her nails was tearing at her breast; they smote them with their hands, and cried so loud.
 *...*
-Nemhran: When half way through the journey of our life,  Through this Heaven and Hell art we led,  Thou wast made before I unmade.  The anguish thou art in perchance withdraws thee from my memory.  We shall be together, in neither Heaven nor Hell, neither cursed nor redeemed. I did not die, nor yet remained alive.
+Nemhran: When half way through the journey of our life, Through this Heaven and Hell art we led, Thou wast made before I unmade.  The anguish thou art in perchance withdraws thee from my memory.  We shall be together, in neither Heaven nor Hell, neither cursed nor redeemed. I did not die, nor yet remained alive.
 *...*
 Nemhran: ...
 Black Nyto: Big Sister Nemhran, Father is looking for you.
@@ -63009,14 +63009,14 @@ William?: ...Come here.
 *As if some switch has been flipped, the voice in the shadow suddenly grows a lot more tender.*
 *She calmly sits down at the dining table and looks down at an extravagant meal served on exquisite silverware.  All the dishes are unfamiliar to her, but she knows that she will enjoy them very much.*
 Nemhran: Time for a prayer.
-William?: ...Through me you pass into the city of woe,  Through me you pass into eternal pain,  Through me among the people lost for aye.
+William?: ...Through me you pass into the city of woe, Through me you pass into eternal pain, Through me among the people lost for aye.
 Nemhran: ...Luci.
 *Her gaze is soft and affectionate.  It is directed at a holographic specter in the corner of the room.*
 Lunasia: ...
 William?: ...
-Nemhran: ...Justice the founder of my fabric mov'd,  To rear me was the task of power divine,  Supremest wisdom, and primeval love.
+Nemhran: ...Justice the founder of my fabric mov'd, To rear me was the task of power divine, Supremest wisdom, and primeval love.
 *Nemhran and the figure both close their eyes and clasp their hands together in a gesture of prayer at the same time.*
-William?: Before me things create were none, save things eternal,  And eternal I endure.
+William?: Before me things create were none, save things eternal, And eternal I endure.
 Lunasia: ...
 *The prayer resounds throughout the dining room.  Like all other families, they are gathered at the dining table, reciting verses of praise.*
 Nemhran: ...We shall be together, in neither Heaven nor Hell, neither cursed nor redeemed. I did not die, nor yet remained alive.
@@ -64762,12 +64762,12 @@ RO635: Umbrella copies.
 *Right, that's taken care of...  XM8 takes a deep breath.  The detonation is only the beginning. She's going to make this place the world's messiest battlefield and stand her ground for as long as she can.*
 *This game of chess will be her masterpiece.*
 *...In Avernus' main hall.  Ethereal singing fills the air.*
-Nemhran: Through me the way into the city of miserable melancholy,  Through me the way into the tower of utmost delight,  Through me the way into the doomed masses.
+Nemhran: Through me the way into the city of miserable melancholy, Through me the way into the tower of utmost delight, Through me the way into the doomed masses.
 Black Nyto: Two suns, each illuminating a path.
 White Nyto: The path of the mundane world, and the path of the merciful Father.
 Black/White Nyto: Sanctum turned into the Devil's pit, the scales into an alter, drenched in sinners' blood.  Each Fury with her nails was tearing at her breast; they smote them with their hands, and cried so loud.
 *...*
-Gray: When half way through the journey of our life,  Through this Heaven and Hell art we led,
+Gray: When half way through the journey of our life, Through this Heaven and Hell art we led,
 Nemhran: Thou wast made before I unmade.  The anguish thou art in perchance withdraws thee from my memory.  We shall be together, in neither Heaven nor Hell, neither cursed nor redeemed. I did not die, nor yet remained alive.
 *The amassed Nytos gather around the faint light pouring on that fiendish-looking statue. Led by Nemhran, their voices blend into a chorus.  Even the maniacal, thoughtless Narciss is quiet and subdued here.  This is an occasion where no disturbance or disruption is permitted.*
 Nemhran: ...
@@ -66541,7 +66541,7 @@ KAC-PDW: I ...... I just need Honey is enough! Moreover, my already modest salar
 指挥官: ...... I'll subsidize you part of it privately.
 KAC-PDW:
 *KAC-PDW suddenly looked up, his expression surging with inexplicable excitement.*
-KAC-PDW: Hehehe, instead of subsidizing my salary, ...... How many more tickets can I get?
+KAC-PDW: Hehehe, instead of subsidizing my salary...... How many more tickets can I get?
 指挥官: Faces get really fast!
 *KAC gave the commander's hand a firm shake and bounced back to the stall.*
 KAC-PDW: Honey, the vendor KAC-PDW announces that the target trap is open for you!
@@ -69694,7 +69694,7 @@ Q1A-MX: Alma?
 塔亚柔斯: Begone!!
 玛姬: It's disgusting ......
 塔亚柔斯: ......
-玛姬: Is this what you truly are? Not a complete human being, not a complete doll. Instead, ...... A hybrid.
+玛姬: Is this what you truly are? Not a complete human being, not a complete doll. Instead...... A hybrid.
 塔亚柔斯: ......
 *Boom...*
 *Tareus took a long breath——*
@@ -69872,7 +69872,7 @@ Kar98k: Let's go.
 *Bang-- A precise shot, pierced his chest.*
 休谟: Goo ......
 艾尔玛: ...... Why ......
-*A large amount of blood seeped out of Dr.Hume's body.*
+*A large amount of blood seeped out of Dr. Hume's body.*
 休谟: I'm sorry... You're free now, Erma.
 *Boom ---- He bloomed like a giant firecracker in a dark, humid alleyway.*
 *Blood and gunpowder splashed on Elma's face. The messy ground was stained red. Erma sat on the floor alone, staring blankly at the cloudy sky with wide open eyes...*
@@ -72344,7 +72344,7 @@ Kar98k: Received.
 柳德米拉: It's "our" choice, instructor "Я".  Because the both of us are one.
 *......*
 *Intercontinental train "Futurama", car F01*
-*After welcoming the fleeing passengers, the already inadequate space suddenly became even more narrow. After the unpleasant conversation at the door, the people inside the train carriage were divided into two factions: those who were there first, and those who came later. They stared each other down with Dr.Lugosa in the middle separating the two.*
+*After welcoming the fleeing passengers, the already inadequate space suddenly became even more narrow. After the unpleasant conversation at the door, the people inside the train carriage were divided into two factions: those who were there first, and those who came later. They stared each other down with Dr. Lugosa in the middle separating the two.*
 鲁戈萨医生: ......
 *But he was still calm despite the heavy atmosphere between the two groups.*
 鲁戈萨医生: Disinfect the affected area.

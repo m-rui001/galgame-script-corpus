@@ -2923,7 +2923,7 @@ RITUAL MAGIC #47
 Kazamatsuri Academy Occult Research Club»
 «Published By
 :
-Astral Plane 2nd District 3rd Street #15    Temple Leader    Solor Soran»
+Astral Plane 2nd District 3rd Street #15    Temple Leader Solor Soran»
 «Telephone Number
 : XXX-XXX-XXXX
 »
@@ -4949,7 +4949,7 @@ My name has already been filled in.
 Kotarou_Trial: "...guess she wants me to answer this."
 I pick up a pen and face the questionnaire.
 Question 1: Is your life easier than it was last year?
-A) Yes    B) No
+A) Yes B) No
 Kotarou_Trial: (No, it's not. B.)
 Question 2: Answer if you chose B for Question 1. Do you think next year will be better than this year?
 Kotarou_Trial: (Next year...umm, I'll be in my third year, prepping for exams...doubt I'll be able to hold down a job...I won't have much time at all, actually...)
@@ -17556,7 +17556,7 @@ Esaka-san nods, satisfied.
 Esaka: "Tennouji-kun, this is my business card. Call me if you need anything."
 Kotarou: "Ah, thanks. Having an actual card is kinda cool, heheh..."
 His pearl-white card says this:
-"I never want to see your dirty face again    Esaka Sougen"
+"I never want to see your dirty face again Esaka Sougen"
 Kotarou: "........."
 Kotarou: (...the hell is this!?)
 I don't understand...
@@ -38555,8 +38555,8 @@ Half of it is a naked man, but the other half is raw internal organs.
 Kotarou: "Owaaaaaaa!!"
 The supernatural phenomenon has appeared in front of us.
 Now we must fight.
-Human-Shaped Thing    HP: 280    MP: 75
-Kotarou    HP: 1780    MP: 185
+Human-Shaped Thing HP: 280    MP: 75
+Kotarou HP: 1780    MP: 185
 Kotarou: "Hiiii! Hiiiiiiiiiii!!"
 The human-shaped thing attacks.
 It's not very effective...

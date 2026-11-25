@@ -6202,7 +6202,7 @@ You: "I have more important things to do right now..."
 Dreadlocks Guy: "Corpses, by the way, are a great fertilizer for shrooms."
 Dreadlocks Guy: "I knew a guy once."
 Dreadlocks Guy: "I knew a guy once. An interesting sort."
-Dreadlocks Guy: "I knew a guy once. An interesting sort. Used to be a botanist with a Ph.D., now he lives at the dump."
+Dreadlocks Guy: "I knew a guy once. An interesting sort. Used to be a botanist with a Ph.D. now he lives at the dump."
 Dreadlocks Guy: "So, after an unfortunate turn of events, he got tangled up with a crime syndicate."
 Dreadlocks Guy: "So, after an unfortunate turn of events, he got tangled up with a crime syndicate. He became their cleaner."
 Dreadlocks Guy: "So, after an unfortunate turn of events, he got tangled up with a crime syndicate. He became their cleaner. And I mean he actually cleaned the crime scenes after shootouts."
@@ -6299,7 +6299,7 @@ Reinhardt: "... A lot of great deeds awaited the hero! Battles with Monsters! Re
 You: "I think He's hinting at something..."
 Reinhardt: "And the Knight yelled: "Forfeit, beast! You shall not win this Battle! My trusty sword's with me! My courage! My flawless hair!""
 You: "Whoah, the week is finally over. Finally, I can get some rest."
-from:  collections import deque
+from: collections import deque
 Sombra: "Hello again, amigo."
 You: "I don't think I have any stamina left for today..."
 You: "I don't think she has the stamina to have fun right now..."

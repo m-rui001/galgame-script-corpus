@@ -501,7 +501,7 @@ Rintaro: But the proprietor of the Braun Tube Workshop, Tennouji, is also the ow
 Rintaro: That's how he can afford to maintain his ridiculously niche hobby shop even as land value continues to rise.
 Rintaro: He may seem a rough sort, but he was no match for my charisma. Now the entire second floor is mine for next to nothing. Muhahaha!
 Rintaro: I digress. The Future Gadget Laboratory is currently experiencing a severe shortage of manpower. We welcome dedicated scientists from all fields to apply. At present, our researchers are--
-Mayuri: Okarin, Okarin. You've gotta say 'lab mems',  not researchers.
+Mayuri: Okarin, Okarin. You've gotta say 'lab mems', not researchers.
 Rintaro: ...Our lab mems -- laboratory members -- are three!
 Rintaro: I am the founder of the Future Gadget Lab, Lab Mem Number 001, the insane mad scientist, Hououin Kyouma!
 Mayuri: 'Okarin' is cuter, though...
@@ -5307,7 +5307,7 @@ Rintaro: Super Hacker Mister Daru, has hacked into SERN.
 Kurisu: Is that okay? Won't they catch you?
 Itaru: I wouldn't make a blunder like that.
 Kurisu: That's not what I meant.
-Rintaro: As a result, we found evidence that those bastards are researching time travel  with the LHC.
+Rintaro: As a result, we found evidence that those bastards are researching time travel with the LHC.
 Kurisu: The LHC?
 Itaru: Seriously. We have the evidence. And guess what? The LHC has been in operation for nine years.
 Kurisu: What? Really!?
@@ -5934,7 +5934,7 @@ Itaru: But don't black holes usually spin? I mean, there's a whirlpool around th
 Kurisu: The part that looks like it's spinning is just the surrounding matter being sucked into the black hole.
 Kurisu: A black hole is just a point where extreme mass causes gravitational collapse. Everything falls towards it.
 Kurisu: Since it's only a point, it doesn't spin.
-Kurisu:  A Kerr black hole has a ring at its center, not a point.
+Kurisu: A Kerr black hole has a ring at its center, not a point.
 Kurisu: Think of it like this. Once transformed into magical girls, Mic-chan and Cro-chan's hearts spin like a ring inside their bodies, which is impossible for normal people.
 Itaru: ...I'll pass on the guro.
 Rintaro: Before, you said that such a black hole's existence would be impossible to prove. What did you mean?
@@ -7352,7 +7352,7 @@ Kurisu: Um...
 Mayuri: Hmm?
 Kurisu: Let's try changing the hotel I'm staying at.
 *Kurisu's voice lacks conviction.*
-Rintaro: How are we supposed to know the difference? If you want to stay in Uguisudani,  do it on your own. That should be easy for a Celeb Seventeen like you.
+Rintaro: How are we supposed to know the difference? If you want to stay in Uguisudani, do it on your own. That should be easy for a Celeb Seventeen like you.
 Kurisu: Do you have to say it like that?
 Itaru: Anyway, why Uguisudani?
 Rintaro: Because that's where all the love hotels ar--
@@ -12920,7 +12920,7 @@ Kurisu: B-boobs!?
 Rintaro: Let's say we send your memories to you in grade school.
 Rintaro: Right now, you're some kind of omnisexual pervert who thinks inanimate objects are hot. But in elementary school, you were still an innocent child.
 Itaru: I was a boring little bastard who did nothing but study, what of it?
-Rintaro: Basically, that little bastard would suddenly have all your perverted memories,  but his personality wouldn't change.
+Rintaro: Basically, that little bastard would suddenly have all your perverted memories, but his personality wouldn't change.
 Rintaro: It's not like you'll become that famous anime detective with 'the looks of a child and the brains of an adult'.
 Itaru: What? That sucks.
 *This isn't like the time-leaping you see in sci-fi novels. We aren't yet capable of transferring personality and consciousness.*
@@ -14436,8 +14436,8 @@ Mayuri: But Okarin, you're covered in sweat. You shouldn't push yourself. You're
 *What's going on here? A protest? Some kind of street performance?*
 *I don't have time for this!*
 *Just then, an announcement plays over the PA.*
-Premise 　Announcer: Your attention please. The Yamanote, Keihin-Tohoku, and Sobu Lines are currently suspended.
-Premise 　Announcer: We sincerely apologize for the inconvenience, and kindly ask for your cooperation.
+Premise Announcer: Your attention please. The Yamanote, Keihin-Tohoku, and Sobu Lines are currently suspended.
+Premise Announcer: We sincerely apologize for the inconvenience, and kindly ask for your cooperation.
 *Finally, I realize my mistake.*
 *That's right. Before the attack, the trains were stopped by a bomb threat!*
 *No wonder there are so many people standing around.*
@@ -30055,7 +30055,7 @@ Suzuha: And in seven years... let's meet again, okay?
 *If I'd been just one hour late getting to the hospital, I would have died from blood loss.*
 *The doctor laughed as he told me this. Hilarious.*
 *After being cooped up in the hospital for so long, it's exciting to be walking around Akiba again.*
-*I  look around to see if Akiba's any different from what I remember, but nothing catches my eye.*
+*I look around to see if Akiba's any different from what I remember, but nothing catches my eye.*
 *I just get the feeling that there are more moe shops than before.*
 *The mysteries of divergence.*
 *I chuckle to myself, then dig into my pocket.*

@@ -1734,7 +1734,7 @@ Shuma: "We are such a mess again today!"
 Aoi: "S-shut up! Give me your phone! I'll find food using GPS!"
 Shuma: "Yeah, there's such a convenient thing. It can't be helped, here."
 Aoi: "Thanks. Well, if I remember...on the official site, put ID..."
-Aoi: "And, password is... L o r d__i  s__s t i n g y ."
+Aoi: "And, password is... L o r d__i s__s t i n g y ."
 Shuma: "Don't say your password while typing!"
 Aoi: "If anything happens, I'll leave it to you."
 Shuma: "That is more of a threat than trust."
@@ -10679,7 +10679,7 @@ Iris: "Oh, I was looking for the one who would tell me that."
 Iris: "R e v o l v e...S p r e a d...C o v e t...S t a m p."
 *As if following those words, the surrounding lights make an individual move like a regiment.*
 *Layered particles of light whirl around and stretch out like thin and long piano wires, then transform into a colony which disperses like fog.*
-Iris: "I   c r e a t e d   m y   l i f e."
+Iris: "I c r e a t e d m y l i f e."
 *Like a piano player, her slender finger is slowly bent.*
 *Oh, those who are moved by the work that a nameless painter created with all of his life, must feel as I do now.*
 *The beauty I almost fall in love with causes a slight delay in my judgment.*
@@ -23614,7 +23614,7 @@ Shuma: "Lycoris! I'm fine, so focus on defeating the enemy, there's not a moment
 Lycoris: "――――"
 Lycoris: "Arghhh damnit! Fine! Fine, I say!"
 *With those words, Lycoris finally makes a spurt.*
-Lycoris: "M i n d,  m i n d,  m i n d... Protection of heaven for the starving souls, trial of restraint for the souls sated..."
+Lycoris: "M i n d, m i n d, m i n d... Protection of heaven for the starving souls, trial of restraint for the souls sated..."
 *A faint light glows along the blade. Energy is compressed with a high-pitched sound that sets the air vibrating.*
 Enosh: "Guuuarrrhhhh, geerrhhhh."
 *The next instant every creature in the area starts moving toward Lycoris as though spurred on by something.*

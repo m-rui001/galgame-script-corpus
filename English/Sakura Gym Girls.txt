@@ -40,7 +40,7 @@ Asa: "The store will be in safe hands with me. You've nothing to worry about!"
 Shouhei: "Thanks, Asa. You really are reliable."
 Shouhei: "I've no idea what I'd do without you."
 *The day trickles by, and eventually Asa and I shut up the store.*
-*With the lights turned off and the shutters drawn, the pair of us then head to a nearby  izakaya. It's one of my favorite places to go to unwind, mostly because of how cheap its beer and snacks are.*
+*With the lights turned off and the shutters drawn, the pair of us then head to a nearby izakaya. It's one of my favorite places to go to unwind, mostly because of how cheap its beer and snacks are.*
 *Naturally, since Asa is my most valued - and only - employee, I offer to foot her bill on the occasions we come here. I think she deserves a treat every once in a while, given how hard she works.*
 *Sometimes, I think I'd like to take Asa out to a fancier joint, so I can properly show my appreciation for her...*
 *But Asa seems fond enough of it here, small and smoky though it is.*
@@ -253,7 +253,7 @@ Asa: "Ooh."
 *They're a disaster just waiting to happen.*
 Shouhei: "Don't you have a more suitable set of shoes to wear; something without heels, maybe?"
 Shouhei: "I wouldn't want you turning your ankle."
-Asa: "Ahaha, well... I'm glad you're concerned about me,  but I'm sure I'll be fine."
+Asa: "Ahaha, well... I'm glad you're concerned about me, but I'm sure I'll be fine."
 Asa: "These boots are the most practical shoes I own. My others all have heels that are even higher..."
 Shouhei: "Geez..."
 *I shake my head.*
@@ -1860,7 +1860,7 @@ Tsumiki: "As a famous social media star, my fans scrutinize me every day. I rece
 Tsumiki: "I'm hardcore about exercising, and while I'd like to think that's for my sake, sometimes I wonder whether I'm not doing this because it's what my fans want."
 Tsumiki: "They expect me to look a certain way. I need to meet these expectations of theirs, or they'll dump me for younger, prettier idols."
 Tsumiki: "I've already been an e-celeb for a while. People are already starting to lose interest."
-Tsumiki:  "It's pretty stressful. Maybe that's why I'm so grumpy all the time?"
+Tsumiki: "It's pretty stressful. Maybe that's why I'm so grumpy all the time?"
 Tsumiki: "I know it's no excuse, though, for being rude; not when I'm my age."
 Tsumiki: "I'm already thirty-four... I need to get it together."
 Shouhei: "Hey, it's fine. Nobody's perfect. We all have our- huh...?"
@@ -2457,7 +2457,7 @@ Tsumiki: "It doesn't make sense, but... Shouhei..."
 *I'm turning this possibility over in my mind (Tsumiki's lips look very kissable), when...*
 Tsumiki: "I know I haven't known you for very long, but..."
 Tsumiki: "F-For some reason, now, wh-whenever we're together, I find my heart racing."
-Tsumiki:  "I-I've never felt this way about anybody before, and it's all a bit confusing. I-I don't really know what to make of it, or what it really means, but... Shouhei..."
+Tsumiki: "I-I've never felt this way about anybody before, and it's all a bit confusing. I-I don't really know what to make of it, or what it really means, but... Shouhei..."
 Shouhei: "Tsumiki...?"
 Tsumiki: "I... I..."
 *Tsumiki leans in a little closer, until her thigh is brushing mine, then says...*
