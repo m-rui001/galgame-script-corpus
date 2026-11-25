@@ -12,6 +12,7 @@ line fails, so a bad chunk can never damage the corpus.
 import os, re, sys, json, shutil, argparse
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from jpkanji import to_sc
+from langrules import lang_of, polishable as lang_polishable, check as lang_check
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 WORK = os.path.join(ROOT, "..", "_audit", "polish_chunks")
@@ -79,16 +80,17 @@ def prepare(rel, start, end, size, fresh=False, count=0):
         print("  ", c["file"])
 
 
-def polishable(line):
-    s = line.strip()
-    return len(s) >= 8 and not KANA.search(s) and len(CJK.findall(s)) >= 3
+def polishable(line, lang="zh"):
+    return lang_polishable(line, lang)
 
 
 def norm_quotes(t):
     return t.replace("乽", "「").replace("乿", "」")
 
 
-def check(src, out):
+def check(src, out, lang="zh"):
+    if lang != "zh":
+        return lang_check(src, out, lang)
     a, b = src.strip(), out.strip()
     if not b:
         return False, "empty"
@@ -127,10 +129,10 @@ def merge(rel, dry=False):
             bad.append((c["file"], f"lines {len(src)}->{len(got)}"))
             continue
         for off, (x, y) in enumerate(zip(src, got)):
-            if x.strip() == "" or not polishable(x):
+            if x.strip() == "" or not polishable(x, lang_of(rel)):
                 kept += 1
                 continue
-            ok, why = check(x, y)
+            ok, why = check(x, y, lang_of(rel))
             if ok:
                 lead = x[:len(x) - len(x.lstrip())]
                 trail = x[len(x.rstrip()):]

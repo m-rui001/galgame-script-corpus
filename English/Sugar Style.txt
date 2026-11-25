@@ -193,7 +193,7 @@ Piroshi: The best I can hope for is the rare opportunity to worship the Princess
 <USER>: The Princess of Beauty, really? You've gotta be making that up.
 Piroshi: You've really never heard of her? All the guys are talking about her.
 Akira: Even on the first day, she was a clear cut above the rest. Hot body, and cute too, though she always looks a little frosty.
-Akira: You know the trope, right? She's regalーon a different level from us commoners.
+Akira: You know the trope, right? She's regal—on a different level from us commoners.
 *On a different level? Man, wonder what she's like.*
 *Could there really be someone so powerful in our class?*
 Piroshi: Oh, look, look, look! That's her!
@@ -1534,7 +1534,7 @@ Kaname: Someone seems envious.
 <USER>: I can't even be certain that you're telling the truth.
 Kaname: It is true, though. Every day in elementary school, there was one boy who would lick my recorder like his life depended on it.
 <USER>: Holy shit, that's awful! This was a child?!
-Kaname: Heehee, it's okay. I was clever even as a childーI gave them a dummy.
+Kaname: Heehee, it's okay. I was clever even as a child—I gave them a dummy.
 <USER>: Huh?
 Kaname: Like a decoy recorder.
 Kaname: I realized I was in some sort of danger and bought a recorder of dubious origin from a secondhand shop to leave in the classroom, taking my own home with me.
@@ -1745,7 +1745,7 @@ Mao: Like that, see? That's how people with a clean conscience walk around!
 <USER>: O-Okay, fine, I get it already, but stop yelling. People are trying to sleep, y'know?
 Mao: Oh, right, that's a good point.
 *Mao quickly settles down.*
-*Guess she's more reasonable than I gave her credit for. Or maybe she's just the type to generally behave well around around the house.*
+*Guess she's more reasonable than I gave her credit for. Or maybe she's just the type to generally behave well around the house.*
 *Anyway, back to my fridge mission.*
 Mao: Eep! S-Stay back! If you come any closer, I'll scream!
 <USER>: Whoa, chill out. I'm just here for the fridge.
@@ -1808,10 +1808,10 @@ Mao: Hey! Say something!
 Mao: ...
 *Observe.*
 *This spectacle before us is the outward sign of Mao's raging internal conflict. Her standoffish side and her friendly side are waging a war for the ages.*
-Mao: All right, guess I can't very well let you go alone. It's dangerous out thereーyou need a bodyguard.
+Mao: All right, guess I can't very well let you go alone. It's dangerous out there—you need a bodyguard.
 *She's going to be _my_ bodyguard? Riiiight.*
 <USER>: Yay! If we run into a snake or something, I can shove you at it and escape alone.
-Mao: How cruel! You're a manーyou're supposed to protect me! Where's your bravery?
+Mao: How cruel! You're a man—you're supposed to protect me! Where's your bravery?
 <USER>: Sorry, think I dropped it in the tub a while back.
 Mao: Bravery isn't something you misplace like your phone.
 <USER>: If you say so. Not sold on this whole bodyguard business, but if you want to come along, that's fine.
@@ -1942,7 +1942,7 @@ Mao: Still creepy!
 <USER>: That's seriously your idea of a midnight snack?
 Mao: What do you care how much I eat?
 <USER>: You'll get fat.
-Mao: Wow, you really are rude. C'mon, we're going, perverー I mean, Senpai.
+Mao: Wow, you really are rude. C'mon, we're going, perver—I mean, Senpai.
 <USER>: Wow, you really do think of me as a pervert, huh?
 Mao: You're only figuring this out now?
 *Damn right I am. I chuckle to myself.*
@@ -2117,7 +2117,7 @@ Mao: I forgot about the TV!
 <USER>: I think I recognize this. It's some Hollywood action movie, right? All explosions and stuff.
 Mao: Yes, it's one of my favorites!
 <USER>: Ooh, I approve.
-Mao: Oh, pervー I mean, Senpai, do you watch many movies?
+Mao: Oh, perv—I mean, Senpai, do you watch many movies?
 <USER>: Yeah. And you can just call me pervert, it's cool.
 *In the movie, a pair of bald macho men are diving off a skyscraper as they shoot down attack helicopters with rocket launchers.*
 Mao: Aww, I missed the whole first half hour.
@@ -2206,7 +2206,7 @@ Mao: ...
 *My dad wouldn't shut up about that when we chose this as the next step in my life.*
 *Apparently, backwater Shirai City was perfect for a huge school like this, thanks to its dirt-cheap land prices.*
 *Over time, people trickled in, bringing fresh blood to the growing town until it blossomed into a hip, vibrant city.*
-???: Do you think they have classrooms in that weird dome part? I wonder how much all this costー
+???: Do you think they have classrooms in that weird dome part? I wonder how much all this cost—
 ???: Whoa, watch it!
 *Our small truck just barely swerves around a terrified man in the road.*
 <USER>: Are you trying to kill someone?!
@@ -2221,7 +2221,7 @@ Mao: ...
 <USER>: Yeah, no. No accidents today, please.
 *This buffoon is Akira Ijuuin. We've been buds since middle school.*
 *I wouldn't call us best friends or anything, but the fickle hand of fate has kept us together all the way up to attending this vocational school.*
-*We're not super closeーwe only hang out once in a whileーbut he still offered to help me move in.*
+*We're not super close—we only hang out once in a while—but he still offered to help me move in.*
 *In a nutshell, he's a good guy.*
 Akira: So, what's your dorm like?
 *He turns to look at me, and I point forward, directing his eyes back to the road.*
@@ -2267,7 +2267,7 @@ Akira: Hahaha! It'll be okay!
 <USER>: Lots of nature around, and the cleanest air money can buy.
 Akira: Working really hard to be optimistic there, aren't you?
 <USER>: Leave me alone!
-*Always be positiveーthat's my motto.*
+*Always be positive—that's my motto.*
 Akira: C'mon, let's unload your stuff.
 <USER>: Sure.
 <USER>: Thanks for all your help.
@@ -2410,7 +2410,7 @@ Kaoru: Tsubaki like the camellia flower, and Kaoru like its sweet fragrance. I'm
 *...*
 Kaoru: You mean your _cousin_. Ha ha ha...
 *Oh, man. I've done it now.*
-Kaoru: But you can treat me like a friend _your own age_. No need for a Missー'Kaoru' will do fine!
+Kaoru: But you can treat me like a friend _your own age_. No need for a Miss—'Kaoru' will do fine!
 <USER>: R-Right, of course! Nice to meet you, Kaoru!
 Kaoru: What a good boy. Next time you call me your aunt, I'm kicking you out.
 **
@@ -2760,7 +2760,7 @@ Ichika: Oh?
 Ichika: Oh, nothing. The view from here is just so pretty.
 <USER>: Wow! It really is!
 Ichika: What about you?
-<USER>: Same as youーjust wanted to check out the view.
+<USER>: Same as you—just wanted to check out the view.
 <USER>: When I heard this place had an open roof, I had to see it.
 Ichika: I see.
 *Gazing out at the gentle city lights off in the distance, I lean on the railing and take a deep breath.*
@@ -2988,7 +2988,7 @@ Ichika: It's a great place to snuggle up with a good book.
 *And also...*
 *_True Stories! The Forbidden Trysts of Man and Woman!_*
 <USER>: What's this? Is it porn?!
-Ichika: Aaaah! N-No, it's not! That's justー
+Ichika: Aaaah! N-No, it's not! That's just—
 <USER>: No, don't be ridiculous. This is totally porn!
 <USER>: Episode 1: An Unmarried Office Lady's First Step Toward Love.
 <USER>: What is this, a book of testimonials?! These stories are seriously vivid!
@@ -3543,8 +3543,8 @@ Stray Dog: Pant, pant, pant! Shluuuurp!
 Hare: I-I don't understand! Why do you keep following me?!
 <USER>: What's wrong, Hare? You're a hit.
 Hare: Oh! You're just in time!
-Hare: I seriously can't do this! Don't just stand thereーhelp!
-<USER>: What's the problem? It's clearly friendlyーnot like it's gonna hurt you if it catches up to you.
+Hare: I seriously can't do this! Don't just stand there—help!
+<USER>: What's the problem? It's clearly friendly—not like it's gonna hurt you if it catches up to you.
 Hare: No, no, no! That dog keeps getting next to me and pooping!
 *Good God, this dog has shat all over the place.*
 <USER>: All right. I'll perform a genital inspection.
@@ -4045,7 +4045,7 @@ Hare: Ew, really? Guess this kinda stuff happens when you're out in the boonies.
 *When the sound of their footsteps fades, Ichika and I both deflate.*
 <USER>: Phew. We made it without them finding out.
 Ichika: ...
-<USER>: Great, so I'm just gonnaー
+<USER>: Great, so I'm just gonna—
 *Ichika grabs my shirt.*
 Ichika: How long were you watching?
 <USER>: ...
@@ -4131,7 +4131,7 @@ Ichika: I can't tell you that, dummy!
 Ichika: Uuugh. I never wanted for anyone but my true love to see me all messed up like this.
 <USER>: Hahaha.
 <USER>: (Bold thing to say for someone who was more-or-less screaming while she finger-fucked herself in the middle of the day!)
-<USER>: Funny how people call me a pervert, when you're plentyー
+<USER>: Funny how people call me a pervert, when you're plenty—
 Ichika: Noooo! Don't say iiit!
 *Ichika puts her hand over her ears and shouts.*
 Ichika: You seriously promise not to tell a soul?
@@ -4185,7 +4185,7 @@ Kaname: Hmm.
 Kaname: Oh, yes, Ichika. I suggest you wear more clothes than last time. You just know he'd love to see your underwear again.
 Ichika: Uh, totally! I'll be careful.
 Kaname: ...
-<USER>: Man, underwear is nothing to me now. You would not believe the things Iー
+<USER>: Man, underwear is nothing to me now. You would not believe the things I—
 Ichika: Waaaaargh!
 Ichika: We really need to hurry up and get cleaning, okay? Bye-bye, Kaname!
 Kaname: ...Sure. Bye.
@@ -4469,7 +4469,7 @@ Kaname: While we're at it, should I teach you the rest? Put your thumb here, and
 <USER>: Like this?
 *Kaname's slender fingers alight on my hand, guiding me.*
 Kaname: Here. Try to relax a little more. There you go. Good boy.
-<USER>: Ah, heyー
+<USER>: Ah, hey—
 Kaname: Hm?
 <USER>: Uh... Never mind. It's nothing.
 Kaname: ...
