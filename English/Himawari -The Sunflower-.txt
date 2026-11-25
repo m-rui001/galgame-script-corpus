@@ -208,7 +208,7 @@ Aries: "...It is staring right at us."
 *Aiiiiiiieee...!*
 Aqua: "...This is no room for a lady."
 Youichi: "This isn't a room for ANYONE."
-Aqua: "I'd have to agree. Come stay at my room, then. Its beds are spacy and there's plenty of room for all."
+Aqua: "I'd have to agree. Come stay at my room, then. Its beds are spacious and there's plenty of room for all."
 *Invited into Aqua's bed, huh... Sounded tempting, if I did say so myself.*
 *She was right, though. I didn't have to take this kind of abuse.*
 *Ah, a new world awaited me. A world of soft beds and the sweet scent of young ladies...*
@@ -479,7 +479,7 @@ Ginga: "Quickly now! Take this!"
 *The hook at the end of the rope latched tightly onto the window frame. Wow, he wasn't messing around.*
 Ginga: "Hahaha! The goddess of victory smiles upon me today!"
 *I could see the rope tense up. Prez stepped onto it and began his ascent.*
-Ginga: "I believe we have to to part now, Johnny! It has been an honor! I look forward to our next bout!"
+Ginga: "I believe we have to part now, Johnny! It has been an honor! I look forward to our next bout!"
 *He continued walking the rope, making steady progress with the sheer elegance of a circus performer.*
 *He was unbelievable...*
 *I could see him approaching, now roughly three meters away from the window frame.*
@@ -506,7 +506,7 @@ Johnny: "Over my dead body! I will not allow you to taint Milady's private chamb
 Ginga: "Could you maybe hurry it up a little bit, Hinata? Johnny's begun climbing up as well!"
 Youichi: "I'm... I'm trying my best, but pulling two people's weight is kinda..."
 *I began steadily pulling the rope upwards, Johnny's curse words ringing louder and louder in my ears with every pull.*
-*Prez himself was still franticly climbing up the rope.*
+*Prez himself was still frantically climbing up the rope.*
 *A competition of sheer strength was unfolding before my eyes.*
 *Johnny was gaining on him at an alarming rate!*
 *Weak as I may be, I was trying my best to pull him up as fast as I could.*
@@ -575,12 +575,12 @@ Ginga: "By the heavens. What kind of a man would put such burden on a young lady
 Youichi: "Yeah, I get what you mean, but..."
 Ginga: "Nonetheless, this is indeed a joyous occasion!"
 Youichi: "Joyous? What's so joyous about this?"
-Ginga: "I see, so you're three months... I take the act took place sometime around Christmas, then?"
+Ginga: "I see, so you're three months... I take it the act took place sometime around Christmas, then?"
 Youichi: "Wh-What act?!"
 Ginga: "Have you started planning the ceremony?"
 Youichi: "...Um, I believe there has been a bit of a misunderstanding."
 Ginga: "Hm? Are we not talking about Ms. Asuka being in her third month of pregnancy? It would explain the slight swelling of her belly--"
-Asuka: "Oh, I'll give you something swollen in just a minute..!!"
+Asuka: "Oh, I'll give you something swollen in just a minute...!!"
 *Well fought, Asuka. A splendid left hook.*
 Asuka: "I-I'm not getting married to Youichi! Get it in your thick skull, okay?"
 Ginga: "Ah, but everyone's like that while they're still young. Once a baby's on its way, though, appearances need to be kept, and you can't act like irresponsible children forever."
@@ -669,7 +669,7 @@ Ginga: "I did not wish for her to go through the same thing I did."
 *I could not even begin to imagine how that would feel.*
 *I felt like I could understand why one would pretend to be a different person for someone else's sake.*
 Ginga: "Ultimately, however, it was all but an act."
-Ginga: "Founding the Space Club, buildings rockets, getting all of you involved... In the end, I'm a man who couldn't even reach the clouds up in the sky, let alone space."
+Ginga: "Founding the Space Club, building rockets, getting all of you involved... In the end, I'm a man who couldn't even reach the clouds up in the sky, let alone space."
 Ginga: "Just this morning, my mother asked me if I had already decided upon which club to join."
 Ginga: "That was a question for two summers ago, when I first enrolled at our school and was still looking for a club to join."
 Ginga: "At the time, I was considering joining the Astronomy Club. In fact, I had gone out of my way to enter a school that would have such a club."
@@ -732,7 +732,7 @@ Youichi: "But..."
 Youichi: "Working on our rockets definitely had its ups and downs."
 Youichi: "But I realized that there were plenty of things I needed to confront here on the surface. You taught me that."
 *I couldn't achieve anything just by gazing up at the stars.*
-*I couldn't bring myself to live in a word that felt so alien to me.*
+*I couldn't bring myself to live in a world that felt so alien to me.*
 *But now... I was different.*
 Youichi: "I'm glad I ended up joining the Space Club instead of the Astronomy Club. I really do."
 *The world felt cramped and filled with the unknown -- and I was its prisoner.*
@@ -929,7 +929,7 @@ Youichi: "MEAAAAAAAAT--"
 *nom*
 Aries: "Hyaaaaaaaaaaaa...!!"
 *chomp chomp chomp*
-Youichi: "Mm, delishious meat--"
+Youichi: "Mm, delicious meat--"
 Aries: "Help, I am being devoured! My head is being devoured!"
 Aqua: "Care to explain exactly what you two are doing here?"
 *H-Huh? The excessive hunger has made me lose control...*
@@ -1020,7 +1020,7 @@ Youichi: "Pardon me, but is there any food here that I could maybe take...?"
 *The cook stopped his hand.*
 *An ominous silence fell upon the kitchen.*
 *He turned around, knife in hand.*
-Johnny: "Why, why, if it isn't Master Youichi in the flesh."
+Johnny: "Well, well, if it isn't Master Youichi in the flesh."
 *J-Johnnyyyyyyyy...?!*
 Johnny: "Did the meal I brought you earlier turn out to be unsatisfactory, by any chance?"
 *flash*
@@ -1084,7 +1084,7 @@ Johnny: "And this is exactly why I was begging you to stop..."
 Youichi: "I feel bad about this, I really do. I know we shouldn't waste food."
 Johnny: "I am glad that you have come to understand."
 *scoop*
-*Ugh...what was with this feeling of emptiness?*
+*Ugh... what was with this feeling of emptiness?*
 Youichi: "By the way, I was just curious -- do you always eat meals like this?"
 Johnny: "Excess is the bane of man."
 Youichi: "You're a butler at the Saionji household, though. You must be paid well."
@@ -1463,7 +1463,7 @@ Asuka: "So, um, anyway... new bedsheets, right? Just leave them over there, plea
 Youichi: "Actually, I was told to change them myself."
 Asuka: "Ah, okay. Go right ahead!"
 *She nervously got off her bed.*
-*I went to recover the old bedsheets. As Asuka was lying on here until just a moment ago, they still had a slight warmth to them...*
+*I went to recover the old bedsheets. As Asuka had been lying on them until just a moment ago, they still had a slight warmth to them...*
 Youichi: "..."
 *It felt kinda weird making a girl's bed and all.*
 *Nevermind that, though. I had a job to do!*
@@ -1939,7 +1939,7 @@ Youichi: "Understood, boss!"
 Akira: "Why are you calling me that?"
 Youichi: "Huh? Are you not the head of the Saionji Group?"
 Akira: "No one within the company calls me that."
-Akira: "The Saionji Group is made of up several subsidiaries, each with their own heads."
+Akira: "The Saionji Group is made up of several subsidiaries, each with their own heads."
 Akira: "My role is to unify all those subsidiaries. Calling me "the boss" would only lead to confusion, would it not?"
 Youichi: "I... I see..."
 ====================AK_03_L_S01Z.json====================
@@ -2019,7 +2019,7 @@ Youichi: "......"
 *The very ground I was walking on right now belonged to the Saionji family.*
 *The private estate of the family, expanding in every direction my eyes could see.*
 *Almost like their very own, private world.*
-*I looked up the sky and took in its vast canvas, still glittering with stars.*
+*I looked up at the sky and took in its vast canvas, still glittering with stars.*
 *That world up there in the darkness also belonged to the Saionji, didn't it?*
 Youichi: "The Space Development Division, huh..."
 *Prez declared that he wouldn't turn to their family for help.*
@@ -2029,7 +2029,7 @@ Youichi: "The Space Development Division, huh..."
 *Having all your needs catered to while constantly relying on the help of others wasn't a life I would want to live.*
 *Sure, from time to time, it was okay to accept the help offered.*
 *I'd read that if the distance between Earth and the Sun was increased or decreased by as little as 5%, this planet would become uninhabitable.*
-*Given a space to live in while being supported by the help of others is the way we, humans, lived. We were that weak.*
+*Living in a place while being supported by the help of others is how we humans lived. We were that weak.*
 *But the Saionji family simply had it too easy.*
 *Like a sunny spot you felt comfortable staying in while you lay on your bed.*
 *Once you fall asleep like that, you won't ever want to get back up.*
@@ -2058,7 +2058,7 @@ Youichi: "......"
 *I had always believed that I was somehow special.*
 *Hinata Youichi -- friends with Amamiya Ginga, the son of the famed astronaut, Amamiya Daigo.*
 *And the sole survivor of the SA-DAN080 airliner tragedy.*
-*I felt myself invincible.*
+*I felt invincible.*
 *I felt I could do anything.*
 *...But that was all in my head. A daydream.*
 Youichi: "..."
@@ -2124,7 +2124,7 @@ Youichi: "...Ah!"
 *Originally a war of proxy between the Ninomiya and Sanzenin families, the conflict had, with the passing of years, slowly but surely turned into mere entertainment.*
 *The event was held as a tournament, with each family entering a butler from their respective households.*
 *Naturally, each participant was allowed to use any weapon of their choice.*
-*In others words, the event was organized as an extravagant pastime for the wealthy.*
+*In other words, the event was organized as an extravagant pastime for the wealthy.*
 *And within that arena, countless brave butlers had breathed their last solely for the amusement of their wealthy masters.*
 *The strong survived while the weak were cast aside -- such was the ironclad rule of the butlers.*
 *And Johnny, as a representative of the Saionji family, was about to enter that very tournament--*
@@ -2193,7 +2193,7 @@ Johnny: "......"
 Johnny: "...My niece."
 *Just yesterday, Johnny told me how he became a butler for his sister's sake.*
 *He cared deeply for her.*
-*The niece she lost in the accident was probably his sister's daughter.*
+*The niece he lost in the accident was probably his sister's daughter.*
 Youichi: "I see..."
 *I survived that tragedy.*
 *But Johnny's niece, who must've meant a lot to him, ended up...*
@@ -2228,7 +2228,7 @@ Johnny: "Those who work get to eat. Those who don't... well, I do not believe I 
 Youichi: "N-No no no, I'll work! I totally will! Work is awesome! H-Hahaha..."
 *...*
 *......*
-*...Hahh....*
+*...Hahh...*
 *Man...*
 *These Saionji folk were really something else...*
 ====================AK_04.json====================
@@ -2378,7 +2378,7 @@ Asuka: "...Hngn..."
 *Ugh, at this rate, I was gonna remember that dream again.*
 Youichi: "G-Good morning..."
 *Shit, my voice trailed off.*
-Asuka: "Mornin'... what time it is now...?"
+Asuka: "Mornin'... what time is it now...?"
 Youichi: "8:15 in the morning."
 Asuka: "Gimme five more houuuurs...!"
 Youichi: "C'mon, get up. You can't sleep in like this."
@@ -2575,7 +2575,7 @@ Aqua: "What? That's it? My, aren't you a wet blanket."
 Youichi: "..."
 Aqua: "Hm, I was expecting you to say something, but it appears I overestimated you. Still a child, I see."
 *Wait... did she think I actually took her seriously?*
-Aqua: "But no, this tale isn't one to turn in your favor that easily."
+Aqua: "But no, this story isn't going to turn in your favor that easily."
 Aqua: "You'd have to show me a miracle or two if you truly wished to win my heart."
 Youichi: "I-It's not like I want to win your heart or anything..."
 Aqua: "Oh, but of course. It's only natural you wouldn't waste your time on someone as eccentric as me."
@@ -2914,7 +2914,7 @@ Aries: "I'm fine!"
 Aries: "Actually, I think I could get used to it!"
 *...Really.*
 Aqua: "More importantly, though... what in god's name is going on over there?"
-*She glanced toward the two men, still in the middle of their feverous discussion.*
+*She glanced toward the two men, still in the middle of their feverish discussion.*
 Youichi: "They seemed to have warmed up to each other fairly quick..."
 Aqua: "...I've never seen Akira so excited before."
 Youichi: "Same here; it's been a while since I've seen Prez get so absorbed in something."
@@ -3046,7 +3046,7 @@ Ginga: "In order to change the world, you must first change the nature of space 
 Akira: "We are currently in the process of absorbing the European Space Agency. We have already bought out the German Aerospace Center."
 Ginga: "So next up would be France, I take it?"
 Akira: "Correct. I'm expecting the entire process to conclude by 2055."
-Ginga: "And from there, it's only be a matter of time until NASA, too, gives in."
+Ginga: "And from there, it'll only be a matter of time until NASA, too, gives in."
 Akira: "The world will then stand unified under the banner of the Saionji Group. That is how we change this world -- that is our reform."
 Ginga: "Hahaha! A fascinating plan, if I ever heard one! I would very much like to live long enough to see your ideal be fulfilled."
 *.........*
@@ -3071,7 +3071,7 @@ Akira: "Why? As long as you can find a good way to synchronize the engines, you'
 Ginga: "That's hardly what I meant."
 Ginga: "Flying an enormous multistage rocket is nothing less than a dream to any true man."
 Akira: "Again with your old-fashioned nonsense..."
-Akira: "The era of rockets has ended years ago. Spaceplanes are the future."
+Akira: "The era of rockets ended years ago. Spaceplanes are the future."
 Ginga: "Then why, pray tell, do you think space shuttles were abandoned as early as 2010?"
 Ginga: "Why did NASA turn its attention back to rocket technology?"
 Ginga: "These spaceplanes of yours... they're high-altitude passenger airliners currently under development at the Saionji Group, am I correct?"
@@ -3091,7 +3091,7 @@ Ginga: "Hahaha! Very good! I like that fire in your eyes!"
 Ginga: "I have no doubt that the field of space development will eventually be unified under your company."
 Ginga: "A single voice to spearhead its new direction."
 Ginga: "Whether or not humanity will be able to conquer space rests on your shoulders."
-Ginga: "You would do well do give it your all."
+Ginga: "You would do well to give it your all."
 Akira: "Hmph. That has always been my intention."
 *The two of them then returned their respective gazes to the blueprint laid out below them...*
 *...and once again began discussing their plans regarding the Sunflower.*
@@ -3101,7 +3101,7 @@ Ginga: "Oh, but that was an entirely different issue, Hinata."
 Ginga: "I meant that I wouldn't rely on the help of the Saionji Group."
 Ginga: "But the man assisting me right now with the Sunflower project is not the Saionji Group at all. It's Saionji Akira."
 Akira: "Correct. My company and I as a person are two separate entities."
-Akira: "The man you see here now is but an businessman merely killing some time during his day off from work."
+Akira: "The man you see here now is but a businessman merely killing some time during his day off from work."
 Akira: "The fact you cannot differentiate between a man's private and professional life only proves that you're still a child."
 *The accident caused by the Saionji Group robbed me of my family.*
 *The very same accident that killed Prez's father.*
@@ -3259,7 +3259,7 @@ Johnny: "Ah, if it isn't Master Youichi."
 Youichi: "Whoa!"
 Johnny: "And what, may I ask, are you doing in front of Milady's room?"
 Youichi: "N-Nothing, I mean, um, this isn't..."
-*H-He scared the daylights out of me....*
+*H-He scared the daylights out of me...*
 Johnny: "In any event, we should make haste."
 Youichi: "Huh, why? Are we going somewhere?"
 Johnny: "Why, of course we are. To the park. Have you already forgotten what happened the other night?"
@@ -3377,7 +3377,7 @@ Youichi: "...S-Stop staring. You're embarrassing me."
 *...This town put me at ease.*
 *Almost like it was a personal playground built only for me.*
 *I could hardly even imagine moving away from here.*
-*And I had no way of knowing what kinda of a person I'd be in two years' time.*
+*And I had no way of knowing what kind of a person I'd be in two years' time.*
 Youichi: "..."
 *...And I had yet to talk to the most important person of all.*
 *Saionji Asuka.*
@@ -3587,7 +3587,7 @@ Asuka: "..."
 Asuka: "Kyah...!?"
 Youichi: "C'mon, look at you. You're shaking like a leaf."
 Asuka: "Ah, um, I'm just..."
-*Other than the piercing itself, her bag contained a tool used for puncturing a hole in ears.*
+*Besides the piercing itself, her bag contained a tool for punching a hole through an earlobe.*
 Youichi: "Why do you want this so much, anyway?"
 Asuka: "......"
 Asuka: "...Because it looks cute."
@@ -3850,13 +3850,13 @@ Akira: "It was a hereditary disease. As it turns out, the women in her family do
 Akira: "Her time, too, will soon come."
 Youichi: "Wh... What...?"
 Akira: "Actually, her mother lived longer than expected. The doctors told her she wouldn't make it past 20."
-Akira: "As for her daughter... She might live til 25, at best."
+Akira: "As for her daughter... She might live until 25, at best."
 Youichi: "......"
 *Only 25...?*
 *That meant she... she only had another ten years to live?*
 Youichi: "..."
 *...This couldn't be real.*
-*It had be something he just came up with to keep the two of us from being together.*
+*It had to be something he just came up with to keep the two of us from being together.*
 *I mean, wasn't it absurd? She's like the healthiest person I knew...*
 *And she'd never once talked about any of this before...*
 Akira: "She was born with a frail body and has been hospitalized several times over the years."
@@ -3898,7 +3898,7 @@ Youichi: "......"
 Youichi: "...And what about Asuka?"
 Akira: "A life with her would only lead you down a path of darkness. Once there, you won't ever be able to return."
 Youichi: "...Is there no hope for her?"
-Akira: "Someone used to the comfort of a well-lit street won't be able to understand.."
+Akira: "Someone used to the comfort of a well-lit street won't be able to understand..."
 Akira: "...the fear that a starless night may bring."
 *Out in the countryside, the air was always fresh. You could easily take a walk by starlight and still not lose your way in the dark, even without the Moon.*
 *Unlike the Moon, which shifted and showed a new face of itself every now and then, the stars remained the same, always illuminating Earth below.*
@@ -3932,7 +3932,7 @@ Akira: "But it's still not something you need to stress over."
 Akira: "Her feelings for you are nothing more than a momentary fancy."
 Akira: "Her interest in you will wane soon enough."
 Youichi: "......"
-*...He was basically telling me that all my worries were basically trivial and worthless.*
+*...He was basically telling me that all my worries were trivial and worthless.*
 *Having someone fall in love with you...*
 *And being crippled under the weight of that knowledge...*
 *Those were hardly things to really fret over.*
@@ -3983,7 +3983,7 @@ Youichi: "Thanks, but no. Not until I'm old enough for it."
 *I turned my back on him.*
 *He was right -- I had no time to waste here.*
 *I had a dream -- a foolish, grandiose dream.*
-Youichi: "Just you watch. I'd make it to the Moon."
+Youichi: "Just you watch. I'll make it to the Moon."
 *We were challenging space itself.*
 *Mankind's dream.*
 *However, it wasn't a dream meant for adults.*
@@ -4004,7 +4004,7 @@ Youichi: "I'll accept the fact that Asuka may have been born with a frail body."
 Youichi: "But you still lied about something."
 Akira: "...Explain yourself."
 Youichi: "I'm her classmate. We spend the entire day together..."
-Youichi: "...but I've never once seen her collapse on campust."
+Youichi: "...but I've never once seen her collapse on campus."
 Youichi: "If her condition was that bad, I'm sure I would've noticed."
 Akira: "......"
 Youichi: "You almost had me for a fool there."

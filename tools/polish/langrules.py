@@ -83,12 +83,24 @@ def check(src, out, lang="zh", spk=None):
     return True, ""
 
 
+QUOTE_ONLY = re.compile(r"[「」『』（）()]")
+
+
 def block_ok(src_block, out_block, lang="zh"):
     """Whole-section gate used by the free-merge path."""
     src = "\n".join(src_block)
     out = "\n".join(out_block)
     if not out.strip():
         return False, "empty"
+    if lang == "ja":
+        # A repair that adds only bracket marks is the whole point of the ja
+        # pass: Salthe arrives with 1,456 unmatched 「 because the exporter ate
+        # them. Accept it when the text is byte-identical once the brackets are
+        # lifted, demanding only that the bracket balance does not get worse.
+        if QUOTE_ONLY.sub("", src) == QUOTE_ONLY.sub("", out):
+            sb = abs(src.count("「") - src.count("」"))
+            ob = abs(out.count("「") - out.count("」"))
+            return (ob <= sb), ("brackets %d->%d" % (sb, ob) if ob > sb else "")
     if lang in ("zh", "en") and len(KANA.findall(out)) > len(KANA.findall(src)):
         return False, "kana"
     if lang == "en" and len(CJK.findall(out)) > len(CJK.findall(src)) + 2:
