@@ -1648,7 +1648,7 @@ Rinka: "Huff... huff..."
 *That alone is enough to make my heart ache.*
 *I... don't want to die.*
 *Not having access to my own cards is frustrating, too.*
-*There's one major reason behind my reluctance regarding all this, and it's the fact that I don't know what my own regret is.*
+*There's one major reason behind my reluctance regarding all this, and it's that I don't know what my own regret is.*
 *I still haven't sorted things out with Miharu, but it's entirely possible that we could both be eliminated while preoccupied with that.*
 *As afraid as I am of both the woman from last night and the guy from the first round, not to mention everyone else, I'm not about to go down without a fight.*
 Rinka: "My first and foremost priority..."
@@ -1775,15 +1775,15 @@ Rinka: "Huh? Why?"
 *After a number of false starts, she simply tells me, "Never mind!"*
 *It's worth noting that she actually seems a bit aggravated — a rarity for her.*
 *Unbeknownst to both Rinka and Naomi, there is a girl secretly watching them from the school gate.*
-*It' was Mishima Miharu, known at Amecha High for her looks and admission via scholarship.*
-*To many, she is the embodiment of perfection. However, this perception has made her somewhat difficult to approach for them.*
+*It was Mishima Miharu, known at Amecha High for her looks and admission via scholarship.*
+*To many, she is the embodiment of perfection. However, this perception has made her somewhat difficult for them to approach.*
 *Especially now, as tears stream down her cheeks for all to see.*
-*A scenario likely to become the locus of many rumors, if it involves anyone other than Miharu. In fact, it is such an unusual sight that no one will dare mention it at all.*
+*A scenario like this would likely become the subject of many rumors if it involved anyone other than Miharu. In fact, it's such an unusual sight that no one will dare mention it at all.*
 Mao: "Yo, Miharun. Didn't think you'd still be here."
 *Amongst the crowd of students pretending they haven't seen anything, Oguma Mao is the only one to address her.*
 *Her attitude remains consistent, even in the presence of her friend crying without uttering a word.*
 *Miharu's focus never shifts, despite Mao's presence.*
-*As such, Mao follows her line of sight, only to give a sage nod after seeing the two figures it lead to.*
+*As such, Mao follows her line of sight, only to give a sage nod after seeing the two figures it led to.*
 Mao: "So that's what it is."
 Miharu: "Hey, Mao?"
 Mao: "Hmm?"
@@ -1828,7 +1828,7 @@ Naomi: "Wow. You actually thought I wouldn't have known?"
 *Leaving the cookies somewhere visible, I start the brewing process.*
 Rinka: "Yup. You've got this down pretty well now. You should be able to teach the others, no problem."
 Naomi: "No way... I'd much rather practice some more. This may be a method for beginners, but... we know how clumsy I can be."
-*She can act as humble as she wants, but it's a fact that she's improving. I'm rather impressed by how well she manages it when she's properly focused.*
+*She can act as humble as she wants, but she's improving. I'm rather impressed by how well she manages it when she's properly focused.*
 *I wouldn't be surprised if she shot right ahead of me, if it were my gran teaching her.*
 Rinka: "This feels like a good time for a break. I've been looking forward to those cookies of yours."
 *We have no customers right now, so it's the perfect moment to take a break. Can't say for sure if that's a good or bad thing, though.*
@@ -1864,7 +1864,7 @@ Rinka: "Sorry, forget I asked."
 *There's definitely a part of me that figures I could lift some of the weight off my shoulders if I told someone about all of this.*
 Naomi: "Why?"
 *Her overjoyed expression quickly clouds over as she draws her face close to mine.*
-*I must look like I am mulling something over, so I rush to find a way to respond.*
+*I must look like I'm mulling something over, so I rush to find a way to respond.*
 Rinka: "...I can't keep taking up your time like this. Things can't continue this way forev—"
 Naomi: "That's not what you're really thinking, is it?"
 Rinka: "Huh...?"
@@ -1911,7 +1911,7 @@ Naomi: "There's still so much more I want to do together with you, Rinka... I wa
 *What she's dreaming about actually took place. It's just been "undone" for the time being.*
 *It makes me wonder... When Parca said our deaths had been undone, did she mean that the world's memories of the events themselves had been rewritten?*
 *I can't wrap my mind around how such a thing could even be possible.*
-*However, the fact of the matter is that Naomi's memory of my death is so deeply ingrained in her being that she's reliving it over and over in her dreams.*
+*However, Naomi's memory of my death is so deeply ingrained in her being that she's reliving it over and over in her dreams.*
 Naomi: "Please, answer me..."
 Rinka: "Sorry..."
 Naomi: "Oh, no... I didn't want you to apologize... but, well... I do want an answer to my question."
@@ -1928,7 +1928,7 @@ Naomi: "If there's anything on your mind, then please talk to me about it... The
 *And yet, telling her won't change the fact that I'm a participant.*
 *What's worse, I may even get her caught up in something dangerous if she decides she wants to try and help me out.*
 *I can't say for sure how dangerous this whole situation is, but at the very least, I want to make sure she never comes in contact with those people from the dream world.*
-*Most of all, I'd have to reveal the fact that Miharu's also a participant, and that only one of us will make it through the whole thing alive.*
+*Most of all, I'd have to reveal that Miharu's also a participant, and that only one of us will make it through the whole thing alive.*
 *Keeping her in the dark would mean I don't burden her with my situation.*
 Rinka: "Actually, there's something I need to tell you, too."
 Naomi: "Huh...?"
@@ -2068,7 +2068,7 @@ Rinka: "I can't die from anything other than elimination during Divine Selection
 Rinka: "Promise me that you won't do anything that'll put you at risk."
 *Unable to get the words out, she bites her lower lip and nods her head.*
 Rinka: "That being said, allow me to formally ask you. Naomi, will you please help me get through Divine Selection?"
-Naomi: "Th-There's no need for you to be so formal..."
+Naomi: "There's no need for you to be so formal..."
 *I extend my right hand to her, which she takes.*
 *Her nervousness melts away with the beaming smile she gives me afterwards.*
 *Her tear-stained cheeks serve as a nice contrast to that.*
@@ -2564,7 +2564,7 @@ Keiko: "Wait... Please, don't go..."
 Keiko: "I... I want to live... I need to make it through this!"
 Keiko: "I even tried lying to a kid, and yet... at this rate, I'll..."
 Rinka: "Our ages are irrelevant!"
-*She finally irritates me enough to prompt me to shout at her.*
+*She finally irritates me enough that I shout at her.*
 *At the same time, I feel my eyes starting to burn for some reason.*
 Rinka: "This... is good-bye..."
 *I stop not too far from where we were sitting.*
@@ -2585,7 +2585,7 @@ Alan: "I recognize you..."
 *Tall, dark-skinned, and positively ripped. You can almost see his muscles trying to break out of his clothes.*
 *He's one of the few people you could describe as being "built like a tank" with no exaggeration.*
 *But even more terrifying than his build are those stone-cold eyes.*
-*I've seen him twice before in the dream world, but seeing him here in the real world drills home just how irregular a man like this is.*
+*I've seen him twice before in the dream world, but seeing him here in the real world drives home just how irregular a man like this is.*
 *Numeral XII. The man responsible for Divine Selection's first elimination, and the man in possession of Numeral VIII's name card.*
 Alan: "You'll be my target later down the line, but for now, I have no business with you."
 *He passes right by me, heading in the direction from which I came.*
@@ -2618,7 +2618,7 @@ Keiko: "Did you change your mind?"
 *She asks with obvious doubt in her voice.*
 *I can't give her an immediate reply.*
 *That man's definitely aiming for her, so I find it hard to believe that I beat him here.*
-*And he's got his book on him as well, considering he was able to speak to me. I doubt he could read the signs here without it.*
+*And he's got his book on him as well, considering he could speak to me. I doubt he could read the signs here without it.*
 *In that case, how did I get here without even passing by him?*
 *Wait, don't tell me...!*
 Keiko: "Wait a minute, what're you doing?"
@@ -2630,7 +2630,7 @@ Keiko: "He is...?"
 Keiko: "Don't tell me he plans on taking my baby hostage...!"
 *Finding out that she's given birth recently isn't a particularly difficult task.*
 *And it goes without saying that a three-week-old baby has no means to defend itself.*
-*They may not be letting strangers in to see the newborns, but he's the type of man who seems able to get around an issue like that with ease.*
+*They may not be letting strangers in to see the newborns, but he's the type of man who seems to get around an issue like that with ease.*
 *I don't know him personally, but I do know the fear inspired by those eyes.*
 Keiko: "Please... Don't..."
 *She keeps mumbling as I lead her to the nursery.*
@@ -2660,8 +2660,8 @@ Keiko: "Hey! What're you doing?!"
 *A voice roars out as I reach the nursery.*
 *The babies all start to cry, likely because her shouting has woken them up.*
 *A number of nurses lie unconscious here, as well.*
-*The fact that the babies only now woke up means he'd somehow made it this far by being swift and silent.*
-*The mere fact that he is capable of such a thing is utterly insane.*
+*That the babies only now woke up means he'd somehow made it this far by being swift and silent.*
+*That he is capable of such a thing is utterly insane.*
 Alan: "...Silence."
 *He directs a quiet but threatening order toward the babies.*
 *As if that'd work on them, though.*
@@ -2677,7 +2677,7 @@ Rinka: "Huh...?"
 Alan: "Figures. You heard me earlier. I have no business with you at the moment."
 Alan: "I'm aware of how notable this country's security measures are, so I'd prefer to wrap this up quick."
 *His tone is low, but steady.*
-*The fact that he can maintain such poise in a situation like this is unsettling.*
+*That he can maintain such poise in a situation like this is unsettling.*
 Keiko: "Why did you come here?"
 Alan: "I know your name, so learning your location and why you're here was a minor task."
 Alan: "Let's forget about the how. You're aware of what I mean when I say I want to do this quick, aren't you?"
@@ -2699,7 +2699,7 @@ Rinka: "Y-You're wasting your time..."
 *This is it. I need to muster up all my courage and knowledge so I can try to negotiate with him. Anything to get through this situation...*
 Rinka: "Security should be here any minute now... Even you won't be able to escape so easily then. And once you're caught, you won't be able to do anything for the remainder of Divine Selection."
 Alan: "Let them come. I'll simply escape with her child."
-Alan: "Dealing with a few people on the way is easy enough. It may complicate things afterwards, but it doesn't change the fact that I will come to possess Keiko Kamebuchi's information."
+Alan: "Dealing with a few people on the way is easy enough. It may complicate things afterwards, but I will still come to possess Keiko Kamebuchi's information."
 *He answers right away and continues his threat.*
 Alan: "You have thirty seconds. I'll kill the child in the bed next to yours if you haven't answered by then, followed by another child thirty seconds after that. If you still haven't answered, then yours will be the next."
 Rinka: "They have nothing to do with this!"
@@ -2745,7 +2745,7 @@ Keiko: "That's why I sincerely felt that the name she proposed instead was lazy.
 *She cuts herself off for a brief moment.*
 *His expression doesn't change in the slightest. His gaze is clearly telling her to get on with it. Guess he doesn't have enough information to believe her just yet.*
 Keiko: "My husband was in favor of the name she'd come up with."
-Keiko: "I talked things over with him, though... after Haruki was born. The fact that I was riding the line between life and death while giving birth probably prompted me to do so. Well, I guess all mothers would do the same thing either way."
+Keiko: "I talked things over with him, though... after Haruki was born. Riding the line between life and death while giving birth probably prompted me to do so. Well, I guess all mothers would do the same thing either way."
 Keiko: "In the end, he was willing to listen and eventually agreed with me after hearing why I wanted to name my child Haruki."
 Keiko: "Following that, I filled out the birth certificate with the name I'd decided on. Your name almost represents your life itself, doesn't it? That's why I hold the name of my first child in as high regard as my own future."
 *Her delivery is more than enough to convince me that she means it.*
@@ -2760,7 +2760,7 @@ Alan: "My only concern is obtaining the cards I need. All I feel after hearing h
 Alan: "Saying I feel nothing may not be the whole truth, but remember this..."
 Alan: "No matter what you say or think about me, each and every one of us caught up in this little game must stamp down the lives of others for our own survival."
 Alan: "That said, I like the determination in your eyes. They tell a story that mere words cannot express."
-Alan: "A certain contradiction resides within you. You're likely aware of it, too."
+Alan: "A contradiction resides within you. You're likely aware of it, too."
 Rinka: "What are you talking about...?"
 *The sound of footsteps rings out from the hallway the moment I ask.*
 *While not quite as prominent, I can also hear voices.*
@@ -2769,7 +2769,7 @@ Rinka: "Wait!"
 Alan: "No."
 *As he declines, he smashes a nearby switch.*
 *Then the lights turn off, blanketing the area in pure darkness because the hall lights are also out of commission.*
-*I rush to get the lights back on as quick as possible.*
+*I rush to get the lights back on as quickly as possible.*
 *He is long gone by the time I manage to do so.*
 Naomi: "Rinka... Are you okay...?"
 Rinka: "Naomi!"
@@ -2788,7 +2788,7 @@ Rinka: "Let's go, Naomi."
 *She answers with a quick nod.*
 *Security makes their way into the nursery soon after, but we make sure to leave the hospital right away.*
 *After getting out, we head back to Lion House.*
-*The only thing we speak about on our return journey is about what happened in the nursery. Otherwise, we walk along in silence.*
+*The only thing we speak about on our return journey is what happened in the nursery. Otherwise, we walk along in silence.*
 *Unsurprisingly, I've obtained the same cards as Numeral XII, though I no longer have any desire to eliminate her.*
 *There's... something I want to say to Naomi.*
 Rinka: "I'll take you to the station. It's a bit dangerous for you to go it alone with broken glasses."
@@ -2813,7 +2813,7 @@ Naomi: "...I understand."
 Naomi: "I made those bold claims about saving you, about protecting you... but all I managed to do was get in your way..."
 Rinka: "That's not true at all. If you weren't there for me, then I don't know what I would've done! But still, I... I just don't want to put you in danger..."
 Naomi: "It's okay. I see where you're coming from. I'm the one who broke my word to keep myself from danger."
-Rinka: "I'm sorry, and thank you. I'll be able to make it through this just knowing you're here for me. I can handle things on my own now."
+Rinka: "I'm sorry, and thank you. I can make it through this just knowing you're here for me. I can handle things on my own now."
 *I try to guide her to the station after our talk.*
 Naomi: "...Don't worry, I'll be fine. I can make it home by myself."
 *She makes her way to the station without me.*
@@ -2825,7 +2825,7 @@ Naomi: "...Don't worry, I'll be fine. I can make it home by myself."
 *I didn't have any dreams last night. Well, I don't think I did, anyway.*
 *There's no doubt they would've been nightmares, if I had any. Maybe that's why I don't remember...*
 Rinka: "Might as well get the store ready."
-*Fortunately, I'm able to get the store up and running like normal. Probably because work should keep my mind off everything else.*
+*Fortunately, I can get the store up and running like normal. Probably because work should keep my mind off everything else.*
 *Before long, it's after noon.*
 *The number of customers drops significantly around this time thanks to the current lack of a proper food menu.*
 Rinka: "Welco— Oh."
@@ -2839,7 +2839,7 @@ Keiko: "Hey, mind if we have a little chat?"
 Keiko: "The truth is, I couldn't help but think how lovely your name was the moment I saw it on the card."
 Rinka: "That came out of nowhere."
 Keiko: "I've been meaning to tell you since we first met... I felt that your name didn't suit you once I saw you in the dream world — just a scared little child."
-Keiko: "I was disappointed, in all honesty. Your name evokes a certain dignified image, and yet you are quite the opposite."
+Keiko: "I was disappointed, in all honesty. Your name evokes a dignified image, and yet you are quite the opposite."
 *That's kind of annoying to hear, but I can't really argue with it.*
 *I really must've looked helpless in the dream world.*
 Keiko: "Anyway, you're completely different in person. The look in your eyes here is far more dignified than that of any other participant. Your words are filled with passion."
