@@ -35,7 +35,10 @@ MODELS = os.path.expanduser(os.path.join("~", ".pi", "agent", "models.json"))
 # Ordered by how well they hold a long editorial brief. The flash models are
 # fastest and drift toward paraphrase or outright translation, so they come last;
 # the gate catches "kana lost" when one of them translates instead of editing.
-PREF = ["cssm-gpt", "muse", "yanhuo888", "xcmapiorg", "grok-free", "ds-free"]
+# Reachability changes hour to hour, so this order is only a starting point;
+# --probe drops whatever does not answer before the batch starts.
+PREF = ["yanhuo888", "ds-free", "hcnsec", "muse", "apipaths", "xcmapiorg",
+        "cssm-gpt", "unorouter", "grok-free", "bailian", "cssm-ds", "cssm-gpt"]
 
 BRIEF = ("以下是一段 {n} 行的文本切片。按系统提示的要求输出改写后的全文，"
          "不要解释，不要加代码块标记，不要省略任何行：\n\n{body}")
@@ -124,6 +127,19 @@ def masked_chat(prov, system, lines, keep, tag):
     return [originals.get(i, got[i]) for i in range(len(lines))], secs
 
 
+def probe(provs, timeout=40):
+    """Keep the providers that actually answer right now."""
+    alive = []
+    for p in provs:
+        t0 = time.time()
+        try:
+            chat(p, "只回一个字：好", "ping", timeout=timeout)
+            alive.append(p)
+        except Exception:
+            continue
+    return alive
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--workdir", required=True)
@@ -133,6 +149,8 @@ def main():
     ap.add_argument("--retries", type=int, default=3)
     ap.add_argument("--only", default="")
     ap.add_argument("--dry", action="store_true")
+    ap.add_argument("--probe", action="store_true",
+                    help="drop providers that fail a one-word ping first")
     ap.add_argument("--two-pass", action="store_true",
                     help="bilingual: polish JA and ZH in two masked passes")
     a = ap.parse_args()
@@ -145,6 +163,11 @@ def main():
     outdir = os.path.join(work, "out")
     os.makedirs(outdir, exist_ok=True)
     provs = providers()
+    if a.probe:
+        before = len(provs)
+        provs = probe(provs)
+        print("probe: %d of %d providers alive: %s"
+              % (len(provs), before, ",".join(x["name"] for x in provs)), flush=True)
     only = {x.strip() for x in a.only.split(",") if x.strip()}
 
     todo = []
