@@ -24,6 +24,7 @@ import json
 import time
 import argparse
 import threading
+import os
 import urllib.request
 from concurrent.futures import ThreadPoolExecutor
 
@@ -32,12 +33,20 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from langrules import lang_of, block_ok, KANA  # noqa: E402
 
 MODELS = os.path.expanduser(os.path.join("~", ".pi", "agent", "models.json"))
+# Hugging Face's OpenAI-compatible router. The token is read from outside the
+# repo: D:/mxrlib/.hf_token (or HF_TOKEN). It needs inference credits or PRO -
+# without them every model answers 402 - but when they exist this is by far the
+# steadiest endpoint available, so it is wired in ahead of time.
+HF_TOKEN_FILE = os.path.join(ROOT, "..", ".hf_token")
+HF_MODELS = ["deepseek-ai/DeepSeek-V4.1-Flash", "zai-org/GLM-5.3",
+             "Qwen/Qwen3.8-27B", "moonshotai/Kimi-K3"]
+PROXY = os.environ.get("HF_PROXY", "http://127.0.0.1:7897")
 # Ordered by how well they hold a long editorial brief. The flash models are
 # fastest and drift toward paraphrase or outright translation, so they come last;
 # the gate catches "kana lost" when one of them translates instead of editing.
 # Reachability changes hour to hour, so this order is only a starting point;
 # --probe drops whatever does not answer before the batch starts.
-PREF = ["yanhuo888", "ds-free", "hcnsec", "muse", "apipaths", "xcmapiorg",
+PREF = ["deepseek-ai/DeepSeek-V4.1-Flash", "yanhuo888", "ds-free", "hcnsec", "muse", "apipaths", "xcmapiorg",
         "cssm-gpt", "unorouter", "grok-free", "bailian", "cssm-ds", "cssm-gpt"]
 
 BRIEF = ("以下是一段 {n} 行的文本切片。按系统提示的要求输出改写后的全文，"
@@ -56,7 +65,22 @@ def kind(line):
     return "mt"
 
 
+def hf_providers():
+    tok = os.environ.get("HF_TOKEN", "")
+    if not tok and os.path.exists(HF_TOKEN_FILE):
+        tok = open(HF_TOKEN_FILE, encoding="utf-8").read().strip()
+    if not tok:
+        return []
+    out = []
+    for m in HF_MODELS:
+        out.append({"name": "hf:" + m.split("/")[-1],
+                    "url": "https://router.huggingface.co/v1/chat/completions",
+                    "key": tok, "model": m, "proxy": PROXY})
+    return out
+
+
 def providers():
+    hf = hf_providers()
     cfg = json.load(open(MODELS, encoding="utf-8"))["providers"]
     out = []
     for name in PREF + [n for n in cfg if n not in PREF]:
@@ -67,7 +91,7 @@ def providers():
                     "url": v["baseUrl"].rstrip("/") + "/chat/completions",
                     "key": v["apiKey"],
                     "model": v["models"][0]["id"]})
-    return out
+    return hf + out
 
 
 def chat(prov, system, user, timeout=600):
@@ -82,6 +106,12 @@ def chat(prov, system, user, timeout=600):
         "Content-Type": "application/json",
         "Authorization": "Bearer " + prov["key"],
     })
+    if prov.get("proxy"):
+        opener = urllib.request.build_opener(
+            urllib.request.ProxyHandler({"http": prov["proxy"], "https": prov["proxy"]}))
+        r = opener.open(req, timeout=timeout)
+        with r:
+            return json.loads(r.read().decode("utf-8"))["choices"][0]["message"]["content"], time.time() - t0
     t0 = time.time()
     with urllib.request.urlopen(req, timeout=timeout) as r:
         data = json.loads(r.read().decode("utf-8"))
