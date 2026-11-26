@@ -2849,13 +2849,13 @@ Keiko: "Sounds like a lovely grandmother... Do as she says. Treasure that name o
 *She finishes off her coffee along with that train of thought.*
 Keiko: "Well... I have a request for you."
 Rinka: "A request...?"
-Keiko: "Yes. I'd like for you to take this letter. I ask that you transcribe it for me, even though that sounds like a pain."
+Keiko: "Yes. I'd like for you to take this letter. Please transcribe it for me, even though that sounds like a pain."
 Keiko: "It's... a letter I wrote to my husband... and my child. But it'll disappear if I get eliminated tonight."
 Keiko: "I included the appropriate address and name inside, so just send it there."
 Keiko: "If I do get eliminated tonight, then it'll have been three weeks since I died come Monday, no?"
 Keiko: "The birth certificate needs to be filed within two weeks after a baby's birth, so his name will likely have already been decided. Still, I'd like for them to understand my feelings on the matter."
 *She avoids referring to Haruki by name for some reason.*
-*I can't claim to understand why, but I do recognize the reality that he won't have that name when she's eliminated.*
+*I can't claim to understand why, but I do recognize he won't have that name when she's eliminated.*
 Rinka: "Are you... giving up?"
 Keiko: "Oh, no. I can protect myself if I manage to learn all three pieces of info about Numeral XII. I've been working on that for a while now, even though the results are hardly uplifting. Maybe I've half given up, but I'll still spend the rest of today doing all I can."
 Keiko: "Even so, I'm aware that it'll probably be a waste of time..."
@@ -2870,7 +2870,7 @@ Keiko: "Finding that out wasn't too hard since I know his face. There's plenty o
 Keiko: "By coincidence, I happened to spot a photo of him while thumbing through a magazine. Although I'm sure it was taken long before Divine Selection started."
 Rinka: "Alan Scorpion... So that's his name...!"
 Keiko: "Yes. That's all I can tell you, though. Especially since my elimination is not set in stone."
-Keiko: "There's also the fact that, while I'm making this request of you, I'm also betting on you."
+Keiko: "While I'm making this request of you, I'm also betting on you."
 *There is no need for her to explain what she means.*
 *She's entrusted me with something important.*
 *I know exactly what that is, too.*
@@ -2892,7 +2892,7 @@ Rinka: "This feels a bit too easy..."
 *Or so I think, but things get complicated very quickly.*
 *There's nothing on him from before he inherited the company at age sixteen, let alone anything related to how he may have died three weeks ago. No need to mention that his regret remains a complete mystery, too.*
 *But knowing his occupation, where he's from, and especially his name is a big step forward. It may be worthwhile to head back to the library again and look through some newspapers and magazines.*
-*As for right now, I've got something more important to do — transcribing the letter from Keiko.*
+*Right now, I've got something more important to do — transcribing the letter from Keiko.*
 Rinka: "...Okay."
 *Written on the paper are her thoughts and feelings toward her husband and child.*
 *She actually didn't write it as herself, but as one of her friends. That means it'll be far less painful for her husband to read compared to one coming directly from her.*
@@ -2910,13 +2910,13 @@ Rinka: "...Okay."
 *I wonder if I'll ever be able to pour that same love into another person...*
 *I shake my head to clear the thoughts away before I dive too deeply into them.*
 *There's no point in wading through them when none of the answers are there.*
-Rinka: "As for my regret..."
+Rinka: "My regret..."
 *The same applies to this question.*
-*The reason I don't know my own regret is because I don't know myself well enough yet.*
+*The reason I don't know my own regret is that I don't know myself well enough yet.*
 *I might be able to take pride in my own life once I learn my regret.*
 *But even if I don't make it through...*
 *No, scratch that. I know that I want to make it through.*
-*Reading Keiko's letter has helped me to finally find the resolve I need.*
+*Reading Keiko's letter has helped me finally find the resolve I need.*
 Rinka: "I don't want to die without having fully understood myself..."
 *Should Keiko be eliminated tonight, I'll mail this letter the very next morning.*
 *That'll be my top priority.*
@@ -2943,7 +2943,7 @@ Parca: "Revolve, O' Clock of Fate!"
 *Should two participants elect the same person, one can earn priority by revealing a card about oneself.*
 *However, the higher your numeral, the easier it is to prevent that situation from occurring.*
 *The only reason to take such a risk is when one knows that the person they plan to elect is in possession of a card one needs.*
-*To that effect, as Numeral XII, Alan feels that he has a significant advantage.*
+*For that reason, as Numeral XII, Alan feels that he has a significant advantage.*
 Alan: "Hmph..."
 *Alan considers the idea that Numeral I will opt to elect Keiko.*
 *Should she be in possession of all three of Keiko's cards, she could create a situation where both she and Alan elect Keiko.*
@@ -2980,7 +2980,7 @@ Alan: "Her regret is—"
 Keiko: "Hey. You know what it's like to have a family, don't you?"
 *Her question interrupts his process.*
 Alan: "Don't speak to me."
-Keiko: "My son will live, so I'm not afraid of being eliminated. I didn't get to spend much time with him, but I was still able to become a mother."
+Keiko: "My son will live, so I'm not afraid of being eliminated. I didn't get to spend much time with him, but I still became a mother."
 Keiko: "Maybe I won't be able to name him, but I'm sure he'll grow up to be strong even without that. After all, a name only represents one's hopes. It can't change their nature."
 Keiko: "I'm sure your parents named you, too. At the very least, quit involving anyone and everyone in your path of selfish destruction. Do it for your parents' sake."
 Alan: "You mean to imply that one can do something for the sake of those who have passed?"
@@ -2994,7 +2994,7 @@ Alan: "I care not for the consequences of my actions, nor for the people caught 
 Keiko: "You're pushing yourself, aren't you?"
 Alan: "...Your regret is your child's name."
 *He says this to cut her off.*
-*Next, the three cards whose contents he's spoke aloud float away from him.*
+*Next, the three cards whose contents he's spoken aloud float away from him.*
 *Once they reach the middle of the Court of Fate, they come together and form a triangular shape.*
 *Once in formation, they begin to emit a white light, one by one.*
 *Alan knows what comes next, so he closes his eyes and allows it to happen.*
@@ -3099,7 +3099,7 @@ Keiko: "Names represent a parent's hopes and dreams for their child. So please, 
 *I can't sit and twiddle my thumbs anymore. From here on out, I need to act with dignity.*
 *Three days have now passed since Keiko's elimination. In terms of information, I'm at a bit of a standstill.*
 *I planned on doing more research on Alan, but finding the time has proven difficult, considering I can't just close the store.*
-*Time isn't the only issue, either. There's also the fact that I just plain suck at doing proper research.*
+*Time isn't the only issue, either. I just plain suck at doing proper research.*
 *I'm aware that I can't let things go on like this.*
 Rinka: "...Right."
 *I decide to close the store and head to the library for a bit today. I can look for business reports and interviews that involve him, maybe.*
@@ -3109,7 +3109,7 @@ Rinka: "...Right."
 Sonya: "......" nointeract
 Rinka: "E-Excuse me..."
 *I tap on her shoulder and call out to her with concern in my voice.*
-Sonya: "Uuuugh..."
+Sonya: "Uuugh..."
 Rinka: "...Huh?"
 *She reacted to my voice, so I know she's conscious, at least. At first I thought I'd have to call an ambulance, but it looks like there's no need.*
 *After a while, she turns to look at me.*
@@ -3134,7 +3134,7 @@ Rinka: "Are you all right? Like, in the head?"
 *But can you blame me? No participant should just introduce themselves like that!*
 Sonya: "I have a request."
 *I say nothing, so she keeps on going.*
-Sonya: "I must ask that you please give me food, for I cannot move in my current state."
+Sonya: "Please give me some food, since I can't move right now."
 *She asks for a meal in a very stilted manner of speaking.*
 *Based on the blonde hair and blue eyes, I presume she's from Russia or somewhere else in northern Europe. She shouldn't be able to understand or speak Japanese without the aid of her card book, either.*
 *However, unlike Alan, there are noticeable flaws in her language fluency.*
@@ -3192,9 +3192,9 @@ Rinka: "Just... make sure you eat all of it..."
 Rinka: "Ahh~"
 *I can't help but sigh in disbelief at how big of a pushover I am while she happily eats her bowls of food.*
 *I really am an easy target, aren't I? It could all be part of her plan, too...*
-*She uses the fact that she's a kid to lure me into a false sense of security, and then takes advantage of it to get all sorts of info out of me.*
+*She uses her status as a kid to lure me into a false sense of security, and then takes advantage of it to get all sorts of info out of me.*
 *Granted, I don't get that impression from her whatsoever. Especially when she's the one who's revealed her own information to me.*
-*I sigh again, this time in regards to how confusing this whole situation is.*
+*I sigh again, this time about how confusing this whole situation is.*
 *Ugh, my head hurts...*
 Sonya: "Phew... Now I'm stuffed. Thank you for the food."
 *She's cleaned out all three bowls without skipping a beat.*
@@ -3225,13 +3225,13 @@ Rinka: "Are you messing with me?"
 Sonya: "But your voice is also scary..."
 Rinka: "Whaddaya mean 'also'?! What else about me is scary?"
 Sonya: "Your face. I thought you looked scary from the moment I first saw you."
-*So she says with a bright and beaming smile.*
+*So she says with a beaming smile.*
 *In all honesty, I'm aware that I can look pretty scary at times, but being told that to my face kind of hurts.*
 Rinka: "Right, that's enough of changing the subject."
 Sonya: "I'm sorry. I just wanted to talk more because you're a kind person, but that was perhaps rude of me."
 Sonya: "Not to worry, though. The next participant to be eliminated will be me."
 *She keeps her smile, but something about her looks sad when she says that.*
-*It takes me a moment to process her words, despite the obvious meaning behind them.*
+*It takes me a moment to process her words, despite what they clearly mean.*
 *I'm not sure how this situation has come about.*
 *We're in the middle of the big city, so naturally the place is crowded. There are plenty of customers waiting to be seated.*
 *In other words, the staff kindly ask us to leave after a while.*
@@ -3240,19 +3240,19 @@ Sonya: "Not to worry, though. The next participant to be eliminated will be me."
 *That's why...*
 Sonya: "Wow! This is a very nice store!"
 *I end up taking Sonya with me back to Lion House.*
-*It's the only place I can think of where we're able to sit down and talk. Sonya looks like a middle-school student at best, so I doubt much harm can come from this.*
-*There's also the fact that the police might've stopped us somewhere. Hard to avoid suspicion when a girl in her school uniform is walking around with a foreign child at night.*
+*It's the only place I can think of where we can sit down and talk. Sonya looks like a middle-school student at best, so I doubt much harm can come from this.*
+*Besides, the police might've stopped us somewhere. Hard to avoid suspicion when a girl in her school uniform is walking around with a foreign child at night.*
 Lethe: "Meow."
 Sonya: "I-It's a kitty cat!"
 Rinka: "You really do know some random words... Didn't realize you were here, Lethe."
 *Feels like I haven't seen Lethe in a while, actually.*
-*I know it's been fine, since it still made sure to eat the food I'd leave out for it.*
+*I know it's been okay, since it still made sure to eat the food I'd leave out for it.*
 Sonya: "Meow, meow! ♪ Japan's cats are just as cute as I read about! Look, Passazhir, it's a cat!"
 Lethe: "Meow."
 *Passazhir is in reference to Sonya's stuffed animal.*
 *It's one of those small plushies you find in toy stores. They fit nicely into your hand. This one's a bear, so it might be appropriate to call it a teddy bear.*
 *Sonya is poking and prodding Lethe with it.*
-*It'd scratch me up if I tried to do the same considering its personality, but right now it's sitting back and taking it despite its obvious displeasure. I wonder if it realizes it's dealing with a child?*
+*It'd scratch me up if I tried to do the same given its personality, but right now it's sitting back and taking it despite its obvious displeasure. I wonder if it realizes it's dealing with a child?*
 Rinka: "Oh, well. Let me get some milk for you."
 Sonya: "And some for me, too!"
 Rinka: "Yeah, yeah. Hold your horses."
@@ -3262,8 +3262,8 @@ Rinka: "Yeah, yeah. Hold your horses."
 *I guess it really didn't enjoy that experience...*
 Sonya: "Let us continue where we left off."
 *She places both of her hands on the glass and takes a sip.*
-*You can tell she was raised to be a proper lady based on how she handles things like that. I thought the same back at the family restaurant.*
-*I nod as a means to urge her to continue. She almost seems like a different person compared to how she was messing around with Lethe.*
+*You can tell she was raised to be a proper lady from the way she handles things like that. I thought the same back at the family restaurant.*
+*I nod to urge her to continue. She almost seems like a different person compared to how she was messing around with Lethe.*
 Sonya: "I meant what I said."
 Sonya: "You believed me, yes? That's why you brought me here."
 Sonya: "I will tell you all about me."
@@ -3277,20 +3277,20 @@ Rinka: "Sorry to say this, but I don't flat-out trust you. Logic only dictates t
 Sonya: "Despite your appearance, you are a kind person."
 Rinka: "...You could have left that first part out."
 Lethe: "Meow."
-*Just as we are about to get into the thick of it, Lethe meows and lies down underneath the table. I assume it feels satisfied after having its milk.*
+*Just as we're about to get into the thick of it, Lethe meows and lies down underneath the table. I assume it feels satisfied after drinking its milk.*
 *Sonya watches it curl up with a smile on her face.*
 Sonya: "We had a cat at my house, too. I was always too ill to leave, so it was one of my few friends. The others were books, the Internet... and Passazhir."
 Sonya: "Yes, you see, my cause of death was illness. I can go into further detail if you wish."
 Rinka: "That's all right. I'd rather hear more about you. Keep going."
-*While not enough to create a new card, I still opt to listen to her life's story instead.*
-*The fact that she's telling me this means she's fine with revealing her cause of death.*
+*Even though it's not enough to create a new card, I still opt to listen to her life's story instead.*
+*She's telling me this, which means she's fine with revealing her cause of death.*
 *She really is convinced that she'll be the next person eliminated. But why?*
 Sonya: "Much like you, Divine Selection has given me another brief chance to live my life."
 Sonya: "I told Papa and Mama about it, and they became convinced when they realized that I was feeling much better than usual."
 Sonya: "However, my condition will likely be the way it was before, even if I do survive these twelve weeks. I won't make it much longer either way."
 Rinka: "So you don't think surviving would also cure you of your condition?"
 Sonya: "Yes, that is what I believe."
-Sonya: "That's why I don't mind losing. So long as I can experience as much of the outside world during this time that I can, I'm happy."
+Sonya: "That's why I don't mind losing. So long as I can experience as much of the outside world during this time as I can, I'm happy."
 Sonya: "From what I learned about the world at home, Japan caught my interest the most. That's why I wanted to experience its culture... Not the ninja and samurai, but Japan as it is now."
 Sonya: "I was rather excited when I obtained my card book."
 Sonya: "Japan's anime holds a special place in my heart, and in one magical girl anime, the girl transformed and fought using a book and cards similar to these."
@@ -3303,14 +3303,14 @@ Sonya: "Papa and Mama may forget about our trip once I'm eliminated, but at the 
 Rinka: "You're alone right now, so I assume something happened with them?"
 Sonya: "Yes, that's right."
 Sonya: "While we were observing the situation, those with my name card were also watching us."
-Sonya: "They had set a trap for us the moment we landed by means of our taxi."
+Sonya: "They had set a trap for us the moment we landed via our taxi."
 Rinka: "A trap...?"
 Sonya: "Yes. They posed as taxi drivers and threatened to kill Papa and Mama if I didn't tell them all my information."
 *The worst possible situation springs to mind when I hear that.*
 *It sounds exactly like something Alan Scorpion would do.*
 Rinka: "Was Numeral XII involved, by chance?"
 Sonya: "No..."
-*Her denial only serves to worry me more.*
+*Her denial only makes me worry more.*
 *All it means is that there are others willing to resort to the same methods as him.*
 Sonya: "It was Numeral III and Numeral XI. Those two are working together."
 Rinka: "Oh, those two!"
@@ -3319,8 +3319,8 @@ Sonya: "Have you met them before?"
 *Numeral III — Federico Carminati. I ended up with his name card during the initial distribution.*
 *Having seen him in the dream world multiple times, I know he's tall and slender.*
 *As for Numeral XI, she's the one responsible for eliminating Numeral VII. Much like Alan, her eyes are as frigid as they come.*
-*Those two working together definitely comes as a surprise. I figured I would have the advantage against Numeral III because I have his name card, but if he's with her, that's no longer the case.*
-*Realizing that I've interrupted her, I apologize and wait for her to pick up where she left off.*
+*Those two working together is definitely a surprise. I figured I would have the advantage against Numeral III because I have his name card, but if he's with her, that's no longer the case.*
+*Realizing I've interrupted her, I apologize and wait for her to pick up where she left off.*
 Sonya: "I told them everything to save Papa and Mama, but the man said it wasn't enough. He wanted to know about the other cards I held, too."
 Sonya: "I happened to have one of Numeral XI's cards. Her regret card."
 Sonya: "So I looked her in the eye and said that I could tell him, but it would lead to bad results for them."
@@ -3328,10 +3328,10 @@ Sonya: "I expected her to get angry, but she just laughed."
 *"Damn! She's got more guts than that old geezer, despite her age. That's what I'm talking about."*
 *"I can't believe Sonya threatened me, y'know? Geez, if she wants to see the world, maybe I'll let her after showing that kind of bravado."*
 *"Say what you will, but I like this kid."*
-*Numeral XI was apparently full of cheer as she praised Sonya for her rebellious act.*
-*She had a condition, though. Sonya wasn't allowed to be with her parents until her last day, as a means to prevent them from trying anything.*
-*So long as she did that, they were willing to both spare her parents and let her do as she pleased.*
-Rinka: "Oh, come on! She just wanted to prevent you from using her face and regret as a means to get more information on her!"
+*Numeral XI was apparently in high spirits as she praised Sonya for her rebellious act.*
+*She had a condition, though. Sonya wasn't allowed to be with her parents until her last day, to prevent them from trying anything.*
+*So long as she did that, they were willing to spare her parents and let her do as she pleased.*
+Rinka: "Oh, come on! She just wanted to prevent you from using her face and regret to get more information on her!"
 Rinka: "...Oops. Sorry for shouting out of nowhere."
 Sonya: "While your voice may sound scary, I know that your words are kind. Not many would get angry for the sake of someone they need to eliminate."
 Sonya: "Well, as long as Papa and Mama are safe, I'm okay. Besides, like I said, I wouldn't live for long regardless."
@@ -3340,10 +3340,10 @@ Sonya: "What do you mean, acknowledged...?"
 Rinka: "Well... Do you feel that it's going to happen, no matter what?"
 Sonya: "Yes. I have, even before Divine Selection began. I knew I would die as soon as I found out about my condition."
 *That might explain the sadness in her smile earlier.*
-*I'm not sure whether the doctors or her parents told her, but she's likely been informed of how long she has to live multiple times.*
+*I'm not sure whether the doctors or her parents told her, but she was probably told how long she has to live multiple times.*
 *But just by looking at her, I can tell that she's been raised with love.*
 *However, her inevitable death has probably been looming over her head ever since she found out.*
-*Just because she knows and has accepted her death doesn't mean she isn't scared to face it, of course.*
+*Just because she knows and accepts her death doesn't mean she isn't scared to face it, of course.*
 Rinka: "...It must've been tough for you."
 *I pat her head.*
 *I should have learned with Keiko that getting attached to other participants is dangerous, and yet I can't stop myself.*
@@ -3352,34 +3352,34 @@ Rinka: "...It must've been tough for you."
 Sonya: "I knew what was in store for me for a long time, so I told myself that things weren't tough..."
 Sonya: "But now... I'm not so sure..."
 *I don't have the means to provide her with true salvation.*
-*I do feel for her, though. No one should have to go through what she has at such a young age, but I can't give my own life in exchange.*
+*I do feel for her, though. No one should have to go through what she's gone through at such a young age, but I can't give my own life in exchange.*
 *I can't forget that I just met her today, too. We're not even friends.*
 *And yet, for some reason, I'm wracking my brain for her sake.*
 *This entire time, she's been wearing a peculiar expression on her face.*
-*She likely doesn't truly understand her feelings yet. Not that I can blame her; I'm in the same boat.*
+*She likely doesn't truly understand her feelings yet. Not that I blame her; I'm in the same boat.*
 *Lethe has disappeared at some point during our chat. The light reflects off its empty milk bowl, casting a strong shadow.*
 *I spend the rest of the time just patting Sonya's head.*
 Sonya: "Good morning!"
 Rinka: "Waugh!"
 Sonya: "It is time to wakey-wakey!"
-*I struggle to muffle my own voice as I hear someone else's shouting into my ear.*
+*I struggle to muffle my own voice as I hear someone else shouting into my ear.*
 *The voice belongs to none other than Sonya.*
-*She revealed last night that she had no lodging plans, so I agreed to let her stay here to avoid her having to roam the streets.*
-Sonya: "I was surprised you let me stay, though. I was of the impression that I could stay at one of those so-called manga cafes with ease."
-Rinka: "Sounds to me like you've been browsing the Internet too much, young lady. Besides, those aren't exactly hotels in the first place..."
-*She tilts her head inquisitively in response to my surprise.*
+*She revealed last night that she had no lodging plans, so I agreed to let her stay here so she wouldn't have to roam the streets.*
+Sonya: "I was surprised you let me stay, though. I was of the impression that I could stay at one of those so-called manga cafes easily."
+Rinka: "Sounds to me like you've been browsing the web too much, young lady. Besides, those aren't exactly hotels in the first place..."
+*She tilts her head inquisitively at my surprise.*
 *I know a lot of people do stay overnight at them, but I can't see anyone getting a good night's sleep on a chair.*
 *That, and I doubt they'd let a kid in there so late at night.*
 Sonya: "Are you okay with your decision, though?"
 *She tilts her head in the opposite direction, this time with wide and hopeful eyes.*
-*She's referring to a promise I made with her last night.*
+*She's referring to a promise I made to her last night.*
 *I promised to give her a tour of Japan, even if it's a brief one.*
 *She may be able to speak Japanese, but this is still a whole new culture for her. That, and...*
 Rinka: "It'll be a lot more fun with two people, won't it?"
 Sonya: "Sister..."
 Sonya: "I'm glad I came across someone as kind as you. That alone makes coming to Japan worth it."
 Rinka: "Save that for after you've made some good memories. Don't forget that we're staying within Tokyo."
-*There's good meaning behind doing this during Divine Selection.*
+*There's real value in doing this during Divine Selection.*
 *So long as I survive, her memories and experiences here in Japan won't disappear.*
 Rinka: "Oh, and don't forget that I've got to go to school, so we need to meet at Shinjuku station in the evening."
 Sonya: "Understood!"
@@ -3389,15 +3389,15 @@ Miharu: "Good morning, Rinka."
 Mao: "Mo-rinny!"
 Rinka: "Good morning."
 Mao: "Yo, did you notice that I turned 'Morning, Rinny' into one word?"
-*Coming to school has helped me to settle down lately.*
-*Being reminded that I've still got a regular life despite everything does wonders for one's mental state.*
+*Coming to school has helped me settle down lately.*
+*Being reminded that I've still got a regular life despite everything does wonders for my mental state.*
 Mao: "Aw, you're gonna ignore it?"
 Rinka: "What kinda reaction were you expecting from me...?"
 Mao: "Welp, g'night, my friends."
-Miharu: "Hehe. It's always a touch relieving to see Mao act as she always does."
-*Mao lets the comment fly over her head and sprawls out over her desk instead.*
-*I bet she's pulled another all-nighter. If that's the case, good luck waking her up before lunchtime.*
-*It's impossible for me to not smile at that freedom of hers.*
+Miharu: "Hehe. It's always a bit comforting to see Mao act as she always does."
+*Mao lets the comment go over her head and sprawls out over her desk instead.*
+*I bet she's pulled another all-nighter. If that's the case, good luck getting her up before lunchtime.*
+*It's hard not to smile at that freedom of hers.*
 *No matter what happens, I'll always have this place. Yeah.*
 Mao: "Screw lunch! I'm still tired, so... back to sleep I go!"
 Miharu: "Well then, we may as well go up to the rooftop."
@@ -3407,12 +3407,12 @@ Rinka: "Wait, so you didn't get any sleep at all?"
 Mao: "That's why I'm sleeping now..."
 *Yeah, she's out of the game.*
 *Miharu seems to be thinking the same thing.*
-Miharu: "When was the last time the two of us managed to get time alone like this?"
+Miharu: "When was the last time the two of us got time alone like this?"
 *We make our way up to the rooftop after buying lunch.*
 *Miharu is eating light, as usual.*
 *Today really is one of those perfect days for sitting up here.*
-*And yet, the fact that we're the only ones doing it proves that we really are avoided by others.*
-*To be honest, I feel like that's more of a blessing than a curse these days.*
+*And yet, we're the only ones doing it, which proves that others really do avoid us.*
+*To be honest, I feel like that's more blessing than curse these days.*
 Miharu: "I have to admit, I'm happy that we can still spend time together like this, even while Divine Selection is happening."
 *She accompanies her comment with that usual charming smile of hers.*
 Rinka: "I'm happy about it, too."
@@ -3420,10 +3420,10 @@ Miharu: "Rinka..."
 Rinka: "You're probably going through some tough times thanks to this whole situation as well, so... just being able to sit here and forget about it for a while really is nice."
 Miharu: "What I really meant was what I said... I know that I'll do everything I can for the sake of your smi—"
 Rinka: "Let's... not get into that for the time being."
-*Miharu's expression as she declared her intention to give her life for mine flashes across my mind all of a sudden.*
+*Miharu's expression as she declared her intention to give her life for mine flashes across my mind suddenly.*
 *I've gotten over a lot of things lately, but that's not one of them.*
 Miharu: "Oh, sorry... Well, do you mind if I ask you something?"
-*She changes the topic before preparing to bite into her sandwich.*
+*She changes the topic just before biting into her sandwich.*
 Rinka: "Should we... really be spending time together like this?"
 Miharu: "What's on your mind?"
 Rinka: "I've come to terms with the reality of our participation in Divine Selection, and yet here we are prioritizing our daily lives. Part of me is wondering if we should really be doing this."
@@ -3440,14 +3440,14 @@ Miharu: "...Something happened between you two, right?"
 *That would put unnecessary pressure on them both.*
 *And it's why I have no idea how to answer her question.*
 *Miharu persists despite my hesitation, though.*
-Miharu: "There's a stark difference between asking another participant like me for help as opposed to someone uninvolved like her."
+Miharu: "There's a stark difference between asking another participant like me for help and asking someone uninvolved like her."
 Miharu: "You realized how dangerous things could get, and then you decided to put some distance between you, correct? It was the right call."
 Miharu: "Don't ask how I know about this, though. I just need you to understand that I'm not as dense as you when it comes to how people interact with one another."
-Miharu: "Naomi's attitude has been very different than usual, starting with last week. You could say she looked like she had a true purpose motivating her."
+Miharu: "Naomi's attitude has been different from usual, starting with last week. It was as if she had a true purpose motivating her."
 Rinka: "...I guess I shouldn't have tried to hide it from you."
 Miharu: "Don't worry about that. I'm aware that you did it with me and Mao in mind."
 Rinka: "Thanks, Miharu."
-Rinka: "But you're right. I made sure that she won't help me out anymore. I'll handle the rest on my own."
+Rinka: "But you're right. I made sure she wouldn't help me out anymore. I'll handle the rest on my own."
 Miharu: "If only you'd ask me for help... but no..."
 Rinka: "Huh?"
 Miharu: "Wait."
