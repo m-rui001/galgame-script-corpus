@@ -4909,14 +4909,14 @@ Mayuki: "This is why hot-blooded characters are such a......"
 Benio: "Mayuki-chan, do you not like being in a group?"
 Mayuki: "......"
 She makes a conflicted face behind her glasses.
-Mayuki: "In regards to that, Mayu-Mayu......Mayuki-san doesn't entirely disagree with the idea."
+Mayuki: "In regard to that, Mayu-Mayu......Mayuki-san doesn't entirely disagree with the idea."
 Benio: "Mayu-Mayu?"
 Mayuki: "Focus on the stupid things and I'll pull your tongue out."
 Benio: "Gyaaa!"
 Mayuki: "Especially since we know for a fact that thing requires a five-man team. That black dragon's like a robot that only operates properly when all its parts combine."
 Mayuki: "Besides, if we leave Black alone to his loner tendencies, then it'll be hard to move the plot forward."
 Benio: "Who's Black?"
-Mayuki: "The rival character who isn't a team player. A long time ago that was Blue,but he's warming up these days so now it's Black."
+Mayuki: "The rival character who isn't a team player. A long time ago that was Blue, but he's warming up these days so now it's Black."
 She looks off into the distance for some reason.
 Benio: "That's right, now that you mention it, we do have one other black person......"
 Mayuki: "......well, I guess you definitely could call her black."
@@ -5005,7 +5005,7 @@ Kagome: "The cheesecakes at Ujiya are delicious this season."
 ......this will be a season of great pain for my wallet.
 Izawa Shuu lives in the city. He crawls around the dark, muddy basin of the pleasure district. Who knows how long he's been here.
 A mad dog. A killer. A demon.
-Before he knew it, he was walking through the night with a number of distasteful nicknames for a reputation.
+Before he knew it, he was walking through the night with a number of distasteful nicknames for his reputation.
 Izawa: "――――"
 At night, Izawa's generally unhappy. They say everyone who knows this town tries to deal with him during the day.
 Tonight, Izawa's more irritated than usual. He can't seem to calm down completely, like the ocean in the eye of a storm. He continuously goes back and forth between excitement and annoyance.
@@ -5278,10 +5278,10 @@ Steel arms, steel legs, a steel tail――
 ――It's a dragon.
 A holy, emerald dragon, with a completely different shape.
 It's clearly bigger than the other avatars they've met. It's shorter than the black dragon, but about the same size overall. It's about 3.5 meters tall.
-The green dragon leans forward, much like a certain carnivorous dinosaur. An illusion revived from the ancient world and wrapped in steel.A pair of wings extend from its shoulders to the sky.
+The green dragon leans forward, much like a certain carnivorous dinosaur. An illusion revived from the ancient world and wrapped in steel. A pair of wings extend from its shoulders to the sky.
 Nanase: "I hate fighting. I really do."
 A holy dragon like a gemstone. Its name is Fuchur.
-The heat inside it turns into invisible power and pushes against them.A stronger presence than the other avatars they fought.
+The heat inside it turns into invisible power and pushes against them. A stronger presence than the other avatars they fought.
 Nanase: "However, if you insist on fighting no matter what―――"
 　　　　　　■■■■■■■■■■!
 Nanase: "We are pretty strong."
@@ -5300,7 +5300,7 @@ They shoot forth like a battering ram. The black dragon's attack utilizes a grav
 Izawa: "Wha――――!?"
 These strong arms knocked down the giant on the hill, but Fuchur evades them with surprising nimbleness.
 The dragon accelerates even more. Its green jewel of a body briefly resembles an ancient velociraptor.
-Faster than the black dragon, which swings a second and a third time, but Fuchur evades it like a shadow.
+Faster than the black dragon, Fuchur evades its second and third swings like a shadow.
 Izawa: "You little――"
 Nanase: "I should warn you, Izawa-san."
 Nanase: "There are three reasons why you can't beat us."
@@ -5334,7 +5334,7 @@ Izawa: "Pipsqueak! What about the shield!?"
 Mayuki: "No good. It's too unresponsive with only three of us. I have to fully deploy it to defend in time!!"
 A gravity field that blocks all sorts of attacks. They can't follow Fuchur's movements, but they can defend against it by fully deploying that field.
 On the other hand, the black shield consumes a tremendous amount of "magic." When there's no magic left, the dragon can't do anything.
-Benio: "Izawa――――!"
+Benio: "Izawa――――"
 Fuchur's fangs penetrate the armor on its neck. They dig deep into the black dragon's body, making it gasp in agony.
 Nanase: "Izawa-san, can we talk about this? Or do you want to keep going?"
 Izawa: "――Don't you dare......underestimate me!!!"
@@ -5702,16 +5702,16 @@ Mayuki: "But there are a bunch of common patterns, so it makes sense to put them
 Mayuki: "There's lots of systems for doing that, but the most common is the eight-six system, which has six types of avatar."
 Six avatar categories, each defined by a set of attributes. Coμpedia lists seven attributes.
 Attack - Detection - Agility - Defense - Magic - Abilities - Control
-Attack, agility and defense are familiar attributes from RPGs. Detection also means exactly what it sounds like."Magic" refers to the total amount of energy an avatar has. Avatars consume magic as long as they exist in our world, more so when they do something dramatic in combat.
-Using all of it up cancels the summon, making them disappear back into the swirling light of the gate."Abilities" refers to the strength of any special powers the avatar has.
-A particularly powerful special ability can be worth more than any other statistic."Control" refers to how hard it is to control the avatar. Since humans control them, the human-shaped avatars are easiest to control, and the less human-like ones are harder.
+Attack, agility and defense are familiar attributes from RPGs. Detection also means exactly what it sounds like. "Magic" refers to the total amount of energy an avatar has. Avatars consume magic as long as they exist in our world, more so when they do something dramatic in combat.
+Using all of it up cancels the summon, making them disappear back into the swirling light of the gate. "Abilities" refers to the strength of any special powers the avatar has.
+A particularly powerful special ability can be worth more than any other statistic. "Control" refers to how hard it is to control the avatar. Since humans control them, the human-shaped avatars are easiest to control, and the less human-like ones are harder.
 Mayuki: "The six types of avatar are as follows."
-IvanhoeAttack: C Detection: C Agility: B Defense: CMagic: C Abilities: C Control: A
-GevaudanAttack: D Detection: C Agility: A Defense: DMagic: B Abilities: B Control: B
-PantagruelAttack: B Detection: C Agility: C Defense: BMagic: D Abilities: C Control: A
-CasparAttack: D Detection: A Agility: B Defense: CMagic: B Abilities: B Control: B
-BurroughsAttack: D Detection: B Agility: C Defense: CMagic: A Abilities: A Control: B
-GeorgiosAttack: A Detection: C Agility: C Defense: AMagic: B Abilities: A Control: C
+Ivanhoe Attack: C Detection: C Agility: B Defense: C Magic: C Abilities: C Control: A
+Gevaudan Attack: D Detection: C Agility: A Defense: D Magic: B Abilities: B Control: B
+Pantagruel Attack: B Detection: C Agility: C Defense: B Magic: D Abilities: C Control: A
+Caspar Attack: D Detection: A Agility: B Defense: C Magic: B Abilities: B Control: B
+Burroughs Attack: D Detection: B Agility: C Defense: C Magic: A Abilities: A Control: B
+Georgios Attack: A Detection: C Agility: C Defense: A Magic: B Abilities: A Control: C
 Izawa: "......the hell is this?"
 Benio: "Which of these is our dragon avatar?"
 Haru: "It is a dragon, so isn't it Georgios? Though it's pretty different from the sample picture here."
@@ -5817,7 +5817,7 @@ In charge of the avatar's defenses. They control how the avatar deals with damag
 Mayuki: "And now Mage."
 They specialize in the avatar's movement. Avatars with an especially good Mage can be downright acrobatic.
 Akihito: "What about me?"
-Mayuki: "The Bishop? Let's see......your attributes are 7-7-7-7.A jack of all trades and master of none."
+Mayuki: "The Bishop? Let's see......your attributes are 7-7-7-7. A jack of all trades and master of none."
 Akihito: "......seriously?"
 Mayuki: "So you can fight, but not as well as a Fighter, and you can search for enemies, but not as well as a Rogue――"
 Mayuki: "You can defend, but not as well as a Priest, and you can move but not as well as a Mage."
@@ -5931,7 +5931,7 @@ BKs――――
 They don't kill the coμ, but destroy the avatar. Partly for fun, without resolve or regret, but there is a consequence.
 The destroyed avatar leaves five deaths behind, in exchange for someone getting an experience point.
 ――I remember the red color.
-A feeling like black heat swells up as I think about our unseen "enemy."It's like anger, but darker.
+A feeling like black heat swells up as I think about our unseen "enemy." It's like anger, but darker.
 Swinging your sword partly for fun. If you've totally lost it, that's kinda funny. If you have a grudge against someone, I might even agree with doing it.
 But――
 This is different. This is just hedonistic.
@@ -5955,37 +5955,37 @@ The answer to that last question was simple, as expected. Risk and reward.
 If something seems too good to be true, it isn't.
 ====================C004_010 コミュネット01_030100.json====================
 828 ：Anonymous-sama
-：20XX/XX/XX(Sun) 06:30:55Another peaceful day in the Coμnet
+：20XX/XX/XX(Sun) 06:30:55 Another peaceful day in the Coμnet
 829 ：Anonymous-sama
 ：20XX/XX/XX(Sun) 06:35:11
 Who chose "Coμnet" as the collective term for all coμs? Anyone know?
 830 ：Anonymous-sama
-：20XX/XX/XX(Sun) 07:01:48no idea
+：20XX/XX/XX(Sun) 07:01:48 no idea
 831 ：Anonymous-sama
-：20XX/XX/XX(Sun) 07:15:20Didn't people say it was internet slang?
+：20XX/XX/XX(Sun) 07:15:20 Didn't people say it was internet slang?
 832 ：Anonymous-sama
-：20XX/XX/XX(Sun) 08:46:01A friend of mine just awakened, and turns out he's a Bishop
+：20XX/XX/XX(Sun) 08:46:01 A friend of mine just awakened, and turns out he's a Bishop
 833 ：Anonymous-sama
-：20XX/XX/XX(Sun) 09:09:00Stay on topic
+：20XX/XX/XX(Sun) 09:09:00 Stay on topic
 834 ：Anonymous-sama
-：20XX/XX/XX(Sun) 12:30:52lol, calling him a spammer?
+：20XX/XX/XX(Sun) 12:30:52 lol, calling him a spammer?
 835 ：Anonymous-sama
 ：20XX/XX/XX(Sun) 13:04:17
 I think Bishops are pretty convenient, but I guess they aren't popular here
 836 ：Anonymous-sama
-：20XX/XX/XX(Sun) 13:05:01・・・・・（´д｀） No, absolutely not
+：20XX/XX/XX(Sun) 13:05:01 ・・・・・（´д｀） No, absolutely not
 837 ：Anonymous-sama
-：20XX/XX/XX(Sun) 16:42:30Master of nothing lol
+：20XX/XX/XX(Sun) 16:42:30 Master of nothing lol
 838 ：Anonymous-sama
 ：20XX/XX/XX(Sun) 17:08:42
->>828I dunno about peaceful. There's lots of rumors about coμ hunters lately
+>>828 I dunno about peaceful. There's lots of rumors about coμ hunters lately
 839 ：Anonymous-sama
 ：20XX/XX/XX(Sun) 17:30:22
 People saying other coμs got taken out and they're gonna be next or something
 840 ：Anonymous-sama
-：20XX/XX/XX(Sun) 17:31:59What should the next thread title be?
+：20XX/XX/XX(Sun) 17:31:59 What should the next thread title be?
 841 ：Anonymous-sama
-：20XX/XX/XX(Sun) 18:01:09Worry about that after 950
+：20XX/XX/XX(Sun) 18:01:09 Worry about that after 950
 ====================C004_015 ドラッグ_0531.json====================: "Where do you want to go?": "Nowhere in particular......"
 It's raining outside. Gloom has been trickling down onto the asphalt since morning.
 People and things moving every which way. In the shadows of the city, monsters sleep day and night.

@@ -4830,7 +4830,7 @@ Kogasaka You: "...All right."
 Asuho: "Yep. If we try our elementary yearbooks, we should be able to find her in one, dontcha think?"
 *The lookout girl indeed used to attend our grade school.*
 *I don't know which grade she was in, though. All I know is that she is older than me.*
-*However, it should be almost safe to assume our elementary has all of their yearbooks on collection, just like Hibari High.*
+*However, it should be almost safe to assume our elementary has all of its yearbooks in its collection, just like Hibari High.*
 *So, I could obtain her contact information by searching through those yearbooks.*
 *If it had been just me, things might've been difficult.*
 *I didn't graduate from that grade school, as things were. Not being a graduate, the prospects of me getting permission to inspect the yearbooks were rather unpromising.*
@@ -4856,8 +4856,8 @@ Asuho: "Do you still remember how to get there?"
 Kogasaka You: "Yeah, only vaguely though."
 Asuho: "I'll lead the way, so just follow me!"
 *If you head right, there should be a railroad crossing that gets you to the other side of the station.*
-*In line with the directions my memories hold, Asuho turns right.*
-*The railway separates Hibarigasaki into the seaward side, and the ridge-ward side where Hibari High is located. The latter is very hilly, while the former, where we're heading to right now, is relatively flat and level.*
+*Following the directions I remember, Asuho turns right.*
+*The railway separates Hibarigasaki into the seaward side, and the ridge-ward side where Hibari High is located. The latter is very hilly, while the former, where we're heading right now, is relatively flat and level.*
 *Leaving the tasteful shopping district behind me, I walk on as the blowing sea breeze leads the way.*
 *While my memories are hazy, it seems like my body still remembers.*
 *Or maybe it is thanks to Asuho leading the way.*
@@ -4877,7 +4877,7 @@ Asuho: "So, You-chan, how's it feel being back here after so long?"
 Kogasaka You: "On the one hand, sentimental, on the other hand, not so much."
 Asuho: "Make up your mind, silly."
 Kogasaka You: "You see, I actually don't remember all that much about it."
-*If I had to describe it, I'd say it's like my body remembers, but my mind isn't quite able to keep up.*
+*If I had to describe it, I'd say it's like my body remembers, but my mind can't quite keep up.*
 Kogasaka You: "If someone told me "This was where you attended elementary," I'd think "Oh, okay," but I feel like if someone instead told me it wasn't, I'd also just accept it with an, "Oh, okay.""
 Asuho: "...Did you hate coming to school?"
 Kogasaka You: "What makes you ask?"
@@ -4889,7 +4889,7 @@ Asuho: "So back then..."
 *Her voice has a bit of a lonesome vibe about it.*
 Asuho: "You didn't have much interest in school, huh?"
 *I didn't hate school or anything.*
-*However, it was the kind of thing where if you asked me instead if I liked it, I wouldn't be able to say yes.*
+*However, it was the kind of thing where if you asked me instead if I liked it, I couldn't say yes.*
 *I neither really liked it, nor hated it.*
 *I neither liked, nor hated, the class Asuho was also a part of.*
 Asuho: "To you, the lookout was much more important, huh?"
@@ -4933,7 +4933,7 @@ Asuho: "You don't have to thank me... That was nothing..."
 Kogasaka You: "You live in the shopping district, right? Guess that means we'll have to say bye here."
 Asuho: "......"
 Kogasaka You: "See you at school tomorrow, Asuho."
-*The moment I turned around to leave, Asuho utters something.*
+*The moment I turn around to leave, Asuho utters something.*
 Asuho: "Sorry..."
 *My body goes limp.*
 Kogasaka You: "...Why are you apologizing to me?"
@@ -4948,7 +4948,7 @@ Kogasaka You: "Look, it's no big deal. I mean it."
 *The clerk showed us to the library and got us the yearbooks.*
 *Considering the generations, it was possible to limit the search to fewer than ten yearbooks, so it didn't take that long to look through them.*
 *I could confidently claim that I went through each and every one of them and checked them with a good degree of thoroughness.*
-*Yet I wasn't able to find any girl that could've been her.*
+*Yet I couldn't find any girl who could've been her.*
 *Of course, that totally threw me out of whack.*
 *In Hibarigasaki, elementary schools operate under a district system. It isn't like Hibari High where you have the choice to enroll or not. As long as you live in that school's district, you'll be enrolled there, without exception.*
 *And just like me, she went to the lookout by foot.*
@@ -4973,13 +4973,13 @@ Setsuna: "...You again."
 *Setsuna-senpai is there, standing in front of the fence.*
 Setsuna: "Visiting the lookout again?"
 Kogasaka You: "......"
-Setsuna: "Nevermind. Of course you wouldn't tell me the reason even if I asked."
+Setsuna: "Never mind. Of course you wouldn't tell me the reason even if I asked."
 Kogasaka You: "......"
-Setsuna: "Were you able to find that girl you were searching so desperately for?"
+Setsuna: "Did you find that girl you were searching so desperately for?"
 Kogasaka You: "...No."
 Setsuna: "Shame."
 *Setsuna-senpai throws a sidelong glance past the fence.*
-Setsuna: "By any chance, are you going to the lookout because you have the idea of waiting for her?"
+Setsuna: "By any chance, are you going to the lookout because you're thinking of waiting for her?"
 *I can't even muster the energy to answer.*
 Setsuna: "Just thinking out loud. Pay me no mind."
 *Setsuna-senpai then walks away.*
@@ -5043,7 +5043,7 @@ Asuho: "The stars are like soooo bright!"
 Asuho: "Feels like I could just grab them if I reached up."
 Asuho: "Like I could dive straight into 'em if I stretched my back."
 Asuho: "Just looking at it makes me feel like I'm drowning."
-*The lookout of my memories, where we'd believed we would one day be able to seize those stars with our own hands...*
+*The lookout of my memories, where we'd believed we would one day seize those stars with our own hands...*
 Asuho: "I never knew there was such an amazing place here in Hibarigasaki..."
 *Asuho spreads both of her arms while uttering that in sheer awe.*
 *In my eyes, her figure gives me the impression that she is ready to catch shooting stars in the palms of her hands were they to fall.*
@@ -5062,7 +5062,7 @@ Asuho: "And it's completely filled with stars, too. More than you could even hop
 *Asuho's voice resounds through the perfectly clear night sky.*
 Asuho: "This place is just incredible! I love it!"
 *High up in the eastern sky, the magnificent Summer Triangle slowly turns its course.*
-*The Northern Cross, that consists of the brightest stars in Cygnus, swims through the Milky Way, dividing it in two.*
+*The Northern Cross, which consists of the brightest stars in Cygnus, swims through the Milky Way, dividing it in two.*
 *And, of course, there is no forgetting Scorpio, which peeks itself out from the southern horizon, revealing the first magnitude star, Antares, famous for its bright red color.*
 Asuho: "Someone who loves the stars as much as I do would just naturally fall for a place like this!!"
 *The curving, deep black silhouette of the harbor, the surface of the waterway off which the town's lights reflect, the dazzling beauty of the stars that fill out the sky's canvas; this place showcases all of that in its full extravagance.*
@@ -5072,13 +5072,13 @@ Kogasaka You: "Why not your telescope?"
 Asuho: "I keep it in our club room. Besides, I think I've told you before, but telescopes are actually pretty heavy."
 Asuho: "So, I usually go with my binoculars when I do stargazing outside. Along with a tripod to keep them still."
 Asuho: "Apart from those, there's my starmap, a flashlight, a compass, plus something to drink and a towel at this time of year ..."
-"Ahaha," Asuho laughed.
+"Ahaha," Asuho laughs.
 Asuho: "But you know what? Who even cares."
 Asuho: "I doubt I even need any of those tonight."
 Asuho: "They say there's over 8,000 stars in our universe that you can see with the naked eye."
 Asuho: "A little less than half of them, 3,500, can be seen at any given time."
 Asuho: "I'm honestly willing to bet I'm looking at all 3,500 of those right now."
-*Asuho's widened eyes are filled with innumerous lights.*
+*Asuho's widened eyes are filled with innumerable lights.*
 Asuho: "Having seen this, I can believe what you said."
 Asuho: "Believe how looking at this with the naked eye more than counts as stargazing."
 Asuho: "And I can also really feel how special that girl must've been to you."
