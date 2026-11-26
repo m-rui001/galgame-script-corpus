@@ -4861,7 +4861,7 @@ Murasame: Unfortunately not. Things would be far easier if there were some kind 
 Masaomi: Yeah. It sucks, but I can't think of anything else.
 Mako: I'm terribly sorry we can't be of any help.
 Masaomi: Yeah, sorry for pushing all this onto you.
-Murasame: We have finally begun making progress. I'm just happy I'm able to contribute to the cause.
+Murasame: We have finally begun making progress. I'm just happy I'm contributing to the cause.
 Masaomi: Thanks.
 Yoshino: Thank you very much.
 Murasame: There's no need to bow your heads to me!
@@ -4909,7 +4909,7 @@ Masaomi: You noticed?
 Mako: But of course. I am a ninja, after all.
 Mako: It's bad to space out during class, you know?
 Masaomi: I know, I know.
-Mako: But if it's bothering you this much, then does that mean you sensed something dangerous in the mountains?
+Mako: But if it's bothering you this much, does that mean you sensed something dangerous in the mountains?
 Masaomi: No, not really.
 Masaomi: In fact, nothing's really happened at all. I was just thinking we should be careful going forward.
 Mako: I hope that was all...
@@ -4993,7 +4993,7 @@ Mako: It's past the time you usually wake up by. Are you not going to your morni
 Mako: My humblest apologies for barging in on you as you're basking in the afterglow. I shall get the bath ready for you!
 Masaomi: Like I said, we didn't do anything!
 Mako: Huh? Don't tell me you plan on starting now?
-Masaomi: We did this joke already!
+Masaomi: We already did this joke!
 Mako: I see, so this has become your morning exercise routine instead. How nice it is to be young~
 Masaomi: Oh god, I'm cringing. Just stop.
 Mako: Errr... Was the joke that bad?
@@ -5050,7 +5050,7 @@ Murasame: Then how about you, Master? Do you feel anything strange?
 Masaomi: M-Me?
 *The only thing strange here is that Tomotake-san's ears are back.*
 *Though, I'm sure everyone here's noticed that.*
-*The fact that they aren't reacting probably means this isn't worth mentioning.*
+*They aren't reacting, which probably means this isn't worth mentioning.*
 *If I had to say something else, then... Hmm...*
 Masaomi: Well... My heart's beating too fast to tell if I'm also having palpitations.
 Masaomi: Actually, it feels like it's about to leap out of my―
@@ -5068,36 +5068,7 @@ Masaomi: The medium's... turned red?
 *Much like a pulsating heart.*
 Yoshino: A cursed spirit isn't about to come out, is it?
 Mako: B-But Mizuha-san said that it was black, not red, when one appeared from the fragment she was examining.
-Murasame: Mako, I have a request for you. There's somewhere I need you to go.
-Mako: Of course. You need me to go to Mizuha-san's clinic, right?
-Murasame: Actually, I need you to go to Shinatsu Manor.
-*Hitachi-san ran off to Shinatsu Manor as requested.*
-*And now she has already returned with Lena-san in tow.*
-Lena: Mmm...
-*Lena-san is grimacing in pain.*
-Murasame: Sorry for calling you over here.
-Lena: Oh, I don't mind.
-Murasame: My apologies for the sudden request, but could you tell me if you feel anything strange?
-Lena: My ears started ringing as soon as I got here. It's not too bad, though.
-Yoshino: So the medium turning red really is the cause?
-Murasame: I believe so.
-Masaomi: The only people affected are me, Tomotake-san, and Lena-san, huh...
-Mako: Does this mean the curse has grown stronger?
-Murasame: It's certainly true that the fragments are emitting a stronger aura now that they've been combined.
-Murasame: However... I do not believe the curse itself has grown stronger.
-Masaomi: Then what the hell is going on?
-Murasame: It seems to me that the medium is calling out to the remaining fragments. It's using its power to send out a signal.
-Masaomi: So that's why it's blinking red, and that's what caused Tomotake-san to sleepwalk?
-Yoshino: You mean to say... the medium took control of my body?
-Lena: It took control? I'm not sure I know what's going on, but does this mean Yoshino will be possessed by the spirit?
-Murasame: No, I doubt we need to worry about that.
-Murasame: I suspect this phenomenon only occurs while you are asleep. And only during the night, when the medium's power is at its peak.
-Masaomi: So rather than her body being hijacked, it's more like Tomotake-san's unconsciously responding to the signals being sent out?
-Yoshino: Meaning... I snuck into your room because of the medium's signals... Right, that explains it. Thank goodness we were able to discover the reason.
-Masaomi: Tomotake-san?
-Yoshino: I-I-It's nothing! Anyway, we need to think of a solution, quickly!
-Masaomi: Yeah. It's not like you can just pull all-nighters until we find the remaining fragments.
-Murasame: About that... I am of the opinion that we may be able to utilize these signals.
+Murasame: Mako, I have a request for you.
 Masaomi: How so?
 Yoshino: *inhale* *exhale* *inhale* *exhale*
 Murasame: Yoshino, don't be so nervous. We need you to fall asleep, remember?
@@ -5125,7 +5096,7 @@ Masaomi: Sigh...
 *It's a sphere the size of my palm, and a white mist is swirling in its center.*
 *I dunno much about the value of precious stones, but it looks pretty, at least.*
 *Still, I can't help but sigh.*
-Lena: What's wrong Masaomi? Why're you sighing?
+Lena: What's wrong, Masaomi? Why're you sighing?
 Lena: Didn't yesterday's purification go well?
 Masaomi: Oh yeah. It did.
 Masaomi: But, well...
@@ -5328,7 +5299,7 @@ Masaomi: Oh yeah, Murasame-chan, it's probably a bit late to be asking you this,
 Murasame: Yes?
 Masaomi: Since the fragment inside me is gone, does that mean I won't be able to see you anymore?
 Masaomi: I could only see and touch you because I had that inside me, right?
-Murasame: The fact that we are talking like this right now means that even if that were the case, it wouldn't happen right away.
+Murasame: Since we are talking like this right now, even if that were the case, it wouldn't happen right away.
 Murasame: If the fragment's influence is going to vanish, it won't be for some time to come.
 Masaomi: Oh... So it's just like with Lena-san. That's good.
 Masaomi: I'd be sad if I couldn't talk to you anymore.
@@ -5438,7 +5409,7 @@ Masaomi: Alright, stop right there.
 *I hold up my palm and interrupt Tomotake-san.*
 Masaomi: I'm not the only one who made this possible. If it wasn't for Hitachi-san, we might have all died.
 Masaomi: And Murasame-chan, Lena-chan, Grandpa, Yasuharu-san, and Komakawa-san all helped a ton too.
-Masaomi: We couldn't have achieved this without the help of any one of them.
+Masaomi: We couldn't have achieved this without any one of them.
 Yoshino: I'm grateful to the others too, of course.
 Masaomi: That includes you, Tomotake-san.
 Yoshino: Huh? If anything, I feel like I only caused more trouble for everyone...
@@ -5506,7 +5477,7 @@ Masaomi: I see... Hmm...
 Masaomi: Tomotake-san, is there anything you want to do?
 Yoshino: What do you mean?
 Masaomi: You know, like go shopping in the city or something.
-Yoshino: I can do all of my shopping here, though.
+Yoshino: I can do all my shopping here, though.
 Masaomi: I mean, it doesn't have to be shopping.
 Masaomi: Anything's fine, but I think if you can find something to look forward to, you'll be able to be as happy about the curse being lifted as everyone else.
 Masaomi: And I'm sure Yasuharu-san and Hitachi-san would enjoy seeing you exercise your freedom now that you're no longer tied down by the curse.
@@ -5518,7 +5489,7 @@ Masaomi: I see...
 Masaomi: Well, don't sweat it. Take your time and think.
 Yoshino: ...That sounds like a good idea.
 *Tomotake-san looks up at the night sky.*
-*It seems more like she's reminiscing instead of thinking about what to do next.*
+*It seems she's reminiscing rather than thinking about what to do next.*
 Masaomi: It can be a big dream, or just some small thing like going to an amusement park.
 Masaomi: But either way, I think you should find something you want to do and do it.
 Masaomi: For now, though, how about you just rest? Times like these are when a good soak in the bath really helps.

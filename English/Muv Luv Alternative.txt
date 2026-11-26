@@ -402,7 +402,7 @@ Yuuko: "I would think you'd know the reason for that."
 *They gave me a full cavity search and blood tests on top of everything else......*
 *Now I can understand how incredible the ID I got last time was.*
 Takeru: "Well, I do. ......but it's still far better than being locked up for another few days."
-*And the fact that they've let me in this far means they're convinced I'm safe.*
+*And their letting me in this far means they're convinced I'm safe.*
 *Now......how do I get her to believe me......?*
 *Back then, Yuuko-sensei......why did she believe me......?*
 *......if I could just figure that out......*
@@ -512,7 +512,7 @@ Takeru: "Back then, you just appeared out of nowhere, found me interesting, got 
 Yuuko: "......then?"
 Takeru: "You asked me a lot about my original world. Then you let me meet Kasumi......and showed me that brain...... Almost everything I know about this world is stuff you taught me, Sensei!"
 Yuuko: "............"
-Takeru: "I think......you're the reason I was able to get by in that fucked up world."
+Takeru: "I think......you're the reason I got by in that fucked up world."
 Takeru: "But I still don't want to die for no reason. If you're really going to shoot.......then I'm ready for it."
 Yuuko: "......even if you managed to dodge the bullet......what would you do next?"
 Takeru: "............"
@@ -550,7 +550,7 @@ Yuuko: "Good idea......one minute."
 Yuuko: "............"
 *――You may not understand the truth, but that won't change it......hmm.*
 *I'm impressed I remembered that line......*
-*The fact that Sensei reacted to it means...... I wasn't just making it up or deluding myself.*
+*Sensei reacting to it means...... I wasn't just making it up or deluding myself.*
 Yuuko: "............"
 *......ah!?*
 *Sensei lowered her gun after staring at the screen for a while.*
@@ -623,7 +623,7 @@ Takeru: "Hmmm......details aside, it does feel kinda like that. ......it's just.
 Yuuko: "......Kagami......Sumika."
 Takeru: "Yes, and you said she didn't exist in any records. You also told me to forget about her. Otherwise I'd look like a weakling......I think it was."
 Yuuko: "Hmmmm......"
-Takeru: "Well, now I understand why you had to tell me that. I can't do here what I did in my world."
+Takeru: "Well, now I understand why you had to tell me that. I can't do what I did in my world here."
 Yuuko: "Yes......"
 Takeru: "So, you were interested in me, and ordered me to help with your research."
 Yuuko: "Research? ......what research?"
@@ -660,7 +660,7 @@ Takeru: "............"
 *――Everything's ready. Head down to the field now. I assume I don't have to tell you where everything is?*
 *Now I can finally......get back into squad 207.*
 *On top of that, I got the security pass that'll let me onto floor B19.*
-*Judging from Sensei's attitude, she's even more interested in me than last time...... ......which makes sense, I know a lot more now.*
+*Judging from Sensei's attitude, she's even more interested in me than last time............which makes sense, I know a lot more now.*
 *......now, this is where it really begins.*
 *No matter what, I have to make sure Alternative IV is completed.*
 *But I still don't know what I can actually do to help with that.*
@@ -682,7 +682,7 @@ Meiya: "......is something the matter?"
 Takeru: "Ah, no......umm, what?"
 *Why does it feel so strange......to hear Meiya speak formally to me......?*
 *Does it feel......distant?*
-*No, not that. Meiya's always been......formal, still, old-fashioned...... ......well, whatever it was, she always spoke that way......*
+*No, not that. Meiya's always been......formal, still, old-fashioned...........well, whatever it was, she always spoke that way......*
 Meiya: "I must ask you not to go any further. This place is dangerous for outsiders."
 Takeru: "Ah......well......"
 Meiya: "Are you looking for someone?"
@@ -766,7 +766,7 @@ Takeru: "Ah, no......umm, what?"
 *I've never used her first name before......*
 Miki: "Okay, umm, we're training over here, so......you have to leave."
 Takeru: "Ah......"
-Miki: "If you need something, then go through that door and on your left......"
+Miki: "If you need something, then go through that door, and it'll be on your left......"
 Voice: "――Tamase, it's alright."
 Miki: "Instructor?"
 *Marimo-chan......*
@@ -808,7 +808,7 @@ Gen. Radhabinod: "That is the nature of an army."
 *If we graduate and get commissioned, people will trust what I say, and I might be able to help Yuuko-sensei's plan.*
 *We might even be able to get some more help.*
 *――I should've asked Yuuko-sensei more about Alternative IV.*
-*――Right now, Sensei's probably struggling...... ......with exactly the same thing she lost to before.*
+*――Right now, Sensei's probably struggling...........with exactly the same thing she lost to before.*
 *――I want the people on top to hear the words of someone who's experienced the end......*
 *We're probably heading toward the same tragic conclusion as before. I need to make them trust me......if I'm going to change that......*
 *I'm getting impatient......if only I had more allies......*
@@ -823,7 +823,7 @@ Gen. Radhabinod: "That is the nature of an army."
 *I remember......feeling mad, and powerless......like it was yesterday.*
 *I think that was when......I prepared myself for the idea of dying in the "previous world."*
 *But I don't remember......why I started thinking that way. Didn't something trigger it?*
-*Was I just heavily influenced by the fact that everyone around me had to live in a world with BETA?*
+*Was I just heavily influenced by everyone around me having to live in a world with BETA?*
 *............*
 Marimo: "Squad, form up――!!"
 Miki: "Shirogane-san, Sakaki-san, over here!"
