@@ -2,7 +2,7 @@
 *Our lady-loves,―phantasms of our brains,*
 *―Dream-fancies blown into soap-bubbles!*
 *Come! Take it,*
-*and change *
+*and change*
 *feigned love-words into true.*
 *I breathed my sighs and moans haphazard-wise;*
 *Call all these wandering love-birds home to nest.*
@@ -307,20 +307,20 @@ Yuki: Involved?
 Yuki: Ah, yeah. So you are a Kita High student, like I thought.
 *That was definitely the Kita High uniform she was wearing.*
 Yuki: Who are you?
-"I'm Takashima Zakuro, from the class next to yours.": く
+"I'm Takashima Zakuro, from the class next to yours."
 *"I'm Takashima Zakuro,*
 Zakuro: from the class next to yours.
 Yuki: From the class next to mine?
 *Come to think of it, there might've been a girl like that.*
 *As a general rule, I don't even remember the names of the girls in my own class, let alone the class next to mine.*
 Zakuro: Ahaha
-* So you don't remember me?"*
+*So you don't remember me?"*
 Yuki: Ahaha. Sorry.
 Zakuro: Well... For some reason
-* I kind of knew you didn't."*
+*I kind of knew you didn't."*
 Yuki: You kind of knew that?
 Zakuro: Oh
-* No, I'm sorry. When my stuffed doll fell and hit you, I kind of had that feeling."*
+*No, I'm sorry. When my stuffed doll fell and hit you, I kind of had that feeling."*
 *...*
 *Um... So, to summarize...*
 *As soon as the stuffed doll crashed into me, this girl realized that I didn't actually know her.*
@@ -369,11 +369,11 @@ Zakuro: Yes. A commemorative text.
 Yuki: A commemorative text... Who are you sending it to?
 Zakuro: Let's see. Well, I have 158 people in my phone, so 158 people.
 Yuki: What kind of message?
-Zakuro: No, uh..
-* Please don't look. You'd be pretty put off."*
+Zakuro: No, uh.
+*Please don't look. You'd be pretty put off."*
 Yuki: Put off?
-Zakuro: Oh, it's just tha
-* I thought I'd play the first and last prank."*
+Zakuro: Oh, it's just that
+*I thought I'd play the first and last prank."*
 Yuki: The first and last prank?
 Zakuro: Yes. The first and last prank.
 Zakuro: I thought it might be okay to play a prank like that.
@@ -405,8 +405,8 @@ Zakuro: And I thought I could partake in it as well.
 Yuki: P-Partake? What are you talking about? I don't have any food or anything, if that's what you're after.
 Zakuro: I meant the sky. You shouldn't keep it to yourself on such a nice day.
 Yuki: The sky?
-Zakuro: Yes..
-* Let's just say you need to share the sky."*
+Zakuro: Yes.
+*Let's just say you need to share the sky."*
 Yuki: Hold on. That doesn't make any sense. I mean, the sky doesn't belong to anyone.
 Zakuro: Doesn't it?
 Yuki: Please don't look at me like I just said something strange. There's no way anyone could own something like that. Well, maybe if we were talking about an airspace violation or something, but that's different.
@@ -629,7 +629,7 @@ Tsukasa: Later, Yuki... Goodbye, forever.
 *Was she really trying to kill me?*
 *Why?*
 *So what Kagami had been hiding behind her back was certainly...*
-*!*
+*?!*
 *A w-weapon?!*
 Kagami: U-Um... first of all, sh-show some gratitude.
 *For some reason, she looked down. Maybe she didn't want me to see the intent in her eyes?*
@@ -664,7 +664,7 @@ Yuki: Oh... Well, thank—
 *Right as I said that, I suddenly came to a realization.*
 *The true nature of what she was hiding.*
 *"Don't I do stuff like show you my notes?!"*
-*The thing that Kagami was making such a big deal out of giving to me.*
+*What Kagami was making such a big deal out of giving to me.*
 *Maybe a straight A student like her might think it was something to be thankful for, but it certainly wasn't something I would be grateful for.*
 *It was all just notes and handouts she got for me while I was skipping, right?*
 Yuki: So I'm guessing you've got a whole range of materials back there?
@@ -848,7 +848,7 @@ Zakuro: The girl who is the world itself should never have been in this world in
 Zakuro: The triangle that shines in the summer sky is much larger in person than I had imagined.
 Zakuro: It's a triangle so large that it even encompasses the Milky Way.
 Yuki: Um, does this have anything to do with what you said earlier?
-Zakuro: The fact that an infinite line is a triangle.
+Zakuro: The idea that an infinite line is a triangle.
 Yuki: Huh? What?
 Zakuro: Are you not familiar with it?
 *No. Actually, I did know that.*
@@ -876,7 +876,7 @@ Zakuro: Because the girl is the world itself.
 Yuki: Huh?
 *Err... just what is she saying?*
 *Maybe she really is one of those unstable people.*
-*Claiming to be the world itself... Is she talking about that anime? Suzumiya something-or-other...*
+*Claiming to be the world itself... Is she talking about that anime? Suzumiya something-or-something...*
 Zakuro: The girl who is the world itself shouldn't be in the world. She should return to the girl who's waiting in the sky.
 Yuki: Um, just to clarify... who's waiting in the sky?
 Zakuro: The girl she must protect. The girl she swore to protect. She's somewhere in this sky.
@@ -1198,7 +1198,7 @@ Tsukasa: Well, it's fine. Don't think about it too much.
 Kagami: Ugh...
 Yuki: ...
 *I got the feeling something had just flown over my head. And I felt a little uneasy about how Tsukasa and Zakuro had come to an agreement so easily.*
-*It sounded like they were talking nonsense just now. How were they able to hold a meaningful conversation when most of what they were talking about was gibberish?*
+*It sounded like they were talking nonsense a moment ago. How could they hold a meaningful conversation when most of what they were talking about was gibberish?*
 *It was a bit mysterious.*
 Zakuro: So this means that Takashima Zakuro will now stay at Yuki-sama's place as a maid character, and the meddlesome childhood friend character has barged in after her, insisting on staying as well.
 Tsukasa: Oh, in that case you can think of it like this. If there's a maid character and a childhood friend character, all you need to round out the roster is a little sister.
@@ -1232,7 +1232,7 @@ Kagami: B-But that's...
 Kagami: Hey, stop!
 Zakuro: What is the matter, Kagami-san?
 *When I went into the changing room, I saw Takashima completely naked.*
-*Her nude body was so beautiful and flawless that it would have overwhelmed anyone's sense, regardless of their gender.*
+*Her nude body was so beautiful and flawless that it would have overwhelmed anyone's senses, regardless of gender.*
 Kagami: Whoa! Wait, y-you're not really going to go in like that, are you?
 *Kagami reflexively turned her face away.*
 Zakuro: I am. Is there a problem?
@@ -1390,7 +1390,7 @@ Zakuro: ...May I please join in?!
 Yuki: Huh?
 ================================================================================
 Kagami: Takashima-san, why are you clinging to Yuki? It's not normal.
-*Kagami tried to pull Takashima-san away from me, but Takashima-san was holding onto my clothes tight. I worried that they would stretch out my sleeves at this rate.*
+*Kagami tried to pull Takashima-san away from me, but Takashima-san was holding onto my clothes tightly. I was worried she'd stretch out my sleeves at this rate.*
 Zakuro: Yes... Good morning.
 *Takashima-san grabbed me tightly so she wouldn't be pulled away.*
 Tsukasa: Don't fight, you two...
@@ -1426,7 +1426,7 @@ Yuki: That hurts.
 Zakuro: Yuki-sama, are you all right?
 *Takashima-san looked up at me, her arms still wrapped around my waist.*
 Yuki: Uh, yeah...
-Zakuro: Kagami-san, I don't think you should say with your fist what you can't with your mouth.
+Zakuro: Kagami-san, I don't think you should use your fist to say what you can't with your mouth.
 Yuki: You're right about that. Um, this might be an abrupt change of topic, but how long are you planning on clinging to me, Takashima-san?
 Zakuro: Huh? Oh... E-Excuse me.
 *Takashima-san pulled away from me in an instant, then lowered her head in a deep bow.*
@@ -1449,7 +1449,7 @@ Kagami: Yuki, you dumbass!
 Yuki: Ow, ow, ow... She kicked me in the face.
 *Kagami walked over to the sink, her shoulders stiff with anger.*
 Yuki: Why'd you kick me? You're the one who showed them to me.
-*And furthermore, why was she so mad about someone of the same gender seeing her underwear?*
+*Besides, why was she so mad about someone of the same gender seeing her underwear?*
 Kagami: Anyway, you need to get up!
 Yuki: All right.
 *After saying that, I noticed that Kagami had disappeared somewhere.*
@@ -1483,7 +1483,7 @@ Zakuro: That's right. Yuki-sama was trying her best to sleep.
 Kagami: It was... our fault, I guess... But still!
 Yuki: But still?
 Kagami: Uh...
-Yuki: Well, people are guaranteed to make mistakes. There's no point in worrying about it.
+Yuki: Well, everyone makes mistakes. There's no point in worrying about it.
 Zakuro: Yes, so you should go ahead and get back to sleep.
 *Takashima-san latched onto my arm again.*
 Kagami: What?! Wh-Why are you getting into her bed?!
