@@ -5954,39 +5954,40 @@ Benio remains sad to the end.
 The answer to that last question was simple, as expected. Risk and reward.
 If something seems too good to be true, it isn't.
 ====================C004_010 コミュネット01_030100.json====================
-828 ：Anonymous-sama
-：20XX/XX/XX(Sun) 06:30:55 Another peaceful day in the Coμnet
-829 ：Anonymous-sama
-：20XX/XX/XX(Sun) 06:35:11
+828 :Anonymous-sama
+:20XX/XX/XX(Sun) 06:30:55 Another peaceful day in the Coμnet
+829 :Anonymous-sama
+:20XX/XX/XX(Sun) 06:35:11
 Who chose "Coμnet" as the collective term for all coμs? Anyone know?
-830 ：Anonymous-sama
-：20XX/XX/XX(Sun) 07:01:48 no idea
-831 ：Anonymous-sama
-：20XX/XX/XX(Sun) 07:15:20 Didn't people say it was internet slang?
-832 ：Anonymous-sama
-：20XX/XX/XX(Sun) 08:46:01 A friend of mine just awakened, and turns out he's a Bishop
-833 ：Anonymous-sama
-：20XX/XX/XX(Sun) 09:09:00 Stay on topic
-834 ：Anonymous-sama
-：20XX/XX/XX(Sun) 12:30:52 lol, calling him a spammer?
-835 ：Anonymous-sama
-：20XX/XX/XX(Sun) 13:04:17
+830 :Anonymous-sama
+:20XX/XX/XX(Sun) 07:01:48 no idea
+831 :Anonymous-sama
+:20XX/XX/XX(Sun) 07:15:20 Didn't people say it was internet slang?
+832 :Anonymous-sama
+:20XX/XX/XX(Sun) 08:46:01 A friend of mine just awakened, and turns out he's a Bishop
+833 :Anonymous-sama
+:20XX/XX/XX(Sun) 09:09:00 Stay on topic
+834 :Anonymous-sama
+:20XX/XX/XX(Sun) 12:30:52 lol, calling him a spammer?
+835 :Anonymous-sama
+:20XX/XX/XX(Sun) 13:04:17
 I think Bishops are pretty convenient, but I guess they aren't popular here
-836 ：Anonymous-sama
-：20XX/XX/XX(Sun) 13:05:01 ・・・・・（´д｀） No, absolutely not
-837 ：Anonymous-sama
-：20XX/XX/XX(Sun) 16:42:30 Master of nothing lol
-838 ：Anonymous-sama
-：20XX/XX/XX(Sun) 17:08:42
+836 :Anonymous-sama
+:20XX/XX/XX(Sun) 13:05:01 ・・・・・（´д｀） No, absolutely not
+837 :Anonymous-sama
+:20XX/XX/XX(Sun) 16:42:30 Master of nothing lol
+838 :Anonymous-sama
+:20XX/XX/XX(Sun) 17:08:42
 >>828 I dunno about peaceful. There's lots of rumors about coμ hunters lately
-839 ：Anonymous-sama
-：20XX/XX/XX(Sun) 17:30:22
+839 :Anonymous-sama
+:20XX/XX/XX(Sun) 17:30:22
 People saying other coμs got taken out and they're gonna be next or something
-840 ：Anonymous-sama
-：20XX/XX/XX(Sun) 17:31:59 What should the next thread title be?
-841 ：Anonymous-sama
-：20XX/XX/XX(Sun) 18:01:09 Worry about that after 950
-====================C004_015 ドラッグ_0531.json====================: "Where do you want to go?": "Nowhere in particular......"
+840 :Anonymous-sama
+:20XX/XX/XX(Sun) 17:31:59 What should the next thread title be?
+841 :Anonymous-sama
+:20XX/XX/XX(Sun) 18:01:09 Worry about that after 950
+====================C004_015 ドラッグ_0531.json====================
+: "Where do you want to go?": "Nowhere in particular......"
 It's raining outside. Gloom has been trickling down onto the asphalt since morning.
 People and things moving every which way. In the shadows of the city, monsters sleep day and night.
 Akihito: "Breakfast is ready."
