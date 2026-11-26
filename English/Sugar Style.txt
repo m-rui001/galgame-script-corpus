@@ -4518,7 +4518,7 @@ Ichika: Oh, come on. Coming from a gorgeous woman like you, I can only take that
 <USER>: Sauce, sauce...
 <USER>: Yo, Mao. Pass the soy sauce.
 Mao: ...
-Mao: Pass it to yourself.
+Mao: Get it yourself.
 <USER>: Geez. All right, fine.
 *She's as cold to me as ever.*
 Kaoru: Now, don't be rude. Pass him the soy sauce.
@@ -4543,7 +4543,7 @@ Kaname: You consistently demonstrate excellent taste, Ichika.
 <USER>: By the way, this is Choconana.
 *I show Erika a picture on my phone.*
 Erika: This _thing_?
-Kaname: Yes. You seem to have a problem?
+Kaname: Yes. Do you have a problem with that?
 Erika: No... I just think I've seen this art somewhere before.
 Kaname: Of course you have. The artist does character design for PreOct, as well. Truly a gifted individual.
 Erika: Ooh, yeah, that one Saturday morning show, right? I'm surprised you know so much about it.
@@ -4568,7 +4568,7 @@ Mao: But c'mon, listen to that name.
 Kaname: What do you like about her art?
 <USER>: Mm, well. The way she draws legs is so sexy. I also love her eyes. They're just so cute.
 Kaname: Okay. So you like the eyes.
-Hare: You all know a lot about that stuff, huh? I'm too uninformed.
+Hare: You all know a lot about that stuff, huh? I don't know much about it.
 <USER>: Oh, sorry. Let's talk about something else.
 Hare: No, I'm fine! Don't worry about me. It's fun just watching you all talk, anyway!
 Erika: Didja hear that, Maomao? Hare likes hearing all about his Cream Dreams!
@@ -4594,14 +4594,14 @@ Kaoru: Yuuhi, Suuuper Dry!
 Kaname: Okay.
 Kaname: Want to come to the store with me?
 <USER>: Huh? You trying to make me carry the heavy stuff?
-Kaname: ...It's like you're able to read my mind, lately.
+Kaname: ...It's like you can read my mind lately.
 <USER>: After about the hundredth time of you teasing me, I started to wise up.
 *That said, she did help me out a lot in class today.*
 *I should probably return the favor.*
 Kaname: ...
 Kaname: Teehee.
 *Yeah, she's got me over a barrel, and she knows it.*
-<USER>: Just wondering. Did you ask me, knowing fully well that I wouldn't be able to say no?
+<USER>: Just wondering. Did you ask me, knowing full well that I wouldn't be able to say no?
 Kaname: Gee, I wonder.
 *If she realized that, she really is thinking a step ahead of me.*
 Mao: Don't make poor Kaname carry all that herself. Are you a man, or aren't you?
@@ -4635,7 +4635,7 @@ Kaname: I'm sorry, but I'm not ready for...
 *You really revel in your popularity, don't you?*
 Kaname: What are you getting at, then?
 <USER>: Let me finish, ugh!
-<USER>: I was just thinking that, between school and the dorm, you're the most approachable girl to me!
+<USER>: I was just thinking that, between school and the dorm, you're the girl I find easiest to talk to!
 Kaname: ...I see.
 *Though I'd wanted to avoid thinking about it...*
 *I want to get to know Kaname better.*
@@ -4645,7 +4645,7 @@ Kaname: Don't say anything that will mess up our friendship, got it?
 <USER>: Well, while I'm on this, let me ask you for one thing.
 Kaname: I'm sorry, but I'm not ready for...
 <USER>: For real, are you _wanting_ me to ask you out?!
-Kaname: Go on, out with it. We're walking alone out together in the dark, and you want to ask a favor. Whatever could it be?
+Kaname: Go on, out with it. We're walking together alone in the dark, and you want to ask a favor. Whatever could it be?
 <USER>: Don't blame me for the lack of streetlights!
 Kaname: Fine. What is it?
 <USER>: Um... Well!
@@ -4663,11 +4663,11 @@ Kaname: All right.
 *But she's the girl I'm closest to right now, and she's definitely something special to me.*
 ================================================================================
 Mao: ...
-<USER>: (Who peed in her cheerios?)
+<USER>: (Who peed in her Cheerios?)
 *When I run into her in the hallway, Mao seems rather cranky.*
 *Maybe she's got a stomachache or something.*
 <USER>: Hewwo thewe! How awe you today?
-Mao: Never enter my sight again.
+Mao: Get out of my sight.
 <USER>: I'm not so great at vanishing.
 *Scathing as always.*
 <USER>: However, I am a master of the shadow clone jutsu.
@@ -4692,7 +4692,7 @@ Mao: Fine, then _I'm_ leaving.
 *Her nickname for me is _pervert_!*
 *Maybe I've made a more positive impression a couple times since we first met, but any accumulated goodwill bursts like a popped balloon the moment the underwear incident floats through her head.*
 <USER>: Hey, Mao, hear me out.
-<USER>: It's totally fair that you call me 'pervert,' but Iー
+<USER>: It's totally fair that you call me 'pervert,' but I—
 Mao: We're done here.
 *Such a cold look on her face.*
 Mao: Really, it has nothing to do with you.
@@ -4723,7 +4723,7 @@ Mao: He ended it by saying, 'There are some things girls just don't get!'
 <USER>: Well, boys are like that.
 <USER>: Chuunibyou, puberty, rebellious phases. There are plenty of times in a guy's life where he'll be a piece of crap.
 Mao: But I mean, he's right. Sometimes I just don't get men.
-<USER>: Fortunately for you, I'm here for just those times.
+<USER>: Fortunately for you, I'm here for exactly those times.
 <USER>: For you and your brother, I'd give the clothes on my back.
 Mao: Keep your shirt on.
 *Why are you looking at me like that?*
@@ -4779,7 +4779,7 @@ Mao: Rrgh...
 *I brought my notebook and pencil. That said, lack of a textbook is a problem.*
 *Eh, I'll be fine. I can bum Mao's if I have to.*
 Girl Student A: Minami, who's that? Is he your friend?
-Mao: J-Just some guy Iー
+Mao: J-Just some guy I—
 <USER>: I'm her brother.
 Mao: Excuse me?!
 *The girls around us erupt into laughter.*
@@ -5248,7 +5248,7 @@ Contrails..."
 <USER>: Uh, yeah... It is.
 ???: The dorm I lived in before was closer to the city. The scenery was nowhere near as lovely as this.
 <USER>: ...
-*Still, comparing this to every other first meeting I've had here, I'll happily take off my game" over "absolutely disastrous.*
+*Still, comparing this to every other first meeting I've had here, I'll happily take "off my game" over absolutely disastrous.*
 <USER>: Could this be the encounter I've been waiting for?!
 ???: ...
 ???: Has anyone ever told you that you're superficial?
@@ -5525,7 +5525,7 @@ Hare: Hyah!
 *I slip on the wet floor, but my fall is broken by something very, very soft.*
 Hare: Eeeeeeeeek!
 <USER>: Gwaaargh!
-<USER>: Whー Huh?! Is that...?!
+<USER>: Wh— Huh?! Is that...?!
 *It's Hare's titties.*
 *W-Wow! They're really nice.*
 Hare: Waaah! Don't look at me, don't looook!
@@ -5563,7 +5563,7 @@ Hare: Good morning.
 Hare: ...
 *Hare arrives at her own seat, patting her still-wet hair with a towel.*
 Mao: Oh wow, your girlfriend's really pretty.
-<USER>: Oh. Well, actually, Maoー
+<USER>: Oh. Well, actually, Mao—
 Kaoru: There you are! Finally, we've got everyone present.
 *Kaoru claps, interrupting me.*
 Kaoru: So, everyone. We have yet another new resident to meet today.
@@ -5578,7 +5578,7 @@ Hare: Oh, really? No wonder you seem so mature.
 Mao: An older girl?
 Kaoru: This is Hare, and the pipsqueak is Mao.
 Hare: Hello.
-Mao: Who are you calling a pipsqueak? Just look at this chest. Iー
+Mao: Who are you calling a pipsqueak? Just look at this chest. I—
 Mao: Grr!
 <USER>: Why are you glaring at me?
 *My intuition tells me I just missed out on observing some very enlightening girl talk.*
@@ -5696,7 +5696,6 @@ Mao: Mm, so good.
 *Honestly, it made me happy when Mao was nice to me before.*
 *And I'd probably feel lonely if I went around all by myself, so maybe I should invite her.*
 Mao: Hm? What do you want?
-<USER>: Mao, do you have plans today?
 Mao: Huh? Why?
 <USER>: I was thinking about checking out downtown, but it'd be weird if I went alone.
 <USER>: So I was thinking, maybe you'd like to come with?
@@ -6004,7 +6003,7 @@ Ichika: I'll take care of the hamburger steaks. You're in charge of the garnish!
 <USER>: Wait, huh? I'm making the garnish?!
 *Are you sure this is a good idea?*
 *I was thinking I could, like, tenderize the meat.*
-Ichika: Don't worry. I'll just make it so all you have to do is to add salt, pepper, and ponzu sauce!
+Ichika: Don't worry. I'll just make it so all you have to do is add salt, pepper, and ponzu sauce!
 <USER>: A-All right. I'll try.
 *If that's all it takes, maybe I really can do it.*
 *We saute the sugar snap peas in the frying pan.*
@@ -6065,7 +6064,7 @@ Ichika: Heheh.
 <USER>: Lick, lick.
 *Yuck!*
 Ichika: Oh. It's bad, isn't it?
-<USER>: It's missing all the fresh, juicyness of a real melon. It's... ugh, all bitter and no sweet.
+<USER>: It's missing all the fresh, juiciness of a real melon. It's... ugh, all bitter and no sweet.
 <USER>: Even worse, the smell of herbs and the minty menthol of it...
 <USER>: It's like top-tier legendary garbage.
 Ichika: A-Ahaha.
@@ -6082,7 +6081,7 @@ Ichika: S-Sorry. Oh, I'll give you the biggest cut of meat! Okay? Forgive me yet
 <USER>: As retribution for this, I'm going to have a whole box of bitter melon candy shipped to you.
 Ichika: Noooo! I can't stand bitter melooon!
 *In the end, we continue cooking hamburger steaks, comforted by our shared fear of bitter melon.*
-*This caused a strange feeling of camaradarie to bloom between us, creating an incredible synergy during our time cooking together.*
+*This caused a strange feeling of camaraderie to bloom between us, creating an incredible synergy during our time cooking together.*
 *Good riddance, bitter melon candy.*
 ================================================================================
 *I slyly peel the curtain back to find a neat stack of laundry and some clothes on hangers.*
@@ -6236,7 +6235,7 @@ Ichika: You can heat up yesterday's miso soup, too, if you want.
 Ichika: E-Excuse me?
 <USER>: Okay, okay! No worries, I'm just going to wash my face, so don't mind me here.
 *I start splashing water on myself.*
-*Out here in the sticks, the water is always cold when it comes out of the dap, even in the summer.*
+*Out here in the sticks, the water is always cold when it comes out of the tap, even in the summer.*
 *I decide to shave my peach fuzz while I'm here.*
 <USER>: E-Excuse me?
 Ichika: Oh, okay, okay! I'll look away, so don't mind me here.
@@ -6277,7 +6276,7 @@ Erika: Doesn't it bother you that there's a lone wolf in our dorm?
 Erika: God may let this pass, but I won't!
 *Who do you think you are?*
 Ichika: Ahaha... I understand being bothered by it.
-Mao: Right? Erika and I don't have the power to restrain the curiosity in our hearts.
+Mao: Right? Erika and I can't restrain the curiosity in our hearts.
 <USER>: And that's supposed to justify following her?
 Mao: Yep.
 *Y'know, I have to respect that.*

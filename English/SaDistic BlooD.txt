@@ -4512,7 +4512,7 @@ organized. They've just now entered the building.
 "This... This stuff, all over the halls... Is that human flesh?"
 "They were torn apart..."
 "Just how many Vampires attacked them...?"
-Wherever they looked, all they see are human remains that no longer even resemble corpses. Claw
+Wherever they looked, all they saw were human remains that no longer even resemble corpses. Claw
 marks are etched across the walls and ceiling.
 The evidence all points toward the facility coming under attack by an extremely large number of
 Vampires.
@@ -4587,14 +4587,14 @@ Shizuha
 (No... I can't... loosen my butt...!)
 The two of them bravely endure this torture.
 Even though they know there's no chance of them being saved, they can't afford to give up.
-The moment one of them gives into exhaustion, the other one will die.
+The moment one of them gives in to exhaustion, the other one will die.
 Each of them would rather die first, rather than be forced to see the other die.
 Ｙｕｎａ
 (But that would mean leaving Shizuha all alone...)
 Shizuha
 (Would... Yuna be lonely without me? Would she be sad?)
 As their stamina gradually depletes, the two of them only think of one another.
-There's no way for them to walk out of this situation alive, they still rack their brains nonetheless
+There's no way for them to walk out of this situation alive, but they still rack their brains
 about which of them ought to die first.
 Ｙｕｎａ
 (I don't want to leave Shizuha all on her own... And I don't want to, either...)
@@ -4619,12 +4619,12 @@ Shizuha: "Yu...na..."
 Despite the pain that the rods are inflicting on their lower halves, the two of them break out into
 smiles.
 They both realize that each has come to the same conclusion as the other.
-Ｙｕｎａ: "I'm, sorry... I couldn't save you..."
+Ｙｕｎａ: "I'm sorry... I couldn't save you..."
 Shizuha: "No... I'm glad... Ugh, we get to stay... together, to the very end..."
 Ｙｕｎａ: "I... I wish we could have been... together longer... U-Ugh... We could've... gone around... Ugh... I
-wanted to, see the world with you..."
-Shizuha: "Me too, nng.... I wanted to.. Ugh, travel all over with you... Nnn, Yunaaa, aaah..."
-Ｙｕｎａ: "They say there's, a next life... Ugh, so, let's travel together, then..."
+wanted to see the world with you..."
+Shizuha: "Me too, nng... I wanted to... Ugh, travel all over with you... Nnn, Yunaaa, aaah..."
+Ｙｕｎａ: "They say there's a next life... Ugh, so let's travel together, then..."
 Shizuha: "Ahaha... Our next life... Nnnng!"
 The two of them manage this exchange even as thick beads of sweat drip from their foreheads.
 They feel oddly calm and refreshed, perhaps exactly because they realize that these are their final
@@ -4632,7 +4632,7 @@ moments.
 Meanwhile, the Association's staff members mock the two. They scorn their efforts and look upon
 them with exasperation.
 To them, Vampires are nothing more than monsters.
-Any words they utter of friendship are nothing more than a pathetic attempt to ape human
+Any words of friendship they utter are nothing more than a pathetic attempt to ape human
 behavior.
 That's what so many of the facility's staff members believe.
 Ｙｕｎａ: "Aaah... I think I could last just a little longer, but..."
@@ -4667,19 +4667,19 @@ And like Yuna said, while they just barely reach each other, their lips certainl
 Ｙｕｎａ: "..."
 Shizuha: "..."
 They exchange warmth one final time.
-They keep their lips locked, as if to confirm to themselves and to the world, that they lived together
+They keep their lips locked, as if to confirm to themselves and to the world that they lived together
 at the same time.
 The jeering from all around them no longer reaches their ears.
 They can't hear the words of the priest right next to them either.
 The two exchange a final promise with their hearts full of joy at being lucky enough to have met
-one another in the largeness of the world.
+one another in the vastness of the world.
 Ｙｕｎａ: "Let's go... together."
 Shizuha: "Yeah... Together, forever..."
 With their gazes locked on each other, Yuna and Shizuha smile.
 They relax their bodies for the last time.
 With that, both of their hooks come undone in sync. The sound of grinding metal rings out.
 With heavy thuds, both their heads take to the air.
-Red blood spurts out like fireworks, dying their bodies crimson.
+Red blood spurts out like fireworks, dyeing their bodies crimson.
 Even as their heads roll across the ground, they do so together, as if still clinging to each other.
 With their eyelids closed, Yuna and Shizuha meet their demise, each of them biting down on the
 other's lips.
@@ -4702,19 +4702,19 @@ Shizuha: "I mean, yeah, but... A-Are we really going to fight them?"
 picking them off one by one."
 This is very much a gamble.
 It might seem logical to keep running and avoid conflict, but Yuna doesn't make that choice.
-While they can't tell how strong the enemy is, the fact remains that if they can secure victory against
-the Hunters, they definitely will be able to escape this city safely.
+While they can't tell how strong the enemy is, if they can secure victory against
+the Hunters, they can definitely escape this city safely.
 Ｙｕｎａ: "There's one presence approaching us, and two of us. We've got the numerical advantage."
 Shizuha: "Fighting... a Hunter..."
 Shizuha swallows nervously.
 She naturally isn't a combative person. She's already overcome by fear.
-Some part of her keeps asking if maybe they'd be better off if they just keep running.
+Some part of her keeps asking if maybe they'd be better off if they just kept running.
 Ｙｕｎａ: "...There it is."
 Rapunzel: "Oooh? I thought your scent was getting stronger, but you're just standing here in the middle of the
 street."
 After waiting there for a while, a man dressed in a suit appears within the darkness of the night.
 Upon seeing him, Yuna knits her brow.
-Ｙｕｎａ: "It's... not a human?"
+Ｙｕｎａ: "It's... not human?"
 Shizuha: "The Association's... biological weapons..."
 Although it has four limbs, it's otherwise entirely different from a human being.
 The face hidden under its hat is that of a monster.
@@ -4732,10 +4732,10 @@ Rapunzel cackles manically.
 His words give Yuna pause, however.
 Hunters usually hold some kind of grudge against Vampires.
 The opponent facing them now, however, doesn't seem to have that kind of baggage.
-He might be one of the Association's biological weapons, but Yuna realizes that it might be a good
-idea to consider him separate from the Hunters in certain respects.
+He might be one of the Association's biological weapons, but Yuna realizes she should consider him
+separate from the Hunters in certain respects.
 Rapunzel: "Then let's get this party started."
-Ｙｕｎａ: "I'll make this game of yours into a game over, right here and now."
+Ｙｕｎａ: "I'll turn this game of yours into a game over, right here and now."
 Rapunzel: "Ha! Do it if ya can!"
 The exchange between Yuna and Rapunzel is a close match.
 They land attacks and inflict injuries on each other, but neither of them can land a decisive fatal
@@ -4766,7 +4766,7 @@ Rapunzel: "So what if I am?"
 Ｙｕｎａ: "Do you hate that woman?"
 Rapunzel: "Huh? What difference does it make right now?"
 Ｙｕｎａ: "Oh, it makes all the difference in the world. Answer the question, if you please."
-Yuna continues the conversation as she gradually relaxes out of her combat stance.
+Yuna continues the conversation as she gradually relaxes her combat stance.
 Rapunzel remains primed for battle, yet he too holds back from continuing the fight.
 Rapunzel: "Yeah. I meant the Hunter woman. She always finds a way to piss me off."
 Ｙｕｎａ: "And you follow her orders anyway?"
@@ -4774,7 +4774,7 @@ Rapunzel: "What, is this your way of trying to fish for my weaknesses? Ain't gon
 Ｙｕｎａ: "Your weaknesses? So you're saying she's taking advantage of your weakness, are you?"
 Rapunzel: "..."
 Rapunzel falls silent, realizing he'd let his tongue slip.
-The fact he'd divulged the fact he 'has a weakness' to Yuna, an enemy, is a blunder he can't take
+He'd divulged to Yuna, an enemy, that he 'has a weakness'—a blunder he can't take
 back.
 Of course, she doesn't know anything specific, but there is still a chance his mistake could ultimately
 prove fatal.
@@ -4783,7 +4783,7 @@ Hunter woman."
 Ｙｕｎａ: "Considering you're biological weapons developed by the Association, I'd assume they placed some
 kind of safety device to keep you in check?"
 Rapunzel: "...So you figured that out, so fucking what? You can't trigger this thing."
-Ｙｕｎａ: "Trigger it, you say... So you mean to say that Hunter woman can trigger it."
+Ｙｕｎａ: "Trigger it, you say... So you mean the Hunter woman can trigger it."
 Ｙｕｎａ: "But if you know that much, why not just stab her in the back and kill her?"
 Rapunzel: "Well, if I could just go ahead and do that, I wouldn't be saddled with this shitty job, now would I?
 If I kill her, the Association will come after me."
@@ -4798,44 +4798,37 @@ Rapunzel: "What?"
 Ｙｕｎａ: "If this keeps up, you'll spend the rest of your days as the Association's lapdog. Is that the life you
 want for yourself?"
 Rapunzel: "..."
-Ｙｕｎａ: "If it isn't, your only choice is to fight. Fight the Association... directly."
-Rapunzel: "What are you, deaf? I already told you I can't do that. The Association put control devices in our
-hearts."
+Yuna: "If it isn't, your only choice is to fight. Fight the Association... directly."
+Rapunzel: "What are you, deaf? I already told you I can't do that. The Association put control devices in our hearts."
 Rapunzel: "All they have to do is send a specific signal to the bombs in our chests and... Boom."
-Ｙｕｎａ: "Isn't there a way of having the bombs removed?"
+Yuna: "Isn't there a way of having the bombs removed?"
 Rapunzel: "I dunno. Maybe a skilled surgeon could pull it off..."
-Ｙｕｎａ: "So if you set yourself free from that Hunter woman, you'll be free to look for a doctor that can get
-those bombs out of your chests."
+Yuna: "So if you set yourself free from that Hunter woman, you'll be free to look for a doctor that can get those bombs out of your chests."
 Rapunzel: "And you're saying... you're gonna help us do that?"
-Ｙｕｎａ: "I don't think it's that bad of a deal for either of us... What do you say?"
+Yuna: "I don't think it's that bad of a deal for either of us... What do you say?"
 Rapunzel: "..."
 Rapunzel doesn't immediately answer her question.
 He can't immediately discern if she's speaking honestly or if this is some attempt to fool him.
-What he does realize, though, is that nothing will change for him if he stays under Yuika's
-command.
-Sooner or later he'll have to kill her and cut himself free, or else he really will spend his entire life as
-a pawn of the Association.
+What he does realize, though, is that nothing will change for him if he stays under Yuika's command.
+Sooner or later he'll have to kill her and cut himself free, or else he really will spend his entire life as a pawn of the Association.
 Rapunzel: "..."
 He has to decide.
 Is Yuna's suggestion a chance or a trap?
 Eventually, Rapunzel slowly parts his lips.
-Rapunzel: "One of them's probably gonna play along. He's a combat nut who's satisfied so long as he has
-someone strong to fight."
+Rapunzel: "One of them's probably gonna play along. He's a combat nut who's satisfied so long as he has someone strong to fight."
 Rapunzel: "But the other guy's a no-go. He worships Yuika. He'd never agree to this."
-Ｙｕｎａ: "Worship, you say..."
+Yuna: "Worship, you say..."
 Yuna's eyes glint bewitchingly.
 Her lips curl up in a faint smirk.
-Ｙｕｎａ: "Where's the Hunter woman now?"
+Yuna: "Where's the Hunter woman now?"
 Rapunzel: "Knowing that shitty bitch, she's probably waiting to ambush you near the bridge."
-Ｙｕｎａ: "So that means that woman's other subordinates... There's two more, yes? I assume we have time to
-talk things through with them."
-Ｙｕｎａ: "Now, could you tell me more about the one that worships the Hunter woman?"
+Yuna: "So that means that woman's other subordinates... There's two more, yes? I assume we have time to talk things through with them."
+Yuna: "Now, could you tell me more about the one that worships the Hunter woman?"
 Yuika: "So you actually caught them. Color me impressed."
 About one hour has passed.
 Yuika shows up to the place where Rapunzel and Yuna had been fighting earlier.
 Of course, her showing up here isn't a coincidence.
-She had been waiting in ambush at the bridge, but Gretel had suddenly reported that they had
-captured two Vampires.
+She had been waiting in ambush at the bridge, but Gretel had suddenly reported that they had captured two Vampires.
 There, lying before Yuika's eyes, are the unconscious bodies of Yuna and Shizuha.
 Yuika: "What's gotten into you, though? Usually you'd kill any Vampires you catch on the spot."
 Alice: "I thought it's better to capture them alive whenever possible?"
@@ -4844,17 +4837,13 @@ Alice: "These ones were too weak. No point in me killing them."
 Yuika: "Too weak?"
 Alice's comment makes Yuika knit her brow.
 It is true that a Vampire's individual strength varies by individual.
-Some are incredibly dangerous and powerful, while others aren't any stronger than the common
-human.
+Some are incredibly dangerous and powerful, while others aren't any stronger than the common human.
 However, up until this point, they'd always slain any and all Vampires they'd encountered.
-They'd even killed Vampires they certainly could have captured alive only because they wanted to
-kill them.
-Yuika had never found a reason to fault their tendency to kill as if it were a game, as she herself
-harbors an intense hatred for Vampires.
+They'd even killed Vampires they certainly could have captured alive only because they wanted to kill them.
+Yuika had never found a reason to fault their tendency to kill as if it were a game, as she herself harbors an intense hatred for Vampires.
 To that end, the fact they haven't killed Yuna and Shizuha strikes her as incredibly strange.
 Yuika: "They don't look like weak specimens to me..."
-Rapunzel: "Hey, don't kill 'em, ya hear? What's the point in us capturing them alive if you end up wasting
-them?"
+Rapunzel: "Hey, don't kill 'em, ya hear? What's the point in us capturing them alive if you end up wasting them?"
 Yuika: "Even you're saying that? I thought you liked killing Vampires."
 Rapunzel: "It's fine. There's someone else I'd rather butcher right now."
 Yuika: "Someone else...?"
@@ -4865,27 +4854,24 @@ Gretel: "Aaah... We went ahead and did it, didn't we?"
 Gretel, who had been standing behind Yuika, mutters morosely.
 However, he was the one who had knocked her out.
 Once they are sure Yuika is conscious, Yuna and Shizuha get up from the ground.
-Ｙｕｎａ: "That went more smoothly than I thought."
+Yuna: "That went more smoothly than I thought."
 Rapunzel: "This woman only trusts Gretel out of the three of us."
-Ｙｕｎａ: "Surprisingly naive of her."
+Yuna: "Surprisingly naive of her."
 Gretel: "This is necessary... I have no choice but to do this if I am to swear true fealty to Lady Yuika."
 Gretel whispers his penitence, gazing at Yuika's unmoving body.
 Alice heaves out a sigh of exasperation at him, while Rapunzel smiles with a shrug.
-Rapunzel: "You're impressive, though. Didn't think you'd actually be able to talk that asshat Gretel over to our
-side."
-Ｙｕｎａ: "Talking to him made it clear to me that out of the three of you, he's the most dangerous."
-Ｙｕｎａ: "Even now, he doesn't think he betrayed her. He believes he's doing the right thing."
-Ｙｕｎａ: "All I really did was take advantage of that zeal of his."
+Rapunzel: "You're impressive, though. Didn't think you'd actually be able to talk that asshat Gretel over to our side."
+Yuna: "Talking to him made it clear to me that out of the three of you, he's the most dangerous."
+Yuna: "Even now, he doesn't think he betrayed her. He believes he's doing the right thing."
+Yuna: "All I really did was take advantage of that zeal of his."
 After settling her quarrel with Rapunzel, she had gone on to speak with Alice and Gretel.
-Gretel initially tried to kill Yuna and Shizuha for Yuika's sake, but something Yuna said stopped him
-from doing do.
+Gretel initially tried to kill Yuna and Shizuha for Yuika's sake, but something Yuna said stopped him from doing so.
 Gretel: "Such foolishness... Are you really suggesting that I betray Lady Yuika?"
 Gretel had scoffed derisively at Yuna's suggestion.
-Ｙｕｎａ: "Don't you want to go free? You won't have to fear that device in your heart anymore."
+Yuna: "Don't you want to go free? You won't have to fear that device in your heart anymore."
 Gretel: "Fear? Not once have I feared this device."
-Due to his with manic admiration for Yuika, he'd never felt oppressed by the device inside his body.
-If anything, he considered the fetters of the device as a bond of sorts with Yuika: a distorted sort of
-connection with her.
+Due to his manic admiration for Yuika, he'd never felt oppressed by the device inside his body.
+If anything, he considered the fetters of the device as a bond of sorts with Yuika: a distorted sort of connection with her.
 Rapunzel: "See? There's no convincing this guy."
 Alice: "He's different from us."
 Gretel: "If you two intend to rebel against Lady Yuika, you will see that I can be quite unforgiving."
@@ -4893,95 +4879,79 @@ Rapunzel: "Hey, if you wanna throw hands, I'm all for it. I'm not gonna lose to 
 Gretel and Rapunzel are at each other's throats. They'll come to blows at any moment.
 However, Yuna can't have them fighting among themselves.
 It's important that all three of them remain on her side for now.
-Ｙｕｎａ: "Tell me... Do you understand what it really means to swear fealty to someone?"
+Yuna: "Tell me... Do you understand what it really means to swear fealty to someone?"
 Gretel: "...I beg your pardon?"
 Yuna's question made Gretel turn his gaze back to her.
-Ｙｕｎａ: "You claim to have sworn your loyalty to that woman, but how much have you really done for her?"
-Ｙｕｎａ: "You killed Vampires? Protected her from the other two? You really think that's all it takes to prove
-you've sworn eternal loyalty to her?"
+Yuna: "You claim to have sworn your loyalty to that woman, but how much have you really done for her?"
+Yuna: "You killed Vampires? Protected her from the other two? You really think that's all it takes to prove you've sworn eternal loyalty to her?"
 Gretel: "Just what are you saying?"
-Ｙｕｎａ: "Have you ever seriously considered what swearing your loyalty to someone really means?"
+Yuna: "Have you ever seriously considered what swearing your loyalty to someone really means?"
 Gretel: "Of course I have. I always think of it; of her. You're in no place to lecture me about that."
-Ｙｕｎａ: "In which case...  Why aren't you setting her free?"
+Yuna: "In which case... Why aren't you setting her free?"
 Gretel: "Set her free...?"
 Gretel tilted his head in confusion, not quite understanding what Yuna was saying.
 Yuna carried on, her lips curling up in a faint smile.
-Ｙｕｎａ: "How does she look to you? Do you think she's satisfied with her life?"
-Ｙｕｎａ: "A life of killing Vampires and nothing else. Do you know what made her like this?"
-Ｙｕｎａ: "Doesn't it pain you to see her devote her life to murder and massacre?"
+Yuna: "How does she look to you? Do you think she's satisfied with her life?"
+Yuna: "A life of killing Vampires and nothing else. Do you know what made her like this?"
+Yuna: "Doesn't it pain you to see her devote her life to murder and massacre?"
 Gretel: "W-Well, I... I simply obey Lady Yuika's will..."
-Ｙｕｎａ: "So you're just going to let her live underneath the thumb of the Association? Doesn't that sound
-like a dog's life, to you?"
+Yuna: "So you're just going to let her live underneath the thumb of the Association? Doesn't that sound like a dog's life, to you?"
 Gretel: "You would call Lady Yuika a dog?!"
-Ｙｕｎａ: "Believe me, dear, I don't want to call her that, either. And that's why you should set her free. Free
-from the Association... No, free of all her suffering."
+Yuna: "Believe me, dear, I don't want to call her that, either. And that's why you should set her free. Free from the Association... No, free of all her suffering."
 Gretel: "Set her free... from her suffering..."
 Gretel began to waver.
 His mind spun in circles as the realization Yuna might be right began to dawn on him.
-Gretel: "Lady Yuika loathes Vampires with all her being. That is why she joined the Association, and keeps
-on working for it with our support..."
-Ｙｕｎａ: "Killing others out of hatred and loathing. Is that what joy means to her? Does killing Vampires put
-a smile on her face?"
+Gretel: "Lady Yuika loathes Vampires with all her being. That is why she joined the Association, and keeps on working for it with our support..."
+Yuna: "Killing others out of hatred and loathing. Is that what joy means to her? Does killing Vampires put a smile on her face?"
 Gretel: "A smile...?"
-Ｙｕｎａ: "Don't tell me she never smiles...? Living like that... It sounds so awfully lonely to me."
+Yuna: "Don't tell me she never smiles...? Living like that... It sounds so awfully lonely to me."
 Gretel: "..."
 Yuna's words stabbed into Gretel's heart.
 How many times has he seen her smile, really?
 Of course she's made such an expression a few times, but were those truly sincere?
 Once he started to question that, more and more doubts began to rear their ugly heads.
-Of course, that was exactly what Yuna had been hoping for, but Gretel wasn't in any state to realize
-what she's doing.
-Ｙｕｎａ: "There are so many wonderful things in this world. Living without ever experiencing them sounds
-like misery to me."
-Ｙｕｎａ: "The joy of eating something tasty... Of smiling while enjoying oneself... And... the bliss of making
-love..."
-Ｙｕｎａ: "Don't you want to grant her such things?"
+Of course, that was exactly what Yuna had been hoping for, but Gretel wasn't in any state to realize what she's doing.
+Yuna: "There are so many wonderful things in this world. Living without ever experiencing them sounds like misery to me."
+Yuna: "The joy of eating something tasty... Of smiling while enjoying oneself... And... the bliss of making love..."
+Yuna: "Don't you want to grant her such things?"
 Gretel: "Me? M-Make love to Lady Yuika...? U-Unthinkable..."
 Gretel shook his head adamantly while denying that possibility.
-He was so desperate to banish that thought from his mind that he nearly shook the very bag off of
-his head.
+He was so desperate to banish that thought from his mind that he nearly shook the very bag off of his head.
 Gretel: "To do such a... such a shameful thing to her... I-I could never!"
-Ｙｕｎａ: "You said you swore your loyalty to her, yes? You pine for her, don't you?"
+Yuna: "You said you swore your loyalty to her, yes? You pine for her, don't you?"
 Gretel: "Pine for her... Do not reduce my feelings to such sappy, romantic emotions!"
-Ｙｕｎａ: "In that case, if she were to find a man she loves, would you allow her to be with him?"
+Yuna: "In that case, if she were to find a man she loves, would you allow her to be with him?"
 Gretel: "Huh...?"
 The mere thought of that shocked Gretel to his core.
 He had never once considered that possibility.
-Ｙｕｎａ: "She is a woman, you know. She might eventually fall in love with a man... And that man isn't
-necessarily going to be you."
-Ｙｕｎａ: "And if that happens, would you be able to accept that and give her your blessing?"
+Yuna: "She is a woman, you know. She might eventually fall in love with a man... And that man isn't necessarily going to be you."
+Yuna: "And if that happens, would you be able to accept that and give her your blessing?"
 Gretel: "M-My blessing...? I-I would. Of course I would. Lady Yuika's happiness is... Is my happiness."
-Ｙｕｎａ: "Don't you think it should be you that grants her that happiness?"
+Yuna: "Don't you think it should be you that grants her that happiness?"
 Gretel: "I... I would never..."
-Ｙｕｎａ: "Do you think an ordinary human man would be a good match for her?"
+Yuna: "Do you think an ordinary human man would be a good match for her?"
 Gretel: "..."
-Ｙｕｎａ: "You can grant her the kind of happiness no ordinary man can... Don't you think so?"
+Yuna: "You can grant her the kind of happiness no ordinary man can... Don't you think so?"
 Gretel: "I can... grant her that happiness..."
-Ｙｕｎａ: "I'm sure you can do it. Set her free, and make her as happy as she could possibly be."
-Ｙｕｎａ: "She would never have to hate Vampires again... She wouldn't have to be constantly monitored by
-the Association... Never need to spill or be sullied by blood again... Or fear being betrayed by her
-subordinates..."
-Ｙｕｎａ: "In order to achieve that... there's only one way. Don't you agree?"
+Yuna: "I'm sure you can do it. Set her free, and make her as happy as she could possibly be."
+Yuna: "She would never have to hate Vampires again... She wouldn't have to be constantly monitored by the Association... Never need to spill or be sullied by blood again... Or fear being betrayed by her subordinates..."
+Yuna: "In order to achieve that... there's only one way. Don't you agree?"
 Yuna said that while giving him a smile.
 Of course, everything she'd told him was fabricated nonsense.
 She merely picked out the right words to shake Gretel's beliefs.
 The effects were immediate. Her suggestion completely captivated him.
 Gretel: "And what is... that way?"
-Ｙｕｎａ: "It's simple. If you truly wish to swear fealty to her with all your heart, you must protect her; from
-any threat."
-Ｙｕｎａ: "And to do that... You must become one with her."
-Rapunzel: "Seriously, I was in fucking stitches when you said that. Took everything I had to not laugh. Like,
-hoooooly shit, were you bullshitting through your fucking teeth."
-Ｙｕｎａ: "So long as it convinced him, does it really matter? To him, what we're about to do now is a show
-of his loyalty."
+Yuna: "It's simple. If you truly wish to swear fealty to her with all your heart, you must protect her; from any threat."
+Yuna: "And to do that... You must become one with her."
+Rapunzel: "Seriously, I was in fucking stitches when you said that. Took everything I had to not laugh. Like, hooooooly shit, were you bullshitting through your fucking teeth."
+Yuna: "So long as it convinced him, does it really matter? To him, what we're about to do now is a show of his loyalty."
 Rapunzel: "You are one scary woman... you know that?"
-Ｙｕｎａ: "Why, thank you. I'll take that as a compliment."
+Yuna: "Why, thank you. I'll take that as a compliment."
 Yuna smirks.
-Joining forces with Rapunzel had been a huge gamble, but she was able to secure victory as a
-result.
+Joining forces with Rapunzel had been a huge gamble, but she was able to secure victory as a result.
 There are no longer any threats to her and Shizuha in Chisakura.
 All that remains is to see Yuika's fate to its conclusion and put this city behind them.
-Ｙｕｎａ: "Heheh. I'm looking forward to seeing what happens."
+Yuna: "Heheh. I'm looking forward to seeing what happens."
 Yuna licks her lips expectantly, already fantasizing about what's to come.
 Reflected in her red eyes is Yuika, who still lies helpless and unconscious...
 Yuika: "ーAaah?!"
@@ -5005,50 +4975,42 @@ Rapunzel and Gretel stand directly in front of her.
 It's at this point that Yuika finally fully realizes what has happened to her.
 ーA sudden attack.
 ーHer consciousness, flickering out in an instant.
-She can only remember bits and pieces, but it's more than enough to realize that she's been
-betrayed.
+She can only remember bits and pieces, but it's more than enough to realize that she's been betrayed.
 Yuika: "What are the three of you thinking?!"
 Rapunzel: "It's exactly what it looks like, shit-for-brains. We're sick and tired of having to obey your orders."
 Yuika: "You're... betraying the Association?"
 Even as Alice rapes her, she looks forward.
-But her eyes eventually focus not on her subordinates, but on Yuna, who stands behind them with a
-derisive smile on her lips.
-Ｙｕｎａ: "I must say, your subordinates being so understanding really did help me."
+But her eyes eventually focus not on her subordinates, but on Yuna, who stands behind them with a derisive smile on her lips.
+Yuna: "I must say, your subordinates being so understanding really did help me."
 Yuika: "You did this..."
-Ｙｕｎａ: "I did. But I will say that so long as you kept them on a leash with those weird devices inside their
-bodies, this would have happened sooner or later even if I never did or said anything."
+Yuna: "I did. But I will say that so long as you kept them on a leash with those weird devices inside their bodies, this would have happened sooner or later even if I never did or said anything."
 Yuika: "..."
 Yuika responds to Yuna's words with only silence.
 She can't in good faith say she's never considered the possibility.
-Rapunzel's hate in particular had been quite obvious. Yuika had intended to negotiate with the
-Association to get them to allow her to operate alone again.
-Ｙｕｎａ: "For the time being... I believe this little thing is suspicious, hmm?"
+Rapunzel's hate in particular had been quite obvious. Yuika had intended to negotiate with the Association to get them to allow her to operate alone again.
+Yuna: "For the time being... I believe this little thing is suspicious, hmm?"
 Yuika: "Ah...!"
 It's the detonation controller for the control devices, which Yuika had secretly carried on her person.
 That precious device is now in Yuna's hands.
-Ｙｕｎａ: "All I have to do is press this button right here, yes?"
+Yuna: "All I have to do is press this button right here, yes?"
 Rapunzel: "Hey, keep your fingers off that button! You'll blow us the fuck up!"
-Ｙｕｎａ: "Heheh. Yes, right you are."
+Yuna: "Heheh. Yes, right you are."
 Rapunzel: "Hand the controller over. I can't concentrate with that thing in your hands."
-Ｙｕｎａ: "Yes, yes, I'll just sit right here and watch, so have your way with the woman."
+Yuna: "Yes, yes, I'll just sit right here and watch, so have your way with the woman."
 Yuna tosses the controller over to Rapunzel.
-Rapunzel's face contorts in fear for a moment, but he swiftly snatches it out of the air with a
-tentacle.
+Rapunzel's face contorts in fear for a moment, but he swiftly snatches it out of the air with a tentacle.
 Rapunzel: "Right, nothing to fear anymore."
 Alice: "Ooooh!"
 Yuika: "Gaaaah?!"
-Alice pulls Yuika's arms so far back that it feels as though her hands might tear off, making her
-scream out.
+Alice pulls Yuika's arms so far back that it feels as though her hands might tear off, making her scream out.
 He thrusts his hips up behind her, jamming his cock into the depths of her rectum.
 Yuika: "A-Aaaaah! Stop it! S-Stooop! Nnnngh!"
 Yuika withstands the pain while desperately clenching her teeth.
 Alice's penis is obscenely large, as if to match the rest of his physique.
 He's jammed it so forcefully inside her butt that part of her rectum has in fact been ripped.
 Yuika: "H-Hii, guh, nnng... How dare you... Nnn, I-I won't forgive this...!"
-Rapunzel: "What good is running your mouth gonna do you in this situation, eh? You really think that's gonna
-help you any?"
-Rapunzel: "And besides... I feel like being just as unforgiving as you were. Day in, day out, all you did was
-boss me around."
+Rapunzel: "What good is running your mouth gonna do you in this situation, eh? You really think that's gonna help you any?"
+Rapunzel: "And besides... I feel like being just as unforgiving as you were. Day in, day out, all you did was boss me around."
 Yuika: "G-Greteeeel! Y-You too...? Wh-What is the meaning of this... You, aaaagh, want to go free, too?"
 Gretel: "Not at all. Even now, I am your loyal follower, Lady Yuika."
 Yuika: "Then why are you...?!"
@@ -5068,8 +5030,7 @@ Yuika
 Yuika
 (Alice's penis... It's getting bigger? It was big to begin with, but now it's getting even bigger...)
 Yuika: "Ugh! G-Gaaaaaaaaaah! S-Stop it! M-My arms... You're going to tear them off!"
-Rapunzel: "Watch it, missy. Once Alice gets started, he completely goes off the rails. Don't expect him to be
-gentle."
+Rapunzel: "Watch it, missy. Once Alice gets started, he completely goes off the rails. Don't expect him to be gentle."
 Yuika: "Nnng, aaah, aaah, it huuuuurts! Alice, stop it, it really hurts!"
 Rapunzel: "Just give the fuck up. You're not going to talk your way out of this."
 Rapunzel: "If you really want to escape the pain... You'll just have to drown it out with enough pleasure."
@@ -5079,8 +5040,7 @@ Not just one, but several tentacles push into her at once.
 Coiling like serpents, they immediately start rubbing hard against her inner walls.
 Yuika: "Aaah, haaaaa?! Aaah, nnnng, gaaah! Aiyaaaaah!"
 Cries tinged with both pain and pleasure escape her lips.
-Indeed, while her anus and arms are screaming out only in pain, pleasure begins to radiate from her
-vagina.
+Indeed, while her anus and arms are screaming out only in pain, pleasure begins to radiate from her vagina.
 She has no way to resist either sensation.
 She tries not to pathetically cry out, but the impacts inside her lower half leave her unable to resist.
 Rapunzel: "Mm? Wait, this isn't your first...?"
@@ -5090,23 +5050,21 @@ Gretel: "Aaaah... Lady Yuika."
 Gretel shuffles forward, huddling down in front of her.
 His long, slender dick extends from his crotch, its tip reaching her lips.
 Yuika: "G-Greteeeeel... Nng, if you're, doing this, f-for me, aaaagh, s-stop theeeeeem!"
-Gretel: "I shall protect you... Your memories shall be etched upon my heart for all eternity... For as long as
-I still draw breath..."
+Gretel: "I shall protect you... Your memories shall be etched upon my heart for all eternity... For as long as I still draw breath..."
 Yuika
 (No good... I can't talk him out of this...)
 Her despair only deepens.
-The thrusting in her anus grows more intense. The impacts shake through her hips all the way up
-into her chest, time and time again.
+The thrusting in her anus grows more intense. The impacts shake through her hips all the way up into her chest, time and time again.
 It's as if Alice is trying to whittle her intestines away. Every thrust causes the intense urge to vomit to
 surge up in her.
-Ｙｕｎａ: "This is amazing. Her ass must be completely ruined by now..."
+Yuna: "This is amazing. Her ass must be completely ruined by now..."
 Shizuha: "W-Wooow..."
 Yuna chuckles while Shizuha shivers in excitement at the sight.
 Shizuha's cheeks are flushed red. She's been rubbing her inner thighs together for a while now.
 Shizuha: "Haa... Haa... Haa..."
-Ｙｕｎａ: "Just don't say you want to try it too later, all right, dear? They'll tear your every orifice."
+Yuna: "Just don't say you want to try it too later, all right, dear? They'll tear your every orifice."
 Shizuha: "I-I wasn't going to say that!"
-Ｙｕｎａ: "And besides, at this rate... I think broken orifices are going to be the least of her worries."
+Yuna: "And besides, at this rate... I think broken orifices are going to be the least of her worries."
 Alice: "Oooooooooooooooooooooooooh!"
 Yuika: "Gaaaaaaaah?!"
 Alice suddenly starts thrusting even faster.
@@ -5195,7 +5153,7 @@ down her cheeks.
 Gretel: "This... This sensation... It's paradise..."
 Rapunzel: "Ahahaha, you really know how to pull your weight when it counts, huh."
 Rapunzel: "All right, time for a special treat. I'll show you my ace in the hole."
-Yuika: "ーUuuuuuuuuuuugh?!"
+Yuika: "ーUuuuuuuuuuuuuugh?!"
 The tentacles that invaded her pussy start moving faster.
 The tentacles all coil around each other, forming themselves into the shape of a drill.
 Yuika: "Wh-What?! Ugh, aaah, what are you...?!"
@@ -5271,7 +5229,7 @@ However, his glans is so thick that pulling it out also yanks out Yuika's rectum
 Her body gives one final twitch; the final reaction her body will ever make.
 This is how the girl who fought as a Hunter meets her end...
 Alice: "It was all too quick, really."
-Looking at the aftermath, Alice speaks in an disinterested tone.
+Looking at the aftermath, Alice speaks in a disinterested tone.
 Yuika's body continues falling apart, spilling shards of bone, lumps of flesh, and tattered internal
 organs over the floor.
 Her thighs are still barely attached to her hips, but her genitals are a ruined mess. Her vagina is little
@@ -5283,12 +5241,12 @@ Rapunzel: "That there was my super-special finisher move."
 Rapunzel raises his tentacles and reforms the rotating drill as if to illustrate his point.
 While he just used it as a torture method, it functions just as well as a weapon in proper combat.
 Gretel: "Well, what do we do next?"
-Ｙｕｎａ: "Well, you should probably get those bombs out of your chests first. I thought about it for some
+Yuna: "Well, you should probably get those bombs out of your chests first. I thought about it for some
 time; are there any doctors here in Chisakura who can remove them?"
 Alice: "I don't know. A capable doctor might be able to pull it off."
-Ｙｕｎａ: "Then it's simple. I'll turn the doctors into my minions and have them operate on you three."
+Yuna: "Then it's simple. I'll turn the doctors into my minions and have them operate on you three."
 Rapunzel: "For real? We can have these things removed without even leaving this city?"
-Ｙｕｎａ: "I can't say for sure, but it's worth a shot, isn't it?"
+Yuna: "I can't say for sure, but it's worth a shot, isn't it?"
 Gretel: "Well, if they mess up, the doctors will get blown to smithereens as well."
 For all their grievances, the three of them agree with Yuna's suggestion.
 Finding a doctor here in the city feels like a much safer bet than wandering around blindly and
@@ -5296,13 +5254,13 @@ hoping for the best.
 Once the control devices' bombs are no longer a concern, the trio will be free to fight the
 Association on even terms.
 Alice: "How do we know you won't double-cross us?"
-Ｙｕｎａ: "I'm fighting the Association, you know? I'd get absolutely nothing out of picking a fight with you
+Yuna: "I'm fighting the Association, you know? I'd get absolutely nothing out of picking a fight with you
 three."
 Shizuha: "Are we really going to fight them, Yuna?"
-Ｙｕｎａ: "This is our chance. If we don't fight them at some point, we'll spend the rest of our lives on the
+Yuna: "This is our chance. If we don't fight them at some point, we'll spend the rest of our lives on the
 run."
-Ｙｕｎａ: "We won't survive the coming years if we're being tracked by Hunters all the time."
-Ｙｕｎａ: "If we want to escape this kind of life, we have to take this chance to strike back against them."
+Yuna: "We won't survive the coming years if we're being tracked by Hunters all the time."
+Yuna: "If we want to escape this kind of life, we have to take this chance to strike back against them."
 Rapunzel: "You're serious about this, aren't ya? I like it."
 Alice: "Fighting by your side means I'll have more strong opponents to face."
 Gretel: "Come with me, Lady Yuika. Let us win our true freedom, with our own two hands."
@@ -5310,8 +5268,8 @@ None of them truly trust each other, but at the very least their interests are a
 Yuna and Shizuha have chosen to stop running, and to instead stand their ground and fight.
 The fact they must ally with biological weapons is irrelevant.
 Yuna is willing to use anything at her disposal to be able to live with Shizuha in peace.
-Ｙｕｎａ: "Then let's begin by turning everyone in this city into our minions."
-Ｙｕｎａ: "I'm sure that before long, this place will become an open battlefield for our war."
+Yuna: "Then let's begin by turning everyone in this city into our minions."
+Yuna: "I'm sure that before long, this place will become an open battlefield for our war."
 Rapunzel: "Good shit. I'm getting fired up now."
 Alice: "Any less than that would be disappointing."
 Gretel: "Aah, Lady Yuika..."
@@ -5337,23 +5295,23 @@ part of Yuika he's wearing.
 Yes; an outfit of Yuika's remains.
 It is stitched together from her flesh, bones, skin, hair, and entrails.
 Each of the three are wearing something similar, each for their own reasons and goals.
-Ｙｕｎａ: "Haa... It must smell terrible downwind from us."
+Yuna: "Haa... It must smell terrible downwind from us."
 Shizuha: "It stinks..."
-Ｙｕｎａ: "It will do a good job of shaking the Association's composure."
+Yuna: "It will do a good job of shaking the Association's composure."
 Yuna's lips turn upwards in a sneer as she gazes at the Association's unit in the distance.
 From the Association's perspective, having three biological weapons turn to the enemy's side and
 wear the remains of a Hunter's corpse like some kind of uniform must be particularly unnerving.
 They have a strong edge when it comes to psychological warfare.
 Shizuha: "..."
-Ｙｕｎａ: "Don't worry. We've prepared a great deal for today."
+Yuna: "Don't worry. We've prepared a great deal for today."
 Shizuha: "I know, but..."
-Ｙｕｎａ: "Shizuha, believe in me. We'll win this, I know it."
-Ｙｕｎａ: "So... Just stay by my side."
+Yuna: "Shizuha, believe in me. We'll win this, I know it."
+Yuna: "So... Just stay by my side."
 Shizuha: "Ah..."
 Yuna gently grips Shizuha's hand.
 Shizuha looks at her with surprise, but eventually closes her eyes calmly.
 Shizuha: "Yeah... I'll stay by your side, until the very end... Always."
-Ｙｕｎａ: "Yes, please do. We'll always be together... Whether in life or death."
+Yuna: "Yes, please do. We'll always be together... Whether in life or death."
 Yuna grips Shizuha's hand tightly.
 In turn, Shizuha squeezes back.
 It's as if they're confirming each other's presence.
@@ -5366,38 +5324,38 @@ Alice and Rapunzel rouse themselves.
 Many of the Vampires standing on alert do the same.
 After throwing one last gaze behind her, Yuna turns her eyes to the Association unit advancing
 toward them.
-Ｙｕｎａ: "Now, let's begin. This is our war... The battle where we win our freedom!"
-Ｙｕｎａ: "Shizuha, you run that way. I'll go this way."
+Yuna: "Now, let's begin. This is our war... The battle where we win our freedom!"
+Yuna: "Shizuha, you run that way. I'll go this way."
 Shizuha: "Huh?"
 Shizuha stares at Yuna, her eyes wide.
 She doesn't understand what Yuna's saying. She can only look at her with a dumbfounded
 expression.
-Ｙｕｎａ: "Don't make that face. It's better than us trying to run away together."
+Yuna: "Don't make that face. It's better than us trying to run away together."
 Shizuha: "Wh-Why? Why can't we go together?"
-Ｙｕｎａ: "There's at least four Hunters out there. If we run together, all four of them will go after us."
-Ｙｕｎａ: "But if we split up, they'll be forced to as well."
-Ｙｕｎａ: "That, or one of us will be attacked by all four at once."
+Yuna: "There's at least four Hunters out there. If we run together, all four of them will go after us."
+Yuna: "But if we split up, they'll be forced to as well."
+Yuna: "That, or one of us will be attacked by all four at once."
 Shizuha: "And if that happens... the other one will be safe...?"
-Ｙｕｎａ: "...I think that will be the case."
+Yuna: "...I think that will be the case."
 Yuna can't bring herself to lie to her.
 Without knowing just what the Hunters plan, Yuna can't think of a way to guarantee that they both
 survive.
 Yuna only suggests this from the belief that it will raise their individual chances of survival.
 Shizuha: "So we split up, but what do we do after that?"
-Ｙｕｎａ: "Right... Let's agree on a spot to regroup at."
-Ｙｕｎａ: "...That place will do. Remember that town we were in before, with the iron pylon? If we wait on
+Yuna: "Right... Let's agree on a spot to regroup at."
+Yuna: "...That place will do. Remember that town we were in before, with the iron pylon? If we wait on
 top of that pylon, it'll be easy for us to find each other."
 Shizuha: "But that town's... really far away."
-Ｙｕｎａ: "That's what's good about it. If it's too close, there's a good chance that they will find us again."
+Yuna: "That's what's good about it. If it's too close, there's a good chance that they will find us again."
 Shizuha: "I understand what you're saying, but..."
 Shizuha drops her gaze anxiously.
 Yuna can't fault her for doubting.
 It will be the first time the two of them have parted ways.
 Shizuha has no confidence that she'll be able to fight off a Hunter all by herself.
-Ｙｕｎａ: "We need to act cautiously. Even if you reach the bridge... No, even if you cross the bridge, you
+Yuna: "We need to act cautiously. Even if you reach the bridge... No, even if you cross the bridge, you
 mustn't let your guard down. Understood?"
-Ｙｕｎａ: "There's always a chance of an ambush, or a trap."
-Ｙｕｎａ: "So either keep running, or find a place to hide. Be decisive and act with purpose."
+Yuna: "There's always a chance of an ambush, or a trap."
+Yuna: "So either keep running, or find a place to hide. Be decisive and act with purpose."
 Ｙｕｎａ: "You'll be fine. I know you're more used to this course of action than I am."
 Shizuha: "But..."
 Ｙｕｎａ: "Now go on. We don't have much time left. A Hunter could come here any minute now."
