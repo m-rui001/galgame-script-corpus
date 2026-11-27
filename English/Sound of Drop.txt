@@ -5706,7 +5706,7 @@ Mari: "Stay back!"
 *However, the black shadow casts a crimson light, mixing it with Mari's light. The room is dyed a violet that blots out my vision for several seconds, until finally I can grasp the situation. By that point, the light has already vanished.*
 Mayu: "This is terrible, too cruel! Using such a tactic to trick her...! You're no real fath-- Ow!"
 *As I hurry to sit up, I feel the pain in my right shoulder from hitting the wall. Still, it's not bad enough to stop me from moving. I grit my teeth and stand up.*
-Mayu: "Mari's... gone. The director and whale too. Could they--?!"`
+Mayu: "Mari's... gone. The director and whale too. Could they--?!"
 *I couldn't see the whale for more than a second, and I couldn't see what happened after that at all. Just like when it appeared in the director's office, it was in the midst of casting a wriggling shadow. In that case, it is incomplete.*
 *I wonder if the director's true intention in dragging Sayo in was to deceive all of us.*
 *To throw Mari and me off guard, then swallow us up. Sayo and I escaped that fate in the end, but we needed Mari. Taking her meant absorbing the last of the aquarium's power.*
@@ -5782,7 +5782,7 @@ Himeno: "Geez, Mayu, it's because you're still putting everything on yourself."
 Mayu: "Huh...?"
 *Searching for the voice's owner, I open my eyes wide.*
 *An unexpected person appears before me.*
-Mayu: "Himeno...! Why are you here?!"`
+Mayu: "Himeno...! Why are you here?!"
 Himeno: "I guess I couldn't sit around and wait either. Just like you said, I tried coming in through the entrance. I said 'Please let me in, I forgot something inside,' and the security guard made a fuss, then let me through."
 Himeno: "I probably disappeared partway through the gate, but I'm sure I can come up with some excuse for that later."
 Mayu: "Making a fuss... Well you caused him trouble, right?"
@@ -6160,7 +6160,7 @@ Mayu: "Really, you're so rude..."
 *A laugh slips out in spite of my shock.*
 *The nervous tension that has stretched further and further over time feels as if it has finally loosened. Of course, that doesn't mean we can be careless.*
 *It's just that being able to talk to someone around my age in a safe place is giving me a sense of calm.*
-*It's scary how consistently cold she's been, but she seems to be lightening up now. Sayo's way of speaking shows that her feelings have surely been stressing out her since she came here.*
+*It's scary how consistently cold she's been, but she seems to be lightening up now. Sayo's way of speaking shows that her feelings have surely been stressing her out since she came here.*
 Sayo: "Can I trust you, Mayumi?"
 Mayu: "Huh...? What do you mean...?"
 Sayo: "This is my situation. I don't know who or what I can trust here. That's why I want to get confirmation from you. If I can believe you, no matter what happens, I'll give what you have to say precedence."
@@ -6201,7 +6201,7 @@ Sayo: "She was a little bewildered at first, but then she realized who I was. Ev
 Sayo: "This is just speculation, but she won't leave here. Just as that Hiyoshi guy told you, it's not that one can't get out of here. Saginuma Rieko doesn't even seem to have considered leaving this place."
 Sayo: "Still, because there's no nourishment or anything here, one can't lead a life."
 Sayo: "It doesn't seem like someone can really continue to live in the place where bizarre phenomena occur for five years. That's to say nothing of the fact that she's so calm, even after losing her life."
-Mayu: "Speaking of which, when she appeared before Himeno and I on the stage, she said she was looking for a child."
+Mayu: "Speaking of which, when she appeared before Himeno and me on the stage, she said she was looking for a child."
 Sayo: "She has some lingering attachment. You've probably heard of vengeful spirits. Saginuma Rieko is probably that sort of ghost. The child she is looking for is likely the one who witnessed her murdering the director five years ago."
 *I draw in my breath with a gulp.*
 *Because it was in relation to the director, I had hoped the child in question was Sayo.*
@@ -6313,7 +6313,7 @@ Mayu: "Noo! Wh-Why?!"
 Mayu: "Ken... ji... san..."
 *My right hand is shaking.*
 *My trembling fingertips point to the object on top of the desk. The fact that they won't stop shaking is not the problem.*
-*Just turning my head is easily enough to make me have to directly confront this phenomena...*
+*Just turning my head is easily enough to make me have to directly confront this phenomenon...*
 Sayo: "A... corpse."
 *Sayo steps in front of the lifeless body of Kenji-san that leans on the desk without moving, a thin voice slipping from her lips.*
 Mayu: "No... Why...?!"
@@ -6397,7 +6397,7 @@ Mayu: "There's two of us, we'll come at you with all we've got."
 *Right now, Sayo is with me.*
 *As I say this, Sayo glances at me and nods in agreement.*
 Rieko: "Oh my, how scary. But no need to worry. Since Mari-chan has chosen to be with me of her own free will, I have no intention of doing anything to her."
-Rieko: "Quite the contrary, actually. From here on out, you could say that Mari-chan will be doing the meddling here in Manten Aquarium."
+Rieko: "Quite the contrary, actually. From here on out, Mari-chan will be the one doing the meddling here in Manten Aquarium."
 Mayu: "... What do you mean by that?"
 *Saginuma Rieko laughs with a sly "Heehee," and without even answering my question, starts talking again.*
 Rieko: "You two have experienced this room... no, this aquarium's, puzzle. You two have also experienced the way this place changes once you go through a door."
@@ -6691,7 +6691,7 @@ Mari: "Big s..."
 *Within Mari's eyes, I get the sense of seeing a deep color I've never seen before.*
 Mayu: "Morning, Himeno!"
 Himeno: "G'morning~! Hey, did you hear, Mayu..."
-*As soon as I catch up to Himeno, she begins talking really fast. When I'm with her, I get the feeling that about 80%% of the time it's Himeno doing the talking, but I think it's more fun that way.*
+*As soon as I catch up to Himeno, she begins talking really fast. When I'm with her, I get the feeling that about 80% of the time it's Himeno doing the talking, but I think it's more fun that way.*
 *It's at that moment.*
 Himeno: "Ugh... Urk..."
 *Himeno begins to have a coughing fit. I assume it's just her throat getting choked up from starting to talk so fast and so suddenly.*
@@ -6912,7 +6912,7 @@ Mayu: "Mari, if it's what you really want, I'll--"
 *As I say this, Mari shakes her head. Her long hair sways, bathed in the light of the stars.*
 Mari: "I told you I would wish for it!"
 Mari: "This isn't your world, big sister."
-*Mari gently pushes away my hand which had been resting on her head.*
+*Mari gently pushes away my hand, which had been resting on her head.*
 Mayu: "Mari..."
 *My hand, floating in midair with no place to go, lingers for a bit.*
 *Still, because of that, I softly make a fist.*
@@ -6969,8 +6969,8 @@ Himeno: "Sayo-chan... what a pity. In order for me to continue to exist, I had t
 *... Saginuma Rieko.*
 *Just as I realize it, there is no strength left in my body.*
 *Due to my shallow breathing, there is no way I can make any brash movements. With no blood flowing to my brain, my thoughts are equally unfocused.*
-Himeno: "I was able to find this body merely by chance. However, with this body, destruction is unacceptable."
-Himeno: "My final hope is you. When you escaped from Nakanobe Mari's birdcage, it was as if a miracle had occurred and I was very happy."
+Himeno: "I found this body merely by chance. However, with this body, destruction is unacceptable."
+Himeno: "My final hope is you. When you escaped from Nakanobe Mari's birdcage, it was as if a miracle had occurred, and I was very happy."
 *Mari's birdcage.*
 *That's right, intuitively, it is like that. Being locked away for one's own good.*
 *But it's different. That was the world of Mari's heart.*

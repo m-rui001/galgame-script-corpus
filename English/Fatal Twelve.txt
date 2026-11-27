@@ -4950,7 +4950,7 @@ Kid: "His regret? Not his cause of death?"
 Federico: "Too bad, kid. That one's in the bag already."
 Kid: "I'll have to make sure you leave empty-handed, then."
 Kid: "I'm sorry, but you can't set foot inside this house."
-*They lower the tone of their voice, making their threat obvious to us both.*
+*They lower their voice, making their threat obvious to us both.*
 *This sudden shift takes me by surprise, but I mean, we're dealing with a kid.*
 Odette: "In other words, there's something here that'll give us a clue. Either that, or you already know it yourself."
 Kid: "H-Huh...? How did you...?"
@@ -5937,7 +5937,7 @@ Shigetsugu: "My memory is rather fuzzy after the first day, so I can't give you 
 Shigetsugu: "Passing away all alone in your home is quite the pathetic way to go, isn't it? It may be fitting for me, though, after I caused my own family to abandon me."
 Rinka: "That's not true..."
 Shigetsugu: "No need for sympathy. I'm sure you've realized how cynical I am by now."
-Shigetsugu: "I do feel like I've changed somewhat ever since meeting him. Perhaps it's more accurate to say I was able to go back to how I was during the days when I still got along with my family."
+Shigetsugu: "I do feel like I've changed somewhat ever since meeting him. Perhaps it's more accurate to say I went back to how I was during the days when I still got along with my family."
 Shigetsugu: "It's somewhat hard to believe that there was a time we all got along like that... I wish I could have seen them at least once before I died."
 Shigetsugu: "Ho, ho. My apologies. Looks like I've become the stereotypical talkative old man."
 Shigetsugu: "Trust me when I say that this all hasn't been an attempt to make it harder for you to eliminate me."
@@ -6470,10 +6470,10 @@ Shigetsugu: "Come, now. I should be the one thanking you."
 *Family, huh...?*
 *When I get back to my room, my mind drums up images of Shigetsugu and Yu.*
 *Shigetsugu talked about the joy of providing something to another.*
-*Was I able to do that for Keiko?*
-*Was I able to do that for Sonya, even?*
+*Did I do that for Keiko?*
+*Did I do that for Sonya, even?*
 *Shigetsugu's elimination during the next election is all but guaranteed.*
-*Was I able to provide something for him, knowing that would happen?*
+*Could I provide something for him, knowing that would happen?*
 *I heard him out and made dinner for Yu.*
 *There's no need to involve myself with any of the participants further than this, and yet I find myself worried about waking up on Monday, plagued with regret.*
 Rinka: "Ugh, screw this!"

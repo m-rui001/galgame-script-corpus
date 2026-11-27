@@ -80,18 +80,35 @@ def hf_providers():
 
 
 def providers():
-    hf = hf_providers()
-    cfg = json.load(open(MODELS, encoding="utf-8"))["providers"]
+    # Owner's ruling: the models.json free pool is retired. Everything now runs
+    # through the local opencode2api gateway (CodeBuddy upstream) at
+    # 127.0.0.1:8080 - one provider entry per model it serves, so the retry loop
+    # rotates models the same way it used to rotate endpoints.
+    cfg_path = os.path.join(os.path.dirname(os.path.dirname(ROOT)), "opencode2api", "config.json")
+    key = None
+    if os.path.exists(cfg_path):
+        c = json.load(open(cfg_path, encoding="utf-8"))
+        sk = c.get("server_keys") or []
+        key = sk[0] if sk and isinstance(sk[0], str) else None
+    if not key:
+        raise SystemExit("opencode2api config/server key not found")
+    req = urllib.request.Request("http://127.0.0.1:8080/v1/models",
+                                 headers={"Authorization": "Bearer " + key})
+    with urllib.request.urlopen(req, timeout=15) as r:
+        ids = [m["id"] for m in json.loads(r.read().decode("utf-8"))["data"]]
+    # Best-first: deepseek follows the gate most reliably; big-pickle rewrites
+    # numerals and beam-free 403s, so they go last as fallbacks.
+    pref = ["deepseek-v4.1-flash-free", "nemotron-3.5-super-vl-free",
+            "seaglass-alpha-free", "hy4-flash-free", "iceman-free",
+            "flint-40b-free", "mimo-v2.6-flash-free",
+            "nemotron-3.5-lightning-free", "beam-free", "big-pickle"]
+    ids = [i for i in pref if i in ids] + [i for i in ids if i not in pref]
     out = []
-    for name in PREF + [n for n in cfg if n not in PREF]:
-        v = cfg.get(name)
-        if not v or not v.get("baseUrl") or not v.get("apiKey"):
-            continue
-        out.append({"name": name,
-                    "url": v["baseUrl"].rstrip("/") + "/chat/completions",
-                    "key": v["apiKey"],
-                    "model": v["models"][0]["id"]})
-    return hf + out
+    for i in ids:
+        out.append({"name": "local:" + i,
+                    "url": "http://127.0.0.1:8080/v1/chat/completions",
+                    "key": key, "model": i})
+    return out
 
 
 def chat(prov, system, user, timeout=600):
@@ -101,6 +118,11 @@ def chat(prov, system, user, timeout=600):
                      {"role": "user", "content": user}],
         "temperature": 0.3,
         "stream": False,
+        # Some of the gateway's models burn the whole budget on reasoning and
+        # answer with empty content, which the gate rightly calls dead. Give
+        # them room; and most accept a switch to skip reasoning entirely.
+        "max_tokens": 32000,
+        "reasoning_effort": "none",
     }).encode("utf-8")
     req = urllib.request.Request(prov["url"], data=body, method="POST", headers={
         "Content-Type": "application/json",
