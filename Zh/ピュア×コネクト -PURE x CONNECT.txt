@@ -939,10 +939,10 @@
 
 E:\BURIKOScriptSystem\PURExCONNECT\Script\500_[bs5]嫟捠\02_PROLOGUE2.bs5
 庡恖岞乮柤乯
-乽乧乧乧乿
+「乧乧乧」
 壗両丠
-乽乧乧丠乿
-乽乧乧乿
+「乧乧丠」
+「乧乧」
 慡晹両丠
 「哥哥，该起床了，哥哥」
 「不起来的话，就没时间做约会的准备了哦——？」
@@ -1605,16 +1605,16 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\500_[bs5]嫟捠\02_PROLOGUE2.bs5
 
 E:\BURIKOScriptSystem\PURExCONNECT\Script\500_[bs5]嫟捠\03_PROLOGUE3.bs5
 庡恖岞乮柤乯
-乽乧乧乿
+「乧乧」
 丂丂丂丂丂丂 両丠
-乽乧乧乧乿
-乽彨婝仌帪戙寑尋媶晹乧乧両丠乿
-乽忛嵤崙嵺乧乧乿
+「乧乧乧」
+「彨婝仌帪戙寑尋媶晹乧乧両丠」
+「忛嵤崙嵺乧乧」
 俀侽戙慜敿両
-乽俀侽戙慜敿両乿
-乽俀俉両丠乿
-乽乣乣侓丂乣乣侓乿
-乽懯栚乿
+「俀侽戙慜敿両」
+「俀俉両丠」
+「乣乣侓丂乣乣侓」
+「懯栚」
 把萝卜叶切碎，放到加了海带高汤一起煮制的白粥里。
 今天的早餐是带有青紫苏的豆腐汉堡，熟制蔬菜沙拉，还有正在锅里的粥。
 昨天步海叫我起床，引发了飞机杯骚动。
@@ -2717,11 +2717,11 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\500_[bs5]嫟捠\03_PROLOGUE3.bs5
 
 E:\BURIKOScriptSystem\PURExCONNECT\Script\500_[bs5]嫟捠\04_CHAPTER1_1.bs5
 庡恖岞乮柤乯
-乽懯栚乿
-乽乧乧乿
-乽乧乧乧乿
-乽惓夝乿
-乽椆夝乿
+「懯栚」
+「乧乧」
+「乧乧乧」
+「惓夝」
+「椆夝」
 忛嵤彈巕俙
 忛嵤彈巕俛
 主人公（名）
@@ -3300,11 +3300,11 @@ A4纸上密密麻麻写着其他硬性规定，读起来很麻烦就无视了。
 
 E:\BURIKOScriptSystem\PURExCONNECT\Script\500_[bs5]嫟捠\05_CHAPTER1_2.bs5
 庡恖岞乮柤乯
-乽乧乧乧乿
-乽乧乧乧乿
+「乧乧乧」
+「乧乧乧」
 丂丂丂丂丂両丠
-乽乧乧乿
-乽俫俢俵俬丠乿
+「乧乧」
+「俫俢俵俬丠」
 「哥哥，步海想玩过家家」
 主人公（名）
 「好啊，那先分配角色吧」
@@ -3939,9 +3939,9 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\500_[bs5]嫟捠\05_CHAPTER1_2.bs5
 
 E:\BURIKOScriptSystem\PURExCONNECT\Script\500_[bs5]嫟捠\06_CHAPTER1_3.bs5
 庡恖岞乮柤乯
-乽乧乧乧乿
-乽乧乧丠乿
-乽乧乧乿
+「乧乧乧」
+「乧乧丠」
+「乧乧」
 半夜突然醒来。
 看了眼手机，凌晨三点。
 可能因为开着暖气的缘故，喉咙好干。
@@ -4502,12 +4502,12 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\500_[bs5]嫟捠\06_CHAPTER1_3.bs5
 
 E:\BURIKOScriptSystem\PURExCONNECT\Script\500_[bs5]嫟捠\07_CHAPTER2_1.bs5
 庡恖岞乮柤乯
-乽乧乧乿
-乽怴恖乧乧娊寎夛乧乧乿
-乽姡攖乣両両乿
-乽乧乧乧乿
+「乧乧」
+「怴恖乧乧娊寎夛乧乧」
+「姡攖乣両両」
+「乧乧乧」
 巟攝恖両
-乽巟攝恖両乿
+「巟攝恖両」
 主人公（名）
 「下一页」
 「咿咕」
@@ -5092,13 +5092,13 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\500_[bs5]嫟捠\07_CHAPTER2_1.bs5
 
 E:\BURIKOScriptSystem\PURExCONNECT\Script\500_[bs5]嫟捠\08_CHAPTER2_2.bs5
 庡恖岞乮柤乯
-乽婲嬈乧乧丠乿
-乽乧乧乿
-乽乧乧乧乿
-乽乧乧両丠乿
-乽奐枊夞暅乿
+「婲嬈乧乧丠」
+「乧乧」
+「乧乧乧」
+「乧乧両丠」
+「奐枊夞暅」
 抝巕惗搆俙
-乽乧乧侓乿
+「乧乧侓」
 亀惓夝両両亁
 主人公（名）
 「糟了，清汤放哪了」
@@ -5561,10 +5561,10 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\500_[bs5]嫟捠\08_CHAPTER2_2.bs5
 
 E:\BURIKOScriptSystem\PURExCONNECT\Script\500_[bs5]嫟捠\09_CHAPTER2_3.bs5
 庡恖岞乮柤乯
-乽乧乧乿
-乽乧乧乧乿
+「乧乧」
+「乧乧乧」
 扤両丠
-乽娊寎夛乧乧丠乿
+「娊寎夛乧乧丠」
 红色战员
 『超级人渣战队！』
 超级人渣战队
@@ -6249,10 +6249,10 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\500_[bs5]嫟捠\09_CHAPTER2_3.bs5
 E:\BURIKOScriptSystem\PURExCONNECT\Script\500_[bs5]嫟捠\10_CHAPTER3_1.bs5
 庡恖岞乮柤乯
 乗乗両丠
-乽乧乧乿
+「乧乧」
 乮惷庘乧乧乯
-乽慡堳廤崌乣両乿
-乽乧乧乧乿
+「慡堳廤崌乣両」
+「乧乧乧」
 朑旤「『日本海一代的极强低气压，将在本日下午回转180度进入东海……』」
 朑旤「今晚想吃什么？　难得休息一天，给你们做点好吃的」
 主人公（名）
@@ -6703,13 +6703,13 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\500_[bs5]嫟捠\10_CHAPTER3_1.bs5
 
 E:\BURIKOScriptSystem\PURExCONNECT\Script\500_[bs5]嫟捠\11_CHAPTER3_2.bs5
 庡恖岞乮柤乯
-乽敿擭両丠乿
-乽揤嵥丠乿
-乽戞堦栤乿
-乽戞擇栤乿
-乽乧乧乧乿
-乽乧乧乿
-乽懯栚両両乿
+「敿擭両丠」
+「揤嵥丠」
+「戞堦栤」
+「戞擇栤」
+「乧乧乧」
+「乧乧」
+「懯栚両両」
 娔嬛両丠
 乮壌乧乧乯
 今天从下午到晚上一直在pivoine工作。
@@ -7382,17 +7382,17 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\500_[bs5]嫟捠\11_CHAPTER3_2.bs5
 
 E:\BURIKOScriptSystem\PURExCONNECT\Script\500_[bs5]嫟捠\12_CHAPTER3_3.bs5
 庡恖岞乮柤乯
-乽懯栚乿
-乽愨懳懯栚丠乿
-乽柍棟乿
-乽乧乧乧乿
-乽壓乣乿
-乽乧乧乿
-乽攏乧乧両丂攏擏乧乧両両乿
+「懯栚」
+「愨懳懯栚丠」
+「柍棟」
+「乧乧乧」
+「壓乣」
+「乧乧」
+「攏乧乧両丂攏擏乧乧両両」
 乮乧乧乯
 乮乧乧両丠乯
-乽戝忎晇乿
-乽乧乧両乿
+「戝忎晇」
+「乧乧両」
 主人公（名）
 「大家好」
 在车站前吃完午饭，下午来上班。
@@ -8230,10 +8230,10 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\500_[bs5]嫟捠\12_CHAPTER3_3.bs5
 
 E:\BURIKOScriptSystem\PURExCONNECT\Script\500_[bs5]嫟捠\13_CHAPTER4_1.bs5
 庡恖岞乮柤乯
-乽晹壆丠乿
-乽乧乧乿
-乽戝曄乧乧両両乿
-乽乧乧乧乿
+「晹壆丠」
+「乧乧」
+「戝曄乧乧両両」
+「乧乧乧」
 空的朋友A
 「我说啊，今年的圣诞节怎么办？　和去年一样聚会吗？」
 空的朋友B
@@ -8900,12 +8900,12 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\500_[bs5]嫟捠\13_CHAPTER4_1.bs5
 
 E:\BURIKOScriptSystem\PURExCONNECT\Script\500_[bs5]嫟捠\14_CHAPTER4_2.bs5
 庡恖岞乮柤乯
-乽乧乧乧乿
-乽巹嵍懌乣乿
-乽惉宍丠乿
-乽婥朅乧乧乿
+「乧乧乧」
+「巹嵍懌乣」
+「惉宍丠」
+「婥朅乧乧」
 乮乧乧丠乯
-乽乧乧乿
+「乧乧」
 忛嵤彈巕俙
 忛嵤彈巕俛
 「哥哥，快点起来。哥哥……！」
@@ -9645,10 +9645,10 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\500_[bs5]嫟捠\14_CHAPTER4_2.bs5
 E:\BURIKOScriptSystem\PURExCONNECT\Script\500_[bs5]嫟捠\15_CHAPTER4_3.bs5
 庡恖岞乮柤乯
 乮乧乧乧乯
-乽忋拝忋拝乧乧乿
-乽乧乧乧乿
-乽嬻丠乿
-乽乧乧乿
+「忋拝忋拝乧乧」
+「乧乧乧」
+「嬻丠」
+「乧乧」
 乮乗乗両丠乯
 丂丂丂丂丂丂両丠
 主人公（名）
@@ -10335,13 +10335,13 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\500_[bs5]嫟捠\15_CHAPTER4_3.bs5
 
 E:\BURIKOScriptSystem\PURExCONNECT\Script\500_[bs5]嫟捠\16_CHAPTER5_1.bs5
 庡恖岞乮柤乯
-乽乧乧乧乿
-乽乧乧乿
-乽50亾丠乿
-乽柍棟乿
-乽杮摉両丠乿
-乽慡慠乿
-乽5000墌乿
+「乧乧乧」
+「乧乧」
+「50亾丠」
+「柍棟」
+「杮摉両丠」
+「慡慠」
+「5000墌」
 ……嗯？
 主人公（名）
 （早上了吗……？）
@@ -11809,16 +11809,16 @@ pivoine的打工是从4点开始，还有大约一个小时的时间。
 
 E:\BURIKOScriptSystem\PURExCONNECT\Script\500_[bs5]嫟捠\17_CHAPTER5_2.bs5
 庡恖岞乮柤乯
-乽乧乧乧乿
-乽乧乧乿
-乽乧乧嬻乿
-乽乧乧両両乿
-乽乧乧乧両乿
-乽乧乧乧乧乧乧両丠乿
-乽乧乧乧乧乧乧乧乧乿
-乽嬻乧乧丠乿
-乽嬻乧乧乿
-乽乧乧隳巕丠乿
+「乧乧乧」
+「乧乧」
+「乧乧嬻」
+「乧乧両両」
+「乧乧乧両」
+「乧乧乧乧乧乧両丠」
+「乧乧乧乧乧乧乧乧」
+「嬻乧乧丠」
+「嬻乧乧」
+「乧乧隳巕丠」
 主人公（名）
 「好，差不多这样吧」
 为了给昨天一雪前耻，我鼓足干劲，早起准备了早饭。
@@ -12650,9 +12650,9 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\500_[bs5]嫟捠\17_CHAPTER5_2.bs5
 
 E:\BURIKOScriptSystem\PURExCONNECT\Script\500_[bs5]嫟捠\18_CHAPTER6_1.bs5
 庡恖岞乮柤乯
-乽乧乧乿
-乽晄摦嶻壆丠乿
-乽乧乧乧乿
+「乧乧」
+「晄摦嶻壆丠」
+「乧乧乧」
 揷懞「『不管是哪里，大街上都挂满了圣诞节彩灯呢』」
 揷懞「『今年由商工会议所的青年团领头，比平时更加起劲』」
 揷懞「『就好像是在迫不及待地等待着圣诞节的到来一般』」
@@ -13299,12 +13299,12 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\500_[bs5]嫟捠\18_CHAPTER6_1.bs5
 
 E:\BURIKOScriptSystem\PURExCONNECT\Script\500_[bs5]嫟捠\19_CHAPTER6_2.bs5
 庡恖岞乮柤乯
-乽乧乧乿
-乽乧乧乧乿
-乽乧乧両乿
-乽乧乧両丠乿
+「乧乧」
+「乧乧乧」
+「乧乧両」
+「乧乧両丠」
 徫婄両
-乽晄摦嶻乿
+「晄摦嶻」
 12月24日的圣诞夜终于到来了。
 主人公（名）
 「姆，这个气味是什么……」
@@ -14254,20 +14254,20 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\500_[bs5]嫟捠\19_CHAPTER6_2.bs5
 
 E:\BURIKOScriptSystem\PURExCONNECT\Script\500_[bs5]嫟捠\20_CHAPTER6_3.bs5
 庡恖岞乮柤乯
-乽乧乧乧乿
-乽椆夝両乿
-乽乧乧乿
-乽椆夝乿
-乽師乣乿
-乽椆夝乣乿
-乽戞榋揤杺墹條乿
+「乧乧乧」
+「椆夝両」
+「乧乧」
+「椆夝」
+「師乣」
+「椆夝乣」
+「戞榋揤杺墹條」
 怐揷怣挿両丠
 椏棟恖俙
 椏棟恖俛
-乽姡攖両両乿
-乽姡攖乣両両乿
-乽愭攜乧乧乿
-乽乧乧両丠乿
+「姡攖両両」
+「姡攖乣両両」
+「愭攜乧乧」
+「乧乧両丠」
 乧乧乧乧
 主人公（名）
 「哼哼哼——」
@@ -15126,7 +15126,7 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\500_[bs5]嫟捠\20_CHAPTER6_3.bs5
 还是算了
 
 庡恖岞乮柤乯
-乽乧乧乿
+「乧乧」
 「呀呼，辛苦啦～?」
 主人公（名）
 「嗯呼～?」
@@ -15233,7 +15233,7 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\500_[bs5]嫟捠\20_CHAPTER6_3.bs5
 
 庡恖岞乮柤乯
 乗乗両丠
-乽乧乧乿
+「乧乧」
 「啊，稍微等一下」
 「要是方便，一会儿能抽点空吗」
 主人公（名）
@@ -15337,7 +15337,7 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\500_[bs5]嫟捠\20_CHAPTER6_3.bs5
 「呼呼，真是可爱的表情」
 
 庡恖岞乮柤乯
-乽乧乧乿
+「乧乧」
 「那，那个……」
 「晚，晚上好……」
 主人公（名）
@@ -15489,13 +15489,13 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\500_[bs5]嫟捠\20_CHAPTER6_3.bs5
 「我也是……今天……？」
 「非常的，开心哦……？」
 
-乽愭攜乿
+「愭攜」
 庡恖岞乮柤乯
-乽崘敀両丠乿
-乽乧乧乧乿
-乽乧乧乿
-乽乧乧両乿
-乽攏幁乧乧乿
+「崘敀両丠」
+「乧乧乧」
+「乧乧」
+「乧乧両」
+「攏幁乧乧」
 「学长」
 「那，那个……你辛苦了」
 主人公（名）
@@ -15608,8 +15608,8 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\500_[bs5]嫟捠\20_CHAPTER6_3.bs5
 「谢谢你，学长……」
 
 庡恖岞乮柤乯
-乽乧乧乿
-乽乧乧乧乿
+「乧乧」
+「乧乧乧」
 「哥哥」
 主人公（名）
 「咦？　步海」
@@ -15703,11 +15703,11 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\500_[bs5]嫟捠\20_CHAPTER6_3.bs5
 「嗯，刚才是不是……有一点狡猾呢……」
 
 庡恖岞乮柤乯
-乽乧乧乿
-乽崱壗帪丠乿
-乽乧乧乧乧乧乧乿
-乽乧乧乧乿
-乽曉帠乿
+「乧乧」
+「崱壗帪丠」
+「乧乧乧乧乧乧」
+「乧乧乧」
+「曉帠」
 「大家在圣诞节期间真的辛苦了。不要客气，多吃点，多喝点吧」
 主人公（名）
 「那我就不客气啦！！」
@@ -16148,8 +16148,8 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\500_[bs5]嫟捠\20_CHAPTER6_3.bs5
 
 庡恖岞乮柤乯
 乮巟攝恖乧乧丠乯
-乽乧乧乧乿
-乽乧乧乿
+「乧乧乧」
+「乧乧」
 主人公（名）
 (主管……?)
 主人公（名）
@@ -16215,10 +16215,10 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\500_[bs5]嫟捠\20_CHAPTER6_3.bs5
 我在床上骨碌骨碌地滚着，一边翻来覆去地读至今为止主管发给我的所有信息。
 
 庡恖岞乮柤乯
-乽乧乧乧乿
-乽乧乧乿
-乽姡攖乿
-乽壌乧乧乿
+「乧乧乧」
+「乧乧」
+「姡攖」
+「壌乧乧」
 在怒涛般的圣诞节工作之后，今年最后的庆功会也结束了。
 毕竟是年末了，气氛有种忘年会的感觉，大家在一起玩闹得很开心。
 只是……
@@ -16723,10 +16723,10 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\500_[bs5]嫟捠\20_CHAPTER6_3.bs5
 我一直盯着身边她的侧脸，看入迷了。
 
 庡恖岞乮柤乯
-乽壗乧乧両丠乿
-乽乧乧乿
-乽乧乧乧乿
-乽奜栰乿
+「壗乧乧両丠」
+「乧乧」
+「乧乧乧」
+「奜栰」
 名为圣诞节的战争结束了，我们终于可以松一口气了。
 按照pivoine的惯例，圣诞节后是庆功宴。
 主厨藤堂和几位工作人员要陪家人，已经先回家去了。
@@ -17142,8 +17142,8 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\500_[bs5]嫟捠\20_CHAPTER6_3.bs5
 庡恖岞乮柤乯
 亀乧乧乧亁
 亀乧乧乧乧乧乧亁
-乽乧乧乿
-乽乧乧乧乿
+「乧乧」
+「乧乧乧」
 结束了盛况空前的庆功宴，终于回到了自己的房间。
 洗澡也洗好了，接下来就准备睡觉了。
 主人公（名）
@@ -17460,9 +17460,9 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\500_[bs5]嫟捠\20_CHAPTER6_3.bs5
 就从内心深处，觉得开心的不得了。
 
 庡恖岞乮柤乯
-乽乧乧乿
-乽乧乧丠乿
-乽乧乧乧乿
+「乧乧」
+「乧乧丠」
+「乧乧乧」
 主人公（名）
 「嗯……嗯……」
 突然睁开眼睛。
@@ -17838,9 +17838,9 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\500_[bs5]嫟捠\20_CHAPTER6_3.bs5
 那天晚上，我真的感到很幸福。
 
 庡恖岞乮柤乯
-乽乧乧乧乿
-乽乧乧乿
-乽晄埨丠乿
+「乧乧乧」
+「乧乧」
+「晄埨丠」
 主人公（名）
 「空这个家伙」
 主人公（名）
@@ -18119,10 +18119,10 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\500_[bs5]嫟捠\20_CHAPTER6_3.bs5
 当然在便利店买的蛋糕，也被她一个人消灭了。
 
 庡恖岞乮柤乯
-乽巟攝恖乧乧乿
-乽乧乧乿
-乽乧乧乧乿
-乽乧乧丠乿
+「巟攝恖乧乧」
+「乧乧」
+「乧乧乧」
+「乧乧丠」
 主人公（名）
 「主管……」
 主人公（名）
@@ -18458,10 +18458,10 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\500_[bs5]嫟捠\20_CHAPTER6_3.bs5
 即使时间已经来到了第二天，我的心情也清楚地传达给了面前的她。
 
 庡恖岞乮柤乯
-乽乧乧乿
+「乧乧」
 乮乧乧両丠乯
-乽乧乧乧乿
-乽乧乧杮摉丠乿
+「乧乧乧」
+「乧乧杮摉丠」
 主人公（名）
 「向萌美亲告白吗……」
 主人公（名）
@@ -18866,12 +18866,12 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\500_[bs5]嫟捠\20_CHAPTER6_3.bs5
 
 亀嵁栰丂嵤棦嵐亁
 庡恖岞乮柤乯
-乽乧乧乧乿
+「乧乧乧」
 亀乧乧亁
 亀乧乧乧亁
-乽乧乧乿
-乽嵤棦嵐乿
-乽嵤棦嵐嵤棦嵐嵤棦嵐嵤棦嵐嵤棦嵐乧乧両乿
+「乧乧」
+「嵤棦嵐」
+「嵤棦嵐嵤棦嵐嵤棦嵐嵤棦嵐嵤棦嵐乧乧両」
 『绀野　彩里沙』
 最近，包括邮件交流在内，我们两个人相处的时间变多了。
 我们的关系，是从上个月空的一次多管闲事开始的。
@@ -19269,8 +19269,8 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\500_[bs5]嫟捠\20_CHAPTER6_3.bs5
 尽管如此，我和彩里沙的特别关系，不管别人怎么说，都从这一天开始了。
 
 庡恖岞乮柤乯
-乽乧乧乿
-乽乧乧乧乿
+「乧乧」
+「乧乧乧」
 主人公（名）
 「步海，你睡觉了吗？」
 结果，我无法就这样压抑自己的情感。
@@ -19634,10 +19634,10 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\500_[bs5]嫟捠\20_CHAPTER6_3.bs5
 就这样，今天和空愉快地聊着天回家了。
 
 庡恖岞乮柤乯
-乽乣乣侓丂乣乣丠乿
-乽両丠乿
-乽乧乧乿
-乽乧乧600墌暘乿
+「乣乣侓丂乣乣丠」
+「両丠」
+「乧乧」
+「乧乧600墌暘」
 打工回家的路上，为了散散心，我来到了游戏厅。
 我喜欢的竖版射击游戏已经没有了，随便找找其他游戏来玩吧。
 主人公（名）
@@ -19821,7 +19821,7 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\500_[bs5]嫟捠\20_CHAPTER6_3.bs5
 即使只有一小会儿，但能和萌美亲一起在购物中心走着，我有点开心。
 
 庡恖岞乮柤乯
-乽乧乧乿
+「乧乧」
 「啊……」
 主人公（名）
 「嗯?　绀野同学？」
@@ -20009,7 +20009,7 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\500_[bs5]嫟捠\20_CHAPTER6_3.bs5
 发现了步海新的一面，有点开心。
 
 庡恖岞乮柤乯
-乽乧乧乧乿
+「乧乧乧」
 嗯……？
 主人公（名）
 「喂？」
@@ -20038,8 +20038,8 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\500_[bs5]嫟捠\20_CHAPTER6_3.bs5
 
 庡恖岞乮柤乯
 亀乧乧乧亁
-乽乧乧乧乿
-乽乧乧乿
+「乧乧乧」
+「乧乧」
 嗯……？
 主人公（名）
 「哟。怎么了？」
@@ -20069,8 +20069,8 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\500_[bs5]嫟捠\20_CHAPTER6_3.bs5
 「喂，美鬣……我该怎么办呢……」
 
 庡恖岞乮柤乯
-乽乧乧乿
-乽乧乧乧乿
+「乧乧」
+「乧乧乧」
 欸……？
 主人公（名）
 「喂，你好……？」
@@ -20119,8 +20119,8 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\500_[bs5]嫟捠\20_CHAPTER6_3.bs5
 「我在干什么呢……」
 
 庡恖岞乮柤乯
-乽乧乧乧乿
-乽乧乧乿
+「乧乧乧」
+「乧乧」
 主人公（名）
 「喂？」
 『晚上好』
@@ -20153,9 +20153,9 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\500_[bs5]嫟捠\20_CHAPTER6_3.bs5
 「糟糕了呢。我现在，声音有点颤抖……？」
 
 庡恖岞乮柤乯
-乽乧乧乿
-乽乧乧乧乿
-乽抝乧乧丠乿
+「乧乧」
+「乧乧乧」
+「抝乧乧丠」
 嗯……？
 主人公（名）
 「喂？　萌美亲？」
@@ -20221,8 +20221,8 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\500_[bs5]嫟捠\20_CHAPTER6_3.bs5
 
 庡恖岞乮柤乯
 亀乧乧乧亁
-乽乧乧乧乿
-乽乧乧乿
+「乧乧乧」
+「乧乧」
 嗯……？
 主人公（名）
 「喂，晚上好。萌美亲？」
@@ -20260,8 +20260,8 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\500_[bs5]嫟捠\20_CHAPTER6_3.bs5
 「喂！！　姬良梨！！」
 
 庡恖岞乮柤乯
-乽乧乧乿
-乽乧乧乧乿
+「乧乧」
+「乧乧乧」
 哦……？
 主人公（名）
 「喂？」
@@ -20298,7 +20298,7 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\500_[bs5]嫟捠\20_CHAPTER6_3.bs5
 
 庡恖岞乮柤乯
 亀乧乧乧亁
-乽乧乧乧乿
+「乧乧乧」
 哦……？
 主人公（名）
 「喂？」
@@ -20332,8 +20332,8 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\500_[bs5]嫟捠\20_CHAPTER6_3.bs5
 「我可能，挺单纯的……」
 
 庡恖岞乮柤乯
-乽乧乧乧乿
-乽乧乧乿
+「乧乧乧」
+「乧乧」
 哦……？
 主人公（名）
 「喂？」
@@ -20360,8 +20360,8 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\500_[bs5]嫟捠\20_CHAPTER6_3.bs5
 
 庡恖岞乮柤乯
 亀乧乧乧亁
-乽怓乆乧乧丠乿
-乽乧乧乧乿
+「怓乆乧乧丠」
+「乧乧乧」
 哦……？
 主人公（名）
 「喂？」
@@ -20394,8 +20394,8 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\500_[bs5]嫟捠\20_CHAPTER6_3.bs5
 
 E:\BURIKOScriptSystem\PURExCONNECT\Script\500_[bs5]嫟捠\90_BADEND_01.bs5
 庡恖岞乮柤乯
-乽乧乧乧乿
-乽壌乧乧乿
+「乧乧乧」
+「壌乧乧」
 主人公（名）
 「才2点啊……」
 用手机看时间。
@@ -20441,7 +20441,7 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\500_[bs5]嫟捠\90_BADEND_01.bs5
 
 E:\BURIKOScriptSystem\PURExCONNECT\Script\500_[bs5]嫟捠\91_BADEND_02.bs5
 庡恖岞乮柤乯
-乽乧乧乧乿
+「乧乧乧」
 主人公（名）
 「不，还是算了吧」
 突然冷静下来。
@@ -20479,9 +20479,9 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\500_[bs5]嫟捠\91_BADEND_02.bs5
 
 E:\BURIKOScriptSystem\PURExCONNECT\Script\640_[bs5]嵤棦嵐\ARISA_01.bs5
 庡恖岞乮柤乯
-乽乧乧乧乿
-乽乧乧乿
-乽妎屽丠乿
+「乧乧乧」
+「乧乧」
+「妎屽丠」
 庒姳乧乧
 主人公（名）
 「嗯……」
@@ -20877,13 +20877,13 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\640_[bs5]嵤棦嵐\ARISA_01.bs5
 
 E:\BURIKOScriptSystem\PURExCONNECT\Script\640_[bs5]嵤棦嵐\ARISA_02.bs5
 庡恖岞乮柤乯
-乽乧乧乿
-乽乧乧乧乿
-乽愭攜乿
+「乧乧」
+「乧乧乧」
+「愭攜」
 倂倛倷丠
-乽柧撧乧乧両乿
-乽慡慠乿
-乽攏幁乧乧乿
+「柧撧乧乧両」
+「慡慠」
+「攏幁乧乧」
 主人公（名）
 「这样就差不多了吧」
 我特意用发胶理了下发型。
@@ -21544,9 +21544,9 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\640_[bs5]嵤棦嵐\ARISA_02.bs5
 
 E:\BURIKOScriptSystem\PURExCONNECT\Script\640_[bs5]嵤棦嵐\ARISA_02_H1.bs5
 庡恖岞乮柤乯
-乽乧乧乧乿
-乽嵤棦嵐乧乧両乿
-乽嵤棦嵐乧乧乿
+「乧乧乧」
+「嵤棦嵐乧乧両」
+「嵤棦嵐乧乧」
 「不要这么一直看着我，我好害羞……」
 彩里沙羞滴滴的望着我。
 我也很紧张，手都有些发抖。
@@ -21852,8 +21852,8 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\640_[bs5]嵤棦嵐\ARISA_02_H1.bs5
 E:\BURIKOScriptSystem\PURExCONNECT\Script\640_[bs5]嵤棦嵐\ARISA_03.bs5
 庡恖岞乮柤乯
 亀愭攜両亁
-乽乧乧乧乿
-乽乧乧乿
+「乧乧乧」
+「乧乧」
 主人公（名）
 「呼……」
 主人公（名）
@@ -22353,9 +22353,9 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\640_[bs5]嵤棦嵐\ARISA_03.bs5
 
 E:\BURIKOScriptSystem\PURExCONNECT\Script\640_[bs5]嵤棦嵐\ARISA_04.bs5
 庡恖岞乮柤乯
-乽乧乧乿
+「乧乧」
 抝巕惗搆俙
-乽乧乧乿
+「乧乧」
 「啾……嗯、啾……」
 主人公（名）
 （嗯……嗯嗯……）
@@ -23173,10 +23173,10 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\640_[bs5]嵤棦嵐\ARISA_04_H1.bs5
 
 E:\BURIKOScriptSystem\PURExCONNECT\Script\640_[bs5]嵤棦嵐\ARISA_05.bs5
 庡恖岞乮柤乯
-乽乧乧乿
-乽乧乧乧乧乿
-乽敋敪両丠乿
-乽愭攜乿
+「乧乧」
+「乧乧乧乧」
+「敋敪両丠」
+「愭攜」
 「前辈今天休息吧？」
 主人公（名）
 「我没有排班，但彩里沙今天傍晚需要去打工吧」
@@ -23671,12 +23671,12 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\640_[bs5]嵤棦嵐\ARISA_05.bs5
 E:\BURIKOScriptSystem\PURExCONNECT\Script\640_[bs5]嵤棦嵐\ARISA_06.bs5
 庡恖岞乮柤乯
 乮嵤棦嵐乧乧丠乯
-乽乧乧乧乿
-乽乧乧乿
+「乧乧乧」
+「乧乧」
 乮乧乧乧乯
-乽挷棟巘柶嫋乧乧丠乿
-乽乧乧乧乧乿
-乽両丠乿
+「挷棟巘柶嫋乧乧丠」
+「乧乧乧乧」
+「両丠」
 主人公（名）
 「呼……这样就行了吧」
 繁忙时段过去，安静的店内想起了电话声。
@@ -24208,9 +24208,9 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\640_[bs5]嵤棦嵐\ARISA_06.bs5
 
 E:\BURIKOScriptSystem\PURExCONNECT\Script\640_[bs5]嵤棦嵐\ARISA_07.bs5
 庡恖岞乮柤乯
-乽愭攜両両乿
-乽乧乧乿
-乽乧乧愭攜乿
+「愭攜両両」
+「乧乧」
+「乧乧愭攜」
 巰両両
 「今天也有数学课，真让人提不起劲」
 主人公（名）
@@ -24991,10 +24991,10 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\640_[bs5]嵤棦嵐\ARISA_07_H1.bs5
 
 E:\BURIKOScriptSystem\PURExCONNECT\Script\640_[bs5]嵤棦嵐\ARISA_08.bs5
 庡恖岞乮柤乯
-乽乧乧乿
-乽乧乧乧乧乿
-乽嵤棦嵐乧乧乿
-乽曐岇両丠乿
+「乧乧」
+「乧乧乧乧」
+「嵤棦嵐乧乧」
+「曐岇両丠」
 巙斂「『哥哥，这里有阿姨以前买的高档羽绒被，她说如果你要用直接回来拿就行了』」
 主人公（名）
 「啊～，虽然很感谢但把羽绒被抱过来也不容易啊……」
@@ -25490,12 +25490,12 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\640_[bs5]嵤棦嵐\ARISA_08.bs5
 
 E:\BURIKOScriptSystem\PURExCONNECT\Script\640_[bs5]嵤棦嵐\ARISA_09.bs5
 庡恖岞乮柤乯
-乽乧乧乿
-乽乧乧丠乿
-乽両丠乿
-乽愭攜乧乧乿
-乽乧乧両乿
-乽愭攜乧乧両乿
+「乧乧」
+「乧乧丠」
+「両丠」
+「愭攜乧乧」
+「乧乧両」
+「愭攜乧乧両」
 打工回来的路上。
 今天比平时回家更早。
 要说为什么是因为今天彩里沙要来和我的家人打照面了，这也算是一件大事了吧。
@@ -25895,12 +25895,12 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\640_[bs5]嵤棦嵐\ARISA_09.bs5
 
 E:\BURIKOScriptSystem\PURExCONNECT\Script\640_[bs5]嵤棦嵐\ARISA_10.bs5
 庡恖岞乮柤乯
-乽乣乣侓丂乣乣侓乿
-乽乣乣侓丂乣乣侓乿
-乽乧乧乿
-乽垽両丠乿
-乽嵤棦嵐乧乧乿
-乽乧乧乧乿
+「乣乣侓丂乣乣侓」
+「乣乣侓丂乣乣侓」
+「乧乧」
+「垽両丠」
+「嵤棦嵐乧乧」
+「乧乧乧」
 主人公（名）
 「嗯？今天大厅没什么人？」
 「就是说啊～」
@@ -26395,7 +26395,7 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\640_[bs5]嵤棦嵐\ARISA_10.bs5
 
 E:\BURIKOScriptSystem\PURExCONNECT\Script\640_[bs5]嵤棦嵐\ARISA_10_H1.bs5
 庡恖岞乮柤乯
-乽嵤棦嵐乧乧両丂嵤棦嵐乧乧両両乿
+「嵤棦嵐乧乧両丂嵤棦嵐乧乧両両」
 「总感觉……说不定今天是至今为止最令人期待的一次呢……」
 主人公（名）
 「啊啊，说的也是啊」
@@ -26704,11 +26704,11 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\640_[bs5]嵤棦嵐\ARISA_10_H1.bs5
 
 E:\BURIKOScriptSystem\PURExCONNECT\Script\640_[bs5]嵤棦嵐\ARISA_11.bs5
 庡恖岞乮柤乯
-乽乧乧乧乿
-乽乧乧乿
-乽杮摉両丠乿
-乽嵤棦嵐丠乿
-乽嵤棦嵐乧乧丠乿
+「乧乧乧」
+「乧乧」
+「杮摉両丠」
+「嵤棦嵐丠」
+「嵤棦嵐乧乧丠」
 一月中旬的某一天。
 今天城彩只有上午有课，因此现在我正和彩里沙一起在街上散步。
 不知不觉我和彩里沙的散步已成为我日常的一环。
@@ -27428,11 +27428,11 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\640_[bs5]嵤棦嵐\ARISA_11.bs5
 我身边的彩里沙，也能笑容常驻。
 
 庡恖岞乮柤乯
-乽乧乧乿
+「乧乧」
 両丠両丠両丠両丠両丠両丠両丠
 幱嵾両
-乽乧乧乧乿
-乽旘峴婡両丠乿
+「乧乧乧」
+「旘峴婡両丠」
 主人公（名）
 这是和步海交往后迎来的第一个早晨。
 其实30分钟前我就已经醒了。
@@ -27954,10 +27954,10 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\640_[bs5]嵤棦嵐\ARISA_11.bs5
 因此，我想至少尽早给步海一场正式的约会。
 
 庡恖岞乮柤乯
-乽乧乧乧乿
-乽乧乧乿
+「乧乧乧」
+「乧乧」
 壗両丠
-乽壌乧乧乿
+「壌乧乧」
 乮乧乧両丠乯
 乮乧乧乧乯
 下午一点过。
@@ -28433,10 +28433,10 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\640_[bs5]嵤棦嵐\ARISA_11.bs5
 就这样，我和步海在今宵可喜可贺地结合在了一起。
 
 庡恖岞乮柤乯
-乽乧乧乧乿
+「乧乧乧」
 乮乧乧両丠乯
 乮乧乧乧乯
-乽乧乧乿
+「乧乧」
 「啊、啊啊……嗯……」
 「哈啊、嗯、嗯啊……嗯、呼……」
 主人公（名）
@@ -28677,13 +28677,13 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\640_[bs5]嵤棦嵐\ARISA_11.bs5
 步海原本一直皱着眉拼命忍受着疼痛，在拥抱了一会之后也终于放松下来，绽开了笑脸。
 
 庡恖岞乮柤乯
-乽乗乗両丠乿
-乽乧乧乿
-乽乧乧両丠乿
-乽乧乧乧乧乿
-乽乧乧乧乿
-乽乧乧乧両乿
-乽乣乣侓丂乣乣侓乿
+「乗乗両丠」
+「乧乧」
+「乧乧両丠」
+「乧乧乧乧」
+「乧乧乧」
+「乧乧乧両」
+「乣乣侓丂乣乣侓」
 主人公（名）
 「嗯、嗯……」
 沐浴在清晨的阳光中，我醒了过来。
@@ -29179,9 +29179,9 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\640_[bs5]嵤棦嵐\ARISA_11.bs5
 因为女友的一句话，我在仓库里默默纠结了一会儿。
 
 庡恖岞乮柤乯
-乽乧乧乿
-乽乧乧乧乧乿
-乽撠擏乧乧丠乿
+「乧乧」
+「乧乧乧乧」
+「撠擏乧乧丠」
 主人公（名）
 「我回来了」
 「好重……就算是大家一起去买东西，这买得也太多了吧？」
@@ -29743,8 +29743,8 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\640_[bs5]嵤棦嵐\ARISA_11.bs5
 就这样，我和步海迎来了新的一年。
 
 庡恖岞乮柤乯
-乽俷俲両丂慡慠俷俲両両乿
-乽乧乧乧乿
+「俷俲両丂慡慠俷俲両両」
+「乧乧乧」
 「那、那个……哥哥？」
 主人公（名）
 「嗯……？」
@@ -29994,8 +29994,8 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\640_[bs5]嵤棦嵐\ARISA_11.bs5
 我和步海都出了一身汗，要是之后能设法洗个鸳鸯浴就好了。
 
 庡恖岞乮柤乯
-乽乧乧乧乧乿
-乽戝忎晇丠乿
+「乧乧乧乧」
+「戝忎晇丠」
 主人公（名）
 「呼啊……啊……」
 因为昨晚一直熬夜到了凌晨，所以困意比平时还要浓。
@@ -30476,7 +30476,7 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\640_[bs5]嵤棦嵐\ARISA_11.bs5
 然后我们便离开公园，踏上了归途。
 
 庡恖岞乮柤乯
-乽乧乧乧乧乿
+「乧乧乧乧」
 彈惗搆俙
 主人公（名）
 「今天要去大街上到处转转吗？」
@@ -30930,8 +30930,8 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\640_[bs5]嵤棦嵐\ARISA_11.bs5
 不禁觉得我们之间的关系与以往相比，可能向前迈进了一大步。
 
 庡恖岞乮柤乯
-乽乧乧乧乧乿
-乽扙栄両丠乿
+「乧乧乧乧」
+「扙栄両丠」
 『这个时期博多湾能钓到鲪鱼，海钓活动也举办得热火朝天』
 「啊，是博多湾」
 主人公（名）
@@ -31419,9 +31419,9 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\640_[bs5]嵤棦嵐\ARISA_11.bs5
 在回家途中，我们一直聊着船和钓鱼的话题。
 
 庡恖岞乮柤乯
-乽乧乧乧乧乿
-乽乣乣侓丂乣乣侓乿
-乽乧乧乧乿
+「乧乧乧乧」
+「乣乣侓丂乣乣侓」
+「乧乧乧」
 主人公（名）
 「我回来了」
 「我回来了」
@@ -32158,7 +32158,7 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\640_[bs5]嵤棦嵐\ARISA_11.bs5
 我们之间突发的性爱事件也随之落幕。
 
 庡恖岞乮柤乯
-乽乧乧乧乧乿
+「乧乧乧乧」
 主人公（名）
 「和步海这样待在一起，真是十分放松……」
 我正在自己的床上和步海一起无所事事地消磨时间……
@@ -32686,8 +32686,8 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\640_[bs5]嵤棦嵐\ARISA_11.bs5
 直到休息时间几近结束，我都享受着这段幸福的时光。
 
 庡恖岞乮柤乯
-乽乧乧乧乧乿
-乽乧乧乿
+「乧乧乧乧」
+「乧乧」
 乮乧乧乯
 主人公（名）
 「好了，就这样吧」
@@ -33189,7 +33189,7 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\640_[bs5]嵤棦嵐\ARISA_11.bs5
 
 庡恖岞乮柤乯
 乮乧乧乯
-乽乧乧乧乿
+「乧乧乧」
 我悄悄接近了熟睡中的步海。
 说实话，作为一个男的，我现在很想直接扑上去。
 我想步海大概也不会拒绝吧。
@@ -33372,9 +33372,9 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\640_[bs5]嵤棦嵐\ARISA_11.bs5
 我一直都握着她的手。
 
 庡恖岞乮柤乯
-乽乧乧乿
-乽乧乧乧乿
-乽寢崶乧乧丠乿
+「乧乧」
+「乧乧乧」
+「寢崶乧乧丠」
 我关闭了闹钟。
 现在刚过六点半。
 时间还有点早，要是换做平时，我多半会想睡个十分钟左右的回笼觉……
@@ -34825,14 +34825,14 @@ pivoine的休息日，我久违地在自己房间计算起自己的存款。
 
 E:\BURIKOScriptSystem\PURExCONNECT\Script\630_[bs5]朑旤\MOEMI_01.bs5
 庡恖岞乮柤乯
-乽乧乧乿
-乽懄擔擖嫃壜乧乧乿
-乽乧乧乧乿
+「乧乧」
+「懄擔擖嫃壜乧乧」
+「乧乧乧」
 乧乧両丠
-乽乧乧両乿
-乽寵侓乿
-乽懯栚両両乿
-乽朑旤乿
+「乧乧両」
+「寵侓」
+「懯栚両両」
+「朑旤」
 自告白之后过了一夜，我和往常一样的时间起床了。
 虽然昨天夜里一直心跳不已，但是像这样早晨起床后却意外地感觉不到我们正在交往的事实。
 喂喂，交往第一天就这样，我真的没问题吗。
@@ -35305,10 +35305,10 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\630_[bs5]朑旤\MOEMI_01.bs5
 
 E:\BURIKOScriptSystem\PURExCONNECT\Script\630_[bs5]朑旤\MOEMI_02.bs5
 庡恖岞乮柤乯
-乽乧乧乿
-乽乧乧乧乿
-乽懯栚両両乿
-乽愙暙両丠乿
+「乧乧」
+「乧乧乧」
+「懯栚両両」
+「愙暙両丠」
 一边看着电视我随便地解决了午饭。
 像这样独自在这房间里用餐真的有一种“从家里出来了”的感觉。
 话是这么说，但是由于这里离自家仅有步行的距离，所以只要从这里走出一步那种感觉就会立刻消失。
@@ -35818,17 +35818,17 @@ pivoine的女孩子们在我面前吵吵闹闹。
 
 E:\BURIKOScriptSystem\PURExCONNECT\Script\630_[bs5]朑旤\MOEMI_03.bs5
 庡恖岞乮柤乯
-乽乧乧乿
-乽乧乧乧乿
-乽乧乧丠乿
-乽乧乧寢峔嬝擏幙丠乿
+「乧乧」
+「乧乧乧」
+「乧乧丠」
+「乧乧寢峔嬝擏幙丠」
 乮揹榖乧乧丠乯
-乽揦丠乿
-乽巀惉乣侓乿
-乽乧乧両丠乿
-乽柍棟柍棟柍棟柍棟柍棟両両乿
-乽朑旤乧乧乿
-乽晄埨丠乿
+「揦丠」
+「巀惉乣侓」
+「乧乧両丠」
+「柍棟柍棟柍棟柍棟柍棟両両」
+「朑旤乧乧」
+「晄埨丠」
 主人公（名）
 「咦！？　我原本打算比你早出门的……」
 主人公（名）
@@ -36401,10 +36401,10 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\630_[bs5]朑旤\MOEMI_03.bs5
 
 E:\BURIKOScriptSystem\PURExCONNECT\Script\630_[bs5]朑旤\MOEMI_04.bs5
 庡恖岞乮柤乯
-乽乧乧乧乧乿
-乽嫽枴怺乆両丠乿
-乽朑旤乧乧乿
-乽乧乧乧乿
+「乧乧乧乧」
+「嫽枴怺乆両丠」
+「朑旤乧乧」
+「乧乧乧」
 「嗯——！　今天的工作也结束了！」
 主人公（名）
 「今天也到处人都很多啊——」
@@ -36971,9 +36971,9 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\630_[bs5]朑旤\MOEMI_04.bs5
 
 E:\BURIKOScriptSystem\PURExCONNECT\Script\630_[bs5]朑旤\MOEMI_04_H1.bs5
 庡恖岞乮柤乯
-乽乧乧乧乿
-乽朑旤乿
-乽乧乧乿
+「乧乧乧」
+「朑旤」
+「乧乧」
 让萌美缓缓地躺到床上。
 但还是有些紧张吧，我的女朋友的身体稍微有些僵硬。
 刚才有些能算作对话的对话，现在突然沉默下来了。
@@ -37295,10 +37295,10 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\630_[bs5]朑旤\MOEMI_04_H1.bs5
 
 E:\BURIKOScriptSystem\PURExCONNECT\Script\630_[bs5]朑旤\MOEMI_05.bs5
 庡恖岞乮柤乯
-乽乧乧乿
-乽乧乧両両乿
-乽乧乧乧乧乿
-乽乧乧両乿
+「乧乧」
+「乧乧両両」
+「乧乧乧乧」
+「乧乧両」
 主人公（名）
 「来了来～了」
 主人公（名）
@@ -37878,11 +37878,11 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\630_[bs5]朑旤\MOEMI_05.bs5
 
 E:\BURIKOScriptSystem\PURExCONNECT\Script\630_[bs5]朑旤\MOEMI_06.bs5
 庡恖岞乮柤乯
-乽俷俲乿
-乽乧乧乿
-乽楒垽乧乧惉廇両丠乿
-乽乧乧乧乿
-乽朑旤乿
+「俷俲」
+「乧乧」
+「楒垽乧乧惉廇両丠」
+「乧乧乧」
+「朑旤」
 主人公（名）
 「（嚼嚼）……」
 主人公（名）
@@ -38388,11 +38388,11 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\630_[bs5]朑旤\MOEMI_06.bs5
 
 E:\BURIKOScriptSystem\PURExCONNECT\Script\630_[bs5]朑旤\MOEMI_07.bs5
 庡恖岞乮柤乯
-乽乧乧乿
-乽乧乧乧乧乿
-乽抝憰彈巕丠乿
-乽乧乧乧乿
-乽朑旤乧乧乿
+「乧乧」
+「乧乧乧乧」
+「抝憰彈巕丠」
+「乧乧乧」
+「朑旤乧乧」
 从我和萌美交往开始过了数周。
 明天我就要去萌美家打招呼了。
 健太和姬良梨当然算是认识了没什么问题，不过我果然还是想早点去问候萌美的双亲。
@@ -39089,7 +39089,7 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\630_[bs5]朑旤\MOEMI_07.bs5
 
 E:\BURIKOScriptSystem\PURExCONNECT\Script\630_[bs5]朑旤\MOEMI_07_H1.bs5
 庡恖岞乮柤乯
-乽乧乧乧乿
+「乧乧乧」
 「欸……？欸……！？」
 「真，真的么……？真的要在这里做么……！？」
 主人公（名）
@@ -39310,10 +39310,10 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\630_[bs5]朑旤\MOEMI_07_H1.bs5
 
 E:\BURIKOScriptSystem\PURExCONNECT\Script\630_[bs5]朑旤\MOEMI_08.bs5
 庡恖岞乮柤乯
-乽乧乧乿
+「乧乧」
 抝巕戝妛惗
-乽乧乧曄丠乿
-乽乧乧朑旤乿
+「乧乧曄丠」
+「乧乧朑旤」
 「听好了——，这篇论文，是关于自然的生物多样性学说的——」
 主人公（名）
 好困。
@@ -39915,9 +39915,9 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\630_[bs5]朑旤\MOEMI_08.bs5
 
 E:\BURIKOScriptSystem\PURExCONNECT\Script\630_[bs5]朑旤\MOEMI_08_H1.bs5
 庡恖岞乮柤乯
-乽乧乧乧乿
-乽乧乧乿
-乽朑旤乧乧乿
+「乧乧乧」
+「乧乧」
+「朑旤乧乧」
 萌美直接坐到了地板上，分开了我双腿。
 等，等一下……难道说，这是……？
 主人公（名）
@@ -40248,8 +40248,8 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\630_[bs5]朑旤\MOEMI_08_H1.bs5
 
 E:\BURIKOScriptSystem\PURExCONNECT\Script\630_[bs5]朑旤\MOEMI_09.bs5
 庡恖岞乮柤乯
-乽乧乧乧乧乿
-乽杮摉乣丠乿
+「乧乧乧乧」
+「杮摉乣丠」
 「一个法棍和三个本店特制的原创蛋糕对吧？」
 「我明白了～！」
 「一共是2950日元。这里收您3000日元」
@@ -40748,7 +40748,7 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\630_[bs5]朑旤\MOEMI_09.bs5
 
 E:\BURIKOScriptSystem\PURExCONNECT\Script\630_[bs5]朑旤\MOEMI_10.bs5
 庡恖岞乮柤乯
-乽乧乧乧乧乿
+「乧乧乧乧」
 主人公（名）
 「我开动了」
 「我开动了」
@@ -41259,7 +41259,7 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\630_[bs5]朑旤\MOEMI_10.bs5
 
 E:\BURIKOScriptSystem\PURExCONNECT\Script\630_[bs5]朑旤\MOEMI_10_H1.bs5
 庡恖岞乮柤乯
-乽乧乧乧乿
+「乧乧乧」
 主人公（名）
 「喂，喂萌美……！」
 「呼呼，怎么了……？」
@@ -41531,12 +41531,12 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\630_[bs5]朑旤\MOEMI_10_H1.bs5
 
 E:\BURIKOScriptSystem\PURExCONNECT\Script\630_[bs5]朑旤\MOEMI_11.bs5
 庡恖岞乮柤乯
-乽乧乧乧乿
-乽乧乧乿
-乽乧乧両丠乿
-乽侾侽屄乿
-乽朑旤乧乧乿
-乽朑旤乿
+「乧乧乧」
+「乧乧」
+「乧乧両丠」
+「侾侽屄」
+「朑旤乧乧」
+「朑旤」
 主人公（名）
 「你们几个，别没事就来我这啊」
 「诶，为什么～？」
@@ -42486,14 +42486,14 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\210_[sys]嫟捠娭悢\setup.bs5
 
 E:\BURIKOScriptSystem\PURExCONNECT\Script\620_[bs5]巙斂\SIHO_01.bs5
 庡恖岞乮柤乯
-乽乧乧乿
-乽椆夝乿
+「乧乧」
+「椆夝」
 忛嵤彈巕俙
 忛嵤彈巕俛
-乽乧乧乧乿
+「乧乧乧」
 乗乗両丠
-乽侾侾帪敿乿
-乽慺捈丠乿
+「侾侾帪敿」
+「慺捈丠」
 「哥哥，两片吐司够吗？」
 主人公（名）
 「啊，嗯，谢啦，步海」
@@ -42884,10 +42884,10 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\620_[bs5]巙斂\SIHO_01.bs5
 
 E:\BURIKOScriptSystem\PURExCONNECT\Script\620_[bs5]巙斂\SIHO_02.bs5
 庡恖岞乮柤乯
-乽乧乧乧乿
-乽旈枾乿
-乽乧乧乿
-乽弾柉揑乧乧丠乿
+「乧乧乧」
+「旈枾」
+「乧乧」
+「弾柉揑乧乧丠」
 崄棦撧「随便坐吧。　我现在去准备些茶」
 主人公（名）
 「谢，谢谢……」
@@ -43376,9 +43376,9 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\620_[bs5]巙斂\SIHO_02.bs5
 
 E:\BURIKOScriptSystem\PURExCONNECT\Script\620_[bs5]巙斂\SIHO_03.bs5
 庡恖岞乮柤乯
-乽乧乧乿
-乽乧乧乧乿
-乽懯栚乿
+「乧乧」
+「乧乧乧」
+「懯栚」
 主人公（名）
 「不好……我忘记保存数据了……」
 与志帆开始交往数日后。
@@ -43772,9 +43772,9 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\620_[bs5]巙斂\SIHO_03.bs5
 
 E:\BURIKOScriptSystem\PURExCONNECT\Script\620_[bs5]巙斂\SIHO_03_H1.bs5
 庡恖岞乮柤乯
-乽巙斂乧乧乿
-乽乧乧乧乿
-乽巙斂乧乧両丂巙斂乧乧両両乿
+「巙斂乧乧」
+「乧乧乧」
+「巙斂乧乧両丂巙斂乧乧両両」
 「那、那个……稍微等一下……？」
 主人公（名）
 「不行」
@@ -44029,11 +44029,11 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\620_[bs5]巙斂\SIHO_04.bs5
 庡恖岞乮柤乯
 彈惈揦堳
 亀俇枩墌亁
-乽巟攝恖柦椷両乿
+「巟攝恖柦椷両」
 両丠両丠両丠両丠両丠両丠
-乽乧乧乧乿
-乽姡攖乿
-乽乧乧乿
+「乧乧乧」
+「姡攖」
+「乧乧」
 主人公（名）
 「好厉害！　这个蒸汽拖把真有趣！」
 除夕，店内休业，我本打算在房间里悠闲地度过，志帆小姐却说要大扫除。
@@ -44656,10 +44656,10 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\620_[bs5]巙斂\SIHO_04.bs5
 
 E:\BURIKOScriptSystem\PURExCONNECT\Script\620_[bs5]巙斂\SIHO_05.bs5
 庡恖岞乮柤乯
-乽乧乧乧乿
-乽乧乧乿
-乽慡晹侓乿
-乽怟丠乿
+「乧乧乧」
+「乧乧」
+「慡晹侓」
+「怟丠」
 「已经是大白天了，快起床。喂——」
 主人公（名）
 「嗯，嗯嗯……再睡五分钟……」
@@ -45086,14 +45086,14 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\620_[bs5]巙斂\SIHO_05.bs5
 
 E:\BURIKOScriptSystem\PURExCONNECT\Script\620_[bs5]巙斂\SIHO_06.bs5
 庡恖岞乮柤乯
-乽乧乧乿
-乽乧乧乧乿
-乽乧乧乧乧乿
-乽乧乧両丠乿
-乽崱壗帪両丠乿
-乽擭夛旓侾侽枩墌侓乿
-乽梋桾乧乧丠乿
-乽忕択忕択乿
+「乧乧」
+「乧乧乧」
+「乧乧乧乧」
+「乧乧両丠」
+「崱壗帪両丠」
+「擭夛旓侾侽枩墌侓」
+「梋桾乧乧丠」
+「忕択忕択」
 主人公（名）
 「志帆小姐，这边的门锁好了」
 「谢了，我这边也快结束了」
@@ -45721,7 +45721,7 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\620_[bs5]巙斂\SIHO_06.bs5
 
 E:\BURIKOScriptSystem\PURExCONNECT\Script\620_[bs5]巙斂\SIHO_06_H1.bs5
 庡恖岞乮柤乯
-乽乧乧乧乿
+「乧乧乧」
 「那、那个……真的要做吗……？」
 主人公（名）
 「嗯，当然啦」
@@ -45972,9 +45972,9 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\620_[bs5]巙斂\SIHO_06_H2.bs5
 
 E:\BURIKOScriptSystem\PURExCONNECT\Script\620_[bs5]巙斂\SIHO_07.bs5
 庡恖岞乮柤乯
-乽乧乧乿
-乽摨惐乧乧乿
-乽乧乧乧乿
+「乧乧」
+「摨惐乧乧」
+「乧乧乧」
 主人公（名）
 「快看，快来看这个」
 「啊？」
@@ -46383,9 +46383,9 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\620_[bs5]巙斂\SIHO_07.bs5
 我和她，今天也在这个房间再次双唇相接。
 
 E:\BURIKOScriptSystem\PURExCONNECT\Script\620_[bs5]巙斂\SIHO_08.bs5
-乽乧乧乧乿
+「乧乧乧」
 庡恖岞乮柤乯
-乽乧乧乧乧乿
+「乧乧乧乧」
 暈晹「喂——，早上啦～。差不多要起床啦～？」
 主人公（名）
 「嗯……嗯嗯……」
@@ -46892,7 +46892,7 @@ H之后，两人悠闲地抱在一起时，志帆起了身。
 
 E:\BURIKOScriptSystem\PURExCONNECT\Script\620_[bs5]巙斂\SIHO_08_H1.bs5
 庡恖岞乮柤乯
-乽乧乧乧乿
+「乧乧乧」
 主人公（名）
 （嗯……？）
 「嘻嘻，早上好」
@@ -47216,7 +47216,7 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\620_[bs5]巙斂\SIHO_08_H1.bs5
 
 E:\BURIKOScriptSystem\PURExCONNECT\Script\620_[bs5]巙斂\SIHO_09.bs5
 庡恖岞乮柤乯
-乽乧乧乧乧乿
+「乧乧乧乧」
 主人公（名）
 「嗯，嗯嗯……」
 「呼……呼……」
@@ -47700,10 +47700,10 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\620_[bs5]巙斂\SIHO_09.bs5
 
 E:\BURIKOScriptSystem\PURExCONNECT\Script\620_[bs5]巙斂\SIHO_10.bs5
 庡恖岞乮柤乯
-乽乧乧乧乧乿
-乽慡慠乿
+「乧乧乧乧」
+「慡慠」
 彈惈揦堳
-乽乣乣侓乿
+「乣乣侓」
 主人公（名）
 「唔—嗯……」
 工作日的午后，过了午间饭点，店里也清闲了下来。
@@ -48266,8 +48266,8 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\620_[bs5]巙斂\SIHO_10.bs5
 
 E:\BURIKOScriptSystem\PURExCONNECT\Script\620_[bs5]巙斂\SIHO_10_H1.bs5
 庡恖岞乮柤乯
-乽巙斂乧乧乿
-乽巙斂乧乧両丂巙斂乧乧両両乿
+「巙斂乧乧」
+「巙斂乧乧両丂巙斂乧乧両両」
 「……嗯」
 志帆的表情愈发害羞了起来，她低了低头。
 主人公（名）
@@ -48573,10 +48573,10 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\620_[bs5]巙斂\SIHO_10_H1.bs5
 「笨蛋……」
 
 E:\BURIKOScriptSystem\PURExCONNECT\Script\620_[bs5]巙斂\SIHO_11.bs5
-乽乧乧乿
+「乧乧」
 庡恖岞乮柤乯
-乽乧乧乧乿
-乽巙斂乧乧丠乿
+「乧乧乧」
+「巙斂乧乧丠」
 主人公（名）
 「呼呼，真是可爱的睡脸～」
 「明明平时啰嗦的时候相当大声，但这样睡着的时候真的好安静啊」
@@ -49041,9 +49041,9 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\620_[bs5]巙斂\SIHO_11.bs5
 从心底里发誓今后也会一直陪在她的身边，支持她，到我的最后一刻为止。
 
 庡恖岞乮柤乯
-乽婱條乿
-乽乧乧乿
-乽乧乧乧乿
+「婱條」
+「乧乧」
+「乧乧乧」
 时间是早上7点半。
 换作平时，这个点我差不多已经起床，在楼下吃早饭了。
 刚才闹钟响了一次，但我直接无视。
@@ -49499,11 +49499,11 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\620_[bs5]巙斂\SIHO_11.bs5
 另一只手则紧紧地牵着我重要的青梅竹马的手。
 
 庡恖岞乮柤乯
-乽抶崗両丠乿
-乽乧乧乿
-乽乧乧乧乿
+「抶崗両丠」
+「乧乧」
+「乧乧乧」
 彈惈揦堳
-乽侽揰両乿
+「侽揰両」
 「睡过头了！？」
 主人公（名）
 「迟到了！？」
@@ -49971,11 +49971,11 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\620_[bs5]巙斂\SIHO_11.bs5
 因为在今天的约会里，我至始至终都沉浸于那家伙的笑容之中。
 
 庡恖岞乮柤乯
-乽乧乧乿
+「乧乧」
 庡恖岞乮柤乯仌嬻
 抝惈攐桪
-乽乧乧乧乿
-乽乧乧両丠乿
+「乧乧乧」
+「乧乧両丠」
 「唔~……！好冷，冷死了！」
 今日的气温在10度以下。
 空比普通人还要怕冷一倍，所以不出我所料，她现在正在我面前瑟瑟发抖。
@@ -50440,9 +50440,9 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\620_[bs5]巙斂\SIHO_11.bs5
 主人公（名）
 「知、知道了！我知道了……！！」
 
-乽乧乧乧乿
+「乧乧乧」
 庡恖岞乮柤乯
-乽嬻乧乧両丂嬻乧乧両両乿
+「嬻乧乧両丂嬻乧乧両両」
 裤子的拉链被拉开，空把我的肉棒全部暴露在空气中。
 肉棒的尖端感受到了空的气息，这种情况下我很快就兴奋了起来。
 「肉、肉棒……好大啊……」
@@ -50795,9 +50795,9 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\620_[bs5]巙斂\SIHO_11.bs5
 忘记了彼此正赤身裸体，在客厅里一边接吻一边拥抱，享受了一段事后温存时光。
 
 庡恖岞乮柤乯
-乽乧乧乧乧乿
-乽婄乧乧丠乿
-乽乧乧乿
+「乧乧乧乧」
+「婄乧乧丠」
+「乧乧」
 主人公（名）
 「呼啊……」
 我被阳光晒醒，坐起身来，与被窝的温暖告别。
@@ -51311,8 +51311,8 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\620_[bs5]巙斂\SIHO_11.bs5
 我这样想着，又和空拥抱了一小会儿。
 
 庡恖岞乮柤乯
-乽乧乧乧乧乿
-乽杮暔杮暔乿
+「乧乧乧乧」
+「杮暔杮暔」
 暈晹「哥哥，起床了」
 主人公（名）
 「嗯……空？」
@@ -51850,7 +51850,7 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\620_[bs5]巙斂\SIHO_11.bs5
 我抓起开始发抖的空的手，在注意着让她不要摔跤的同时，急匆匆地朝家的方向赶去。
 
 庡恖岞乮柤乯
-乽乧乧乿
+「乧乧」
 主人公（名）
 「唉……」
 在抛光汤匙这些银器后，我不禁叹了一口气。
@@ -52388,10 +52388,10 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\620_[bs5]巙斂\SIHO_11.bs5
 在我想着这些事时，夜已深了。
 
 庡恖岞乮柤乯
-乽乧乧乿
-乽杮摉丠乿
-乽嬻乧乧乿
-乽乧乧乧乿
+「乧乧」
+「杮摉丠」
+「嬻乧乧」
+「乧乧乧」
 空坐在床上，主动脱掉了自己的衣服。
 然后一边盯着我，一边脱下胸罩露出洁白的乳房。
 「呐……摸一下我这里吧……？」
@@ -52747,8 +52747,8 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\620_[bs5]巙斂\SIHO_11.bs5
 
 亀俁俉丏俋亷亁
 庡恖岞乮柤乯
-乽乧乧乧乧乿
-乽巀惉乧乧乿
+「乧乧乧乧」
+「巀惉乧乧」
 『38.9度』
 主人公（名）
 「啊……完全感冒了啊……」
@@ -53233,10 +53233,10 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\620_[bs5]巙斂\SIHO_11.bs5
 我们拥抱着彼此，进入了梦乡。
 
 庡恖岞乮柤乯
-乽乧乧乿
-乽両丠乿
-乽乣乣侓丂乣侓乿
-乽嬻乧乧乿
+「乧乧」
+「両丠」
+「乣乣侓丂乣侓」
+「嬻乧乧」
 主人公（名）
 「嗯，嗯呜……」
 有种温暖舒适的感觉，是什么啊……
@@ -53780,12 +53780,12 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\620_[bs5]巙斂\SIHO_11.bs5
 我一边品尝着这幸福感，一边和空一起往家里走去。
 
 庡恖岞乮柤乯
-乽乧乧乿
-乽嬻乧乧両両丂嬻乧乧両両乿
-乽乗乗両丠乿
-乽嬻両両丂嬻乗乗両両乿
-乽曄懺乿
-乽嬻乧乧乿
+「乧乧」
+「嬻乧乧両両丂嬻乧乧両両」
+「乗乗両丠」
+「嬻両両丂嬻乗乗両両」
+「曄懺」
+「嬻乧乧」
 把空推到附近的树上。
 隆冬时节这个点的确很冷冷，但即便如此，现在的我仍非常兴奋。
 主人公（名）
@@ -54083,10 +54083,10 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\620_[bs5]巙斂\SIHO_11.bs5
 「空你实在是太色情了」
 
 庡恖岞乮柤乯
-乽乧乧乧乧乿
-乽崱擔両丠乿
-乽崱両丂
-乽乣乣侓乿
+「乧乧乧乧」
+「崱擔両丠」
+「崱両丂
+「乣乣侓」
 主人公（名）
 「呼——！　考试总算平安结束了！」
 「辛苦了辛苦了。毕竟直到早上都一直在用功呢」
@@ -54597,7 +54597,7 @@ E:\BURIKOScriptSystem\PURExCONNECT\Script\620_[bs5]巙斂\SIHO_11.bs5
 感受着她的体温，我渐渐进入了梦乡。
 
 庡恖岞乮柤乯
-乽乧乧乿
+「乧乧」
 『冻结吧大地！　冰华炫光——！』
 主人公（名）
 「喂，我这边正在放连击技，你别突然放终结技能啊！」
@@ -55279,7 +55279,7 @@ pivoine今天是休息日，所以我今天在空的家里放松。
 她那露出可爱微笑的嘴角周围沾满我那白浊的精液，看起来无比色情。
 
 庡恖岞乮柤乯
-乽乧乧乿
+「乧乧」
 让空双手趴在在门上。
 然后强行拉过空的腰，让她那湿漉漉的股间朝向我这边。
 「等、等等……」
@@ -55520,12 +55520,12 @@ pivoine今天是休息日，所以我今天在空的家里放松。
 我和空暂时就这样在地板上互相依偎着，彼此倾听着对方急促的呼吸声。
 
 庡恖岞乮柤乯
-乽乧乧乧乿
-乽乧乧乿
+「乧乧乧」
+「乧乧」
 乮乧乧乯
 壗両丠
-乽嬻乿
-乽攏幁乧乧乿
+「嬻」
+「攏幁乧乧」
 崄棦撧「我戳，我戳我戳」
 主人公（名）
 「呼，呼呼」
