@@ -267,6 +267,11 @@ def main():
                 continue
             except Exception as e:
                 print("  %s %s: %s %s" % (name, prov["name"], type(e).__name__, str(e)[:70]), flush=True)
+                # The anonymous credential of the local gateway answers 429 with
+                # a quota window; sleeping through it beats burning a retry on
+                # the next model, which will hit the same window.
+                if "429" in str(e):
+                    time.sleep(90)
                 continue
             ok, why = block_ok(src_lines, txt.split("\n"), lang)
             if not ok:
